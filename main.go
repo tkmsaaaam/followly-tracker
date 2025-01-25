@@ -8,6 +8,7 @@ import (
 	"net/http"
 	"net/url"
 	"os"
+	"regexp"
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
@@ -113,7 +114,7 @@ func main() {
 			if err != nil {
 				log.Println(err)
 			} else {
-				results = append(results, Result{Title: strings.ReplaceAll(item.Text(), "\t", ""), Url: url})
+				results = append(results, Result{Title: formatTitle(item.Text()), Url: url})
 			}
 		}
 	})
@@ -183,4 +184,16 @@ func (config Config) isCrawlerAllowed() error {
 		}
 	}
 	return nil
+}
+
+func removeExtraSpaces(input string) string {
+	// 正規表現で連続する空文字を1つにまとめる
+	re := regexp.MustCompile(`\s+`)
+	return re.ReplaceAllString(input, " ")
+}
+
+func formatTitle(s string) string{
+	tabTrimed := strings.ReplaceAll(s, "\t", "")
+	extraSpacesTrimed := removeExtraSpaces(tabTrimed)
+	return extraSpacesTrimed
 }

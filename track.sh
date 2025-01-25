@@ -34,3 +34,6 @@ ls $current_dir/follows | while read line; do
     fi
   fi
 done
+
+git config unset user.name
+git config unset user.email
