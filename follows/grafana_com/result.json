@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Wilfried Roset   ·   24 Jan 2025   ·   8 min readDatabases and SLOs: How to apply service level objectives to your databases with synthetic...By applying SLOs to databases, operations teams can effectively respond to customers' needs while keeping the right focus on quality of service.CommunitySynthetic monitoringGrafana SLORead more",
+    "url": "https://grafana.com/blog/2025/01/24/databases-and-slos-how-to-apply-service-level-objectives-to-your-databases-with-synthetic-monitoring/"
+  },
+  {
+    "title": "Pete Wall   ·   23 Jan 2025   ·   4 min readKubernetes Monitoring Helm chart 2.0: a simpler, more predictable experienceOur latest Kubernetes Monitoring Helm chart improves the experience of collecting observability data in Grafana Cloud.Kubernetes monitoringGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/01/23/kubernetes-monitoring-helm-chart-2.0-a-simpler-more-predictable-experience/"
+  },
+  {
+    "title": "Kristin Knapp   ·   22 Jan 2025   ·   7 min readGrafana Cloud updates: tools to streamline performance testing, a new Adaptive Logs feature, and...Here’s a closer look at some of the latest and greatest features in Grafana Cloud, including a new Recommendations tool in Grafana Cloud k6 and the...Grafana CloudGrafana Cloud k6Read more",
+    "url": "https://grafana.com/blog/2025/01/22/grafana-cloud-updates-tools-to-streamline-performance-testing-a-new-adaptive-logs-feature-and-more/"
+  },
+  {
+    "title": "Jorge Creixell   ·   21 Jan 2025   ·   8 min readDemystifying the OpenTelemetry Operator: Observing Kubernetes applications without writing codeLearn how the OpenTelemetry Operator works and follow a step-by-step guide on how to use it to instrument your applications.OpenTelemetryKubernetesApplication ObservabilityRead more",
+    "url": "https://grafana.com/blog/2025/01/21/demystifying-the-opentelemetry-operator-observing-kubernetes-applications-without-writing-code/"
+  },
+  {
+    "title": "Faith Westdorp   ·   17 Jan 2025   ·   7 min read10 trending topics in the Grafana communityFrom dashboards and panels to OpenTelemetry, here are 10 popular topics within the Grafana community today.GrafanaCommunityRead more",
+    "url": "https://grafana.com/blog/2025/01/17/10-trending-topics-in-the-grafana-community/"
+  },
+  {
+    "title": "Joe Elliott   ·   16 Jan 2025   ·   5 min readGrafana Tempo 2.7 release: new TraceQL metrics functions, operational improvements, and more!The latest release of Grafana Tempo brings new TraceQL features and a number of operational and performance improvements related to ingester memory,...TempoRead more",
+    "url": "https://grafana.com/blog/2025/01/16/grafana-tempo-2.7-release-new-traceql-metrics-functions-operational-improvements-and-more/"
+  },
+  {
+    "title": "David Allen   ·   15 Jan 2025   ·   4 min readGrafana Play updates: recent growth, new privacy policies, and moreGrafana Play is the go-to platform to learn and experiment with Grafana dashboards. Here’s a look at some recent updates we’re making related to user...GrafanaSecurityVisualizationRead more",
+    "url": "https://grafana.com/blog/2025/01/15/grafana-play-updates-recent-growth-new-privacy-policies-and-more/"
+  },
+  {
+    "title": "David Ellis   ·   14 Jan 2025   ·   7 min readGrafana SLO: Easily predict the likelihood that you'll hit your targetWith the new statistical prediction feature in Grafana SLO, you can quickly see how likely it is that you'll hit your target and the potential impact...Grafana SLORead more",
+    "url": "https://grafana.com/blog/2025/01/14/grafana-slo-easily-predict-the-likelihood-that-youll-hit-your-target/"
+  },
+  {
+    "title": "Quynton Johnson   ·   14 Jan 2025   ·   7 min readWhat is Adaptive Telemetry, and how can it reduce MTTR, noise, and cost?Learn how Adaptive Telemetry in Grafana Cloud helps you optimize costs without sacrificing the insights you need to keep your systems running...Adaptive MetricsGrafana CloudMTTRCost managementRead more",
+    "url": "https://grafana.com/blog/2025/01/14/what-is-adaptive-telemetry-and-how-can-it-reduce-mttr-noise-and-cost/"
+  },
+  {
+    "title": "Grafana Labs Team   ·   10 Jan 2025   ·   13 min read3D printing and observability: How Prusa Research monitors its huge printer farm with GrafanaA recap of an episode of \"Grafana's Big Tent\" about Prusa Research using Grafana to monitor its printer farmsObservabilityGrafanaRead more",
+    "url": "https://grafana.com/blog/2025/01/10/3d-printing-and-observability-how-prusa-research-monitors-its-huge-printer-farm-with-grafana/"
+  },
+  {
+    "title": "Grafana Labs Team   ·   9 Jan 2025   ·   2 min readObservabilityCON on the Road: New cities announced for 2025After seeing the overwhelming excitement for ObservabilityCON on the Road, we're bringing the event to four new locations.ObservabilityCONRead more",
+    "url": "https://grafana.com/blog/2025/01/09/observabilitycon-on-the-road-new-cities-announced-for-2025/"
+  },
+  {
+    "title": "Shanna Gregory   ·   8 Jan 2025   ·   6 min readGrafanaCON 2025: Apply to speak at our biggest community event!We’re looking for speakers at GrafanaCON to share your real-world experiences with Grafana, from quirky and unexpected use cases to cool dashboards to...GrafanaConRead more",
+    "url": "https://grafana.com/blog/2025/01/08/grafanacon-2025-apply-to-speak-at-our-biggest-community-event/"
+  },
+  {
+    "title": "Marylia Gutierrez   ·   7 Jan 2025   ·   5 min readOpenTelemetry and Grafana Labs: what’s new and what’s next in 2025In the spirit of the new year, here’s a look back at some recent OpenTelemetry project milestones, as well as a peek at what’s to come in 2025.OpenTelemetryRead more",
+    "url": "https://grafana.com/blog/2025/01/07/opentelemetry-and-grafana-labs-whats-new-and-whats-next-in-2025/"
+  },
+  {
+    "title": "Kristin Knapp   ·   6 Jan 2025   ·   5 min readMetrics, logs, and literature: Inside The National Library of the Netherlands’ observability stackLearn how The National Library of the Netherlands uses Grafana to help support its mission of preserving and providing Dutch literature for the...GrafanaGrafana MimirLokiGrafanaConRead more",
+    "url": "https://grafana.com/blog/2025/01/06/metrics-logs-and-literature-inside-the-national-library-of-the-netherlands-observability-stack/"
+  },
+  {
+    "title": "Grafana Labs Team   ·   3 Jan 2025   ·   6 min readHow to send OTLP or Prometheus metrics and logs to Grafana Cloud with Grafana AlloyCheck out these handy tips and demos from Grafana Labs experts about how to send and receive telemetry with Grafana Alloy.Grafana AlloyRead more",
+    "url": "https://grafana.com/blog/2025/01/03/how-to-send-otlp-or-prometheus-metrics-and-logs-to-grafana-cloud-with-grafana-alloy/"
+  }
+]
