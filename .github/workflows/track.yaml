@@ -13,5 +13,5 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup jq
         run: sudo apt-get -y update && sudo apt-get -y install jq
-      - name: Run tests
+      - name: Run track.sh
         run: ./track.sh

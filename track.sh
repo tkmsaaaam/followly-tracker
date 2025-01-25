@@ -30,6 +30,7 @@ ls $current_dir/follows | while read line; do
       git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
       git add $target_dir/result.json
       git commit -F $target_dir/message.txt
+      git push
     fi
   fi
 done
