@@ -1,0 +1,4 @@
+{
+  "url": "https://www.carsensor.net/contents/",
+  "selector": ".content .cat_Area .new_item a"
+}

@@ -1,0 +1,4 @@
+{
+  "url": "https://grafana.com/blog/",
+  "selector": ".posts-list .blog-list-item__body"
+}

@@ -1,0 +1,4 @@
+{
+  "url": "https://www.jcsc.or.jp/sc_data/sc_open/daitenhou",
+  "selector": ".post_title > a"
+}

@@ -1,0 +1,4 @@
+{
+  "url": "https://jbrc.recruit.co.jp/",
+  "selector": ".main .index.top .box > a"
+}
