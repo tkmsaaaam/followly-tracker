@@ -37,6 +37,7 @@ fi
 ls $current_dir/follows | while read line; do
   target_dir=$current_dir/follows/$line
   if [ -d $target_dir ]; then
+    echo "Start tracking $target_dir"
     cat $target_dir/result.json > $target_dir/result_old.json
     TARGET_PATH=$target_dir go run main.go
     added=`diff $target_dir/result.json $target_dir/result_old.json | $grep_command '^<[^<]' | $grep_command -e url -e title | $sed_command 's/^< \+//'`
@@ -53,10 +54,12 @@ ls $current_dir/follows | while read line; do
         git push
       fi
     fi
+    echo "Finish tracking $target_dir"
   fi
 done
 
 if [ "$debug" == "false" ]; then
   git config unset user.name
   git config unset user.email
+  echo "unset git config"
 fi
