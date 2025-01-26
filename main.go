@@ -63,6 +63,7 @@ func main() {
 	file, err := os.Open(settingFile)
 	if err != nil {
 		log.Println("ファイルを開けませんでした: %w", err)
+		return
 	}
 	defer file.Close()
 
@@ -71,6 +72,7 @@ func main() {
 	decoder := json.NewDecoder(file)
 	if err := decoder.Decode(&config); err != nil {
 		log.Println("JSONデコードに失敗しました: %w", err)
+		return
 	}
 	if config.Url == "" {
 		log.Println("URLが設定されていません path:", settingFile)
@@ -89,18 +91,20 @@ func main() {
 
 	res, err := http.Get(config.Url)
 	if err != nil {
-		log.Println("HTTPリクエストに失敗しました:", err, config.Url)
+		log.Println("HTTPリクエストに失敗しました:", config.Url, err)
+		return
 	}
 	defer res.Body.Close()
 	if res.StatusCode != http.StatusOK {
-		log.Println("HTTPステータスコードエラー:", res.StatusCode, res.Status, config.Url)
+		log.Println("HTTPステータスがOKではありません:", config.Url, res.Status)
 		return
 	}
 
 	// HTMLをパース
 	doc, err := goquery.NewDocumentFromReader(res.Body)
 	if err != nil {
-		log.Fatalf("HTMLのパースに失敗しました: %v", err)
+		log.Println("HTMLのパースに失敗しました:", config.Url, err)
+		return
 	}
 
 	// querySelectorのように特定の要素を取得
@@ -117,9 +121,10 @@ func main() {
 			}
 		}
 	})
-	outputFile, err := os.Create(targetPath + "result.json")
+	resultFilePath := targetPath + "result.json"
+	outputFile, err := os.Create(resultFilePath)
 	if err != nil {
-		log.Println("ファイルの作成に失敗しました: %w", err)
+		log.Println("ファイルの作成に失敗しました:", resultFilePath, err)
 		return
 	}
 	defer file.Close()
@@ -128,7 +133,8 @@ func main() {
 	encoder := json.NewEncoder(outputFile)
 	encoder.SetIndent("", "  ") // 読みやすい形式で書き出す
 	if err := encoder.Encode(results); err != nil {
-		log.Println("JSONのエンコードに失敗しました: %w", err)
+		log.Println("JSONのエンコードに失敗しました:", err, results)
+		return
 	}
 }
 
