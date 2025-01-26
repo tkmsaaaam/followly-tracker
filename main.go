@@ -1,7 +1,6 @@
 package main
 
 import (
-	"bufio"
 	"encoding/json"
 	"fmt"
 	"log"
@@ -165,23 +164,17 @@ func (config Config) isCrawlerAllowed() error {
 		log.Println("HTTPステータスコードエラー: ", res.StatusCode, res.Status, robotsUrl)
 		return nil
 	}
-	scanner := bufio.NewScanner(res.Body)
-	for scanner.Scan() {
-		if strings.HasPrefix(scanner.Text(), "Disallow: ") {
-			// Parse robots.txt
-			robotsData, err := robotstxt.FromResponse(res)
-			if err != nil {
-				log.Println("failed to parse robots.txt: %w", err)
-				return nil
-			}
+	// Parse robots.txt
+	robotsData, err := robotstxt.FromResponse(res)
+	if err != nil {
+		log.Println("failed to parse robots.txt:", err)
+		return nil
+	}
 
-			// Check crawlability for the path
-			allowed := robotsData.TestAgent(url.Path, "bot")
-			if !allowed {
-				return fmt.Errorf("クロール許可されていません: %s", config.Url)
-			}
-			return nil
-		}
+	// Check crawlability for the path
+	allowed := robotsData.TestAgent(url.Path, "bot")
+	if !allowed {
+		return fmt.Errorf("クロール許可されていません: %s", config.Url)
 	}
 	return nil
 }
@@ -192,7 +185,7 @@ func removeExtraSpaces(input string) string {
 	return re.ReplaceAllString(input, " ")
 }
 
-func formatTitle(s string) string{
+func formatTitle(s string) string {
 	tabTrimed := strings.ReplaceAll(s, "\t", "")
 	extraSpacesTrimed := removeExtraSpaces(tabTrimed)
 	return extraSpacesTrimed
