@@ -10,6 +10,7 @@ permissions:
   contents: write
 jobs:
   track:
+    if: contains('["tkmsaaaam"]', github.actor)
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
