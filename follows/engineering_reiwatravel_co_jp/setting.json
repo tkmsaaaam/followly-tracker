@@ -1,4 +1,4 @@
 {
   "url": "https://engineering.reiwatravel.co.jp",
-  "selector": ".PostCard_imageWrap__V4Izi"
+  "selector": ".PostList_listItem__KsRqZ a"
 }
