@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kristin Knapp   ·   27 Jan 2025   ·   6 min readIndustrial IoT visualization: How Grafana powers industrial automation and IIoTA centralized view of real-time data, scalability, and ease of use are a few of the many reasons companies are choosing Grafana for IIoT and...IoTRead more",
+    "url": "https://grafana.com/blog/2025/01/27/industrial-iot-visualization-how-grafana-powers-industrial-automation-and-iiot/"
+  },
+  {
     "title": "Wilfried Roset   ·   24 Jan 2025   ·   8 min readDatabases and SLOs: How to apply service level objectives to your databases with synthetic...By applying SLOs to databases, operations teams can effectively respond to customers' needs while keeping the right focus on quality of service.CommunitySynthetic monitoringGrafana SLORead more",
     "url": "https://grafana.com/blog/2025/01/24/databases-and-slos-how-to-apply-service-level-objectives-to-your-databases-with-synthetic-monitoring/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Kristin Knapp   ·   6 Jan 2025   ·   5 min readMetrics, logs, and literature: Inside The National Library of the Netherlands’ observability stackLearn how The National Library of the Netherlands uses Grafana to help support its mission of preserving and providing Dutch literature for the...GrafanaGrafana MimirLokiGrafanaConRead more",
     "url": "https://grafana.com/blog/2025/01/06/metrics-logs-and-literature-inside-the-national-library-of-the-netherlands-observability-stack/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   3 Jan 2025   ·   6 min readHow to send OTLP or Prometheus metrics and logs to Grafana Cloud with Grafana AlloyCheck out these handy tips and demos from Grafana Labs experts about how to send and receive telemetry with Grafana Alloy.Grafana AlloyRead more",
-    "url": "https://grafana.com/blog/2025/01/03/how-to-send-otlp-or-prometheus-metrics-and-logs-to-grafana-cloud-with-grafana-alloy/"
   }
 ]
