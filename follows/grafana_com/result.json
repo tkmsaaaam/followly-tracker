@@ -1,5 +1,9 @@
 [
   {
+    "title": "Jake Swiss   ·   28 Jan 2025   ·   8 min readHow to migrate to Grafana IRM: find the right path for your organizationLearn about three ways to migrate to Grafana IRM so you can determine which one is best for your team’s resources, timelines, and specific needs.Grafana IRMRead more",
+    "url": "https://grafana.com/blog/2025/01/28/how-to-migrate-to-grafana-irm-find-the-right-path-for-your-organization/"
+  },
+  {
     "title": "Kristin Knapp   ·   27 Jan 2025   ·   6 min readIndustrial IoT visualization: How Grafana powers industrial automation and IIoTA centralized view of real-time data, scalability, and ease of use are a few of the many reasons companies are choosing Grafana for IIoT and...IoTRead more",
     "url": "https://grafana.com/blog/2025/01/27/industrial-iot-visualization-how-grafana-powers-industrial-automation-and-iiot/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Marylia Gutierrez   ·   7 Jan 2025   ·   5 min readOpenTelemetry and Grafana Labs: what’s new and what’s next in 2025In the spirit of the new year, here’s a look back at some recent OpenTelemetry project milestones, as well as a peek at what’s to come in 2025.OpenTelemetryRead more",
     "url": "https://grafana.com/blog/2025/01/07/opentelemetry-and-grafana-labs-whats-new-and-whats-next-in-2025/"
-  },
-  {
-    "title": "Kristin Knapp   ·   6 Jan 2025   ·   5 min readMetrics, logs, and literature: Inside The National Library of the Netherlands’ observability stackLearn how The National Library of the Netherlands uses Grafana to help support its mission of preserving and providing Dutch literature for the...GrafanaGrafana MimirLokiGrafanaConRead more",
-    "url": "https://grafana.com/blog/2025/01/06/metrics-logs-and-literature-inside-the-national-library-of-the-netherlands-observability-stack/"
   }
 ]
