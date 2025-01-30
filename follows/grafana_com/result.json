@@ -1,5 +1,9 @@
 [
   {
+    "title": "Grafana Labs Team   ·   29 Jan 2025   ·   7 min readGrafana 11.5 release: easily share Grafana dashboards and panels, secure frontend code for plugins,...Grafana 11.5 introduces easier ways to share Grafana dashboards and panels, secure frontend code for plugins, RBAC for Grafana Alerting, and more!GrafanaRead more",
+    "url": "https://grafana.com/blog/2025/01/29/grafana-11-5-release/"
+  },
+  {
     "title": "Jake Swiss   ·   28 Jan 2025   ·   8 min readHow to migrate to Grafana IRM: find the right path for your organizationLearn about three ways to migrate to Grafana IRM so you can determine which one is best for your team’s resources, timelines, and specific needs.Grafana IRMRead more",
     "url": "https://grafana.com/blog/2025/01/28/how-to-migrate-to-grafana-irm-find-the-right-path-for-your-organization/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Shanna Gregory   ·   8 Jan 2025   ·   6 min readGrafanaCON 2025: Apply to speak at our biggest community event!We’re looking for speakers at GrafanaCON to share your real-world experiences with Grafana, from quirky and unexpected use cases to cool dashboards to...GrafanaConRead more",
     "url": "https://grafana.com/blog/2025/01/08/grafanacon-2025-apply-to-speak-at-our-biggest-community-event/"
-  },
-  {
-    "title": "Marylia Gutierrez   ·   7 Jan 2025   ·   5 min readOpenTelemetry and Grafana Labs: what’s new and what’s next in 2025In the spirit of the new year, here’s a look back at some recent OpenTelemetry project milestones, as well as a peek at what’s to come in 2025.OpenTelemetryRead more",
-    "url": "https://grafana.com/blog/2025/01/07/opentelemetry-and-grafana-labs-whats-new-and-whats-next-in-2025/"
   }
 ]
