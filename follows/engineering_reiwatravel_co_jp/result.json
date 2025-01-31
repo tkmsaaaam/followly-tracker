@@ -1,5 +1,9 @@
 [
   {
+    "title": "LLMを今すぐビジネスに活かすなら「エージェント」の前に「ワークフロー」〜MLラボのチャレンジから見えてきた知見〜PM2025/01/31",
+    "url": "https://engineering.reiwatravel.co.jp/blog/llm_labo_furikaeri_workflow"
+  },
+  {
     "title": "プロダクトチームの素顔に迫る！旅行会社で働くメンバーはどんな旅行をしているのか？Interview2025/01/27",
     "url": "https://engineering.reiwatravel.co.jp/blog/interview-20250127"
   },
@@ -34,9 +38,5 @@
   {
     "title": "こう変わった！App Router時代のフォーム開発Frontend2024/12/18",
     "url": "https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20241218"
-  },
-  {
-    "title": "オンデマンドデプロイ実現までの展望と現在の取り組みQA2024/12/17",
-    "url": "https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20241217"
   }
 ]
