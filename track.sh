@@ -41,7 +41,7 @@ ls $current_dir/follows | while read line; do
     cat $target_dir/result.json > $target_dir/result_old.json
     TARGET_PATH=$target_dir go run main.go
     added=`diff $target_dir/result.json $target_dir/result_old.json | $grep_command '^<[^<]' | $grep_command -e url -e title | $sed_command 's/^< \+//'`
-    if [ -n "$added" ] && [ "$added" == *'"url"'* ]; then
+    if [ -n "$added" ]; then
       summary="auto: `cat $target_dir/setting.json | jq .url` is updated `date "+%y/%m/%d %H:%M:%S"`"
       echo $summary > $target_dir/message.txt
       echo -e "\n" >> $target_dir/message.txt
