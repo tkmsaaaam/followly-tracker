@@ -1,5 +1,9 @@
 [
   {
+    "title": "Daniel Bailey   ·   12 Feb 2025   ·   9 min readHow to cut costs for metrics and logs: a guide to lowering expenses in Grafana CloudDiscover practical strategies to reduce your observability costs—and still maintain system visibility—by optimizing metrics and logs in Grafana Cloud.Cost managementGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/02/12/how-to-cut-costs-for-metrics-and-logs-a-guide-to-lowering-expenses-in-grafana-cloud/"
+  },
+  {
     "title": "Vasil Kaftandzhiev   ·   11 Feb 2025   ·   4 min readMonitor Google Cloud: simplify and centralize your cloud provider observability with Grafana CloudGoogle Cloud Observability in Grafana Cloud provides a unified, scalable solution designed to simplify monitoring, enhance visibility, and optimize...Cloud Provider ObservabilityRead more",
     "url": "https://grafana.com/blog/2025/02/11/monitor-google-cloud-simplify-and-centralize-your-cloud-provider-observability-with-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Kristin Knapp   ·   22 Jan 2025   ·   7 min readGrafana Cloud updates: tools to streamline performance testing, a new Adaptive Logs feature, and...Here’s a closer look at some of the latest and greatest features in Grafana Cloud, including a new Recommendations tool in Grafana Cloud k6 and the...Grafana CloudGrafana Cloud k6Read more",
     "url": "https://grafana.com/blog/2025/01/22/grafana-cloud-updates-tools-to-streamline-performance-testing-a-new-adaptive-logs-feature-and-more/"
-  },
-  {
-    "title": "Jorge Creixell   ·   21 Jan 2025   ·   8 min readDemystifying the OpenTelemetry Operator: Observing Kubernetes applications without writing codeLearn how the OpenTelemetry Operator works and follow a step-by-step guide on how to use it to instrument your applications.OpenTelemetryKubernetesApplication ObservabilityRead more",
-    "url": "https://grafana.com/blog/2025/01/21/demystifying-the-opentelemetry-operator-observing-kubernetes-applications-without-writing-code/"
   }
 ]
