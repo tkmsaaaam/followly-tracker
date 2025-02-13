@@ -1,5 +1,9 @@
 [
   {
+    "title": "Julie Stickler   ·   13 Feb 2025   ·   5 min readGrafana Loki 3.4: Standardized storage config, sizing guidance, and Promtail merging into AlloyGrafana Loki 3.4 includes enhancements aimed at standardizing Loki’s object storage, helping you right size your instance, and improving the ability...LokiReleaseRead more",
+    "url": "https://grafana.com/blog/2025/02/13/grafana-loki-3.4-standardized-storage-config-sizing-guidance-and-promtail-merging-into-alloy/"
+  },
+  {
     "title": "Daniel Bailey   ·   12 Feb 2025   ·   9 min readHow to cut costs for metrics and logs: a guide to lowering expenses in Grafana CloudDiscover practical strategies to reduce your observability costs—and still maintain system visibility—by optimizing metrics and logs in Grafana Cloud.Cost managementGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/02/12/how-to-cut-costs-for-metrics-and-logs-a-guide-to-lowering-expenses-in-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Pete Wall   ·   23 Jan 2025   ·   4 min readKubernetes Monitoring Helm chart 2.0: a simpler, more predictable experienceOur latest Kubernetes Monitoring Helm chart improves the experience of collecting observability data in Grafana Cloud.Kubernetes monitoringGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/01/23/kubernetes-monitoring-helm-chart-2.0-a-simpler-more-predictable-experience/"
-  },
-  {
-    "title": "Kristin Knapp   ·   22 Jan 2025   ·   7 min readGrafana Cloud updates: tools to streamline performance testing, a new Adaptive Logs feature, and...Here’s a closer look at some of the latest and greatest features in Grafana Cloud, including a new Recommendations tool in Grafana Cloud k6 and the...Grafana CloudGrafana Cloud k6Read more",
-    "url": "https://grafana.com/blog/2025/01/22/grafana-cloud-updates-tools-to-streamline-performance-testing-a-new-adaptive-logs-feature-and-more/"
   }
 ]
