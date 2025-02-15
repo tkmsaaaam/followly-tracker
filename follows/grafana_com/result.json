@@ -1,5 +1,9 @@
 [
   {
+    "title": "Fiona Peers Artiaga   ·   14 Feb 2025   ·   4 min readIntroducing Learning journeys: New step-by-step guides to get started with GrafanaIntroducing Learning journeys, step-by-step guides to help you master Grafana, Grafana Cloud, Grafana Alloy, and moreGrafanaRead more",
+    "url": "https://grafana.com/blog/2025/02/14/introducing-learning-journeys-new-step-by-step-guides-to-get-started-with-grafana/"
+  },
+  {
     "title": "Julie Stickler   ·   13 Feb 2025   ·   5 min readGrafana Loki 3.4: Standardized storage config, sizing guidance, and Promtail merging into AlloyGrafana Loki 3.4 includes enhancements aimed at standardizing Loki’s object storage, helping you right size your instance, and improving the ability...LokiReleaseRead more",
     "url": "https://grafana.com/blog/2025/02/13/grafana-loki-3.4-standardized-storage-config-sizing-guidance-and-promtail-merging-into-alloy/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Wilfried Roset   ·   24 Jan 2025   ·   8 min readDatabases and SLOs: How to apply service level objectives to your databases with synthetic...By applying SLOs to databases, operations teams can effectively respond to customers' needs while keeping the right focus on quality of service.CommunitySynthetic monitoringGrafana SLORead more",
     "url": "https://grafana.com/blog/2025/01/24/databases-and-slos-how-to-apply-service-level-objectives-to-your-databases-with-synthetic-monitoring/"
-  },
-  {
-    "title": "Pete Wall   ·   23 Jan 2025   ·   4 min readKubernetes Monitoring Helm chart 2.0: a simpler, more predictable experienceOur latest Kubernetes Monitoring Helm chart improves the experience of collecting observability data in Grafana Cloud.Kubernetes monitoringGrafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/01/23/kubernetes-monitoring-helm-chart-2.0-a-simpler-more-predictable-experience/"
   }
 ]
