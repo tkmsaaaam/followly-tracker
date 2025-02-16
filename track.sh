@@ -34,28 +34,29 @@ if [ "$(uname)" == 'Darwin' ]; then
   debug="true"
 fi
 
-ls $current_dir/follows | while read line; do
-  target_dir=$current_dir/follows/$line
-  if [ -d $target_dir ]; then
-    echo "start tracking $target_dir"
-    cat $target_dir/result.json > $target_dir/result_old.json
-    TARGET_PATH=$target_dir go run main.go
-    added=`diff $target_dir/result.json $target_dir/result_old.json | $grep_command '^<[^<]' | $grep_command -e url -e title | $sed_command 's/^< \+//'`
-    if [ -n "$added" ]; then
-      summary="auto: `cat $target_dir/setting.json | jq .url` is updated `date "+%y/%m/%d %H:%M:%S"`"
-      echo $summary > $target_dir/message.txt
-      echo -e "\n" >> $target_dir/message.txt
-      echo -e "$added" >> $target_dir/message.txt
-      if [ "$debug" == "false" ]; then
-        git config user.name  "github-actions[bot]"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add $target_dir/result.json
-        git commit -F $target_dir/message.txt
-        git push
-      fi
-    fi
-    echo "finish tracking $target_dir"
+find $current_dir/follows | grep "/setting.json" | while read line; do
+  target_dir=`echo ${line//\/setting.json/}`
+  if [ ! -d $target_dir ]; then
+    continue
   fi
+  echo "start tracking $target_dir"
+  cat $target_dir/result.json > $target_dir/result_old.json
+  TARGET_PATH=$target_dir go run main.go
+  added=`diff $target_dir/result.json $target_dir/result_old.json | $grep_command '^<[^<]' | $grep_command -e url -e title | $sed_command 's/^< \+//'`
+  if [ -n "$added" ]; then
+    summary="auto: `cat $target_dir/setting.json | jq .url` is updated `date "+%y/%m/%d %H:%M:%S"`"
+    echo $summary > $target_dir/message.txt
+    echo -e "\n" >> $target_dir/message.txt
+    echo -e "$added" >> $target_dir/message.txt
+    if [ "$debug" == "false" ]; then
+      git config user.name  "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      git add $target_dir/result.json
+      git commit -F $target_dir/message.txt
+      git push
+    fi
+  fi
+  echo "finish tracking $target_dir"
 done
 
 if [ "$debug" == "false" ]; then
