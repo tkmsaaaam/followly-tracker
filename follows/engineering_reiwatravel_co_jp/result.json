@@ -1,5 +1,9 @@
 [
   {
+    "title": "【イベントレポート】Developers Summit 2025に参加しました！EventQA2025/02/17",
+    "url": "https://engineering.reiwatravel.co.jp/blog/devsumi-2025"
+  },
+  {
     "title": "【イベントレポート】「NEWT Tech Talk vol.13」を開催しました！Event2025/02/10",
     "url": "https://engineering.reiwatravel.co.jp/blog/tech-lt-20250130"
   },
@@ -34,9 +38,5 @@
   {
     "title": "GraphQL Schemaから、Swiftコードのモックを自動生成iOS2024/12/23",
     "url": "https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20241223"
-  },
-  {
-    "title": "ゼロからはじめる技術広報 - 技術広報初心者の私が学んだ3つのことEM2024/12/20",
-    "url": "https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20241220"
   }
 ]
