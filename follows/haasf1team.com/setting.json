@@ -1,0 +1,4 @@
+{
+  "url": "https://www.haasf1team.com/news",
+  "selector": ".view-name-news .card a"
+}

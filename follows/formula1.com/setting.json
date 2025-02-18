@@ -1,0 +1,4 @@
+{
+  "url": "https://www.formula1.com/en/latest/all",
+  "selector": "#maincontent li a"
+}
