@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kristin Knapp   ·   19 Feb 2025   ·   9 min readGrafana Cloud updates: Exemptions in Adaptive Logs, GPU monitoring in AI Observability, and moreFrom Adaptive Logs updates to new features for AI Observability, we have a ton of Grafana Cloud news to share this month.Grafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/02/19/grafana-cloud-updates-exemptions-in-adaptive-logs-gpu-monitoring-in-ai-observability-and-more/"
+  },
+  {
     "title": "Dominik Süß   ·   18 Feb 2025   ·   6 min readHow to observe AWS Lambda functions using the OpenTelemetry Collector and Grafana CloudUse the opentelemetry-lambda extension layer to gather your data efficiently and cost-effectively, and learn how to pair it with Grafana Cloud without...OpenTelemetryAWSGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/02/18/how-to-observe-aws-lambda-functions-using-the-opentelemetry-collector-and-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Jake Swiss   ·   28 Jan 2025   ·   8 min readHow to migrate to Grafana IRM: find the right path for your organizationLearn about three ways to migrate to Grafana IRM so you can determine which one is best for your team’s resources, timelines, and specific needs.Grafana IRMRead more",
     "url": "https://grafana.com/blog/2025/01/28/how-to-migrate-to-grafana-irm-find-the-right-path-for-your-organization/"
-  },
-  {
-    "title": "Kristin Knapp   ·   27 Jan 2025   ·   6 min readIndustrial IoT visualization: How Grafana powers industrial automation and IIoTA centralized view of real-time data, scalability, and ease of use are a few of the many reasons companies are choosing Grafana for IIoT and...IoTRead more",
-    "url": "https://grafana.com/blog/2025/01/27/industrial-iot-visualization-how-grafana-powers-industrial-automation-and-iiot/"
   }
 ]
