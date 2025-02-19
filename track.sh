@@ -19,19 +19,21 @@ sed_command="sed"
 debug="false"
 
 if [ "$(uname)" == 'Darwin' ]; then
-  ggrep --version
-  if [ $? -gt 0 ]; then
-      echo "ggrep is not installed."
-      exit 1
-  fi
-  gsed --version
-  if [ $? -gt 0 ]; then
-      echo "gsed is not installed."
-      exit 1
-  fi
   grep_command="ggrep"
   sed_command="gsed"
   debug="true"
+fi
+
+$grep_command --version
+if [ $? -gt 0 ]; then
+    echo "ggrep is not installed."
+    exit 1
+fi
+
+$sed_command --version
+if [ $? -gt 0 ]; then
+    echo "gsed is not installed."
+    exit 1
 fi
 
 find $current_dir/follows | grep "/setting.json" | while read line; do
