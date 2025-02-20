@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"errors"
 	"fmt"
 	"log"
 	"net/http"
@@ -74,12 +75,9 @@ func main() {
 		log.Println("JSONデコードに失敗しました: %w", err)
 		return
 	}
-	if config.Url == "" {
-		log.Println("URLが設定されていません path:", settingFile)
-		return
-	}
-	if config.Selector == "" {
-		log.Println("セレクタが設定されていません path:", settingFile)
+	err = config.validate()
+	if err != nil {
+		log.Println(err, ", path:", settingFile)
 		return
 	}
 
@@ -108,7 +106,6 @@ func main() {
 	}
 
 	// querySelectorのように特定の要素を取得
-	// 例: <a>タグ内のリンクを取得
 	results := []Result{}
 	doc.Find(config.Selector).Each(func(index int, item *goquery.Selection) {
 		href, exists := item.Attr("href")
@@ -195,4 +192,14 @@ func formatTitle(s string) string {
 	tabTrimed := strings.ReplaceAll(s, "\t", "")
 	extraSpacesTrimed := removeExtraSpaces(tabTrimed)
 	return extraSpacesTrimed
+}
+
+func (config Config) validate() error {
+	if config.Url == "" {
+		return fmt.Errorf("URLが設定されていません")
+	}
+	if config.Selector == "" {
+		return fmt.Errorf("セレクタが設定されていません")
+	}
+	return nil
 }
