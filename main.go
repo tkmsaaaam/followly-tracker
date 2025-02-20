@@ -127,7 +127,7 @@ func main() {
 		log.Println("ファイルの作成に失敗しました:", resultFilePath, err)
 		return
 	}
-	defer file.Close()
+	defer outputFile.Close()
 
 	// JSONエンコーダーを使用してファイルに書き込む
 	encoder := json.NewEncoder(outputFile)
