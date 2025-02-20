@@ -1,5 +1,9 @@
 [
   {
+    "title": "Zhehao Zhou   ·   20 Feb 2025   ·   5 min readThe next generation of Grafana Mimir: Inside Mimir's redesigned architecture for increased...Here’s a deep dive into the architectural changes we’re making to Grafana Mimir and Grafana Cloud Metrics to support future growth and new use cases...MimirRead more",
+    "url": "https://grafana.com/blog/2025/02/20/the-next-generation-of-grafana-mimir-inside-mimirs-redesigned-architecture-for-increased-reliability/"
+  },
+  {
     "title": "Kristin Knapp   ·   19 Feb 2025   ·   9 min readGrafana Cloud updates: Exemptions in Adaptive Logs, GPU monitoring in AI Observability, and moreFrom Adaptive Logs updates to new features for AI Observability, we have a ton of Grafana Cloud news to share this month.Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/02/19/grafana-cloud-updates-exemptions-in-adaptive-logs-gpu-monitoring-in-ai-observability-and-more/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Grafana Labs Team   ·   29 Jan 2025   ·   7 min readGrafana 11.5 release: easily share Grafana dashboards and panels, secure frontend code for plugins,...Grafana 11.5 introduces easier ways to share Grafana dashboards and panels, secure frontend code for plugins, RBAC for Grafana Alerting, and more!GrafanaRead more",
     "url": "https://grafana.com/blog/2025/01/29/grafana-11-5-release/"
-  },
-  {
-    "title": "Jake Swiss   ·   28 Jan 2025   ·   8 min readHow to migrate to Grafana IRM: find the right path for your organizationLearn about three ways to migrate to Grafana IRM so you can determine which one is best for your team’s resources, timelines, and specific needs.Grafana IRMRead more",
-    "url": "https://grafana.com/blog/2025/01/28/how-to-migrate-to-grafana-irm-find-the-right-path-for-your-organization/"
   }
 ]
