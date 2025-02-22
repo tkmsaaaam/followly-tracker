@@ -1,5 +1,9 @@
 [
   {
+    "title": "Andrew Stucky   ·   20 Feb 2025   ·   6 min readGrafana Drilldown apps: the improved queryless experience formerly known as the Explore appsThe Explore apps are now the Grafana Drilldown apps. Learn why we made the switch and check out the latest updates to help you get insights from your...DrilldownRead more",
+    "url": "https://grafana.com/blog/2025/02/20/grafana-drilldown-apps-the-improved-queryless-experience-formerly-known-as-the-explore-apps/"
+  },
+  {
     "title": "Zhehao Zhou   ·   20 Feb 2025   ·   5 min readThe next generation of Grafana Mimir: Inside Mimir's redesigned architecture for increased...Here’s a deep dive into the architectural changes we’re making to Grafana Mimir and Grafana Cloud Metrics to support future growth and new use cases...MimirRead more",
     "url": "https://grafana.com/blog/2025/02/20/the-next-generation-of-grafana-mimir-inside-mimirs-redesigned-architecture-for-increased-reliability/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Ryan Perry   ·   30 Jan 2025   ·   5 min readHow to integrate performance testing and continuous profiling for deeper application insightsBy integrating Grafana Cloud k6 and Grafana Cloud Profiles, you can achieve a more detailed and holistic view of application performance under load.Performance testingLoad testingGrafana Cloud k6Grafana Cloud Profilesk6Grafana PyroscopeRead more",
     "url": "https://grafana.com/blog/2025/01/30/how-to-integrate-performance-testing-and-continuous-profiling-for-deeper-application-insights/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   29 Jan 2025   ·   7 min readGrafana 11.5 release: easily share Grafana dashboards and panels, secure frontend code for plugins,...Grafana 11.5 introduces easier ways to share Grafana dashboards and panels, secure frontend code for plugins, RBAC for Grafana Alerting, and more!GrafanaRead more",
-    "url": "https://grafana.com/blog/2025/01/29/grafana-11-5-release/"
   }
 ]
