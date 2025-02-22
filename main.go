@@ -34,9 +34,9 @@ func main() {
 	dirInfo, err := os.Stat(targetPath)
 	if err != nil {
 		if os.IsNotExist(err) {
-			log.Println("ディレクトリが存在しません: %w", err, targetPath)
+			log.Println("ディレクトリが存在しません: ", targetPath, err)
 		}
-		log.Println("ディレクトリの情報取得に失敗しました: %w", err)
+		log.Println("ディレクトリの情報取得に失敗しました: ", err)
 		return
 	}
 	if !dirInfo.IsDir() {
@@ -51,9 +51,9 @@ func main() {
 	info, err := os.Stat(settingFile)
 	if err != nil {
 		if os.IsNotExist(err) {
-			log.Println("設定ファイルが存在しません: %w", err, settingFile)
+			log.Println("設定ファイルが存在しません: ", settingFile, err)
 		}
-		log.Println("設定ファイルの情報取得に失敗しました: %w", err)
+		log.Println("設定ファイルの情報取得に失敗しました: ", settingFile, err)
 		return
 	}
 	if info.IsDir() {
@@ -62,7 +62,7 @@ func main() {
 	}
 	file, err := os.Open(settingFile)
 	if err != nil {
-		log.Println("ファイルを開けませんでした: %w", err)
+		log.Println("ファイルを開けませんでした: ", settingFile, err)
 		return
 	}
 	defer file.Close()
@@ -71,7 +71,7 @@ func main() {
 	var config Config
 	decoder := json.NewDecoder(file)
 	if err := decoder.Decode(&config); err != nil {
-		log.Println("JSONデコードに失敗しました: %w", err)
+		log.Println("JSONデコードに失敗しました: ", file, err)
 		return
 	}
 	err = config.validate()
@@ -129,7 +129,7 @@ func main() {
 	encoder := json.NewEncoder(outputFile)
 	encoder.SetIndent("", "  ") // 読みやすい形式で書き出す
 	if err := encoder.Encode(results); err != nil {
-		log.Println("JSONのエンコードに失敗しました:", err, results)
+		log.Println("JSONのエンコードに失敗しました:", results, err)
 		return
 	}
 }
@@ -151,12 +151,12 @@ func (config Config) makeUrl(href string) (string, error) {
 func (config Config) isCrawlerAllowed() error {
 	url, err := url.Parse(config.Url)
 	if err != nil {
-		return fmt.Errorf("URLのパースに失敗しました: %w", err)
+		return fmt.Errorf("URLのパースに失敗しました: %s %w", config.Url, err)
 	}
 	robotsUrl := url.Scheme + "://" + url.Host + "/robots.txt"
 	res, err := http.Get(robotsUrl)
 	if err != nil {
-		return fmt.Errorf("robots.txt確認のHTTPリクエストに失敗しました: %w, %s", err, robotsUrl)
+		return fmt.Errorf("robots.txt確認のHTTPリクエストに失敗しました: %s, %w", robotsUrl, err)
 	}
 	defer res.Body.Close()
 	if res.StatusCode == http.StatusForbidden || res.StatusCode == http.StatusInternalServerError {
