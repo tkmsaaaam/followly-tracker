@@ -1,5 +1,9 @@
 [
   {
+    "title": "Grafana Labs Team   ·   24 Feb 2025   ·   11 min readGrafana Loki 101: How to ingest logs with Alloy or the OpenTelemetry CollectorGet to know the basics of Loki, our horizontally scalable, highly available, multi-tenant log aggregation system, and learn how to start ingesting...LokiPrometheusGrafana AlloyVideoRead more",
+    "url": "https://grafana.com/blog/2025/02/24/grafana-loki-101-how-to-ingest-logs-with-alloy-or-the-opentelemetry-collector/"
+  },
+  {
     "title": "Andrew Stucky   ·   20 Feb 2025   ·   6 min readGrafana Drilldown apps: the improved queryless experience formerly known as the Explore appsThe Explore apps are now the Grafana Drilldown apps. Learn why we made the switch and check out the latest updates to help you get insights from your...DrilldownRead more",
     "url": "https://grafana.com/blog/2025/02/20/grafana-drilldown-apps-the-improved-queryless-experience-formerly-known-as-the-explore-apps/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Grafana Labs Team   ·   3 Feb 2025   ·   4 min readGrafanaCON 2025: Register today for our biggest community event of the year!GrafanaCON 2025 is coming to Seattle on May 6-8! Register today to reserve your spot at our biggest community event of the year.GrafanaConEventsRead more",
     "url": "https://grafana.com/blog/2025/02/03/grafanacon-2025-register-today-for-our-biggest-community-event-of-the-year/"
-  },
-  {
-    "title": "Ryan Perry   ·   30 Jan 2025   ·   5 min readHow to integrate performance testing and continuous profiling for deeper application insightsBy integrating Grafana Cloud k6 and Grafana Cloud Profiles, you can achieve a more detailed and holistic view of application performance under load.Performance testingLoad testingGrafana Cloud k6Grafana Cloud Profilesk6Grafana PyroscopeRead more",
-    "url": "https://grafana.com/blog/2025/01/30/how-to-integrate-performance-testing-and-continuous-profiling-for-deeper-application-insights/"
   }
 ]
