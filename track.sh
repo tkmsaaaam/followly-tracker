@@ -41,7 +41,6 @@ find $current_dir/follows | grep "/setting.json" | while read line; do
   if [ ! -d $target_dir ]; then
     continue
   fi
-  echo "start tracking $target_dir"
   cat $target_dir/result.json > $target_dir/result_old.json
   TARGET_PATH=$target_dir go run main.go
   added=`diff $target_dir/result.json $target_dir/result_old.json | $grep_command '^<[^<]' | $grep_command -e url -e title | $sed_command 's/^< \+//'`
@@ -58,7 +57,6 @@ find $current_dir/follows | grep "/setting.json" | while read line; do
       git push
     fi
   fi
-  echo "finish tracking $target_dir"
 done
 
 if [ "$debug" == "false" ]; then

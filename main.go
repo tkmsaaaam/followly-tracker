@@ -31,6 +31,7 @@ func main() {
 		log.Println("環境変数 TARGET_PATH が設定されていません")
 		return
 	}
+	log.Println("start tracking path: ", targetPath)
 	dirInfo, err := os.Stat(targetPath)
 	if err != nil {
 		if os.IsNotExist(err) {
@@ -86,6 +87,8 @@ func main() {
 		return
 	}
 
+	log.Println("tracking url: ", config.Url)
+
 	res, err := http.Get(config.Url)
 	if err != nil {
 		log.Println("HTTPリクエストに失敗しました:", config.Url, err)
@@ -132,6 +135,7 @@ func main() {
 		log.Println("JSONのエンコードに失敗しました:", results, err)
 		return
 	}
+	log.Println("finish tracking path: ", targetPath)
 }
 
 func (config Config) makeUrl(href string) (string, error) {
