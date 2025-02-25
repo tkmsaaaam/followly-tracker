@@ -1,5 +1,9 @@
 [
   {
+    "title": "Usman Ahmad   ·   25 Feb 2025   ·   7 min readData sources, visualizations, and apps: A guide to extending and customizing GrafanaWith our broad ecosystem of data sources, visualizations, and apps, you can easily extend and customize Grafana to meet your unique observability...PluginsVisualizationGrafanaRead more",
+    "url": "https://grafana.com/blog/2025/02/25/data-sources-visualizations-and-apps-a-guide-to-extending-and-customizing-grafana/"
+  },
+  {
     "title": "Grafana Labs Team   ·   24 Feb 2025   ·   11 min readGrafana Loki 101: How to ingest logs with Alloy or the OpenTelemetry CollectorGet to know the basics of Loki, our horizontally scalable, highly available, multi-tenant log aggregation system, and learn how to start ingesting...LokiPrometheusGrafana AlloyVideoRead more",
     "url": "https://grafana.com/blog/2025/02/24/grafana-loki-101-how-to-ingest-logs-with-alloy-or-the-opentelemetry-collector/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Jake Swiss   ·   4 Feb 2025   ·   9 min readSLOs: a guide to setting and benefiting from service level objectivesExplore why SLOs matter and learn how to set them up for success, gain team buy-in, and deliver the right outcomes.Grafana SLOSLOsRead more",
     "url": "https://grafana.com/blog/2025/02/04/slos-a-guide-to-setting-and-benefiting-from-service-level-objectives/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   3 Feb 2025   ·   4 min readGrafanaCON 2025: Register today for our biggest community event of the year!GrafanaCON 2025 is coming to Seattle on May 6-8! Register today to reserve your spot at our biggest community event of the year.GrafanaConEventsRead more",
-    "url": "https://grafana.com/blog/2025/02/03/grafanacon-2025-register-today-for-our-biggest-community-event-of-the-year/"
   }
 ]
