@@ -1,5 +1,9 @@
 [
   {
+    "title": "Vasil Kaftandzhiev   ·   26 Feb 2025   ·   4 min readMonitor Microsoft Azure in Grafana Cloud: simplify and centralize your cloud provider observabilityLearn how our Microsoft Azure Observability solution can help you keep your cloud environment running smoothly and efficiently.Cloud Provider ObservabilityRead more",
+    "url": "https://grafana.com/blog/2025/02/26/monitor-microsoft-azure-in-grafana-cloud-simplify-and-centralize-your-cloud-provider-observability/"
+  },
+  {
     "title": "Usman Ahmad   ·   25 Feb 2025   ·   7 min readData sources, visualizations, and apps: A guide to extending and customizing GrafanaWith our broad ecosystem of data sources, visualizations, and apps, you can easily extend and customize Grafana to meet your unique observability...PluginsVisualizationGrafanaRead more",
     "url": "https://grafana.com/blog/2025/02/25/data-sources-visualizations-and-apps-a-guide-to-extending-and-customizing-grafana/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "David Allen   ·   5 Feb 2025   ·   6 min readHow to visualize CSV data with GrafanaIn this step-by-step post, learn how to use Grafana to visualize any CSV file from anywhere on the web.GrafanaRead more",
     "url": "https://grafana.com/blog/2025/02/05/how-to-visualize-csv-data-with-grafana/"
-  },
-  {
-    "title": "Jake Swiss   ·   4 Feb 2025   ·   9 min readSLOs: a guide to setting and benefiting from service level objectivesExplore why SLOs matter and learn how to set them up for success, gain team buy-in, and deliver the right outcomes.Grafana SLOSLOsRead more",
-    "url": "https://grafana.com/blog/2025/02/04/slos-a-guide-to-setting-and-benefiting-from-service-level-objectives/"
   }
 ]
