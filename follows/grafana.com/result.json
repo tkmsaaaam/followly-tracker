@@ -1,5 +1,9 @@
 [
   {
+    "title": "Bukola Ayodele   ·   27 Feb 2025   ·   4 min readHow to perform a ping check with Grafana Cloud Synthetic MonitoringPing checks are an essential part of synthetic monitoring, providing visibility into network performance and availability. Here’s how to perform one...Synthetic monitoringRead more",
+    "url": "https://grafana.com/blog/2025/02/27/how-to-perform-a-ping-check-with-grafana-cloud-synthetic-monitoring/"
+  },
+  {
     "title": "Vasil Kaftandzhiev   ·   26 Feb 2025   ·   4 min readMonitor Microsoft Azure in Grafana Cloud: simplify and centralize your cloud provider observabilityLearn how our Microsoft Azure Observability solution can help you keep your cloud environment running smoothly and efficiently.Cloud Provider ObservabilityRead more",
     "url": "https://grafana.com/blog/2025/02/26/monitor-microsoft-azure-in-grafana-cloud-simplify-and-centralize-your-cloud-provider-observability/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Ben Schaechter   ·   6 Feb 2025   ·   5 min readWhy observability needs FinOps, and vice versa: the Vantage integration with Grafana CloudUnderstand the parallels between observability and FinOps and how they can work together, and learn about Vantage's new Grafana Cloud integration.Cost managementRead more",
     "url": "https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/"
-  },
-  {
-    "title": "David Allen   ·   5 Feb 2025   ·   6 min readHow to visualize CSV data with GrafanaIn this step-by-step post, learn how to use Grafana to visualize any CSV file from anywhere on the web.GrafanaRead more",
-    "url": "https://grafana.com/blog/2025/02/05/how-to-visualize-csv-data-with-grafana/"
   }
 ]
