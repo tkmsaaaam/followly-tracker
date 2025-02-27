@@ -1,5 +1,9 @@
 [
   {
+    "title": "ハイパーグロースを実現するtoCスタートアップ逆説のプロダクトマネジメントPM2025/02/27",
+    "url": "https://engineering.reiwatravel.co.jp/blog/product-management-20250227"
+  },
+  {
     "title": "【イベントレポート】Developers Summit 2025に参加しました！EventQA2025/02/17",
     "url": "https://engineering.reiwatravel.co.jp/blog/devsumi-2025"
   },
@@ -34,9 +38,5 @@
   {
     "title": "事業フェーズにあわせた組織開発とマネジメントスタイルの変遷EM2024/12/24",
     "url": "https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20241224"
-  },
-  {
-    "title": "GraphQL Schemaから、Swiftコードのモックを自動生成iOS2024/12/23",
-    "url": "https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20241223"
   }
 ]
