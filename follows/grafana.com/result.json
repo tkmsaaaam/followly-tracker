@@ -1,5 +1,9 @@
 [
   {
+    "title": "Andrew Dedesko   ·   28 Feb 2025   ·   9 min readHow to implement multi-window, multi-burn-rate alerts with Grafana CloudLearn how to use Grafana Cloud to monitor a Google Cloud Run service with multi-window, multi-burn-rate alerts.AlertingGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/02/28/how-to-implement-multi-window-multi-burn-rate-alerts-with-grafana-cloud/"
+  },
+  {
     "title": "Bukola Ayodele   ·   27 Feb 2025   ·   4 min readHow to perform a ping check with Grafana Cloud Synthetic MonitoringPing checks are an essential part of synthetic monitoring, providing visibility into network performance and availability. Here’s how to perform one...Synthetic monitoringRead more",
     "url": "https://grafana.com/blog/2025/02/27/how-to-perform-a-ping-check-with-grafana-cloud-synthetic-monitoring/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Nikola Grcevski   ·   10 Feb 2025   ·   8 min readGrafana Beyla 2.0: distributed traces, scalable Kubernetes deployments, and moreGrafana Beyla 2.0 is here, delivering a number of new features related to distributed tracing, Kubernetes deployments, and deeper alignment with...Grafana BeylaRead more",
     "url": "https://grafana.com/blog/2025/02/10/grafana-beyla-2.0-distributed-traces-scalable-kubernetes-deployments-and-more/"
-  },
-  {
-    "title": "Ben Schaechter   ·   6 Feb 2025   ·   5 min readWhy observability needs FinOps, and vice versa: the Vantage integration with Grafana CloudUnderstand the parallels between observability and FinOps and how they can work together, and learn about Vantage's new Grafana Cloud integration.Cost managementRead more",
-    "url": "https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/"
   }
 ]
