@@ -1,5 +1,9 @@
 [
   {
+    "title": "Mark Covello   ·   4 Mar 2025   ·   4 min readHow to monitor your Shopify store with Grafana Cloud Frontend ObservabilityAs your Shopify site scales and grows, you’ll need deeper insights into performance and the overall end-user experience. Here’s how to get that...Frontend observabilityReal user monitoring (RUM)Read more",
+    "url": "https://grafana.com/blog/2025/03/04/how-to-monitor-your-shopify-store-with-grafana-cloud-frontend-observability/"
+  },
+  {
     "title": "Andrew Dedesko   ·   28 Feb 2025   ·   9 min readHow to implement multi-window, multi-burn-rate alerts with Grafana CloudLearn how to use Grafana Cloud to monitor a Google Cloud Run service with multi-window, multi-burn-rate alerts.AlertingGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/02/28/how-to-implement-multi-window-multi-burn-rate-alerts-with-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Michelle Tan   ·   10 Feb 2025   ·   12 min readFrom Datadog to Grafana Cloud: Why companies migrate and how it changes business for the betterExperts share their reasons for moving from Datadog to Grafana Cloud, from cost reduction and management to centralized data and open standards and...MigrationGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/02/10/from-datadog-to-grafana-cloud-why-companies-migrate-and-how-it-changes-business-for-the-better/"
-  },
-  {
-    "title": "Nikola Grcevski   ·   10 Feb 2025   ·   8 min readGrafana Beyla 2.0: distributed traces, scalable Kubernetes deployments, and moreGrafana Beyla 2.0 is here, delivering a number of new features related to distributed tracing, Kubernetes deployments, and deeper alignment with...Grafana BeylaRead more",
-    "url": "https://grafana.com/blog/2025/02/10/grafana-beyla-2.0-distributed-traces-scalable-kubernetes-deployments-and-more/"
   }
 ]
