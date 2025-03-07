@@ -1,5 +1,9 @@
 [
   {
+    "title": "Joey Bartolomeo   ·   7 Mar 2025   ·   7 min readHow LATAM Airlines uses Grafana Cloud for real-time observability that improves customers'...LATAM Airlines uses Grafana Cloud for real-time observability that improves customers' experiencesObservabilityGrafana CloudGrafana SLORead more",
+    "url": "https://grafana.com/blog/2025/03/07/how-latam-airlines-uses-grafana-cloud-for-real-time-observability-that-improves-customers-experiences/"
+  },
+  {
     "title": "Usman Ahmad   ·   6 Mar 2025   ·   4 min readVisualize Google Sheets data: how to turn your spreadsheets into Grafana dashboardsWith the Google Sheets data source for Grafana, you can quickly and easily visualize data from all your go-to spreadsheets.PluginsVisualizationGrafanaRead more",
     "url": "https://grafana.com/blog/2025/03/06/visualize-google-sheets-data-how-to-turn-your-spreadsheets-into-grafana-dashboards/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Daniel Bailey   ·   12 Feb 2025   ·   9 min readHow to cut costs for metrics and logs: a guide to lowering expenses in Grafana CloudDiscover practical strategies to reduce your observability costs—and still maintain system visibility—by optimizing metrics and logs in Grafana Cloud.Cost managementGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/02/12/how-to-cut-costs-for-metrics-and-logs-a-guide-to-lowering-expenses-in-grafana-cloud/"
-  },
-  {
-    "title": "Vasil Kaftandzhiev   ·   11 Feb 2025   ·   4 min readMonitor Google Cloud: simplify and centralize your cloud provider observability with Grafana CloudGoogle Cloud Observability in Grafana Cloud provides a unified, scalable solution designed to simplify monitoring, enhance visibility, and optimize...Cloud Provider ObservabilityRead more",
-    "url": "https://grafana.com/blog/2025/02/11/monitor-google-cloud-simplify-and-centralize-your-cloud-provider-observability-with-grafana-cloud/"
   }
 ]
