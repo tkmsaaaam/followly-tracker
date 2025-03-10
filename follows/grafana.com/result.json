@@ -1,5 +1,9 @@
 [
   {
+    "title": "Brendan O'Handley   ·   10 Mar 2025   ·   6 min readGrafana Drilldown: first-class OpenTelemetry support now available for metricsBy abstracting the technical complexity of OpenTelemetry resource attribute management, you get deeper, more precise insights into distributed system...DrilldownOpenTelemetryRead more",
+    "url": "https://grafana.com/blog/2025/03/10/grafana-drilldown-first-class-opentelemetry-support-now-available-for-metrics/"
+  },
+  {
     "title": "Joey Bartolomeo   ·   7 Mar 2025   ·   7 min readHow LATAM Airlines uses Grafana Cloud for real-time observability that improves customers'...LATAM Airlines uses Grafana Cloud for real-time observability that improves customers' experiencesObservabilityGrafana CloudGrafana SLORead more",
     "url": "https://grafana.com/blog/2025/03/07/how-latam-airlines-uses-grafana-cloud-for-real-time-observability-that-improves-customers-experiences/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Julie Stickler   ·   13 Feb 2025   ·   5 min readGrafana Loki 3.4: Standardized storage config, sizing guidance, and Promtail merging into AlloyGrafana Loki 3.4 includes enhancements aimed at standardizing Loki’s object storage, helping you right size your instance, and improving the ability...LokiReleaseRead more",
     "url": "https://grafana.com/blog/2025/02/13/grafana-loki-3.4-standardized-storage-config-sizing-guidance-and-promtail-merging-into-alloy/"
-  },
-  {
-    "title": "Daniel Bailey   ·   12 Feb 2025   ·   9 min readHow to cut costs for metrics and logs: a guide to lowering expenses in Grafana CloudDiscover practical strategies to reduce your observability costs—and still maintain system visibility—by optimizing metrics and logs in Grafana Cloud.Cost managementGrafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/02/12/how-to-cut-costs-for-metrics-and-logs-a-guide-to-lowering-expenses-in-grafana-cloud/"
   }
 ]
