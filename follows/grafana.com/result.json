@@ -1,5 +1,13 @@
 [
   {
+    "title": "Richard \"RichiH\" Hartmann   ·   11 Mar 2025   ·   7 min readGrafana OnCall OSS in maintenance mode: your questions answeredGrafana Labs has put Grafana OnCall (OSS) into read-only, maintenance mode, and will archive the project in one year on 2026-03-24. Here's what you...Grafana OnCallRead more",
+    "url": "https://grafana.com/blog/2025/03/11/grafana-oncall-maintenance-mode/"
+  },
+  {
+    "title": "Joey Orlando   ·   11 Mar 2025   ·   3 min readIncident response and on-call management in one app: Introducing Grafana Cloud IRMWe're excited to announce that we are merging OnCall and Incident into one unified Grafana Cloud IRM app for a more consistent and faster incident...Grafana IRMRead more",
+    "url": "https://grafana.com/blog/2025/03/11/oncall-management-incident-response-grafana-cloud-irm/"
+  },
+  {
     "title": "Brendan O'Handley   ·   10 Mar 2025   ·   6 min readGrafana Drilldown: first-class OpenTelemetry support now available for metricsBy abstracting the technical complexity of OpenTelemetry resource attribute management, you get deeper, more precise insights into distributed system...DrilldownOpenTelemetryRead more",
     "url": "https://grafana.com/blog/2025/03/10/grafana-drilldown-first-class-opentelemetry-support-now-available-for-metrics/"
   },
@@ -50,13 +58,5 @@
   {
     "title": "Dominik Süß   ·   18 Feb 2025   ·   6 min readHow to observe AWS Lambda functions using the OpenTelemetry Collector and Grafana CloudUse the opentelemetry-lambda extension layer to gather your data efficiently and cost-effectively, and learn how to pair it with Grafana Cloud without...OpenTelemetryAWSGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/02/18/how-to-observe-aws-lambda-functions-using-the-opentelemetry-collector-and-grafana-cloud/"
-  },
-  {
-    "title": "Fiona Peers Artiaga   ·   14 Feb 2025   ·   4 min readIntroducing Learning journeys: New step-by-step guides to get started with GrafanaIntroducing Learning journeys, step-by-step guides to help you master Grafana, Grafana Cloud, Grafana Alloy, and moreGrafanaRead more",
-    "url": "https://grafana.com/blog/2025/02/14/introducing-learning-journeys-new-step-by-step-guides-to-get-started-with-grafana/"
-  },
-  {
-    "title": "Julie Stickler   ·   13 Feb 2025   ·   5 min readGrafana Loki 3.4: Standardized storage config, sizing guidance, and Promtail merging into AlloyGrafana Loki 3.4 includes enhancements aimed at standardizing Loki’s object storage, helping you right size your instance, and improving the ability...LokiReleaseRead more",
-    "url": "https://grafana.com/blog/2025/02/13/grafana-loki-3.4-standardized-storage-config-sizing-guidance-and-promtail-merging-into-alloy/"
   }
 ]
