@@ -1,5 +1,9 @@
 [
   {
+    "title": "Edwin Onattu   ·   12 Mar 2025   ·   11 min readTelemetry pipeline management at any scale: Fleet Management in Grafana Cloud is generally availableFleet Management, our centralized control plane for managing observability collectors at any scale, is now generally available with a catalog of...Grafana AlloyGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/03/12/telemetry-pipeline-management-at-any-scale-fleet-management-in-grafana-cloud-is-generally-available/"
+  },
+  {
     "title": "Richard \"RichiH\" Hartmann   ·   11 Mar 2025   ·   7 min readGrafana OnCall OSS in maintenance mode: your questions answeredGrafana Labs has put Grafana OnCall (OSS) into read-only, maintenance mode, and will archive the project in one year on 2026-03-24. Here's what you...Grafana OnCallRead more",
     "url": "https://grafana.com/blog/2025/03/11/grafana-oncall-maintenance-mode/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Kristin Knapp   ·   19 Feb 2025   ·   9 min readGrafana Cloud updates: Exemptions in Adaptive Logs, GPU monitoring in AI Observability, and moreFrom Adaptive Logs updates to new features for AI Observability, we have a ton of Grafana Cloud news to share this month.Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/02/19/grafana-cloud-updates-exemptions-in-adaptive-logs-gpu-monitoring-in-ai-observability-and-more/"
-  },
-  {
-    "title": "Dominik Süß   ·   18 Feb 2025   ·   6 min readHow to observe AWS Lambda functions using the OpenTelemetry Collector and Grafana CloudUse the opentelemetry-lambda extension layer to gather your data efficiently and cost-effectively, and learn how to pair it with Grafana Cloud without...OpenTelemetryAWSGrafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/02/18/how-to-observe-aws-lambda-functions-using-the-opentelemetry-collector-and-grafana-cloud/"
   }
 ]
