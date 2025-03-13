@@ -1,5 +1,9 @@
 [
   {
+    "title": "Mick Gregg   ·   13 Mar 2025   ·   7 min readHow we responded to a 2+ hour partial outage in Grafana CloudAfter an extensive incident review, we want to explain what went wrong, how it was resolved, and what we are doing to prevent something similar...Grafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/03/13/how-we-responded-to-a-2-hour-partial-outage-in-grafana-cloud/"
+  },
+  {
     "title": "Edwin Onattu   ·   12 Mar 2025   ·   11 min readTelemetry pipeline management at any scale: Fleet Management in Grafana Cloud is generally availableFleet Management, our centralized control plane for managing observability collectors at any scale, is now generally available with a catalog of...Grafana AlloyGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/03/12/telemetry-pipeline-management-at-any-scale-fleet-management-in-grafana-cloud-is-generally-available/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Andrew Stucky   ·   20 Feb 2025   ·   6 min readGrafana Drilldown apps: the improved queryless experience formerly known as the Explore appsThe Explore apps are now the Grafana Drilldown apps. Learn why we made the switch and check out the latest updates to help you get insights from your...DrilldownRead more",
     "url": "https://grafana.com/blog/2025/02/20/grafana-drilldown-apps-the-improved-queryless-experience-formerly-known-as-the-explore-apps/"
-  },
-  {
-    "title": "Zhehao Zhou   ·   20 Feb 2025   ·   5 min readThe next generation of Grafana Mimir: Inside Mimir's redesigned architecture for increased...Here’s a deep dive into the architectural changes we’re making to Grafana Mimir and Grafana Cloud Metrics to support future growth and new use cases...MimirRead more",
-    "url": "https://grafana.com/blog/2025/02/20/the-next-generation-of-grafana-mimir-inside-mimirs-redesigned-architecture-for-increased-reliability/"
   }
 ]
