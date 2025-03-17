@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kristin Knapp   ·   17 Mar 2025   ·   6 min readThe latest in Kubernetes Monitoring: new features to track persistent storage, simplify alerting,...Advanced options for storage observability and an easier way to create alerts are just a few of the many recent enhancements we’ve made to Kubernetes...Kubernetes monitoringGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/03/17/the-latest-in-kubernetes-monitoring-new-features-to-track-persistent-storage-simplify-alerting-and-more/"
+  },
+  {
     "title": "Mick Gregg   ·   13 Mar 2025   ·   7 min readHow we responded to a 2+ hour partial outage in Grafana CloudAfter an extensive incident review, we want to explain what went wrong, how it was resolved, and what we are doing to prevent something similar...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/03/13/how-we-responded-to-a-2-hour-partial-outage-in-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Grafana Labs Team   ·   24 Feb 2025   ·   11 min readGrafana Loki 101: How to ingest logs with Alloy or the OpenTelemetry CollectorGet to know the basics of Loki, our horizontally scalable, highly available, multi-tenant log aggregation system, and learn how to start ingesting...LokiPrometheusGrafana AlloyVideoRead more",
     "url": "https://grafana.com/blog/2025/02/24/grafana-loki-101-how-to-ingest-logs-with-alloy-or-the-opentelemetry-collector/"
-  },
-  {
-    "title": "Andrew Stucky   ·   20 Feb 2025   ·   6 min readGrafana Drilldown apps: the improved queryless experience formerly known as the Explore appsThe Explore apps are now the Grafana Drilldown apps. Learn why we made the switch and check out the latest updates to help you get insights from your...DrilldownRead more",
-    "url": "https://grafana.com/blog/2025/02/20/grafana-drilldown-apps-the-improved-queryless-experience-formerly-known-as-the-explore-apps/"
   }
 ]
