@@ -1,5 +1,9 @@
 [
   {
+    "title": "Romain Gaillard   ·   20 Mar 2025   ·   7 min readHow to redact secrets from logs with Grafana Alloy and LokiLearn about a new experimental component in Grafana Alloy that can help find and redact sensitive information before it reaches Grafana Loki.Grafana AlloySecurityLokiRead more",
+    "url": "https://grafana.com/blog/2025/03/20/how-to-redact-secrets-from-logs-with-grafana-alloy-and-loki/"
+  },
+  {
     "title": "Grafana Labs Team   ·   19 Mar 2025   ·   6 min readGrafanaCON 2025: Start exploring this year’s agendaThe agenda for GrafanaCON 2025 is officially live, featuring technical deep-dives, user success stories, and one-of-a-kind opportunities to connect...GrafanaConEventsCommunityRead more",
     "url": "https://grafana.com/blog/2025/03/19/grafanacon-2025-start-exploring-this-years-agenda/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Andrew Dedesko   ·   28 Feb 2025   ·   9 min readHow to implement multi-window, multi-burn-rate alerts with Grafana CloudLearn how to use Grafana Cloud to monitor a Google Cloud Run service with multi-window, multi-burn-rate alerts.AlertingGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/02/28/how-to-implement-multi-window-multi-burn-rate-alerts-with-grafana-cloud/"
-  },
-  {
-    "title": "Bukola Ayodele   ·   27 Feb 2025   ·   4 min readHow to perform a ping check with Grafana Cloud Synthetic MonitoringPing checks are an essential part of synthetic monitoring, providing visibility into network performance and availability. Here’s how to perform one...Synthetic monitoringRead more",
-    "url": "https://grafana.com/blog/2025/02/27/how-to-perform-a-ping-check-with-grafana-cloud-synthetic-monitoring/"
   }
 ]
