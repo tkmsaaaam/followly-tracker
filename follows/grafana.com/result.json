@@ -1,5 +1,9 @@
 [
   {
+    "title": "Llandy Riveron Del Risco   ·   20 Mar 2025   ·   7 min readAn open source app for easily building performance tests: Grafana k6 Studio is generally availableWith Grafana k6 Studio, you can quickly and easily create performance test scripts via a visual interface — no JavaScript skills required.k6Grafana Cloud k6Performance testingRead more",
+    "url": "https://grafana.com/blog/2025/03/20/an-open-source-app-for-easily-building-performance-tests-grafana-k6-studio-is-generally-available/"
+  },
+  {
     "title": "Romain Gaillard   ·   20 Mar 2025   ·   7 min readHow to redact secrets from logs with Grafana Alloy and LokiLearn about a new experimental component in Grafana Alloy that can help find and redact sensitive information before it reaches Grafana Loki.Grafana AlloySecurityLokiRead more",
     "url": "https://grafana.com/blog/2025/03/20/how-to-redact-secrets-from-logs-with-grafana-alloy-and-loki/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Mark Covello   ·   4 Mar 2025   ·   4 min readHow to monitor your Shopify store with Grafana Cloud Frontend ObservabilityAs your Shopify site scales and grows, you’ll need deeper insights into performance and the overall end-user experience. Here’s how to get that...Frontend observabilityReal user monitoring (RUM)Read more",
     "url": "https://grafana.com/blog/2025/03/04/how-to-monitor-your-shopify-store-with-grafana-cloud-frontend-observability/"
-  },
-  {
-    "title": "Andrew Dedesko   ·   28 Feb 2025   ·   9 min readHow to implement multi-window, multi-burn-rate alerts with Grafana CloudLearn how to use Grafana Cloud to monitor a Google Cloud Run service with multi-window, multi-burn-rate alerts.AlertingGrafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/02/28/how-to-implement-multi-window-multi-burn-rate-alerts-with-grafana-cloud/"
   }
 ]
