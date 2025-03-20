@@ -1,5 +1,9 @@
 [
   {
+    "title": "Grafana Labs Team   ·   19 Mar 2025   ·   6 min readGrafanaCON 2025: Start exploring this year’s agendaThe agenda for GrafanaCON 2025 is officially live, featuring technical deep-dives, user success stories, and one-of-a-kind opportunities to connect...GrafanaConEventsCommunityRead more",
+    "url": "https://grafana.com/blog/2025/03/19/grafanacon-2025-start-exploring-this-years-agenda/"
+  },
+  {
     "title": "Kristin Knapp   ·   18 Mar 2025   ·   7 min readGrafana Cloud updates: Fleet Management is now GA, a unified app for IRM, and moreWe have some big Grafana Cloud updates to share this month, including a new Grafana Cloud IRM application and the general availability of Fleet...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/03/18/grafana-cloud-updates-fleet-management-is-now-ga-a-unified-app-for-irm-and-more/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Bukola Ayodele   ·   27 Feb 2025   ·   4 min readHow to perform a ping check with Grafana Cloud Synthetic MonitoringPing checks are an essential part of synthetic monitoring, providing visibility into network performance and availability. Here’s how to perform one...Synthetic monitoringRead more",
     "url": "https://grafana.com/blog/2025/02/27/how-to-perform-a-ping-check-with-grafana-cloud-synthetic-monitoring/"
-  },
-  {
-    "title": "Vasil Kaftandzhiev   ·   26 Feb 2025   ·   4 min readMonitor Microsoft Azure in Grafana Cloud: simplify and centralize your cloud provider observabilityLearn how our Microsoft Azure Observability solution can help you keep your cloud environment running smoothly and efficiently.Cloud Provider ObservabilityRead more",
-    "url": "https://grafana.com/blog/2025/02/26/monitor-microsoft-azure-in-grafana-cloud-simplify-and-centralize-your-cloud-provider-observability/"
   }
 ]
