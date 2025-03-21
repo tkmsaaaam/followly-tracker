@@ -1,5 +1,9 @@
 [
   {
+    "title": "Grafana Labs Team   ·   21 Mar 2025   ·   10 min readGrafana Labs at KubeCon: Prometheus, OpenTelemetry, AI, and moreMeet us at KubeCon Europe 2025! Our observability experts are participating in multiple sessions throughout the week, and you can find us at booth...KubeConEventsRead more",
+    "url": "https://grafana.com/blog/2025/03/21/grafana-labs-at-kubecon-prometheus-opentelemetry-ai-and-more/"
+  },
+  {
     "title": "Llandy Riveron Del Risco   ·   20 Mar 2025   ·   7 min readAn open source app for easily building performance tests: Grafana k6 Studio is generally availableWith Grafana k6 Studio, you can quickly and easily create performance test scripts via a visual interface — no JavaScript skills required.k6Grafana Cloud k6Performance testingRead more",
     "url": "https://grafana.com/blog/2025/03/20/an-open-source-app-for-easily-building-performance-tests-grafana-k6-studio-is-generally-available/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Usman Ahmad   ·   6 Mar 2025   ·   4 min readVisualize Google Sheets data: how to turn your spreadsheets into Grafana dashboardsWith the Google Sheets data source for Grafana, you can quickly and easily visualize data from all your go-to spreadsheets.PluginsVisualizationGrafanaRead more",
     "url": "https://grafana.com/blog/2025/03/06/visualize-google-sheets-data-how-to-turn-your-spreadsheets-into-grafana-dashboards/"
-  },
-  {
-    "title": "Mark Covello   ·   4 Mar 2025   ·   4 min readHow to monitor your Shopify store with Grafana Cloud Frontend ObservabilityAs your Shopify site scales and grows, you’ll need deeper insights into performance and the overall end-user experience. Here’s how to get that...Frontend observabilityReal user monitoring (RUM)Read more",
-    "url": "https://grafana.com/blog/2025/03/04/how-to-monitor-your-shopify-store-with-grafana-cloud-frontend-observability/"
   }
 ]
