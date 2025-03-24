@@ -1,5 +1,9 @@
 [
   {
+    "title": "Grafana Labs Team   ·   24 Mar 2025   ·   6 min readGrafanaCON 2025: Agenda highlights and how to start planning your conference experience todayFrom our inaugural Science Fair to a “Night at the Museum” welcome reception, the GrafanaCON 2025 agenda includes a whole lot to be excited about.GrafanaConEventsCommunityRead more",
+    "url": "https://grafana.com/blog/2025/03/24/grafanacon-2025-agenda-highlights-and-how-to-start-planning-your-conference-experience-today/"
+  },
+  {
     "title": "Grafana Labs Team   ·   21 Mar 2025   ·   10 min readGrafana Labs at KubeCon: Prometheus, OpenTelemetry, AI, and moreMeet us at KubeCon Europe 2025! Our observability experts are participating in multiple sessions throughout the week, and you can find us at booth...KubeConEventsRead more",
     "url": "https://grafana.com/blog/2025/03/21/grafana-labs-at-kubecon-prometheus-opentelemetry-ai-and-more/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Joey Bartolomeo   ·   7 Mar 2025   ·   7 min readHow LATAM Airlines uses Grafana Cloud for real-time observability that improves customers'...LATAM Airlines uses Grafana Cloud for real-time observability that improves customers' experiencesObservabilityGrafana CloudGrafana SLORead more",
     "url": "https://grafana.com/blog/2025/03/07/how-latam-airlines-uses-grafana-cloud-for-real-time-observability-that-improves-customers-experiences/"
-  },
-  {
-    "title": "Usman Ahmad   ·   6 Mar 2025   ·   4 min readVisualize Google Sheets data: how to turn your spreadsheets into Grafana dashboardsWith the Google Sheets data source for Grafana, you can quickly and easily visualize data from all your go-to spreadsheets.PluginsVisualizationGrafanaRead more",
-    "url": "https://grafana.com/blog/2025/03/06/visualize-google-sheets-data-how-to-turn-your-spreadsheets-into-grafana-dashboards/"
   }
 ]
