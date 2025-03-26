@@ -1,5 +1,9 @@
 [
   {
+    "title": "Grafana Labs Team   ·   26 Mar 2025   ·   9 min readGrafana 11.6 release: new data visualization features, LBAC for metrics data sources, alerting...Grafana 11.6 includes a number of new dashboarding features, LBAC for metrics, alerting updates, and more. Here’s a look at the highlights.GrafanaRead more",
+    "url": "https://grafana.com/blog/2025/03/26/grafana-11.6-release-all-the-latest-features/"
+  },
+  {
     "title": "Trevor Jones   ·   25 Mar 2025   ·   17 min readThe state of observability in 2025: a deep dive on our third annual Observability SurveyLook closer at how observability practitioners and leaders see the current landscape, from the challenges holding teams back to the successes helping...ObservabilityRead more",
     "url": "https://grafana.com/blog/2025/03/25/observability-survey-takeaways/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Joey Orlando   ·   11 Mar 2025   ·   3 min readIncident response and on-call management in one app: Introducing Grafana Cloud IRMWe're excited to announce that we are merging OnCall and Incident into one unified Grafana Cloud IRM app for a more consistent and faster incident...Grafana IRMRead more",
     "url": "https://grafana.com/blog/2025/03/11/oncall-management-incident-response-grafana-cloud-irm/"
-  },
-  {
-    "title": "Brendan O'Handley   ·   10 Mar 2025   ·   6 min readGrafana Drilldown: first-class OpenTelemetry support now available for metricsBy abstracting the technical complexity of OpenTelemetry resource attribute management, you get deeper, more precise insights into distributed system...DrilldownOpenTelemetryRead more",
-    "url": "https://grafana.com/blog/2025/03/10/grafana-drilldown-first-class-opentelemetry-support-now-available-for-metrics/"
   }
 ]
