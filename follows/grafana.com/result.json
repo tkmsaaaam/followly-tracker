@@ -1,5 +1,9 @@
 [
   {
+    "title": "Dominik Süß   ·   27 Mar 2025   ·   10 min readLicense to observe: Why observability solutions need agentsCollectors, or agents, play an important role in an observability strategy, allowing you to completely decouple an application from your storage...OpenTelemetryGrafana AlloyRead more",
+    "url": "https://grafana.com/blog/2025/03/27/license-to-observe-why-observability-solutions-need-agents/"
+  },
+  {
     "title": "Grafana Labs Team   ·   26 Mar 2025   ·   9 min readGrafana 11.6 release: new data visualization features, LBAC for metrics data sources, alerting...Grafana 11.6 includes a number of new dashboarding features, LBAC for metrics data sources, alerting updates, and more. Here’s a look at the...GrafanaRead more",
     "url": "https://grafana.com/blog/2025/03/26/grafana-11.6-release-all-the-latest-features/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Richard \"RichiH\" Hartmann   ·   11 Mar 2025   ·   7 min readGrafana OnCall OSS in maintenance mode: your questions answeredGrafana Labs has put Grafana OnCall (OSS) into read-only, maintenance mode, and will archive the project in one year on 2026-03-24. Here's what you...Grafana OnCallRead more",
     "url": "https://grafana.com/blog/2025/03/11/grafana-oncall-maintenance-mode/"
-  },
-  {
-    "title": "Joey Orlando   ·   11 Mar 2025   ·   3 min readIncident response and on-call management in one app: Introducing Grafana Cloud IRMWe're excited to announce that we are merging OnCall and Incident into one unified Grafana Cloud IRM app for a more consistent and faster incident...Grafana IRMRead more",
-    "url": "https://grafana.com/blog/2025/03/11/oncall-management-incident-response-grafana-cloud-irm/"
   }
 ]
