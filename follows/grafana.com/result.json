@@ -4,6 +4,10 @@
     "url": "https://grafana.com/blog/2025/03/27/license-to-observe-why-observability-solutions-need-agents/"
   },
   {
+    "title": "Trevor Jones   ·   27 Mar 2025   ·   10 min readMeet Ted Young, OpenTelemetry co-founder and the newest GrafanistaIn this Q\u0026A, you'll learn why Ted joined Grafana Labs, why he's so excited about the future of OpenTelemetry, and what, exactly, animation has to do...OpenTelemetryKubeConRead more",
+    "url": "https://grafana.com/blog/2025/03/27/meet-ted-young-opentelemetry-co-founder-and-the-newest-grafanista/"
+  },
+  {
     "title": "Grafana Labs Team   ·   26 Mar 2025   ·   9 min readGrafana 11.6 release: new data visualization features, LBAC for metrics data sources, alerting...Grafana 11.6 includes a number of new dashboarding features, LBAC for metrics data sources, alerting updates, and more. Here’s a look at the...GrafanaRead more",
     "url": "https://grafana.com/blog/2025/03/26/grafana-11.6-release-all-the-latest-features/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Daniel Palay   ·   12 Mar 2025   ·   8 min readThe Golden Grot Awards need you: Vote for your favorite dashboard today!Voting is now open for the 2025 Golden Grot Awards, which recognize the top Grafana dashboards in two categories: personal and professional.Golden GrotsCommunityGrafanaConGrafanaRead more",
     "url": "https://grafana.com/blog/2025/03/12/the-golden-grot-awards-need-you-vote-for-your-favorite-dashboard-today/"
-  },
-  {
-    "title": "Richard \"RichiH\" Hartmann   ·   11 Mar 2025   ·   7 min readGrafana OnCall OSS in maintenance mode: your questions answeredGrafana Labs has put Grafana OnCall (OSS) into read-only, maintenance mode, and will archive the project in one year on 2026-03-24. Here's what you...Grafana OnCallRead more",
-    "url": "https://grafana.com/blog/2025/03/11/grafana-oncall-maintenance-mode/"
   }
 ]
