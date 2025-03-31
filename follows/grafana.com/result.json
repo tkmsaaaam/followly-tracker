@@ -1,5 +1,9 @@
 [
   {
+    "title": "Vasil Kaftandzhiev   ·   31 Mar 2025   ·   5 min readHow to prevent performance bottlenecks in Google Compute Engine: CPU spikes, RAM waste, and network...Understand common performance bottlenecks in Google Compute Engine and how you can address them with Grafana Cloud.Cloud Provider ObservabilityRead more",
+    "url": "https://grafana.com/blog/2025/03/31/how-to-prevent-performance-bottlenecks-in-google-compute-engine-cpu-spikes-ram-waste-and-network-overload/"
+  },
+  {
     "title": "Dominik Süß   ·   27 Mar 2025   ·   10 min readLicense to observe: Why observability solutions need agentsCollectors, or agents, play an important role in an observability strategy, allowing you to completely decouple an application from your storage...OpenTelemetryGrafana AlloyRead more",
     "url": "https://grafana.com/blog/2025/03/27/license-to-observe-why-observability-solutions-need-agents/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Edwin Onattu   ·   12 Mar 2025   ·   11 min readTelemetry pipeline management at any scale: Fleet Management in Grafana Cloud is generally availableFleet Management, our centralized control plane for managing observability collectors at any scale, is now generally available with a catalog of...Grafana AlloyGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/03/12/telemetry-pipeline-management-at-any-scale-fleet-management-in-grafana-cloud-is-generally-available/"
-  },
-  {
-    "title": "Daniel Palay   ·   12 Mar 2025   ·   8 min readThe Golden Grot Awards need you: Vote for your favorite dashboard today!Voting is now open for the 2025 Golden Grot Awards, which recognize the top Grafana dashboards in two categories: personal and professional.Golden GrotsCommunityGrafanaConGrafanaRead more",
-    "url": "https://grafana.com/blog/2025/03/12/the-golden-grot-awards-need-you-vote-for-your-favorite-dashboard-today/"
   }
 ]
