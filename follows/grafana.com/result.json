@@ -1,5 +1,9 @@
 [
   {
+    "title": "Stephen Lang   ·   1 Apr 2025   ·   6 min readKubernetes Monitoring: One view for observing all your storage volumesWith the new Storage feature in the Kubernetes Monitoring solution in Grafana Cloud, it's easier than ever to keep track of your storage volumes and...Kubernetes monitoringRead more",
+    "url": "https://grafana.com/blog/2025/04/01/kubernetes-monitoring-one-view-for-observing-all-your-storage-volumes/"
+  },
+  {
     "title": "Vasil Kaftandzhiev   ·   31 Mar 2025   ·   5 min readHow to prevent performance bottlenecks in Google Compute Engine: CPU spikes, RAM waste, and network...Understand common performance bottlenecks in Google Compute Engine and how you can address them with Grafana Cloud.Cloud Provider ObservabilityRead more",
     "url": "https://grafana.com/blog/2025/03/31/how-to-prevent-performance-bottlenecks-in-google-compute-engine-cpu-spikes-ram-waste-and-network-overload/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Mick Gregg   ·   13 Mar 2025   ·   7 min readHow we responded to a 2+ hour partial outage in Grafana CloudAfter an extensive incident review, we want to explain what went wrong, how it was resolved, and what we are doing to prevent something similar...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/03/13/how-we-responded-to-a-2-hour-partial-outage-in-grafana-cloud/"
-  },
-  {
-    "title": "Edwin Onattu   ·   12 Mar 2025   ·   11 min readTelemetry pipeline management at any scale: Fleet Management in Grafana Cloud is generally availableFleet Management, our centralized control plane for managing observability collectors at any scale, is now generally available with a catalog of...Grafana AlloyGrafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/03/12/telemetry-pipeline-management-at-any-scale-fleet-management-in-grafana-cloud-is-generally-available/"
   }
 ]
