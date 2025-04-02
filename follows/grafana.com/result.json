@@ -1,5 +1,9 @@
 [
   {
+    "title": "Faith Westdorp   ·   2 Apr 2025   ·   2 min readGrafanaCON Local: our biggest community event is coming to a city near you!Our half-day GrafanaCON Local events bring all the excitement from GrafanaCON 2025, including technical deep dives, user stories, and our Ask the...GrafanaConCommunityEventsRead more",
+    "url": "https://grafana.com/blog/2025/04/02/grafanacon-local-our-biggest-community-event-is-coming-to-a-city-near-you/"
+  },
+  {
     "title": "Stephen Lang   ·   1 Apr 2025   ·   6 min readKubernetes Monitoring: One view for observing all your storage volumesWith the new Storage feature in the Kubernetes Monitoring solution in Grafana Cloud, it's easier than ever to keep track of your storage volumes and...Kubernetes monitoringRead more",
     "url": "https://grafana.com/blog/2025/04/01/kubernetes-monitoring-one-view-for-observing-all-your-storage-volumes/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Kristin Knapp   ·   17 Mar 2025   ·   6 min readThe latest in Kubernetes Monitoring: new features to track persistent storage, simplify alerting,...Advanced options for storage observability and an easier way to create alerts are just a few of the many recent enhancements we’ve made to Kubernetes...Kubernetes monitoringGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/03/17/the-latest-in-kubernetes-monitoring-new-features-to-track-persistent-storage-simplify-alerting-and-more/"
-  },
-  {
-    "title": "Mick Gregg   ·   13 Mar 2025   ·   7 min readHow we responded to a 2+ hour partial outage in Grafana CloudAfter an extensive incident review, we want to explain what went wrong, how it was resolved, and what we are doing to prevent something similar...Grafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/03/13/how-we-responded-to-a-2-hour-partial-outage-in-grafana-cloud/"
   }
 ]
