@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kyle Eckhart   ·   8 Apr 2025   ·   5 min readBring your Microsoft Azure metrics and logs to Grafana Cloud—no Alloy requiredConfigure Cloud Provider Observability for serverless collection of Azure logs and metrics, and get insights you can't get out of the box with Azure...Cloud Provider ObservabilityRead more",
+    "url": "https://grafana.com/blog/2025/04/08/bring-your-microsoft-azure-metrics-and-logs-to-grafana-cloud-no-alloy-required/"
+  },
+  {
     "title": "Renata Faria   ·   7 Apr 2025   ·   5 min readA privacy-first, data-driven approach to optimize the user experience: Introducing Geolocation...With Geolocation Insights in Frontend Observability, you can filter, segment, and analyze frontend telemetry based on location data — all while...Frontend observabilityRead more",
     "url": "https://grafana.com/blog/2025/04/07/a-privacy-first-data-driven-approach-to-optimize-the-user-experience-introducing-geolocation-insights-in-frontend-observability/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Romain Gaillard   ·   20 Mar 2025   ·   7 min readHow to redact secrets from logs with Grafana Alloy and LokiLearn about a new experimental component in Grafana Alloy that can help find and redact sensitive information before it reaches Grafana Loki.Grafana AlloySecurityLokiRead more",
     "url": "https://grafana.com/blog/2025/03/20/how-to-redact-secrets-from-logs-with-grafana-alloy-and-loki/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   19 Mar 2025   ·   6 min readGrafanaCON 2025: Start exploring this year’s agendaThe agenda for GrafanaCON 2025 is officially live, featuring technical deep-dives, user success stories, and one-of-a-kind opportunities to connect...GrafanaConEventsCommunityRead more",
-    "url": "https://grafana.com/blog/2025/03/19/grafanacon-2025-start-exploring-this-years-agenda/"
   }
 ]
