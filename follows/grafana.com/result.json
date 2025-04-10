@@ -1,5 +1,9 @@
 [
   {
+    "title": "Joey Orlando   ·   10 Apr 2025   ·   4 min readOpsgenie alternative: How to migrate to Grafana Cloud IRMLooking to migrate from Opsgenie to Grafana Cloud IRM? This month, we rolled out a new tool designed to make that process as seamless and efficient as...Grafana IRMRead more",
+    "url": "https://grafana.com/blog/2025/04/10/opsgenie-alternative-how-to-migrate-to-grafana-cloud-irm/"
+  },
+  {
     "title": "Kyle Eckhart   ·   8 Apr 2025   ·   5 min readBring your Microsoft Azure metrics and logs to Grafana Cloud—no Alloy requiredConfigure Cloud Provider Observability for serverless collection of Azure logs and metrics, and get insights you can't get out of the box with Azure...Cloud Provider ObservabilityRead more",
     "url": "https://grafana.com/blog/2025/04/08/bring-your-microsoft-azure-metrics-and-logs-to-grafana-cloud-no-alloy-required/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Llandy Riveron Del Risco   ·   20 Mar 2025   ·   7 min readAn open source app for easily building performance tests: Grafana k6 Studio is generally availableWith Grafana k6 Studio, you can quickly and easily create performance test scripts via a visual interface — no JavaScript skills required.k6Grafana Cloud k6Performance testingRead more",
     "url": "https://grafana.com/blog/2025/03/20/an-open-source-app-for-easily-building-performance-tests-grafana-k6-studio-is-generally-available/"
-  },
-  {
-    "title": "Romain Gaillard   ·   20 Mar 2025   ·   7 min readHow to redact secrets from logs with Grafana Alloy and LokiLearn about a new experimental component in Grafana Alloy that can help find and redact sensitive information before it reaches Grafana Loki.Grafana AlloySecurityLokiRead more",
-    "url": "https://grafana.com/blog/2025/03/20/how-to-redact-secrets-from-logs-with-grafana-alloy-and-loki/"
   }
 ]
