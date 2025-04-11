@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kristin Knapp   ·   11 Apr 2025   ·   8 min readHow SpotOn overhauled its observability strategy with standardized tagging and Grafana CloudThrough standardized tagging and a migration to Grafana Cloud, the SpotOn engineering team transformed its observability strategy, ditching complexity...Grafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/04/11/how-spoton-overhauled-its-observability-strategy-with-standardized-tagging-and-grafana-cloud/"
+  },
+  {
     "title": "Joey Orlando   ·   10 Apr 2025   ·   4 min readOpsgenie alternative: How to migrate to Grafana Cloud IRMLooking to migrate from Opsgenie to Grafana Cloud IRM? This month, we rolled out a new tool designed to make that process as seamless and efficient as...Grafana IRMRead more",
     "url": "https://grafana.com/blog/2025/04/10/opsgenie-alternative-how-to-migrate-to-grafana-cloud-irm/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Grafana Labs Team   ·   21 Mar 2025   ·   10 min readGrafana Labs at KubeCon: Prometheus, OpenTelemetry, AI, and moreMeet us at KubeCon Europe 2025! Our observability experts are participating in multiple sessions throughout the week, and you can find us at booth...KubeConEventsRead more",
     "url": "https://grafana.com/blog/2025/03/21/grafana-labs-at-kubecon-prometheus-opentelemetry-ai-and-more/"
-  },
-  {
-    "title": "Llandy Riveron Del Risco   ·   20 Mar 2025   ·   7 min readAn open source app for easily building performance tests: Grafana k6 Studio is generally availableWith Grafana k6 Studio, you can quickly and easily create performance test scripts via a visual interface — no JavaScript skills required.k6Grafana Cloud k6Performance testingRead more",
-    "url": "https://grafana.com/blog/2025/03/20/an-open-source-app-for-easily-building-performance-tests-grafana-k6-studio-is-generally-available/"
   }
 ]
