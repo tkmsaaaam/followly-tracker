@@ -1,5 +1,9 @@
 [
   {
+    "title": "Will Gallego   ·   14 Apr 2025   ·   7 min readWhy you should embrace more incidents (seriously!)Normalizing incidents can actually lead to better incident response. Find out why that's the case, and how to get the rest of your team to buy into...Incident responseRead more",
+    "url": "https://grafana.com/blog/2025/04/14/why-you-should-embrace-more-incidents-seriously/"
+  },
+  {
     "title": "Kristin Knapp   ·   11 Apr 2025   ·   8 min readHow SpotOn overhauled its observability strategy with standardized tagging and Grafana CloudThrough standardized tagging and a migration to Grafana Cloud, the SpotOn engineering team transformed its observability strategy, ditching complexity...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/04/11/how-spoton-overhauled-its-observability-strategy-with-standardized-tagging-and-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Grafana Labs Team   ·   24 Mar 2025   ·   6 min readGrafanaCON 2025: Agenda highlights and how to start planning your conference experience todayFrom our inaugural Science Fair to a “Night at the Museum” welcome reception, the GrafanaCON 2025 agenda includes a whole lot to be excited about.GrafanaConEventsCommunityRead more",
     "url": "https://grafana.com/blog/2025/03/24/grafanacon-2025-agenda-highlights-and-how-to-start-planning-your-conference-experience-today/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   21 Mar 2025   ·   10 min readGrafana Labs at KubeCon: Prometheus, OpenTelemetry, AI, and moreMeet us at KubeCon Europe 2025! Our observability experts are participating in multiple sessions throughout the week, and you can find us at booth...KubeConEventsRead more",
-    "url": "https://grafana.com/blog/2025/03/21/grafana-labs-at-kubecon-prometheus-opentelemetry-ai-and-more/"
   }
 ]
