@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kamel Djoudi   ·   15 Apr 2025   ·   14 min readAWS Lambda, OpenTelemetry, and Grafana Cloud: a guide to serverless observability considerationsFrom cold starts to pole position: Learn how to observe Lambda with OpenTelemetry and Grafana Cloud, and build a sample app for monitoring the F1...OpenTelemetryGrafana CloudApplication ObservabilityRead more",
+    "url": "https://grafana.com/blog/2025/04/15/aws-lambda-opentelemetry-and-grafana-cloud-a-guide-to-serverless-observability-considerations/"
+  },
+  {
     "title": "Will Gallego   ·   14 Apr 2025   ·   7 min readWhy you should embrace more incidents (seriously!)Normalizing incidents can actually lead to better incident response. Find out why that's the case, and how to get the rest of your team to buy into...Incident responseRead more",
     "url": "https://grafana.com/blog/2025/04/14/why-you-should-embrace-more-incidents-seriously/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Trevor Jones   ·   25 Mar 2025   ·   17 min readThe state of observability in 2025: a deep dive on our third annual Observability SurveyLook closer at how observability practitioners and leaders see the current landscape, from the challenges holding teams back to the successes helping...ObservabilityRead more",
     "url": "https://grafana.com/blog/2025/03/25/observability-survey-takeaways/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   24 Mar 2025   ·   6 min readGrafanaCON 2025: Agenda highlights and how to start planning your conference experience todayFrom our inaugural Science Fair to a “Night at the Museum” welcome reception, the GrafanaCON 2025 agenda includes a whole lot to be excited about.GrafanaConEventsCommunityRead more",
-    "url": "https://grafana.com/blog/2025/03/24/grafanacon-2025-agenda-highlights-and-how-to-start-planning-your-conference-experience-today/"
   }
 ]
