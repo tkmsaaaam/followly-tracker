@@ -1,5 +1,9 @@
 [
   {
+    "title": "Joey Bartolomeo   ·   17 Apr 2025   ·   8 min readHow a cooking platform whipped up a new observability plan with Grafana CloudFind out how putting business data in dashboards and using Adaptive Metrics helped the team behind Cookidoo spot errors and save on costs.CommunityAdaptive MetricsRead more",
+    "url": "https://grafana.com/blog/2025/04/17/how-a-cooking-platform-whipped-up-a-new-observability-plan-with-grafana-cloud/"
+  },
+  {
     "title": "Kristin Knapp   ·   16 Apr 2025   ·   10 min readGrafana Cloud updates: new testing features in Grafana Cloud k6, enhanced troubleshooting in...It’s been a big month for Grafana Cloud updates, with a range of new features rolling out across Grafana Cloud k6, Kubernetes Monitoring, Frontend...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/04/16/grafana-cloud-updates-new-testing-features-in-grafana-cloud-k6-enhanced-troubleshooting-in-kubernetes-monitoring-and-more/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Trevor Jones   ·   27 Mar 2025   ·   10 min readMeet Ted Young, OpenTelemetry co-founder and the newest GrafanistaIn this Q\u0026A, you'll learn why Ted joined Grafana Labs, why he's so excited about the future of OpenTelemetry, and what, exactly, animation has to do...OpenTelemetryKubeConRead more",
     "url": "https://grafana.com/blog/2025/03/27/meet-ted-young-opentelemetry-co-founder-and-the-newest-grafanista/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   26 Mar 2025   ·   9 min readGrafana 11.6 release: new data visualization features, LBAC for metrics data sources, alerting...Grafana 11.6 includes a number of new dashboarding features, LBAC for metrics data sources, alerting updates, and more. Here’s a look at the...GrafanaRead more",
-    "url": "https://grafana.com/blog/2025/03/26/grafana-11.6-release-all-the-latest-features/"
   }
 ]
