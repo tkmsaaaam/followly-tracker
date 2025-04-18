@@ -1,5 +1,9 @@
 [
   {
+    "title": "Marie Cruz   ·   18 Apr 2025   ·   10 min readSTEM in the garden: how to monitor plants with IoT sensors and Grafana CloudNo green thumb? No problem. Here's a simple IoT project to visualize the health of your plants using Arduino, Prometheus, and Grafana Cloud.IoTGrafana CloudDashboardRead more",
+    "url": "https://grafana.com/blog/2025/04/18/stem-in-the-garden-how-to-monitor-plants-with-iot-sensors-and-grafana-cloud/"
+  },
+  {
     "title": "Joey Bartolomeo   ·   17 Apr 2025   ·   8 min readHow a cooking platform whipped up a new observability plan with Grafana CloudFind out how putting business data in dashboards and using Adaptive Metrics helped the team behind Cookidoo spot errors and save on costs.CommunityAdaptive MetricsRead more",
     "url": "https://grafana.com/blog/2025/04/17/how-a-cooking-platform-whipped-up-a-new-observability-plan-with-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Dominik Süß   ·   27 Mar 2025   ·   10 min readLicense to observe: Why observability solutions need agentsCollectors, or agents, play an important role in an observability strategy, allowing you to completely decouple an application from your storage...OpenTelemetryGrafana AlloyRead more",
     "url": "https://grafana.com/blog/2025/03/27/license-to-observe-why-observability-solutions-need-agents/"
-  },
-  {
-    "title": "Trevor Jones   ·   27 Mar 2025   ·   10 min readMeet Ted Young, OpenTelemetry co-founder and the newest GrafanistaIn this Q\u0026A, you'll learn why Ted joined Grafana Labs, why he's so excited about the future of OpenTelemetry, and what, exactly, animation has to do...OpenTelemetryKubeConRead more",
-    "url": "https://grafana.com/blog/2025/03/27/meet-ted-young-opentelemetry-co-founder-and-the-newest-grafanista/"
   }
 ]
