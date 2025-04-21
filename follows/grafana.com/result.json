@@ -1,5 +1,9 @@
 [
   {
+    "title": "Łukasz Tyrała   ·   21 Apr 2025   ·   6 min readNew in Adaptive Logs: user-facing temporary pauses, exemptions, and per-service recommendationsCheck out these new features to help reduce toil, apply recommendations with precision, and confidently optimize your log ingestion while still...Adaptive TelemetryGrafana CloudLoggingRead more",
+    "url": "https://grafana.com/blog/2025/04/21/new-in-adaptive-logs-user-facing-temporary-pauses-exemptions-and-per-service-recommendations/"
+  },
+  {
     "title": "Marie Cruz   ·   18 Apr 2025   ·   10 min readSTEM in the garden: how to monitor plants with IoT sensors and Grafana CloudNo green thumb? No problem. Here's a simple IoT project to visualize the health of your plants using Arduino, Prometheus, and Grafana Cloud.IoTGrafana CloudDashboardRead more",
     "url": "https://grafana.com/blog/2025/04/18/stem-in-the-garden-how-to-monitor-plants-with-iot-sensors-and-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Vasil Kaftandzhiev   ·   31 Mar 2025   ·   5 min readHow to prevent performance bottlenecks in Google Compute Engine: CPU spikes, RAM waste, and network...Understand common performance bottlenecks in Google Compute Engine and how you can address them with Grafana Cloud.Cloud Provider ObservabilityRead more",
     "url": "https://grafana.com/blog/2025/03/31/how-to-prevent-performance-bottlenecks-in-google-compute-engine-cpu-spikes-ram-waste-and-network-overload/"
-  },
-  {
-    "title": "Dominik Süß   ·   27 Mar 2025   ·   10 min readLicense to observe: Why observability solutions need agentsCollectors, or agents, play an important role in an observability strategy, allowing you to completely decouple an application from your storage...OpenTelemetryGrafana AlloyRead more",
-    "url": "https://grafana.com/blog/2025/03/27/license-to-observe-why-observability-solutions-need-agents/"
   }
 ]
