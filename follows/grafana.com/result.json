@@ -1,5 +1,9 @@
 [
   {
+    "title": "Bukola Ayodele   ·   23 Apr 2025   ·   5 min readHow to get started with frontend observability: A quick Grafana Faro exampleIn this step-by-step post, learn how to use Grafana Faro, an open source web SDK, to gather real user monitoring data from web applications and...Grafana FaroFrontend observabilityRead more",
+    "url": "https://grafana.com/blog/2025/04/23/how-to-get-started-with-frontend-observability-a-quick-grafana-faro-example/"
+  },
+  {
     "title": "Grafana Labs Team   ·   22 Apr 2025   ·   6 min readGrafana security release: Medium and high severity fixes for CVE-2025-3260, CVE-2025-2703,...Today we are releasing security patches for Grafana 11.6.0, 11.5.3, 11.4.3, 11.3.5, 11.2.8, and 10.4.17, which include medium and high severity...SecurityRead more",
     "url": "https://grafana.com/blog/2025/04/22/grafana-security-release-medium-and-high-severity-fixes-for-cve-2025-3260-cve-2025-2703-cve-2025-3454/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Faith Westdorp   ·   2 Apr 2025   ·   2 min readGrafanaCON Local: our biggest community event is coming to a city near you!Our half-day GrafanaCON Local events bring all the excitement from GrafanaCON 2025, including technical deep dives, user stories, and our Ask the...GrafanaConCommunityEventsRead more",
     "url": "https://grafana.com/blog/2025/04/02/grafanacon-local-our-biggest-community-event-is-coming-to-a-city-near-you/"
-  },
-  {
-    "title": "Stephen Lang   ·   1 Apr 2025   ·   6 min readKubernetes Monitoring: One view for observing all your storage volumesWith the new Storage feature in the Kubernetes Monitoring solution in Grafana Cloud, it's easier than ever to keep track of your storage volumes and...Kubernetes monitoringRead more",
-    "url": "https://grafana.com/blog/2025/04/01/kubernetes-monitoring-one-view-for-observing-all-your-storage-volumes/"
   }
 ]
