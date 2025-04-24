@@ -1,5 +1,9 @@
 [
   {
+    "title": "Elyssa Emrich   ·   24 Apr 2025   ·   6 min readYour guide to GrafanaCON 2025: Choose your own adventure in SeattleCounting down the days to GrafanaCON 2025? We are too. Here’s everything you need to know to make the most out of your GrafanaCON experience.GrafanaConEventsCommunityRead more",
+    "url": "https://grafana.com/blog/2025/04/24/your-guide-to-grafanacon-2025-choose-your-own-adventure-in-seattle/"
+  },
+  {
     "title": "Bukola Ayodele   ·   23 Apr 2025   ·   5 min readHow to get started with frontend observability: A quick Grafana Faro exampleIn this step-by-step post, learn how to use Grafana Faro, an open source web SDK, to gather real user monitoring data from web applications and...Grafana FaroFrontend observabilityRead more",
     "url": "https://grafana.com/blog/2025/04/23/how-to-get-started-with-frontend-observability-a-quick-grafana-faro-example/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Natalia Bernarte   ·   3 Apr 2025   ·   5 min readAngularJS support will be removed in Grafana 12: what you need to knowWith the release of Grafana 12 in May, AngularJS support will be fully removed in all Grafana OSS, Cloud, and Enterprise instances. Here’s how to...PluginsGrafanaRead more",
     "url": "https://grafana.com/blog/2025/04/03/angularjs-support-will-be-removed-in-grafana-12-what-you-need-to-know/"
-  },
-  {
-    "title": "Faith Westdorp   ·   2 Apr 2025   ·   2 min readGrafanaCON Local: our biggest community event is coming to a city near you!Our half-day GrafanaCON Local events bring all the excitement from GrafanaCON 2025, including technical deep dives, user stories, and our Ask the...GrafanaConCommunityEventsRead more",
-    "url": "https://grafana.com/blog/2025/04/02/grafanacon-local-our-biggest-community-event-is-coming-to-a-city-near-you/"
   }
 ]
