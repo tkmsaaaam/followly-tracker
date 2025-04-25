@@ -4,6 +4,10 @@
     "url": "https://grafana.com/blog/2025/04/25/introducing-the-causely-data-source-plugin-for-grafana/"
   },
   {
+    "title": "Joey Bartolomeo   ·   25 Apr 2025   ·   9 min readOne platform for logs, metrics, traces, profiles, and OpenTelemetry: Inside Booking.com's move to...Find out how the online travel platform shifted from multiple observability solutions to a single, unified platform.MimirOpenTelemetryRead more",
+    "url": "https://grafana.com/blog/2025/04/25/one-platform-for-logs-metrics-traces-profiles-and-opentelemetry-inside-booking.coms-move-to-grafana-cloud/"
+  },
+  {
     "title": "Elyssa Emrich   ·   24 Apr 2025   ·   6 min readYour guide to GrafanaCON 2025: Choose your own adventure in SeattleCounting down the days to GrafanaCON 2025? We are too. Here’s everything you need to know to make the most out of your GrafanaCON experience.GrafanaConEventsCommunityRead more",
     "url": "https://grafana.com/blog/2025/04/24/your-guide-to-grafanacon-2025-choose-your-own-adventure-in-seattle/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Renata Faria   ·   7 Apr 2025   ·   5 min readA privacy-first, data-driven approach to optimize the user experience: Introducing Geolocation...With Geolocation Insights in Frontend Observability, you can filter, segment, and analyze frontend telemetry based on location data — all while...Frontend observabilityRead more",
     "url": "https://grafana.com/blog/2025/04/07/a-privacy-first-data-driven-approach-to-optimize-the-user-experience-introducing-geolocation-insights-in-frontend-observability/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   4 Apr 2025   ·   2 min readConnect with Grafana Labs at Google Cloud Next 2025Headed to Google Cloud Next 2025? Swing by our booth or set up a meeting to talk with our observability experts and get some fun Grafana Labs swag!EventsRead more",
-    "url": "https://grafana.com/blog/2025/04/04/connect-with-grafana-labs-at-google-cloud-next-2025/"
   }
 ]
