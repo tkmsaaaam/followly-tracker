@@ -1,5 +1,9 @@
 [
   {
+    "title": "Anatolii Timoshuk   ·   29 Apr 2025   ·   8 min readHow to keep Ingress NGINX Controller metric volumes manageable and still meaningfulExplore the factors that lead to Ingress NGINX Controller metric growth and practical strategies to mitigate the issue while still retaining essential...Grafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/04/29/how-to-keep-ingress-nginx-controller-metric-volumes-manageable-and-still-meaningful/"
+  },
+  {
     "title": "Joe McManus   ·   27 Apr 2025   ·   3 min readGrafana security update: no customer impact from GitHub workflow vulnerabilityOn April 26, an unauthorized user exploited a vulnerability with a GitHub workflow to gain unauthorized access to tokens, all of which have now been...SecurityRead more",
     "url": "https://grafana.com/blog/2025/04/27/grafana-security-update-no-customer-impact-from-github-workflow-vulnerability/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Joey Orlando   ·   10 Apr 2025   ·   4 min readOpsgenie alternative: How to migrate to Grafana Cloud IRMLooking to migrate from Opsgenie to Grafana Cloud IRM? This month, we rolled out a new tool designed to make that process as seamless and efficient as...Grafana IRMRead more",
     "url": "https://grafana.com/blog/2025/04/10/opsgenie-alternative-how-to-migrate-to-grafana-cloud-irm/"
-  },
-  {
-    "title": "Kyle Eckhart   ·   8 Apr 2025   ·   5 min readBring your Microsoft Azure metrics and logs to Grafana Cloud—no Alloy requiredConfigure Cloud Provider Observability for serverless collection of Azure logs and metrics, and get insights you can't get out of the box with Azure...Cloud Provider ObservabilityRead more",
-    "url": "https://grafana.com/blog/2025/04/08/bring-your-microsoft-azure-metrics-and-logs-to-grafana-cloud-no-alloy-required/"
   }
 ]
