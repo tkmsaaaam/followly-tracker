@@ -1,5 +1,9 @@
 [
   {
+    "title": "Virginia Cepeda   ·   1 May 2025   ·   4 min readMonitor the full end-user experience: k6 browser checks in Synthetic Monitoring are generally...With k6 browser checks in Grafana Cloud Synthetic Monitoring, you can gain an even deeper understanding of performance and availability from your end...Synthetic monitoringRead more",
+    "url": "https://grafana.com/blog/2025/05/01/monitor-the-full-end-user-experience-k6-browser-checks-in-synthetic-monitoring-are-generally-available/"
+  },
+  {
     "title": "Anatolii Timoshuk   ·   29 Apr 2025   ·   8 min readHow to keep Ingress NGINX Controller metric volumes manageable and still meaningfulExplore the factors that lead to Ingress NGINX Controller metric growth and practical strategies to mitigate the issue while still retaining essential...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/04/29/how-to-keep-ingress-nginx-controller-metric-volumes-manageable-and-still-meaningful/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Kristin Knapp   ·   11 Apr 2025   ·   8 min readHow SpotOn overhauled its observability strategy with standardized tagging and Grafana CloudThrough standardized tagging and a migration to Grafana Cloud, the SpotOn engineering team transformed its observability strategy, ditching complexity...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/04/11/how-spoton-overhauled-its-observability-strategy-with-standardized-tagging-and-grafana-cloud/"
-  },
-  {
-    "title": "Joey Orlando   ·   10 Apr 2025   ·   4 min readOpsgenie alternative: How to migrate to Grafana Cloud IRMLooking to migrate from Opsgenie to Grafana Cloud IRM? This month, we rolled out a new tool designed to make that process as seamless and efficient as...Grafana IRMRead more",
-    "url": "https://grafana.com/blog/2025/04/10/opsgenie-alternative-how-to-migrate-to-grafana-cloud-irm/"
   }
 ]
