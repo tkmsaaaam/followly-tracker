@@ -1,5 +1,9 @@
 [
   {
+    "title": "Gyorgy Krajcsovits   ·   6 May 2025   ·   11 min readPrometheus native histograms in Grafana Cloud: More precise, easier to use, and better compatibilityPrometheus native histograms offer higher resolution and precision. They're also easier to instrument and you can use them to combine and manipulate...PrometheusGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/05/06/prometheus-native-histograms-in-grafana-cloud-more-precise-easier-to-use-and-better-compatibility/"
+  },
+  {
     "title": "Virginia Cepeda   ·   1 May 2025   ·   4 min readMonitor the full end-user experience: k6 browser checks in Synthetic Monitoring are generally...With k6 browser checks in Grafana Cloud Synthetic Monitoring, you can gain an even deeper understanding of performance and availability from your end...Synthetic monitoringRead more",
     "url": "https://grafana.com/blog/2025/05/01/monitor-the-full-end-user-experience-k6-browser-checks-in-synthetic-monitoring-are-generally-available/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Will Gallego   ·   14 Apr 2025   ·   7 min readWhy you should embrace more incidents (seriously!)Normalizing incidents can actually lead to better incident response. Find out why that's the case, and how to get the rest of your team to buy into...Incident responseRead more",
     "url": "https://grafana.com/blog/2025/04/14/why-you-should-embrace-more-incidents-seriously/"
-  },
-  {
-    "title": "Kristin Knapp   ·   11 Apr 2025   ·   8 min readHow SpotOn overhauled its observability strategy with standardized tagging and Grafana CloudThrough standardized tagging and a migration to Grafana Cloud, the SpotOn engineering team transformed its observability strategy, ditching complexity...Grafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/04/11/how-spoton-overhauled-its-observability-strategy-with-standardized-tagging-and-grafana-cloud/"
   }
 ]
