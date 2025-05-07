@@ -1,5 +1,37 @@
 [
   {
+    "title": "Mat Ryer   ·   7 May 2025   ·   7 min readA context-aware LLM agent built directly into Grafana Cloud: Introducing Grafana AssistantWith our new integrated AI agent you can write in natural language to ask observability questions, see certain data, build dashboards, and make...AI/MLGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/05/07/llm-grafana-assistant/"
+  },
+  {
+    "title": "Grafana Labs Team   ·   7 May 2025   ·   12 min readGrafana 12 release: observability as code, dynamic dashboards, new Grafana Alerting tools, and moreWith the latest major release, Grafana introduces new tools that help bring together teams into a unified observability platform, which you can then...GrafanaReleaseRead more",
+    "url": "https://grafana.com/blog/2025/05/07/grafana-12-release-all-the-new-features/"
+  },
+  {
+    "title": "Roberto Jiménez Sánchez   ·   7 May 2025   ·   4 min readGrafana dashboards as code: How to manage your dashboards with GitGit Sync in Grafana 12 is designed to make it easy to save and manage your dashboards as code—no complex setup required.GrafanaRead more",
+    "url": "https://grafana.com/blog/2025/05/07/git-sync-grafana-12/"
+  },
+  {
+    "title": "Grafana Labs Team   ·   7 May 2025   ·   8 min readGrafanaCON 2025: A guide to all the announcements from Grafana LabsCatch up on all the latest news out of GrafanaCON 2025, including the release of Grafana 12 and Grafana k6 1.0.GrafanaGrafanaConCommunityEventsRead more",
+    "url": "https://grafana.com/blog/2025/05/07/grafanacon-2025-announcements/"
+  },
+  {
+    "title": "Nikola Grcevski   ·   7 May 2025   ·   5 min readIntroducing OpenTelemetry eBPF Instrumentation: Why we donated Grafana Beyla to OpenTelemetryWe’re excited to share that we’ve made the initial code drop of Grafana Beyla to OpenTelemetry, under the new project name OpenTelemetry eBPF...Grafana BeylaOpenTelemetryeBPFRead more",
+    "url": "https://grafana.com/blog/2025/05/07/opentelemetry-ebpf-instrumentation-beyla-donation/"
+  },
+  {
+    "title": "Thanos Karachalios   ·   7 May 2025   ·   7 min readNew in Grafana 12: Dynamic dashboards that are smarter, easier to edit, and can be customized for...Building a Grafana dashboard just got easier. With Grafana 12, your dashboards will be faster to edit, easier to organize, and responsive to any...GrafanaDashboardRead more",
+    "url": "https://grafana.com/blog/2025/05/07/dynamic-dashboards-grafana-12/"
+  },
+  {
+    "title": "Fabrizia Rossano   ·   7 May 2025   ·   7 min readObservability as code: automate observability workflows and manage dashboards as code in GrafanaThe new observability as code features and tools in Grafana 12 allow you to version, validate, and deploy dashboards like any other code base in your...GrafanaDashboardRead more",
+    "url": "https://grafana.com/blog/2025/05/07/observability-as-code-grafana-12/"
+  },
+  {
+    "title": "Théo Crevon   ·   7 May 2025   ·   5 min readReliable, predictable, and scalable performance testing: Grafana k6 1.0 is hereWith the first major release of Grafana k6, we’re doubling down on our commitment to make performance and reliability testing more predictable,...k6Performance testingLoad testingRead more",
+    "url": "https://grafana.com/blog/2025/05/07/grafana-k6-1.0-release/"
+  },
+  {
     "title": "Gyorgy Krajcsovits   ·   6 May 2025   ·   11 min readPrometheus native histograms in Grafana Cloud: More precise, easier to use, and better compatibilityPrometheus native histograms offer higher resolution and precision. They're also easier to instrument and you can use them to combine and manipulate...PrometheusGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/05/06/prometheus-native-histograms-in-grafana-cloud-more-precise-easier-to-use-and-better-compatibility/"
   },
@@ -26,37 +58,5 @@
   {
     "title": "Elyssa Emrich   ·   24 Apr 2025   ·   6 min readYour guide to GrafanaCON 2025: Choose your own adventure in SeattleCounting down the days to GrafanaCON 2025? We are too. Here’s everything you need to know to make the most out of your GrafanaCON experience.GrafanaConEventsCommunityRead more",
     "url": "https://grafana.com/blog/2025/04/24/your-guide-to-grafanacon-2025-choose-your-own-adventure-in-seattle/"
-  },
-  {
-    "title": "Bukola Ayodele   ·   23 Apr 2025   ·   5 min readHow to get started with frontend observability: A quick Grafana Faro exampleIn this step-by-step post, learn how to use Grafana Faro, an open source web SDK, to gather real user monitoring data from web applications and...Grafana FaroFrontend observabilityRead more",
-    "url": "https://grafana.com/blog/2025/04/23/how-to-get-started-with-frontend-observability-a-quick-grafana-faro-example/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   22 Apr 2025   ·   6 min readGrafana security release: Medium and high severity fixes for CVE-2025-3260, CVE-2025-2703,...Today we are releasing security patches for Grafana 11.6.0, 11.5.3, 11.4.3, 11.3.5, 11.2.8, and 10.4.17, which include medium and high severity...SecurityRead more",
-    "url": "https://grafana.com/blog/2025/04/22/grafana-security-release-medium-and-high-severity-fixes-for-cve-2025-3260-cve-2025-2703-cve-2025-3454/"
-  },
-  {
-    "title": "Łukasz Tyrała   ·   21 Apr 2025   ·   6 min readNew in Adaptive Logs: user-facing temporary pauses, exemptions, and per-service recommendationsCheck out these new features to help reduce toil, apply recommendations with precision, and confidently optimize your log ingestion while still...Adaptive TelemetryGrafana CloudLoggingRead more",
-    "url": "https://grafana.com/blog/2025/04/21/new-in-adaptive-logs-user-facing-temporary-pauses-exemptions-and-per-service-recommendations/"
-  },
-  {
-    "title": "Marie Cruz   ·   18 Apr 2025   ·   10 min readSTEM in the garden: how to monitor plants with IoT sensors and Grafana CloudNo green thumb? No problem. Here's a simple IoT project to visualize the health of your plants using Arduino, Prometheus, and Grafana Cloud.IoTGrafana CloudDashboardRead more",
-    "url": "https://grafana.com/blog/2025/04/18/stem-in-the-garden-how-to-monitor-plants-with-iot-sensors-and-grafana-cloud/"
-  },
-  {
-    "title": "Joey Bartolomeo   ·   17 Apr 2025   ·   8 min readHow a cooking platform whipped up a new observability plan with Grafana CloudFind out how putting business data in dashboards and using Adaptive Metrics helped the team behind Cookidoo spot errors and save on costs.CommunityAdaptive MetricsRead more",
-    "url": "https://grafana.com/blog/2025/04/17/how-a-cooking-platform-whipped-up-a-new-observability-plan-with-grafana-cloud/"
-  },
-  {
-    "title": "Kristin Knapp   ·   16 Apr 2025   ·   10 min readGrafana Cloud updates: new testing features in Grafana Cloud k6, enhanced troubleshooting in...It’s been a big month for Grafana Cloud updates, with a range of new features rolling out across Grafana Cloud k6, Kubernetes Monitoring, Frontend...Grafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/04/16/grafana-cloud-updates-new-testing-features-in-grafana-cloud-k6-enhanced-troubleshooting-in-kubernetes-monitoring-and-more/"
-  },
-  {
-    "title": "Kamel Djoudi   ·   15 Apr 2025   ·   14 min readAWS Lambda, OpenTelemetry, and Grafana Cloud: a guide to serverless observability considerationsFrom cold starts to pole position: Learn how to observe Lambda with OpenTelemetry and Grafana Cloud, and build a sample app for monitoring the F1...OpenTelemetryGrafana CloudApplication ObservabilityRead more",
-    "url": "https://grafana.com/blog/2025/04/15/aws-lambda-opentelemetry-and-grafana-cloud-a-guide-to-serverless-observability-considerations/"
-  },
-  {
-    "title": "Will Gallego   ·   14 Apr 2025   ·   7 min readWhy you should embrace more incidents (seriously!)Normalizing incidents can actually lead to better incident response. Find out why that's the case, and how to get the rest of your team to buy into...Incident responseRead more",
-    "url": "https://grafana.com/blog/2025/04/14/why-you-should-embrace-more-incidents-seriously/"
   }
 ]
