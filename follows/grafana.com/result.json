@@ -1,5 +1,17 @@
 [
   {
+    "title": "Sam Alipio   ·   8 May 2025   ·   8 min readGrafana Alloy at 1: What's new and what's next for our OpenTelemetry Collector distributionLook back at what we've done in the year since we launched Grafana Alloy, our OpenTelemetry Collector distribution with built-in Prometheus pipelines,...Grafana AlloyRead more",
+    "url": "https://grafana.com/blog/2025/05/08/alloy-one-year/"
+  },
+  {
+    "title": "Daniel Ken Lee   ·   8 May 2025   ·   3 min readGrafana Cloud Migration Assistant: from self-hosted to the cloud in minutesThe Grafana Cloud Migration Assistant is a powerful yet intuitive tool designed to streamline your migration from Grafana OSS or Grafana Enterprise....MigrationGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/05/08/grafana-cloud-migration-assistant/"
+  },
+  {
+    "title": "Alex Bikfalvi   ·   8 May 2025   ·   9 min readQueryless tracing for faster root-cause analysis: Grafana Traces Drilldown is generally availableGrafana Traces Drilldown enables you to quickly investigate and visualize tracing data through a simplified, point-and-click experience — no TraceQL...DrilldownTracingRead more",
+    "url": "https://grafana.com/blog/2025/05/08/traces-drilldown-generally-available/"
+  },
+  {
     "title": "Mat Ryer   ·   7 May 2025   ·   7 min readA context-aware LLM agent built directly into Grafana Cloud: Introducing Grafana AssistantWith our new integrated AI agent you can write in natural language to ask observability questions, see certain data, build dashboards, and make...AI/MLGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/05/07/llm-grafana-assistant/"
   },
@@ -46,17 +58,5 @@
   {
     "title": "Joe McManus   ·   27 Apr 2025   ·   3 min readGrafana security update: no customer impact from GitHub workflow vulnerabilityOn April 26, an unauthorized user exploited a vulnerability with a GitHub workflow to gain unauthorized access to tokens, all of which have now been...SecurityRead more",
     "url": "https://grafana.com/blog/2025/04/27/grafana-security-update-no-customer-impact-from-github-workflow-vulnerability/"
-  },
-  {
-    "title": "Endre Sara   ·   25 Apr 2025   ·   4 min readIntroducing the Causely data source plugin for GrafanaCausely users can now connect directly to their Grafana dashboards for faster root cause analysis.PluginsRead more",
-    "url": "https://grafana.com/blog/2025/04/25/introducing-the-causely-data-source-plugin-for-grafana/"
-  },
-  {
-    "title": "Joey Bartolomeo   ·   25 Apr 2025   ·   9 min readOne platform for logs, metrics, traces, profiles, and OpenTelemetry: Inside Booking.com's move to...Find out how the online travel platform shifted from multiple observability solutions to a single, unified platform.MimirOpenTelemetryRead more",
-    "url": "https://grafana.com/blog/2025/04/25/one-platform-for-logs-metrics-traces-profiles-and-opentelemetry-inside-booking.coms-move-to-grafana-cloud/"
-  },
-  {
-    "title": "Elyssa Emrich   ·   24 Apr 2025   ·   6 min readYour guide to GrafanaCON 2025: Choose your own adventure in SeattleCounting down the days to GrafanaCON 2025? We are too. Here’s everything you need to know to make the most out of your GrafanaCON experience.GrafanaConEventsCommunityRead more",
-    "url": "https://grafana.com/blog/2025/04/24/your-guide-to-grafanacon-2025-choose-your-own-adventure-in-seattle/"
   }
 ]
