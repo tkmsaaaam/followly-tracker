@@ -1,5 +1,9 @@
 [
   {
+    "title": "Pavel Štrobl   ·   9 May 2025   ·   10 min readHow to monitor your Prusa 3D printer with GrafanaHave you ever thought about observing 3D printers? With prusa_exporter you can build your Prusa printer metrics and visualize everything you want to...CommunityRead more",
+    "url": "https://grafana.com/blog/2025/05/09/how-to-monitor-your-prusa-3d-printer-with-grafana/"
+  },
+  {
     "title": "Sam Alipio   ·   8 May 2025   ·   8 min readGrafana Alloy at 1: What's new and what's next for our OpenTelemetry Collector distributionLook back at what we've done in the year since we launched Grafana Alloy, our OpenTelemetry Collector distribution with built-in Prometheus pipelines,...Grafana AlloyRead more",
     "url": "https://grafana.com/blog/2025/05/08/alloy-one-year/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Anatolii Timoshuk   ·   29 Apr 2025   ·   8 min readHow to keep Ingress NGINX Controller metric volumes manageable and still meaningfulExplore the factors that lead to Ingress NGINX Controller metric growth and practical strategies to mitigate the issue while still retaining essential...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/04/29/how-to-keep-ingress-nginx-controller-metric-volumes-manageable-and-still-meaningful/"
-  },
-  {
-    "title": "Joe McManus   ·   27 Apr 2025   ·   3 min readGrafana security update: no customer impact from GitHub workflow vulnerabilityOn April 26, an unauthorized user exploited a vulnerability with a GitHub workflow to gain unauthorized access to tokens, all of which have now been...SecurityRead more",
-    "url": "https://grafana.com/blog/2025/04/27/grafana-security-update-no-customer-impact-from-github-workflow-vulnerability/"
   }
 ]
