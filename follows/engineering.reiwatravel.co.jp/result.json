@@ -1,5 +1,9 @@
 [
   {
+    "title": "旅行業界未経験からジョイン。基幹システムを支えるPMの体験記PM2025/05/13",
+    "url": "https://engineering.reiwatravel.co.jp/blog/joining-entry-kubocchi"
+  },
+  {
     "title": "【イベントレポート】「【4社協賛】AI時代のtoCプロダクトマネジメントとは」を開催しました！Event2025/05/08",
     "url": "https://engineering.reiwatravel.co.jp/blog/tech-lt-20250416"
   },
@@ -34,9 +38,5 @@
   {
     "title": "実践におけるLLMデータアノテーションPM2025/04/09",
     "url": "https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20250409"
-  },
-  {
-    "title": "AIトランスフォーメーションで描く、旅行事業の未来PM2025/04/07",
-    "url": "https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20250407"
   }
 ]
