@@ -1,5 +1,9 @@
 [
   {
+    "title": "Shawn Pitts   ·   13 May 2025   ·   4 min readHow to easily connect Prometheus to Grafana CloudLearn how to quickly connect your Prometheus data source to Grafana Cloud in this easy-to-follow tutorial.PrometheusGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/05/13/how-to-easily-connect-prometheus-to-grafana-cloud/"
+  },
+  {
     "title": "Pavel Štrobl   ·   9 May 2025   ·   10 min readHow to monitor your Prusa 3D printer with GrafanaHave you ever thought about observing 3D printers? With prusa_exporter you can build your Prusa printer metrics and visualize everything you want to...CommunityRead more",
     "url": "https://grafana.com/blog/2025/05/09/how-to-monitor-your-prusa-3d-printer-with-grafana/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Virginia Cepeda   ·   1 May 2025   ·   4 min readMonitor the full end-user experience: k6 browser checks in Synthetic Monitoring are generally...With k6 browser checks in Grafana Cloud Synthetic Monitoring, you can gain an even deeper understanding of performance and availability from your end...Synthetic monitoringRead more",
     "url": "https://grafana.com/blog/2025/05/01/monitor-the-full-end-user-experience-k6-browser-checks-in-synthetic-monitoring-are-generally-available/"
-  },
-  {
-    "title": "Anatolii Timoshuk   ·   29 Apr 2025   ·   8 min readHow to keep Ingress NGINX Controller metric volumes manageable and still meaningfulExplore the factors that lead to Ingress NGINX Controller metric growth and practical strategies to mitigate the issue while still retaining essential...Grafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/04/29/how-to-keep-ingress-nginx-controller-metric-volumes-manageable-and-still-meaningful/"
   }
 ]
