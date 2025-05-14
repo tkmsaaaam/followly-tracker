@@ -1,5 +1,9 @@
 [
   {
+    "title": "Vardan Torosyan   ·   14 May 2025   ·   5 min readIntroducing SCIM provisioning in Grafana: Enterprise-grade user management made simpleUse SCIM to manage users and teams in Grafana more efficiently. Bring automated user lifecycle management and enhanced security to your observability...GrafanaGrafana EnterpriseGrafana CloudSecurityRead more",
+    "url": "https://grafana.com/blog/2025/05/14/introducing-scim-provisioning-in-grafana-enterprise-grade-user-management-made-simple/"
+  },
+  {
     "title": "Shawn Pitts   ·   13 May 2025   ·   4 min readHow to easily connect Prometheus to Grafana CloudLearn how to quickly connect your Prometheus data source to Grafana Cloud in this easy-to-follow tutorial.PrometheusGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/05/13/how-to-easily-connect-prometheus-to-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Théo Crevon   ·   7 May 2025   ·   5 min readReliable, predictable, and scalable performance testing: Grafana k6 1.0 is hereWith the first major release of Grafana k6, we’re doubling down on our commitment to make performance and reliability testing more predictable,...k6Performance testingLoad testingRead more",
     "url": "https://grafana.com/blog/2025/05/07/grafana-k6-1.0-release/"
-  },
-  {
-    "title": "Gyorgy Krajcsovits   ·   6 May 2025   ·   11 min readPrometheus native histograms in Grafana Cloud: More precise, easier to use, and better compatibilityPrometheus native histograms offer higher resolution and precision. They're also easier to instrument and you can use them to combine and manipulate...PrometheusGrafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/05/06/prometheus-native-histograms-in-grafana-cloud-more-precise-easier-to-use-and-better-compatibility/"
   }
 ]
