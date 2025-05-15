@@ -4,6 +4,10 @@
     "url": "https://grafana.com/blog/2025/05/14/introducing-scim-provisioning-in-grafana-enterprise-grade-user-management-made-simple/"
   },
   {
+    "title": "Kristin Knapp   ·   14 May 2025   ·   5 min readVisualize Amazon Aurora, Zendesk, and more: What’s new in Grafana data sourcesThe latest additions to our line-up of Grafana data sources help you quickly and easily visualize data from your go-to CI/CD tools, help desk systems,...PluginsRead more",
+    "url": "https://grafana.com/blog/2025/05/14/visualize-amazon-aurora-zendesk-and-more-whats-new-in-grafana-data-sources/"
+  },
+  {
     "title": "Shawn Pitts   ·   13 May 2025   ·   4 min readHow to easily connect Prometheus to Grafana CloudLearn how to quickly connect your Prometheus data source to Grafana Cloud in this easy-to-follow tutorial.PrometheusGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/05/13/how-to-easily-connect-prometheus-to-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Fabrizia Rossano   ·   7 May 2025   ·   7 min readObservability as code: automate observability workflows and manage dashboards as code in GrafanaThe new observability as code features and tools in Grafana 12 allow you to version, validate, and deploy dashboards like any other code base in your...GrafanaDashboardRead more",
     "url": "https://grafana.com/blog/2025/05/07/observability-as-code-grafana-12/"
-  },
-  {
-    "title": "Théo Crevon   ·   7 May 2025   ·   5 min readReliable, predictable, and scalable performance testing: Grafana k6 1.0 is hereWith the first major release of Grafana k6, we’re doubling down on our commitment to make performance and reliability testing more predictable,...k6Performance testingLoad testingRead more",
-    "url": "https://grafana.com/blog/2025/05/07/grafana-k6-1.0-release/"
   }
 ]
