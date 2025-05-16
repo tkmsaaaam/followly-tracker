@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kristin Knapp   ·   16 May 2025   ·   6 min readDashboards and detergent: How two students monitor laundry machines in a college dorm with GrafanaUsing TimescaleDB and Grafana, Dakota and Cole — two students, friends, and data enthusiasts — built an observability solution to make laundry days in...GrafanaVisualizationCommunityRead more",
+    "url": "https://grafana.com/blog/2025/05/16/dashboards-and-detergent-how-two-students-monitor-laundry-machines-in-a-college-dorm-with-grafana/"
+  },
+  {
     "title": "Joe McManus   ·   15 May 2025   ·   5 min readGrafana security update: post-incident review for GitHub workflow vulnerability and what's nextOur investigation wrapped up on May 12, and we have confirmed that there has been no code modification, unauthorized access to production systems,...SecurityRead more",
     "url": "https://grafana.com/blog/2025/05/15/grafana-security-update-post-incident-review-for-github-workflow-vulnerability-and-whats-next/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Nikola Grcevski   ·   7 May 2025   ·   5 min readIntroducing OpenTelemetry eBPF Instrumentation: Why we donated Grafana Beyla to OpenTelemetryWe’re excited to share that we’ve made the initial code drop of Grafana Beyla to OpenTelemetry, under the new project name OpenTelemetry eBPF...Grafana BeylaOpenTelemetryeBPFRead more",
     "url": "https://grafana.com/blog/2025/05/07/opentelemetry-ebpf-instrumentation-beyla-donation/"
-  },
-  {
-    "title": "Thanos Karachalios   ·   7 May 2025   ·   7 min readNew in Grafana 12: Dynamic dashboards that are smarter, easier to edit, and can be customized for...Building a Grafana dashboard just got easier. With Grafana 12, your dashboards will be faster to edit, easier to organize, and responsive to any...GrafanaDashboardRead more",
-    "url": "https://grafana.com/blog/2025/05/07/dynamic-dashboards-grafana-12/"
   }
 ]
