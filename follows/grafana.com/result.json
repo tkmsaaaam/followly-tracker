@@ -1,5 +1,9 @@
 [
   {
+    "title": "Ash Mazhari   ·   19 May 2025   ·   2 min readAzure Monitor offers Grafana dashboards natively for immediate real time operational monitoringMicrosoft Azure partnered with Grafana Labs to offer Grafana dashboards directly in the Azure Portal and provide immediate access to prebuilt...DashboardRead more",
+    "url": "https://grafana.com/blog/2025/05/19/azure-monitor-offers-grafana-dashboards-natively-for-immediate-real-time-operational-monitoring/"
+  },
+  {
     "title": "Kristin Knapp   ·   16 May 2025   ·   6 min readDashboards and detergent: How two students monitor laundry machines in a college dorm with GrafanaUsing TimescaleDB and Grafana, Dakota and Cole — two students, friends, and data enthusiasts — built an observability solution to make laundry days in...GrafanaVisualizationCommunityRead more",
     "url": "https://grafana.com/blog/2025/05/16/dashboards-and-detergent-how-two-students-monitor-laundry-machines-in-a-college-dorm-with-grafana/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Grafana Labs Team   ·   7 May 2025   ·   9 min readGrafanaCON 2025: A guide to all the announcements from Grafana LabsCatch up on all the latest news out of GrafanaCON 2025, including the release of Grafana 12 and Grafana k6 1.0.GrafanaGrafanaConCommunityEventsRead more",
     "url": "https://grafana.com/blog/2025/05/07/grafanacon-2025-announcements/"
-  },
-  {
-    "title": "Nikola Grcevski   ·   7 May 2025   ·   5 min readIntroducing OpenTelemetry eBPF Instrumentation: Why we donated Grafana Beyla to OpenTelemetryWe’re excited to share that we’ve made the initial code drop of Grafana Beyla to OpenTelemetry, under the new project name OpenTelemetry eBPF...Grafana BeylaOpenTelemetryeBPFRead more",
-    "url": "https://grafana.com/blog/2025/05/07/opentelemetry-ebpf-instrumentation-beyla-donation/"
   }
 ]
