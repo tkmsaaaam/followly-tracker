@@ -1,5 +1,9 @@
 [
   {
+    "title": "パスポートを持っていないQAエンジニアが旅行業界のスタートアップで挑戦を決めた理由QA2025/05/20",
+    "url": "https://engineering.reiwatravel.co.jp/blog/joining-entry-massu"
+  },
+  {
     "title": "旅行業界未経験からジョイン。基幹システムを支えるPMの体験記PM2025/05/13",
     "url": "https://engineering.reiwatravel.co.jp/blog/joining-entry-kubocchi"
   },
@@ -34,9 +38,5 @@
   {
     "title": "2025年版 NEWTオリジナルアイテムを作成しました！Design2025/04/13",
     "url": "https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20250413"
-  },
-  {
-    "title": "実践におけるLLMデータアノテーションPM2025/04/09",
-    "url": "https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20250409"
   }
 ]
