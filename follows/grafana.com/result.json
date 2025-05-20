@@ -1,5 +1,13 @@
 [
   {
+    "title": "Joey Orlando   ·   20 May 2025   ·   4 min readCustomize your incident response with new features in Grafana Cloud IRMConfigure Grafana Cloud IRM to better suit your specific needs by using new features to customize your incident labels, metadata fields, and incident...Grafana IRMIncident responseRead more",
+    "url": "https://grafana.com/blog/2025/05/20/customize-your-incident-response-with-new-features-in-grafana-cloud-irm/"
+  },
+  {
+    "title": "Cyrille Le Clerc   ·   20 May 2025   ·   7 min readOpenTelemetry with Prometheus: better integration through resource attribute promotionLearn how resource attribute promotion improves the integration between OpenTelemetry and Prometheus, and how it simplifies dashboard creation and...PrometheusOpenTelemetryMimirRead more",
+    "url": "https://grafana.com/blog/2025/05/20/opentelemetry-with-prometheus-better-integration-through-resource-attribute-promotion/"
+  },
+  {
     "title": "Ash Mazhari   ·   19 May 2025   ·   2 min readAzure Monitor offers Grafana dashboards natively for immediate real time operational monitoringMicrosoft Azure partnered with Grafana Labs to offer Grafana dashboards directly in the Azure Portal and provide immediate access to prebuilt...DashboardRead more",
     "url": "https://grafana.com/blog/2025/05/19/azure-monitor-offers-grafana-dashboards-natively-for-immediate-real-time-operational-monitoring/"
   },
@@ -50,13 +58,5 @@
   {
     "title": "Grafana Labs Team   ·   7 May 2025   ·   12 min readGrafana 12 release: observability as code, dynamic dashboards, new Grafana Alerting tools, and moreWith the latest major release, Grafana introduces new tools that help bring together teams into a unified observability platform, which you can then...GrafanaReleaseRead more",
     "url": "https://grafana.com/blog/2025/05/07/grafana-12-release-all-the-new-features/"
-  },
-  {
-    "title": "Roberto Jiménez Sánchez   ·   7 May 2025   ·   4 min readGrafana dashboards as code: How to manage your dashboards with GitGit Sync in Grafana 12 is designed to make it easy to save and manage your dashboards as code—no complex setup required.GrafanaRead more",
-    "url": "https://grafana.com/blog/2025/05/07/git-sync-grafana-12/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   7 May 2025   ·   9 min readGrafanaCON 2025: A guide to all the announcements from Grafana LabsCatch up on all the latest news out of GrafanaCON 2025, including the release of Grafana 12 and Grafana k6 1.0.GrafanaGrafanaConCommunityEventsRead more",
-    "url": "https://grafana.com/blog/2025/05/07/grafanacon-2025-announcements/"
   }
 ]
