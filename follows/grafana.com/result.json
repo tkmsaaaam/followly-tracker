@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kristin Knapp   ·   21 May 2025   ·   9 min readGrafana Cloud updates: New observability as code tools, Grafana Drilldown enhancements, and moreOn the heels of GrafanaCON 2025 and the release of Grafana 12, there are a ton of Grafana Cloud updates to share this month.Grafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/05/21/grafana-cloud-updates-new-observability-as-code-tools-grafana-drilldown-enhancements-and-more/"
+  },
+  {
     "title": "Joey Orlando   ·   20 May 2025   ·   4 min readCustomize your incident response with new features in Grafana Cloud IRMConfigure Grafana Cloud IRM to better suit your specific needs by using new features to customize your incident labels, metadata fields, and incident...Grafana IRMIncident responseRead more",
     "url": "https://grafana.com/blog/2025/05/20/customize-your-incident-response-with-new-features-in-grafana-cloud-irm/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Mat Ryer   ·   7 May 2025   ·   7 min readA context-aware LLM agent built directly into Grafana Cloud: Introducing Grafana AssistantWith our new integrated AI agent you can write in natural language to ask observability questions, see certain data, build dashboards, and make...AI/MLGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/05/07/llm-grafana-assistant/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   7 May 2025   ·   12 min readGrafana 12 release: observability as code, dynamic dashboards, new Grafana Alerting tools, and moreWith the latest major release, Grafana introduces new tools that help bring together teams into a unified observability platform, which you can then...GrafanaReleaseRead more",
-    "url": "https://grafana.com/blog/2025/05/07/grafana-12-release-all-the-new-features/"
   }
 ]
