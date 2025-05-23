@@ -1,5 +1,9 @@
 [
   {
+    "title": "Grafana Labs Team   ·   23 May 2025   ·   5 min readGrafana security release: Medium and high severity security fixes for CVE-2025-4123 and...Today we are releasing Grafana 12.0.1, 11.6.2, 11.5.5, 11.4.5, 11.3.7, 11.2.10, and 10.4.19, which include medium and high severity security fixes. If...SecurityRead more",
+    "url": "https://grafana.com/blog/2025/05/23/grafana-security-release-medium-and-high-severity-security-fixes-for-cve-2025-4123-and-cve-2025-3580/"
+  },
+  {
     "title": "Kristin Knapp   ·   21 May 2025   ·   9 min readGrafana Cloud updates: New observability as code tools, Grafana Drilldown enhancements, and moreOn the heels of GrafanaCON 2025 and the release of Grafana 12, there are a ton of Grafana Cloud updates to share this month.Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/05/21/grafana-cloud-updates-new-observability-as-code-tools-grafana-drilldown-enhancements-and-more/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Daniel Ken Lee   ·   8 May 2025   ·   3 min readGrafana Cloud Migration Assistant: from self-hosted to the cloud in minutesThe Grafana Cloud Migration Assistant is a powerful yet intuitive tool designed to streamline your migration from Grafana OSS or Grafana Enterprise....MigrationGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/05/08/grafana-cloud-migration-assistant/"
-  },
-  {
-    "title": "Alex Bikfalvi   ·   8 May 2025   ·   9 min readQueryless tracing for faster root-cause analysis: Grafana Traces Drilldown is generally availableGrafana Traces Drilldown enables you to quickly investigate and visualize tracing data through a simplified, point-and-click experience — no TraceQL...DrilldownTracingRead more",
-    "url": "https://grafana.com/blog/2025/05/08/traces-drilldown-generally-available/"
   }
 ]
