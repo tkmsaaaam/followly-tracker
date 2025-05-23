@@ -4,6 +4,10 @@
     "url": "https://grafana.com/blog/2025/05/23/grafana-security-release-medium-and-high-severity-security-fixes-for-cve-2025-4123-and-cve-2025-3580/"
   },
   {
+    "title": "Ryan Kelly   ·   23 May 2025   ·   9 min readSAML authentication in Grafana Cloud: a guide for easy configurationSAML authentication in Grafana Cloud: a guide for easy configurationGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/05/23/saml-authentication-in-grafana-cloud-a-guide-for-easy-configuration/"
+  },
+  {
     "title": "Kristin Knapp   ·   21 May 2025   ·   9 min readGrafana Cloud updates: New observability as code tools, Grafana Drilldown enhancements, and moreOn the heels of GrafanaCON 2025 and the release of Grafana 12, there are a ton of Grafana Cloud updates to share this month.Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/05/21/grafana-cloud-updates-new-observability-as-code-tools-grafana-drilldown-enhancements-and-more/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Sam Alipio   ·   8 May 2025   ·   8 min readGrafana Alloy at 1: What's new and what's next for our OpenTelemetry Collector distributionLook back at what we've done in the year since we launched Grafana Alloy, our OpenTelemetry Collector distribution with built-in Prometheus pipelines,...Grafana AlloyRead more",
     "url": "https://grafana.com/blog/2025/05/08/alloy-one-year/"
-  },
-  {
-    "title": "Daniel Ken Lee   ·   8 May 2025   ·   3 min readGrafana Cloud Migration Assistant: from self-hosted to the cloud in minutesThe Grafana Cloud Migration Assistant is a powerful yet intuitive tool designed to streamline your migration from Grafana OSS or Grafana Enterprise....MigrationGrafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/05/08/grafana-cloud-migration-assistant/"
   }
 ]
