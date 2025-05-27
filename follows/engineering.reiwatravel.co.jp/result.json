@@ -1,5 +1,9 @@
 [
   {
+    "title": "【イベントレポート】「Rails, Go, TypeScriptで挑む─バックエンド開発の選択と実践」を開催しました！Event2025/05/27",
+    "url": "https://engineering.reiwatravel.co.jp/blog/tech-lt-20250513"
+  },
+  {
     "title": "パスポートを持っていないQAエンジニアが旅行業界のスタートアップで挑戦を決めた理由QA2025/05/20",
     "url": "https://engineering.reiwatravel.co.jp/blog/joining-entry-massu"
   },
@@ -34,9 +38,5 @@
   {
     "title": "会社にとっても自身にとっても、非連続な成長への挑戦をBackend2025/04/15",
     "url": "https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20250415"
-  },
-  {
-    "title": "2025年版 NEWTオリジナルアイテムを作成しました！Design2025/04/13",
-    "url": "https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20250413"
   }
 ]
