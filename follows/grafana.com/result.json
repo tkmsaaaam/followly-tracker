@@ -1,5 +1,9 @@
 [
   {
+    "title": "Sonia Aguilar   ·   27 May 2025   ·   5 min readHow to import Prometheus-style alerts and recording rules to Grafana-managed alerts and recording...New in Grafana 12: Import your existing Prometheus, Grafana Loki, or Grafana Mimir rule files into Grafana-managed alerts and recording rules in bulk,...AlertingPrometheusGrafanaRead more",
+    "url": "https://grafana.com/blog/2025/05/27/how-to-import-prometheus-style-alerts-and-recording-rules-to-grafana-managed-alerts-and-recording-rules/"
+  },
+  {
     "title": "Grafana Labs Team   ·   23 May 2025   ·   6 min readGrafana security release: Medium and high severity security fixes for CVE-2025-4123 and...Today we are releasing Grafana 12.0.1, 11.6.2, 11.5.5, 11.4.5, 11.3.7, 11.2.10, and 10.4.19, which include medium and high severity security fixes. If...SecurityRead more",
     "url": "https://grafana.com/blog/2025/05/23/grafana-security-release-medium-and-high-severity-security-fixes-for-cve-2025-4123-and-cve-2025-3580/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Pavel Štrobl   ·   9 May 2025   ·   10 min readHow to monitor your Prusa 3D printer with GrafanaHave you ever thought about observing 3D printers? With prusa_exporter you can build your Prusa printer metrics and visualize everything you want to...CommunityRead more",
     "url": "https://grafana.com/blog/2025/05/09/how-to-monitor-your-prusa-3d-printer-with-grafana/"
-  },
-  {
-    "title": "Sam Alipio   ·   8 May 2025   ·   8 min readGrafana Alloy at 1: What's new and what's next for our OpenTelemetry Collector distributionLook back at what we've done in the year since we launched Grafana Alloy, our OpenTelemetry Collector distribution with built-in Prometheus pipelines,...Grafana AlloyRead more",
-    "url": "https://grafana.com/blog/2025/05/08/alloy-one-year/"
   }
 ]
