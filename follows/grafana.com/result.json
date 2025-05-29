@@ -1,5 +1,9 @@
 [
   {
+    "title": "Zhehao Zhou   ·   29 May 2025   ·   3 min readWhat’s new in Grafana Metrics Drilldown: advanced filtering options, UI enhancements, and moreRecent updates to Grafana Metrics Drilldown, including new filtering and sorting options, make it even easier and faster to find key metrics with just...DrilldownRead more",
+    "url": "https://grafana.com/blog/2025/05/29/whats-new-in-grafana-metrics-drilldown-advanced-filtering-options-ui-enhancements-and-more/"
+  },
+  {
     "title": "Mattias Segerdahl   ·   28 May 2025   ·   9 min readKubernetes observability: How to enrich logs with GeoIP using the Kubernetes Monitoring Helm ChartAdding geographical context to logs can help you troubleshoot faster, optimize performance, and more. Here’s how to do just that with the Kubernetes...Kubernetes monitoringGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/05/28/kubernetes-observability-how-to-enrich-logs-with-geoip-using-the-kubernetes-monitoring-helm-chart/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Shawn Pitts   ·   13 May 2025   ·   4 min readHow to easily connect Prometheus to Grafana CloudLearn how to quickly connect your Prometheus data source to Grafana Cloud in this easy-to-follow tutorial.PrometheusGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/05/13/how-to-easily-connect-prometheus-to-grafana-cloud/"
-  },
-  {
-    "title": "Kristin Knapp   ·   13 May 2025   ·   3 min readVisualize Databricks in Grafana: write custom SQL queries, build interactive dashboards, and moreWith the Databricks Enterprise data source for Grafana, you can easily query and visualize Databricks data in Grafana Enterprise or Grafana Cloud.PluginsRead more",
-    "url": "https://grafana.com/blog/2025/05/13/visualize-databricks-in-grafana-write-custom-sql-queries-build-interactive-dashboards-and-more/"
   }
 ]
