@@ -1,5 +1,9 @@
 [
   {
+    "title": "Rich Kreitz   ·   2 Jun 2025   ·   4 min readSimple cloud cost management: Grafana Labs integrates open standard FOCUS specification for cloud...We’re excited to share that Grafana Cloud offers the FinOps Open Cost and Usage Specification (FOCUS), a community-driven, open standard for cloud...Cost managementRead more",
+    "url": "https://grafana.com/blog/2025/06/02/simple-cloud-cost-management-grafana-labs-integrates-open-standard-focus-specification-for-cloud-billing-data/"
+  },
+  {
     "title": "Zhehao Zhou   ·   29 May 2025   ·   3 min readWhat’s new in Grafana Metrics Drilldown: advanced filtering options, UI enhancements, and moreRecent updates to Grafana Metrics Drilldown, including new filtering and sorting options, make it even easier and faster to find key metrics with just...DrilldownRead more",
     "url": "https://grafana.com/blog/2025/05/29/whats-new-in-grafana-metrics-drilldown-advanced-filtering-options-ui-enhancements-and-more/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Kristin Knapp   ·   14 May 2025   ·   5 min readVisualize Amazon Aurora, Zendesk, and more: What’s new in Grafana data sourcesThe latest additions to our line-up of Grafana data sources help you quickly and easily visualize data from your go-to CI/CD tools, help desk systems,...PluginsRead more",
     "url": "https://grafana.com/blog/2025/05/14/visualize-amazon-aurora-zendesk-and-more-whats-new-in-grafana-data-sources/"
-  },
-  {
-    "title": "Shawn Pitts   ·   13 May 2025   ·   4 min readHow to easily connect Prometheus to Grafana CloudLearn how to quickly connect your Prometheus data source to Grafana Cloud in this easy-to-follow tutorial.PrometheusGrafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/05/13/how-to-easily-connect-prometheus-to-grafana-cloud/"
   }
 ]
