@@ -1,5 +1,9 @@
 [
   {
+    "title": "Bukola Ayodele   ·   3 Jun 2025   ·   5 min readOptimizing the end-user experience: How to perform a browser check in Grafana Cloud Synthetic...Learn how to perform a browser check in Grafana Cloud Synthetic Monitoring to simulate user interactions with your website and ensure the best...Synthetic monitoringRead more",
+    "url": "https://grafana.com/blog/2025/06/03/optimizing-the-end-user-experience-how-to-perform-a-browser-check-in-grafana-cloud-synthetic-monitoring/"
+  },
+  {
     "title": "Rich Kreitz   ·   2 Jun 2025   ·   4 min readSimple cloud cost management: Grafana Labs integrates open standard FOCUS specification for cloud...We’re excited to share that Grafana Cloud offers the FinOps Open Cost and Usage Specification (FOCUS), a community-driven, open standard for cloud...Cost managementRead more",
     "url": "https://grafana.com/blog/2025/06/02/simple-cloud-cost-management-grafana-labs-integrates-open-standard-focus-specification-for-cloud-billing-data/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Vardan Torosyan   ·   14 May 2025   ·   5 min readIntroducing SCIM provisioning in Grafana: Enterprise-grade user management made simpleUse SCIM to manage users and teams in Grafana more efficiently. Bring automated user lifecycle management and enhanced security to your observability...GrafanaGrafana EnterpriseGrafana CloudSecurityRead more",
     "url": "https://grafana.com/blog/2025/05/14/introducing-scim-provisioning-in-grafana-enterprise-grade-user-management-made-simple/"
-  },
-  {
-    "title": "Kristin Knapp   ·   14 May 2025   ·   5 min readVisualize Amazon Aurora, Zendesk, and more: What’s new in Grafana data sourcesThe latest additions to our line-up of Grafana data sources help you quickly and easily visualize data from your go-to CI/CD tools, help desk systems,...PluginsRead more",
-    "url": "https://grafana.com/blog/2025/05/14/visualize-amazon-aurora-zendesk-and-more-whats-new-in-grafana-data-sources/"
   }
 ]
