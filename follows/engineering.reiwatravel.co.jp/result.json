@@ -1,5 +1,9 @@
 [
   {
+    "title": "【イベントレポート】社内LT「グレープNight vol.7」を開催しました！Event2025/06/03",
+    "url": "https://engineering.reiwatravel.co.jp/blog/grape-night-07"
+  },
+  {
     "title": "【イベントレポート】「Rails, Go, TypeScriptで挑む─バックエンド開発の選択と実践」を開催しました！Event2025/05/27",
     "url": "https://engineering.reiwatravel.co.jp/blog/tech-lt-20250513"
   },
@@ -34,9 +38,5 @@
   {
     "title": "プロダクト進化を支えるデータ分析PM2025/04/17",
     "url": "https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20250417"
-  },
-  {
-    "title": "会社にとっても自身にとっても、非連続な成長への挑戦をBackend2025/04/15",
-    "url": "https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20250415"
   }
 ]
