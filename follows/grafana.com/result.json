@@ -1,5 +1,9 @@
 [
   {
+    "title": "Pepe Cano   ·   3 Jun 2025   ·   5 min readHow to send alerts from Grafana OSS to Grafana Cloud IRMConnect your alerts from self-hosted Grafana OSS or Grafana Enterprise instances to Grafana Cloud IRM to escalate and manage incidents.Grafana IRMGrafanaGrafana EnterpriseGrafana CloudAlertingRead more",
+    "url": "https://grafana.com/blog/2025/06/03/how-to-send-alerts-from-grafana-oss-to-grafana-cloud-irm/"
+  },
+  {
     "title": "Bukola Ayodele   ·   3 Jun 2025   ·   5 min readOptimizing the end-user experience: How to perform a browser check in Grafana Cloud Synthetic...Learn how to perform a browser check in Grafana Cloud Synthetic Monitoring to simulate user interactions with your website and ensure the best...Synthetic monitoringRead more",
     "url": "https://grafana.com/blog/2025/06/03/optimizing-the-end-user-experience-how-to-perform-a-browser-check-in-grafana-cloud-synthetic-monitoring/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Joe McManus   ·   15 May 2025   ·   5 min readGrafana security update: post-incident review for GitHub workflow vulnerability and what's nextOur investigation wrapped up on May 12, and we have confirmed that there has been no code modification, unauthorized access to production systems,...SecurityRead more",
     "url": "https://grafana.com/blog/2025/05/15/grafana-security-update-post-incident-review-for-github-workflow-vulnerability-and-whats-next/"
-  },
-  {
-    "title": "Vardan Torosyan   ·   14 May 2025   ·   5 min readIntroducing SCIM provisioning in Grafana: Enterprise-grade user management made simpleUse SCIM to manage users and teams in Grafana more efficiently. Bring automated user lifecycle management and enhanced security to your observability...GrafanaGrafana EnterpriseGrafana CloudSecurityRead more",
-    "url": "https://grafana.com/blog/2025/05/14/introducing-scim-provisioning-in-grafana-enterprise-grade-user-management-made-simple/"
   }
 ]
