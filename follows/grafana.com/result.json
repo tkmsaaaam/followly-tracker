@@ -1,5 +1,9 @@
 [
   {
+    "title": "Grafana Labs Team   ·   4 Jun 2025   ·   3 min readObservabilityCON 2025 is coming to London!We’re excited to share that ObservabilityCON, our flagship observability event, will take place in London this October.ObservabilityCONEventsRead more",
+    "url": "https://grafana.com/blog/2025/06/04/observabilitycon-2025-is-coming-to-london/"
+  },
+  {
     "title": "Pepe Cano   ·   3 Jun 2025   ·   5 min readHow to send alerts from Grafana OSS to Grafana Cloud IRMConnect your alerts from self-hosted Grafana OSS or Grafana Enterprise instances to Grafana Cloud IRM to escalate and manage incidents.Grafana IRMGrafanaGrafana EnterpriseGrafana CloudAlertingRead more",
     "url": "https://grafana.com/blog/2025/06/03/how-to-send-alerts-from-grafana-oss-to-grafana-cloud-irm/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Kristin Knapp   ·   16 May 2025   ·   6 min readDashboards and detergent: How two students monitor laundry machines in a college dorm with GrafanaUsing TimescaleDB and Grafana, Dakota and Cole — two students, friends, and data enthusiasts — built an observability solution to make laundry days in...GrafanaVisualizationCommunityRead more",
     "url": "https://grafana.com/blog/2025/05/16/dashboards-and-detergent-how-two-students-monitor-laundry-machines-in-a-college-dorm-with-grafana/"
-  },
-  {
-    "title": "Joe McManus   ·   15 May 2025   ·   5 min readGrafana security update: post-incident review for GitHub workflow vulnerability and what's nextOur investigation wrapped up on May 12, and we have confirmed that there has been no code modification, unauthorized access to production systems,...SecurityRead more",
-    "url": "https://grafana.com/blog/2025/05/15/grafana-security-update-post-incident-review-for-github-workflow-vulnerability-and-whats-next/"
   }
 ]
