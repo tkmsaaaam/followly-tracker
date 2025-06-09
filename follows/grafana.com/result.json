@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kristin Knapp   ·   9 Jun 2025   ·   5 min readLunar-level observability: How Firefly Aerospace used Grafana to monitor its historic moon landingBehind Blue Ghost Mission 1 — the first fully successful lunar landing by a commercial provider — there was a team of skilled engineers, years of...CommunityGrafanaConGrafanaRead more",
+    "url": "https://grafana.com/blog/2025/06/09/lunar-level-observability-how-firefly-aerospace-used-grafana-to-monitor-its-historic-moon-landing/"
+  },
+  {
     "title": "Marylia Gutierrez   ·   6 Jun 2025   ·   9 min readDatabase observability: How OpenTelemetry semantic conventions improve consistency across signalsLearn how semantic conventions improve database observability, then follow a demo on how to instrument a simple app with OpenTelemetry and visualize...OpenTelemetryRead more",
     "url": "https://grafana.com/blog/2025/06/06/database-observability-how-opentelemetry-semantic-conventions-improve-consistency-across-signals/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Cyrille Le Clerc   ·   20 May 2025   ·   7 min readOpenTelemetry with Prometheus: better integration through resource attribute promotionLearn how resource attribute promotion improves the integration between OpenTelemetry and Prometheus, and how it simplifies dashboard creation and...PrometheusOpenTelemetryMimirRead more",
     "url": "https://grafana.com/blog/2025/05/20/opentelemetry-with-prometheus-better-integration-through-resource-attribute-promotion/"
-  },
-  {
-    "title": "Ash Mazhari   ·   19 May 2025   ·   2 min readAzure Monitor offers Grafana dashboards natively for immediate real time operational monitoringMicrosoft Azure partnered with Grafana Labs to offer Grafana dashboards directly in the Azure Portal and provide immediate access to prebuilt...DashboardRead more",
-    "url": "https://grafana.com/blog/2025/05/19/azure-monitor-offers-grafana-dashboards-natively-for-immediate-real-time-operational-monitoring/"
   }
 ]
