@@ -1,5 +1,9 @@
 [
   {
+    "title": "Marie Cruz   ·   10 Jun 2025   ·   10 min readImplementing Grafana Play privacy policies with Grafana k6: A behind-the-scenes lookHere’s how the Grafana Labs team recently used Python, JavaScript, and Grafana k6 to identify and remove unnecessary data from the Grafana Play...GrafanaCommunityk6Read more",
+    "url": "https://grafana.com/blog/2025/06/10/implementing-grafana-play-privacy-policies-with-grafana-k6-a-behind-the-scenes-look/"
+  },
+  {
     "title": "Grafana Labs Team   ·   9 Jun 2025   ·   6 min readGrafanaCON 2025: On-demand sessions are now available!If you weren’t able to join us in person, you can now catch up on all the latest announcements, OSS updates, and inspiring community use cases from...GrafanaConRead more",
     "url": "https://grafana.com/blog/2025/06/09/grafanacon-2025-on-demand-sessions-are-now-available/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Kristian Bremberg   ·   21 May 2025   ·   4 min readGrafana security release: High severity security fix for CVE-2025-4123Today we are releasing Grafana 12.0.0+security-01, as well as security patches for all supported versions for a high severity security fix. If you are...SecurityRead more",
     "url": "https://grafana.com/blog/2025/05/21/grafana-security-release-high-severity-security-fix-for-cve-2025-4123/"
-  },
-  {
-    "title": "Joey Orlando   ·   20 May 2025   ·   4 min readCustomize your incident response with new features in Grafana Cloud IRMConfigure Grafana Cloud IRM to better suit your specific needs by using new features to customize your incident labels, metadata fields, and incident...Grafana IRMIncident responseRead more",
-    "url": "https://grafana.com/blog/2025/05/20/customize-your-incident-response-with-new-features-in-grafana-cloud-irm/"
   }
 ]
