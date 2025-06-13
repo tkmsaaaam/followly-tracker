@@ -1,5 +1,9 @@
 [
   {
+    "title": "Tiffany Jernigan   ·   12 Jun 2025   ·   6 min readGrafana Tempo 2.8 release: memory improvements, new TraceQL features, and moreThe latest release of Grafana Tempo brings memory improvements, new TraceQL features, bug fixes, and some breaking changes.TempoTraceQLTracingRead more",
+    "url": "https://grafana.com/blog/2025/06/12/grafana-tempo-2.8-release-memory-improvements-new-traceql-features-and-more/"
+  },
+  {
     "title": "Matt Wimpelberg   ·   11 Jun 2025   ·   6 min readData points per minute in Grafana Cloud: What you need to know about DPMThis is your all-in-one guide to understanding DPM in Grafana Cloud: how it works, why we care about it, how to spot issues, and how to keep things...Grafana CloudCost managementRead more",
     "url": "https://grafana.com/blog/2025/06/11/data-points-per-minute-in-grafana-cloud-what-you-need-to-know-about-dpm/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Ryan Kelly   ·   23 May 2025   ·   9 min readSAML authentication in Grafana Cloud: a guide for easy configurationSAML authentication in Grafana Cloud: a guide for easy configurationGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/05/23/saml-authentication-in-grafana-cloud-a-guide-for-easy-configuration/"
-  },
-  {
-    "title": "Kristin Knapp   ·   21 May 2025   ·   9 min readGrafana Cloud updates: New observability as code tools, Grafana Drilldown enhancements, and moreOn the heels of GrafanaCON 2025 and the release of Grafana 12, there are a ton of Grafana Cloud updates to share this month.Grafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/05/21/grafana-cloud-updates-new-observability-as-code-tools-grafana-drilldown-enhancements-and-more/"
   }
 ]
