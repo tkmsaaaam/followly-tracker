@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kristian Bremberg   ·   13 Jun 2025   ·   3 min readGrafana security update: Medium severity security release for CVE-2025-3415Today we are releasing security patches for Grafana 12.0.1, 11.6.2, 11.5.5, 11.4.5, 11.3.7, 11.2.10, and 10.4.19 that include a medium severity...SecurityRead more",
+    "url": "https://grafana.com/blog/2025/06/13/grafana-security-update-medium-severity-security-release-for-cve-2025-3415/"
+  },
+  {
     "title": "Trevor Jones   ·   13 Jun 2025   ·   7 min readObservability trends in Japan: Insights from Grafana Labs' latest surveyJapanese organizations are prioritizing controlling cost and minimizing complexity, according to a recent survey by Grafana Labs.ObservabilityRead more",
     "url": "https://grafana.com/blog/2025/06/13/japan-observability-survey-25/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Sonia Aguilar   ·   27 May 2025   ·   5 min readHow to import Prometheus-style alerts and recording rules to Grafana-managed alerts and recording...New in Grafana 12: Import your existing Prometheus, Grafana Loki, or Grafana Mimir rule files into Grafana-managed alerts and recording rules in bulk,...AlertingPrometheusGrafanaRead more",
     "url": "https://grafana.com/blog/2025/05/27/how-to-import-prometheus-style-alerts-and-recording-rules-to-grafana-managed-alerts-and-recording-rules/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   23 May 2025   ·   6 min readGrafana security release: Medium and high severity security fixes for CVE-2025-4123 and...Today we are releasing Grafana 12.0.1, 11.6.2, 11.5.5, 11.4.5, 11.3.7, 11.2.10, and 10.4.19, which include medium and high severity security fixes. If...SecurityRead more",
-    "url": "https://grafana.com/blog/2025/05/23/grafana-security-release-medium-and-high-severity-security-fixes-for-cve-2025-4123-and-cve-2025-3580/"
   }
 ]
