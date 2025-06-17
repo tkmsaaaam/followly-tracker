@@ -1,5 +1,9 @@
 [
   {
+    "title": "Pete Wall   ·   17 Jun 2025   ·   5 min readConfigure and customize Kubernetes Monitoring easier with Alloy OperatorOur latest Kubernetes Monitoring Helm chart offers easier, dynamic configuration with Alloy Operator.Kubernetes monitoringGrafana AlloyRead more",
+    "url": "https://grafana.com/blog/2025/06/17/configure-and-customize-kubernetes-monitoring-easier-with-alloy-operator/"
+  },
+  {
     "title": "Gerry Boland   ·   16 Jun 2025   ·   6 min readAdaptive alerting: faster, better insights with the new metrics forecasting UI in Grafana CloudGo from reactive to proactive with our new and improved metrics forecasting UI in Grafana Cloud, designed to make exploring and fine-tuning faster,...AI/MLGrafana CloudAlertingRead more",
     "url": "https://grafana.com/blog/2025/06/16/adaptive-alerting-faster-better-insights-with-the-new-metrics-forecasting-ui-in-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Rich Kreitz   ·   2 Jun 2025   ·   4 min readSimple cloud cost management: Grafana Labs integrates open standard FOCUS specification for cloud...We’re excited to share that Grafana Cloud offers the FinOps Open Cost and Usage Specification (FOCUS), a community-driven, open standard for cloud...Cost managementRead more",
     "url": "https://grafana.com/blog/2025/06/02/simple-cloud-cost-management-grafana-labs-integrates-open-standard-focus-specification-for-cloud-billing-data/"
-  },
-  {
-    "title": "Zhehao Zhou   ·   29 May 2025   ·   3 min readWhat’s new in Grafana Metrics Drilldown: advanced filtering options, UI enhancements, and moreRecent updates to Grafana Metrics Drilldown, including new filtering and sorting options, make it even easier and faster to find key metrics with just...DrilldownRead more",
-    "url": "https://grafana.com/blog/2025/05/29/whats-new-in-grafana-metrics-drilldown-advanced-filtering-options-ui-enhancements-and-more/"
   }
 ]
