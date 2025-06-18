@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kristin Knapp   ·   18 Jun 2025   ·   3 min readVisualize Google Cloud BigQuery data in Grafana: the latest updates, key features, and moreWith our Google Cloud BigQuery data source, you can quickly and easily visualize BigQuery data within your Grafana dashboards — plus so much more.PluginsRead more",
+    "url": "https://grafana.com/blog/2025/06/18/visualize-google-cloud-bigquery-data-in-grafana-the-latest-updates-key-features-and-more/"
+  },
+  {
     "title": "Pete Wall   ·   17 Jun 2025   ·   5 min readConfigure and customize Kubernetes Monitoring easier with Alloy OperatorOur latest Kubernetes Monitoring Helm chart offers easier, dynamic configuration with Alloy Operator.Kubernetes monitoringGrafana AlloyRead more",
     "url": "https://grafana.com/blog/2025/06/17/configure-and-customize-kubernetes-monitoring-easier-with-alloy-operator/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Bukola Ayodele   ·   3 Jun 2025   ·   5 min readOptimizing the end-user experience: How to perform a browser check in Grafana Cloud Synthetic...Learn how to perform a browser check in Grafana Cloud Synthetic Monitoring to simulate user interactions with your website and ensure the best...Synthetic monitoringRead more",
     "url": "https://grafana.com/blog/2025/06/03/optimizing-the-end-user-experience-how-to-perform-a-browser-check-in-grafana-cloud-synthetic-monitoring/"
-  },
-  {
-    "title": "Rich Kreitz   ·   2 Jun 2025   ·   4 min readSimple cloud cost management: Grafana Labs integrates open standard FOCUS specification for cloud...We’re excited to share that Grafana Cloud offers the FinOps Open Cost and Usage Specification (FOCUS), a community-driven, open standard for cloud...Cost managementRead more",
-    "url": "https://grafana.com/blog/2025/06/02/simple-cloud-cost-management-grafana-labs-integrates-open-standard-focus-specification-for-cloud-billing-data/"
   }
 ]
