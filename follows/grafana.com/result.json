@@ -1,5 +1,9 @@
 [
   {
+    "title": "Ana Ivanov   ·   24 Jun 2025   ·   3 min readGrafana Cloud: Manage the AWS Observability app as code with TerraformUsing code to manage your AWS Observability app in Grafana Cloud just makes things much smoother and more dependable as you grow, and in this blog...AWSCloud Provider ObservabilityGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/06/24/grafana-cloud-manage-the-aws-observability-app-as-code-with-terraform/"
+  },
+  {
     "title": "Grafana Labs Team   ·   20 Jun 2025   ·   4 min readGoing with the flow: How one Golden Grot Awards winner monitors wastewater with GrafanaHere’s how Grant Chase, a 2025 Golden Grot Awards winner, built a Grafana dashboard to visualize wastewater treatment operations for the city of Morro...Golden Grot winnersGolden GrotsRead more",
     "url": "https://grafana.com/blog/2025/06/20/going-with-the-flow-how-one-golden-grot-awards-winner-monitors-wastewater-with-grafana/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Marylia Gutierrez   ·   6 Jun 2025   ·   9 min readDatabase observability: How OpenTelemetry semantic conventions improve consistency across signalsLearn how semantic conventions improve database observability, then follow a demo on how to instrument a simple app with OpenTelemetry and visualize...OpenTelemetryRead more",
     "url": "https://grafana.com/blog/2025/06/06/database-observability-how-opentelemetry-semantic-conventions-improve-consistency-across-signals/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   4 Jun 2025   ·   3 min readObservabilityCON 2025 is coming to London!We’re excited to share that ObservabilityCON, our flagship observability event, will take place in London this October.ObservabilityCONEventsRead more",
-    "url": "https://grafana.com/blog/2025/06/04/observabilitycon-2025-is-coming-to-london/"
   }
 ]
