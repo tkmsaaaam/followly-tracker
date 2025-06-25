@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kristin Knapp   ·   25 Jun 2025   ·   6 min readGrafana Cloud updates: The latest features in Kubernetes Monitoring, Fleet Management, and moreThis month, we’ve rolled out new Grafana Cloud features to help you troubleshoot faster in Kubernetes Monitoring, restore pipelines in Fleet...Grafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/06/25/grafana-cloud-updates-the-latest-features-in-kubernetes-monitoring-fleet-management-and-more/"
+  },
+  {
     "title": "Ana Ivanov   ·   24 Jun 2025   ·   3 min readGrafana Cloud: Manage the AWS Observability app as code with TerraformUsing code to manage your AWS Observability app in Grafana Cloud just makes things much smoother and more dependable as you grow, and in this blog...AWSCloud Provider ObservabilityGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/06/24/grafana-cloud-manage-the-aws-observability-app-as-code-with-terraform/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Kristin Knapp   ·   9 Jun 2025   ·   5 min readLunar-level observability: How Firefly Aerospace used Grafana to monitor its historic moon landingBehind Blue Ghost Mission 1 — the first fully successful lunar landing by a commercial provider — there was a team of skilled engineers, years of...CommunityGrafanaConGrafanaRead more",
     "url": "https://grafana.com/blog/2025/06/09/lunar-level-observability-how-firefly-aerospace-used-grafana-to-monitor-its-historic-moon-landing/"
-  },
-  {
-    "title": "Marylia Gutierrez   ·   6 Jun 2025   ·   9 min readDatabase observability: How OpenTelemetry semantic conventions improve consistency across signalsLearn how semantic conventions improve database observability, then follow a demo on how to instrument a simple app with OpenTelemetry and visualize...OpenTelemetryRead more",
-    "url": "https://grafana.com/blog/2025/06/06/database-observability-how-opentelemetry-semantic-conventions-improve-consistency-across-signals/"
   }
 ]
