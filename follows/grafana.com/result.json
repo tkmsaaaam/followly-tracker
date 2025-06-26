@@ -4,6 +4,10 @@
     "url": "https://grafana.com/blog/2025/06/25/grafana-cloud-updates-the-latest-features-in-kubernetes-monitoring-fleet-management-and-more/"
   },
   {
+    "title": "James Crocker   ·   25 Jun 2025   ·   7 min readHow to detect vulnerable GitHub Actions at scale with ZizmorIn order to harden our infrastructure and pipelines, we have introduced the open source tool Zizmor into our CI/CD pipelines.SecurityRead more",
+    "url": "https://grafana.com/blog/2025/06/25/how-to-detect-vulnerable-github-actions-at-scale-with-zizmor/"
+  },
+  {
     "title": "Ana Ivanov   ·   24 Jun 2025   ·   3 min readGrafana Cloud: Manage the AWS Observability app as code with TerraformUsing code to manage your AWS Observability app in Grafana Cloud just makes things much smoother and more dependable as you grow, and in this blog...AWSCloud Provider ObservabilityGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/06/24/grafana-cloud-manage-the-aws-observability-app-as-code-with-terraform/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Grafana Labs Team   ·   9 Jun 2025   ·   6 min readGrafanaCON 2025: On-demand sessions are now available!If you weren’t able to join us in person, you can now catch up on all the latest announcements, OSS updates, and inspiring community use cases from...GrafanaConRead more",
     "url": "https://grafana.com/blog/2025/06/09/grafanacon-2025-on-demand-sessions-are-now-available/"
-  },
-  {
-    "title": "Kristin Knapp   ·   9 Jun 2025   ·   5 min readLunar-level observability: How Firefly Aerospace used Grafana to monitor its historic moon landingBehind Blue Ghost Mission 1 — the first fully successful lunar landing by a commercial provider — there was a team of skilled engineers, years of...CommunityGrafanaConGrafanaRead more",
-    "url": "https://grafana.com/blog/2025/06/09/lunar-level-observability-how-firefly-aerospace-used-grafana-to-monitor-its-historic-moon-landing/"
   }
 ]
