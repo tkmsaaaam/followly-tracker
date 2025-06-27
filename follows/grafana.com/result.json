@@ -1,11 +1,11 @@
 [
   {
-    "title": "Kristin Knapp   ·   25 Jun 2025   ·   6 min readGrafana Cloud updates: The latest features in Kubernetes Monitoring, Fleet Management, and moreThis month, we’ve rolled out new Grafana Cloud features to help you troubleshoot faster in Kubernetes Monitoring, restore pipelines in Fleet...Grafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/06/25/grafana-cloud-updates-the-latest-features-in-kubernetes-monitoring-fleet-management-and-more/"
+    "title": "James Crocker   ·   26 Jun 2025   ·   7 min readHow to detect vulnerable GitHub Actions at scale with ZizmorIn order to harden our infrastructure and pipelines, we have introduced the open source tool Zizmor into our CI/CD pipelines.SecurityRead more",
+    "url": "https://grafana.com/blog/2025/06/26/how-to-detect-vulnerable-github-actions-at-scale-with-zizmor/"
   },
   {
-    "title": "James Crocker   ·   25 Jun 2025   ·   7 min readHow to detect vulnerable GitHub Actions at scale with ZizmorIn order to harden our infrastructure and pipelines, we have introduced the open source tool Zizmor into our CI/CD pipelines.SecurityRead more",
-    "url": "https://grafana.com/blog/2025/06/25/how-to-detect-vulnerable-github-actions-at-scale-with-zizmor/"
+    "title": "Kristin Knapp   ·   25 Jun 2025   ·   6 min readGrafana Cloud updates: The latest features in Kubernetes Monitoring, Fleet Management, and moreThis month, we’ve rolled out new Grafana Cloud features to help you troubleshoot faster in Kubernetes Monitoring, restore pipelines in Fleet...Grafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/06/25/grafana-cloud-updates-the-latest-features-in-kubernetes-monitoring-fleet-management-and-more/"
   },
   {
     "title": "Ana Ivanov   ·   24 Jun 2025   ·   3 min readGrafana Cloud: Manage the AWS Observability app as code with TerraformUsing code to manage your AWS Observability app in Grafana Cloud just makes things much smoother and more dependable as you grow, and in this blog...AWSCloud Provider ObservabilityGrafana CloudRead more",
