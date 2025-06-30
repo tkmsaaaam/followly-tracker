@@ -1,5 +1,9 @@
 [
   {
+    "title": "Yasir Ekinci   ·   30 Jun 2025   ·   7 min readGoing beyond AI chat response: How we're building an agentic system to drive GrafanaLearn how we're incorporating agentic systems into Grafana to help you get things done quicker and easier.AI/MLRead more",
+    "url": "https://grafana.com/blog/2025/06/30/going-beyond-ai-chat-response-how-were-building-an-agentic-system-to-drive-grafana/"
+  },
+  {
     "title": "Colin Steele   ·   27 Jun 2025   ·   5 min readHow Dropbox rebuilt its logging stack with Grafana Loki after a data center went darkLearn how Dropbox evolved a single distributed Loki cluster into a reliable petabyte-scale logging platform—all while balancing developer needs and...LokiLoggingGrafanaConRead more",
     "url": "https://grafana.com/blog/2025/06/27/how-dropbox-rebuilt-its-logging-stack-with-grafana-loki-after-a-data-center-went-dark/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Matt Wimpelberg   ·   11 Jun 2025   ·   6 min readData points per minute in Grafana Cloud: What you need to know about DPMThis is your all-in-one guide to understanding DPM in Grafana Cloud: how it works, why we care about it, how to spot issues, and how to keep things...Grafana CloudCost managementRead more",
     "url": "https://grafana.com/blog/2025/06/11/data-points-per-minute-in-grafana-cloud-what-you-need-to-know-about-dpm/"
-  },
-  {
-    "title": "Marie Cruz   ·   10 Jun 2025   ·   10 min readImplementing Grafana Play privacy policies with Grafana k6: A behind-the-scenes lookHere’s how the Grafana Labs team recently used Python, JavaScript, and Grafana k6 to identify and remove unnecessary data from the Grafana Play...GrafanaCommunityk6Read more",
-    "url": "https://grafana.com/blog/2025/06/10/implementing-grafana-play-privacy-policies-with-grafana-k6-a-behind-the-scenes-look/"
   }
 ]
