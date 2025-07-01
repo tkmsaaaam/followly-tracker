@@ -1,5 +1,9 @@
 [
   {
+    "title": "Trevor Jones   ·   1 Jul 2025   ·   7 min readFaster incident response through distributed tracing: Inside Glovo's use of Traces DrilldownLearn how on-demand food and grocery delivery platform Glovo used Traces Drilldown to help find the root cause of an incident caused by cascading...TracingDrilldownRead more",
+    "url": "https://grafana.com/blog/2025/07/01/faster-incident-response-through-distributed-tracing-inside-glovos-use-of-traces-drilldown/"
+  },
+  {
     "title": "Yasir Ekinci   ·   30 Jun 2025   ·   7 min readGoing beyond AI chat response: How we're building an agentic system to drive GrafanaLearn how we're incorporating agentic systems into Grafana to help you get things done quicker and easier.AI/MLRead more",
     "url": "https://grafana.com/blog/2025/06/30/going-beyond-ai-chat-response-how-were-building-an-agentic-system-to-drive-grafana/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Tiffany Jernigan   ·   12 Jun 2025   ·   6 min readGrafana Tempo 2.8 release: memory improvements, new TraceQL features, and moreThe latest release of Grafana Tempo brings memory improvements, new TraceQL features, bug fixes, and some breaking changes.TempoTraceQLTracingRead more",
     "url": "https://grafana.com/blog/2025/06/12/grafana-tempo-2.8-release-memory-improvements-new-traceql-features-and-more/"
-  },
-  {
-    "title": "Matt Wimpelberg   ·   11 Jun 2025   ·   6 min readData points per minute in Grafana Cloud: What you need to know about DPMThis is your all-in-one guide to understanding DPM in Grafana Cloud: how it works, why we care about it, how to spot issues, and how to keep things...Grafana CloudCost managementRead more",
-    "url": "https://grafana.com/blog/2025/06/11/data-points-per-minute-in-grafana-cloud-what-you-need-to-know-about-dpm/"
   }
 ]
