@@ -1,5 +1,9 @@
 [
   {
+    "title": "Joey Bartolomeo   ·   7 Jul 2025   ·   8 min readFrom chaos to clarity with Grafana dashboards: How video game company EA monitors 200+ metricsHow video game company EA uses Grafana to monitor 200+ metricsDashboardGrafanaGrafanaConRead more",
+    "url": "https://grafana.com/blog/2025/07/07/from-chaos-to-clarity-with-grafana-dashboards-how-video-game-company-ea-monitors-200-metrics/"
+  },
+  {
     "title": "Trevor Jones   ·   3 Jul 2025   ·   5 min readInfluxDB 3 Core: a complete rewrite designed for speed and simplicityInfluxDB 3 Core adds support for SQL and unlimited cardinality that doesn't impact performance, as well as the separation of compute and storage.InfluxRead more",
     "url": "https://grafana.com/blog/2025/07/03/influxdb-3-core-a-complete-rewrite-designed-for-speed-and-simplicity/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Logan Smith   ·   16 Jun 2025   ·   5 min readPrometheus data source update: Redefining our big tent philosophyAs part of our goal of developing data sources that are more purpose-built, we have added Prometheus plugins that specifically cater to AWS and Azure...PluginsPrometheusRead more",
     "url": "https://grafana.com/blog/2025/06/16/prometheus-data-source-update-redefining-our-big-tent-philosophy/"
-  },
-  {
-    "title": "Kristian Bremberg   ·   13 Jun 2025   ·   3 min readGrafana security update: Medium severity security release for CVE-2025-3415Today we are releasing security patches for Grafana 12.0.1, 11.6.2, 11.5.5, 11.4.5, 11.3.7, 11.2.10, and 10.4.19 that include a medium severity...SecurityRead more",
-    "url": "https://grafana.com/blog/2025/06/13/grafana-security-update-medium-severity-security-release-for-cve-2025-3415/"
   }
 ]
