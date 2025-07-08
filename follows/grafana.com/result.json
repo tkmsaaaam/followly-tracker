@@ -1,5 +1,9 @@
 [
   {
+    "title": "Gregor Zeitlinger   ·   8 Jul 2025   ·   5 min readObservability in under 5 seconds: Reflecting on a year of grafana/otel-lgtmSee why grafana/otel-lgtm has become a go-to solution for demos, development, and testing, and discover all the improvements we've made to the open...OpenTelemetryGrafanaRead more",
+    "url": "https://grafana.com/blog/2025/07/08/observability-in-under-5-seconds-reflecting-on-a-year-of-grafana/otel-lgtm/"
+  },
+  {
     "title": "Joey Bartolomeo   ·   7 Jul 2025   ·   8 min readFrom chaos to clarity with Grafana dashboards: How video game company EA monitors 200+ metricsHow video game company EA uses Grafana to monitor 200+ metricsDashboardGrafanaGrafanaConRead more",
     "url": "https://grafana.com/blog/2025/07/07/from-chaos-to-clarity-with-grafana-dashboards-how-video-game-company-ea-monitors-200-metrics/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Gerry Boland   ·   16 Jun 2025   ·   6 min readAdaptive alerting: faster, better insights with the new metrics forecasting UI in Grafana CloudGo from reactive to proactive with our new and improved metrics forecasting UI in Grafana Cloud, designed to make exploring and fine-tuning faster,...AI/MLGrafana CloudAlertingRead more",
     "url": "https://grafana.com/blog/2025/06/16/adaptive-alerting-faster-better-insights-with-the-new-metrics-forecasting-ui-in-grafana-cloud/"
-  },
-  {
-    "title": "Logan Smith   ·   16 Jun 2025   ·   5 min readPrometheus data source update: Redefining our big tent philosophyAs part of our goal of developing data sources that are more purpose-built, we have added Prometheus plugins that specifically cater to AWS and Azure...PluginsPrometheusRead more",
-    "url": "https://grafana.com/blog/2025/06/16/prometheus-data-source-update-redefining-our-big-tent-philosophy/"
   }
 ]
