@@ -1,5 +1,9 @@
 [
   {
+    "title": "Matt Wimpelberg   ·   9 Jul 2025   ·   4 min readObservability for containerized workloads: How to run Grafana Beyla as a sidecar in Amazon ECSLearn how to integrate Grafana Beyla with Amazon ECS to achieve deep visibility into your containerized workloads.Grafana BeylaGrafana AlloyAWSRead more",
+    "url": "https://grafana.com/blog/2025/07/09/observability-for-containerized-workloads-how-to-run-grafana-beyla-as-a-sidecar-in-amazon-ecs/"
+  },
+  {
     "title": "Gregor Zeitlinger   ·   8 Jul 2025   ·   5 min readObservability in under 5 seconds: Reflecting on a year of grafana/otel-lgtmSee why grafana/otel-lgtm has become a go-to solution for demos, development, and testing, and discover all the improvements we've made to the open...OpenTelemetryGrafanaRead more",
     "url": "https://grafana.com/blog/2025/07/08/observability-in-under-5-seconds-reflecting-on-a-year-of-grafana/otel-lgtm/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Pete Wall   ·   17 Jun 2025   ·   5 min readConfigure and customize Kubernetes Monitoring easier with Alloy OperatorOur latest Kubernetes Monitoring Helm chart offers easier, dynamic configuration with Alloy Operator.Kubernetes monitoringGrafana AlloyRead more",
     "url": "https://grafana.com/blog/2025/06/17/configure-and-customize-kubernetes-monitoring-easier-with-alloy-operator/"
-  },
-  {
-    "title": "Gerry Boland   ·   16 Jun 2025   ·   6 min readAdaptive alerting: faster, better insights with the new metrics forecasting UI in Grafana CloudGo from reactive to proactive with our new and improved metrics forecasting UI in Grafana Cloud, designed to make exploring and fine-tuning faster,...AI/MLGrafana CloudAlertingRead more",
-    "url": "https://grafana.com/blog/2025/06/16/adaptive-alerting-faster-better-insights-with-the-new-metrics-forecasting-ui-in-grafana-cloud/"
   }
 ]
