@@ -1,5 +1,9 @@
 [
   {
+    "title": "Jen Villa   ·   10 Jul 2025   ·   6 min readGrafana Labs named a Leader again in the 2025 Gartner® Magic Quadrant™ for Observability PlatformsGrafana Labs has been recognized as a Leader in the 2025 Gartner® Magic Quadrant™ for Observability Platforms—for the second year in a row.ObservabilityGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/07/10/grafana-labs-named-a-leader-again-in-the-2025-gartner-magic-quadrant-for-observability-platforms/"
+  },
+  {
     "title": "Matt Wimpelberg   ·   9 Jul 2025   ·   4 min readObservability for containerized workloads: How to run Grafana Beyla as a sidecar in Amazon ECSLearn how to integrate Grafana Beyla with Amazon ECS to achieve deep visibility into your containerized workloads.Grafana BeylaGrafana AlloyAWSRead more",
     "url": "https://grafana.com/blog/2025/07/09/observability-for-containerized-workloads-how-to-run-grafana-beyla-as-a-sidecar-in-amazon-ecs/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Kristin Knapp   ·   18 Jun 2025   ·   3 min readVisualize Google Cloud BigQuery data in Grafana: the latest updates, key features, and moreWith our Google Cloud BigQuery data source, you can quickly and easily visualize BigQuery data within your Grafana dashboards — plus so much more.PluginsRead more",
     "url": "https://grafana.com/blog/2025/06/18/visualize-google-cloud-bigquery-data-in-grafana-the-latest-updates-key-features-and-more/"
-  },
-  {
-    "title": "Pete Wall   ·   17 Jun 2025   ·   5 min readConfigure and customize Kubernetes Monitoring easier with Alloy OperatorOur latest Kubernetes Monitoring Helm chart offers easier, dynamic configuration with Alloy Operator.Kubernetes monitoringGrafana AlloyRead more",
-    "url": "https://grafana.com/blog/2025/06/17/configure-and-customize-kubernetes-monitoring-easier-with-alloy-operator/"
   }
 ]
