@@ -1,5 +1,9 @@
 [
   {
+    "title": "Trevor Jones   ·   11 Jul 2025   ·   5 min readEnhancing authentication security: Inside Microsoft's open source contribution to GrafanaDiscover the new authentication method Microsoft contributed to Grafana OSS and the lessons learned about building trust and being part of an open...SecurityOpen sourceRead more",
+    "url": "https://grafana.com/blog/2025/07/11/enhancing-authentication-security-inside-microsofts-open-source-contribution-to-grafana/"
+  },
+  {
     "title": "Jen Villa   ·   10 Jul 2025   ·   6 min readGrafana Labs named a Leader again in the 2025 Gartner® Magic Quadrant™ for Observability PlatformsGrafana Labs has been recognized as a Leader in the 2025 Gartner® Magic Quadrant™ for Observability Platforms—for the second year in a row.ObservabilityGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/07/10/grafana-labs-named-a-leader-again-in-the-2025-gartner-magic-quadrant-for-observability-platforms/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Frederik Van Leeckwyck   ·   20 Jun 2025   ·   8 min readHow the Factry Historian data source for Grafana enables data-driven insights for factory teamsLearn how the Factry Historian data source for Grafana helps organizations turn raw sensor data into clear, visual insights — from the shop floor to...PluginsCommunityGrafanaRead more",
     "url": "https://grafana.com/blog/2025/06/20/how-the-factry-historian-data-source-for-grafana-enables-data-driven-insights-for-factory-teams/"
-  },
-  {
-    "title": "Kristin Knapp   ·   18 Jun 2025   ·   3 min readVisualize Google Cloud BigQuery data in Grafana: the latest updates, key features, and moreWith our Google Cloud BigQuery data source, you can quickly and easily visualize BigQuery data within your Grafana dashboards — plus so much more.PluginsRead more",
-    "url": "https://grafana.com/blog/2025/06/18/visualize-google-cloud-bigquery-data-in-grafana-the-latest-updates-key-features-and-more/"
   }
 ]
