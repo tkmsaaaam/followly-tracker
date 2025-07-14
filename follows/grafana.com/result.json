@@ -1,5 +1,9 @@
 [
   {
+    "title": "Bukola Ayodele   ·   14 Jul 2025   ·   6 min readHow to analyze Core Web Vitals in Grafana Cloud Frontend ObservabilityBy tracking Core Web Vitals in Grafana Cloud Frontend Observability, you can deliver a faster, more stable, and more responsive user experience for...Frontend observabilityRead more",
+    "url": "https://grafana.com/blog/2025/07/14/how-to-analyze-core-web-vitals-in-grafana-cloud-frontend-observability/"
+  },
+  {
     "title": "Trevor Jones   ·   11 Jul 2025   ·   5 min readEnhancing authentication security: Inside Microsoft's open source contribution to GrafanaDiscover the new authentication method Microsoft contributed to Grafana OSS and the lessons learned about building trust and being part of an open...SecurityOpen sourceRead more",
     "url": "https://grafana.com/blog/2025/07/11/enhancing-authentication-security-inside-microsofts-open-source-contribution-to-grafana/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Grafana Labs Team   ·   20 Jun 2025   ·   4 min readGoing with the flow: How one Golden Grot Awards winner monitors wastewater with GrafanaHere’s how Grant Chase, a 2025 Golden Grot Awards winner, built a Grafana dashboard to visualize wastewater treatment operations for the city of Morro...Golden Grot winnersGolden GrotsRead more",
     "url": "https://grafana.com/blog/2025/06/20/going-with-the-flow-how-one-golden-grot-awards-winner-monitors-wastewater-with-grafana/"
-  },
-  {
-    "title": "Frederik Van Leeckwyck   ·   20 Jun 2025   ·   8 min readHow the Factry Historian data source for Grafana enables data-driven insights for factory teamsLearn how the Factry Historian data source for Grafana helps organizations turn raw sensor data into clear, visual insights — from the shop floor to...PluginsCommunityGrafanaRead more",
-    "url": "https://grafana.com/blog/2025/06/20/how-the-factry-historian-data-source-for-grafana-enables-data-driven-insights-for-factory-teams/"
   }
 ]
