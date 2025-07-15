@@ -1,5 +1,9 @@
 [
   {
+    "title": "Serena Kei   ·   15 Jul 2025   ·   4 min readKubernetes Monitoring backend 2.2: better cluster observability through new alert and recording...The latest backend update to our Kubernetes Monitoring app in Grafana Cloud features significant improvements to alert rules and recording rules that...Kubernetes monitoringKubernetesRead more",
+    "url": "https://grafana.com/blog/2025/07/15/kubernetes-monitoring-backend-2.2-better-cluster-observability-through-new-alert-and-recording-rules/"
+  },
+  {
     "title": "Bukola Ayodele   ·   14 Jul 2025   ·   6 min readHow to analyze Core Web Vitals in Grafana Cloud Frontend ObservabilityBy tracking Core Web Vitals in Grafana Cloud Frontend Observability, you can deliver a faster, more stable, and more responsive user experience for...Frontend observabilityRead more",
     "url": "https://grafana.com/blog/2025/07/14/how-to-analyze-core-web-vitals-in-grafana-cloud-frontend-observability/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Ana Ivanov   ·   24 Jun 2025   ·   3 min readGrafana Cloud: Manage the AWS Observability app as code with TerraformUsing code to manage your AWS Observability app in Grafana Cloud just makes things much smoother and more dependable as you grow, and in this blog...AWSCloud Provider ObservabilityGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/06/24/grafana-cloud-manage-the-aws-observability-app-as-code-with-terraform/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   20 Jun 2025   ·   4 min readGoing with the flow: How one Golden Grot Awards winner monitors wastewater with GrafanaHere’s how Grant Chase, a 2025 Golden Grot Awards winner, built a Grafana dashboard to visualize wastewater treatment operations for the city of Morro...Golden Grot winnersGolden GrotsRead more",
-    "url": "https://grafana.com/blog/2025/06/20/going-with-the-flow-how-one-golden-grot-awards-winner-monitors-wastewater-with-grafana/"
   }
 ]
