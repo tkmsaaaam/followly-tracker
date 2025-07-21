@@ -1,5 +1,17 @@
 [
   {
+    "title": "Trevor Jones   ·   18 Jul 2025   ·   3 min readReaching for the stars: How a Golden Grot Awards winner monitors the International Space Station...Learn about the Grafana dashboard Ruben Fernandez built to monitor the International Space Station. Ruben is this year's winner of the Golden Grot...Golden Grot winnersGolden GrotsRead more",
+    "url": "https://grafana.com/blog/2025/07/18/reaching-for-the-stars-how-a-golden-grot-awards-winner-monitors-the-international-space-station-with-grafana/"
+  },
+  {
+    "title": "Kristian Bremberg   ·   17 Jul 2025   ·   5 min readGrafana security release: Medium and high severity fixes for CVE-2025-6197 and CVE-2025-6023Today we are releasing security patches for Grafana 12.0.x, 11.6.x, 11.5.x, 11.4.x, and 11.3.x, which include fixes for CVE-2025-6023 and...SecurityRead more",
+    "url": "https://grafana.com/blog/2025/07/17/grafana-security-release-medium-and-high-severity-fixes-for-cve-2025-6197-and-cve-2025-6023/"
+  },
+  {
+    "title": "Kristin Knapp   ·   16 Jul 2025   ·   5 min readSnowflake data visualization: all the latest features to monitor metrics, enhance security, and moreFrom pre-built dashboards to more robust security options, here’s how we’ve been enhancing the user experience when visualizing and managing Snowflake...PluginsVisualizationRead more",
+    "url": "https://grafana.com/blog/2025/07/16/snowflake-data-visualization-all-the-latest-features-to-monitor-metrics-enhance-security-and-more/"
+  },
+  {
     "title": "Serena Kei   ·   15 Jul 2025   ·   4 min readKubernetes Monitoring backend 2.2: better cluster observability through new alert and recording...The latest backend update to our Kubernetes Monitoring app in Grafana Cloud features significant improvements to alert rules and recording rules that...Kubernetes monitoringKubernetesRead more",
     "url": "https://grafana.com/blog/2025/07/15/kubernetes-monitoring-backend-2.2-better-cluster-observability-through-new-alert-and-recording-rules/"
   },
@@ -46,17 +58,5 @@
   {
     "title": "Colin Steele   ·   27 Jun 2025   ·   5 min readHow Dropbox rebuilt its logging stack with Grafana Loki after a data center went darkLearn how Dropbox evolved a single distributed Loki cluster into a reliable petabyte-scale logging platform—all while balancing developer needs and...LokiLoggingGrafanaConRead more",
     "url": "https://grafana.com/blog/2025/06/27/how-dropbox-rebuilt-its-logging-stack-with-grafana-loki-after-a-data-center-went-dark/"
-  },
-  {
-    "title": "James Crocker   ·   26 Jun 2025   ·   7 min readHow to detect vulnerable GitHub Actions at scale with ZizmorIn order to harden our infrastructure and pipelines, we have introduced the open source tool Zizmor into our CI/CD pipelines.SecurityRead more",
-    "url": "https://grafana.com/blog/2025/06/26/how-to-detect-vulnerable-github-actions-at-scale-with-zizmor/"
-  },
-  {
-    "title": "Kristin Knapp   ·   25 Jun 2025   ·   6 min readGrafana Cloud updates: The latest features in Kubernetes Monitoring, Fleet Management, and moreThis month, we’ve rolled out new Grafana Cloud features to help you troubleshoot faster in Kubernetes Monitoring, restore pipelines in Fleet...Grafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/06/25/grafana-cloud-updates-the-latest-features-in-kubernetes-monitoring-fleet-management-and-more/"
-  },
-  {
-    "title": "Ana Ivanov   ·   24 Jun 2025   ·   3 min readGrafana Cloud: Manage the AWS Observability app as code with TerraformUsing code to manage your AWS Observability app in Grafana Cloud just makes things much smoother and more dependable as you grow, and in this blog...AWSCloud Provider ObservabilityGrafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/06/24/grafana-cloud-manage-the-aws-observability-app-as-code-with-terraform/"
   }
 ]
