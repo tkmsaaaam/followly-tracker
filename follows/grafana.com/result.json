@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kristin Knapp   ·   23 Jul 2025   ·   5 min readGrafana Cloud updates: deeper insights in Kubernetes Monitoring, Adaptive Metrics updates, and moreWe have a number of big Grafana Cloud updates to share this month related to Kubernetes Monitoring, Fleet Management, Adaptive Metrics, and more.Grafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/07/23/grafana-cloud-updates-deeper-insights-in-kubernetes-monitoring-adaptive-metrics-updates-and-more/"
+  },
+  {
     "title": "Grafana Labs Team   ·   21 Jul 2025   ·   7 min readOpenTelemetry at Grafana Labs: the latest on how we're investing in the emerging industry standardCheck out the highlights from some of our recent OpenTelemetry discussions, and get an update on what we're doing to increase our engagement in the...OpenTelemetryRead more",
     "url": "https://grafana.com/blog/2025/07/21/opentelemetry-at-grafana-labs-the-latest-on-how-were-investing-in-the-emerging-industry-standard/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Trevor Jones   ·   1 Jul 2025   ·   7 min readFaster incident response through distributed tracing: Inside Glovo's use of Traces DrilldownLearn how on-demand food and grocery delivery platform Glovo used Traces Drilldown to help find the root cause of an incident caused by cascading...TracingDrilldownRead more",
     "url": "https://grafana.com/blog/2025/07/01/faster-incident-response-through-distributed-tracing-inside-glovos-use-of-traces-drilldown/"
-  },
-  {
-    "title": "Yasir Ekinci   ·   30 Jun 2025   ·   7 min readGoing beyond AI chat response: How we're building an agentic system to drive GrafanaLearn how we're incorporating agentic systems into Grafana to help you get things done quicker and easier.AI/MLRead more",
-    "url": "https://grafana.com/blog/2025/06/30/going-beyond-ai-chat-response-how-were-building-an-agentic-system-to-drive-grafana/"
   }
 ]
