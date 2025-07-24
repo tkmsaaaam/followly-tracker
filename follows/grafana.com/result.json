@@ -1,5 +1,9 @@
 [
   {
+    "title": "Fabrizia Rossano   ·   24 Jul 2025   ·   4 min readSecurely query data sources on your Tailscale network using Private Data Source Connect in Grafana...Grafana Labs and Tailscale have partnered on a new integration that lets you effortlessly query data sources on your tailnet directly from your...Grafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/07/24/securely-query-data-sources-on-your-tailscale-network-using-private-data-source-connect-in-grafana-cloud/"
+  },
+  {
     "title": "Kristin Knapp   ·   23 Jul 2025   ·   5 min readGrafana Cloud updates: deeper insights in Kubernetes Monitoring, Adaptive Metrics updates, and moreWe have a number of big Grafana Cloud updates to share this month related to Kubernetes Monitoring, Fleet Management, Adaptive Metrics, and more.Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/07/23/grafana-cloud-updates-deeper-insights-in-kubernetes-monitoring-adaptive-metrics-updates-and-more/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Simon Crute   ·   2 Jul 2025   ·   3 min readGrafana security update: Critical severity security release for CVE-2025-5959, CVE-2025-6554,...We have released updates for the Grafana Image Renderer plugin and Synthetic Monitoring Agent to address a critical vulnerability found in a...SecurityRead more",
     "url": "https://grafana.com/blog/2025/07/02/grafana-security-update-critical-severity-security-release-for-cve-2025-5959-cve-2025-6554-cve-2025-6191-and-cve-2025-6192-in-grafana-image-renderer-plugin-and-synthetic-monitoring-agent/"
-  },
-  {
-    "title": "Trevor Jones   ·   1 Jul 2025   ·   7 min readFaster incident response through distributed tracing: Inside Glovo's use of Traces DrilldownLearn how on-demand food and grocery delivery platform Glovo used Traces Drilldown to help find the root cause of an incident caused by cascading...TracingDrilldownRead more",
-    "url": "https://grafana.com/blog/2025/07/01/faster-incident-response-through-distributed-tracing-inside-glovos-use-of-traces-drilldown/"
   }
 ]
