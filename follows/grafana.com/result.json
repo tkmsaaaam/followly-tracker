@@ -1,5 +1,9 @@
 [
   {
+    "title": "Grafana Labs Team   ·   24 Jul 2025   ·   4 min readObservabilityCON 2025: Registration and agenda are officially live!It’s time to reserve your spot at ObservabilityCON 2025, our flagship observability event, taking place 7-9 October in London.ObservabilityCONEventsCommunityRead more",
+    "url": "https://grafana.com/blog/2025/07/24/observabilitycon-2025-registration-and-agenda-are-officially-live/"
+  },
+  {
     "title": "Fabrizia Rossano   ·   24 Jul 2025   ·   4 min readSecurely query data sources on your Tailscale network using Private Data Source Connect in Grafana...Grafana Labs and Tailscale have partnered on a new integration that lets you effortlessly query data sources on your tailnet directly from your...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/07/24/securely-query-data-sources-on-your-tailscale-network-using-private-data-source-connect-in-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Trevor Jones   ·   3 Jul 2025   ·   5 min readInfluxDB 3 Core: a complete rewrite designed for speed and simplicityInfluxDB 3 Core adds support for SQL and unlimited cardinality that doesn't impact performance, as well as the separation of compute and storage.InfluxRead more",
     "url": "https://grafana.com/blog/2025/07/03/influxdb-3-core-a-complete-rewrite-designed-for-speed-and-simplicity/"
-  },
-  {
-    "title": "Simon Crute   ·   2 Jul 2025   ·   3 min readGrafana security update: Critical severity security release for CVE-2025-5959, CVE-2025-6554,...We have released updates for the Grafana Image Renderer plugin and Synthetic Monitoring Agent to address a critical vulnerability found in a...SecurityRead more",
-    "url": "https://grafana.com/blog/2025/07/02/grafana-security-update-critical-severity-security-release-for-cve-2025-5959-cve-2025-6554-cve-2025-6191-and-cve-2025-6192-in-grafana-image-renderer-plugin-and-synthetic-monitoring-agent/"
   }
 ]
