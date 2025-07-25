@@ -1,6 +1,6 @@
 [
   {
-    "title": "Alex Burnett   ·   25 Jul 2025   ·   8 min readTracking planes with Grafana in real time: How to visualize the aircraft overhead with your own...Learn how to build a Grafana dashboard that can show nearby aircraft in real time, powered by data from my ADS-B receiver and ingested into Grafana...Grafana CloudLoggingRead more",
+    "title": "Alex Burnett   ·   25 Jul 2025   ·   8 min readTracking planes with Grafana in real time: How to visualize the aircraft overhead with your own...Learn how to build a Grafana dashboard that can show nearby aircraft in real time, powered by data from an ADS-B receiver and ingested into Grafana...Grafana CloudLoggingRead more",
     "url": "https://grafana.com/blog/2025/07/25/tracking-planes-with-grafana-in-real-time-how-to-visualize-the-aircraft-overhead-with-your-own-dashboard/"
   },
   {
