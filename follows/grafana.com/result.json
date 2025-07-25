@@ -1,5 +1,9 @@
 [
   {
+    "title": "Alex Burnett   ·   25 Jul 2025   ·   8 min readTracking planes with Grafana in real time: How to visualize the aircraft overhead with your own...Learn how to build a Grafana dashboard that can show nearby aircraft in real time, powered by data from my ADS-B receiver and ingested into Grafana...Grafana CloudLoggingRead more",
+    "url": "https://grafana.com/blog/2025/07/25/tracking-planes-with-grafana-in-real-time-how-to-visualize-the-aircraft-overhead-with-your-own-dashboard/"
+  },
+  {
     "title": "Grafana Labs Team   ·   24 Jul 2025   ·   4 min readObservabilityCON 2025: Registration and agenda are officially live!It’s time to reserve your spot at ObservabilityCON 2025, our flagship observability event, taking place 7-9 October in London.ObservabilityCONEventsCommunityRead more",
     "url": "https://grafana.com/blog/2025/07/24/observabilitycon-2025-registration-and-agenda-are-officially-live/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Joey Bartolomeo   ·   7 Jul 2025   ·   8 min readFrom chaos to clarity with Grafana dashboards: How video game company EA monitors 200+ metricsHow video game company EA uses Grafana to monitor 200+ metricsDashboardGrafanaGrafanaConRead more",
     "url": "https://grafana.com/blog/2025/07/07/from-chaos-to-clarity-with-grafana-dashboards-how-video-game-company-ea-monitors-200-metrics/"
-  },
-  {
-    "title": "Trevor Jones   ·   3 Jul 2025   ·   5 min readInfluxDB 3 Core: a complete rewrite designed for speed and simplicityInfluxDB 3 Core adds support for SQL and unlimited cardinality that doesn't impact performance, as well as the separation of compute and storage.InfluxRead more",
-    "url": "https://grafana.com/blog/2025/07/03/influxdb-3-core-a-complete-rewrite-designed-for-speed-and-simplicity/"
   }
 ]
