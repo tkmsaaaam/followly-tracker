@@ -1,5 +1,9 @@
 [
   {
+    "title": "Grafana Labs Team   ·   28 Jul 2025   ·   8 min readGrafana 12.1 release: automated health checks for your Grafana instance, streamlined views in...Grafana 12.1 includes a public preview of Grafana Advisor for automated health checks on data sources, a number of new visualization and alerting...GrafanaRead more",
+    "url": "https://grafana.com/blog/2025/07/28/grafana-12.1-release-all-the-latest-features/"
+  },
+  {
     "title": "Alex Burnett   ·   25 Jul 2025   ·   8 min readTracking planes with Grafana in real time: How to visualize the aircraft overhead with your own...Learn how to build a Grafana dashboard that can show nearby aircraft in real time, powered by data from an ADS-B receiver and ingested into Grafana...Grafana CloudLoggingRead more",
     "url": "https://grafana.com/blog/2025/07/25/tracking-planes-with-grafana-in-real-time-how-to-visualize-the-aircraft-overhead-with-your-own-dashboard/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Gregor Zeitlinger   ·   8 Jul 2025   ·   5 min readObservability in under 5 seconds: Reflecting on a year of grafana/otel-lgtmSee why grafana/otel-lgtm has become a go-to solution for demos, development, and testing, and discover all the improvements we've made to the open...OpenTelemetryGrafanaRead more",
     "url": "https://grafana.com/blog/2025/07/08/observability-in-under-5-seconds-reflecting-on-a-year-of-grafana/otel-lgtm/"
-  },
-  {
-    "title": "Joey Bartolomeo   ·   7 Jul 2025   ·   8 min readFrom chaos to clarity with Grafana dashboards: How video game company EA monitors 200+ metricsHow video game company EA uses Grafana to monitor 200+ metricsDashboardGrafanaGrafanaConRead more",
-    "url": "https://grafana.com/blog/2025/07/07/from-chaos-to-clarity-with-grafana-dashboards-how-video-game-company-ea-monitors-200-metrics/"
   }
 ]
