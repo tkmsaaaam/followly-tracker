@@ -1,9 +1,5 @@
 [
   {
-    "title": "DeNA・令和トラベル・スマートバンク・カウシェでの開発における生成AIフル活用事例Event2025/08/08",
-    "url": "https://engineering.reiwatravel.co.jp/blog/undefined"
-  },
-  {
     "title": "エンジニアリングカルチャーを共通言語として育てるための取り組みEM2025/07/29",
     "url": "https://engineering.reiwatravel.co.jp/blog/engineering-culture-guidelines"
   },
@@ -38,5 +34,9 @@
   {
     "title": "なぜ組織は”カルチャー”に投資するのか - AI時代に生き残る組織戦略EM2025/06/23",
     "url": "https://engineering.reiwatravel.co.jp/blog/reiwatravel-engineering-culture"
+  },
+  {
+    "title": "AI活用を成功させる “下準備” 〜 業務の見直しと文化づくり 〜QA2025/06/17",
+    "url": "https://engineering.reiwatravel.co.jp/blog/ai_application_prepare"
   }
 ]
