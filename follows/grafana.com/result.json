@@ -1,5 +1,9 @@
 [
   {
+    "title": "Joe McManus   ·   3 Aug 2025   ·   7 min readGrafana Cloud security update: Grafana Cloud Metrics memory corruption issue resolvedA bug introduced in a recent release of the Mimir distributor, which is part of the open source Mimir project that powers Grafana Cloud Metrics,...Read more",
+    "url": "https://grafana.com/blog/2025/08/03/grafana-cloud-metrics-memory-corruption-issue-resolved/"
+  },
+  {
     "title": "Grafana Labs Team   ·   28 Jul 2025   ·   8 min readGrafana 12.1 release: automated health checks for your Grafana instance, streamlined views in...Grafana 12.1 includes a public preview of Grafana Advisor for automated health checks on data sources, a number of new visualization and alerting...GrafanaRead more",
     "url": "https://grafana.com/blog/2025/07/28/grafana-12.1-release-all-the-latest-features/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Matt Wimpelberg   ·   9 Jul 2025   ·   4 min readObservability for containerized workloads: How to run Grafana Beyla as a sidecar in Amazon ECSLearn how to integrate Grafana Beyla with Amazon ECS to achieve deep visibility into your containerized workloads.Grafana BeylaGrafana AlloyAWSRead more",
     "url": "https://grafana.com/blog/2025/07/09/observability-for-containerized-workloads-how-to-run-grafana-beyla-as-a-sidecar-in-amazon-ecs/"
-  },
-  {
-    "title": "Gregor Zeitlinger   ·   8 Jul 2025   ·   5 min readObservability in under 5 seconds: Reflecting on a year of grafana/otel-lgtmSee why grafana/otel-lgtm has become a go-to solution for demos, development, and testing, and discover all the improvements we've made to the open...OpenTelemetryGrafanaRead more",
-    "url": "https://grafana.com/blog/2025/07/08/observability-in-under-5-seconds-reflecting-on-a-year-of-grafana/otel-lgtm/"
   }
 ]
