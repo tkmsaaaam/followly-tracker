@@ -1,5 +1,9 @@
 [
   {
+    "title": "Jay Clifford   ·   11 Aug 2025   ·   11 min readLearn OpenTelemetry tracing through a grand strategy game: introducing Game of TracesGame of Traces is a grand strategy game you can play to learn the key concepts of OpenTelemetry tracing — and, of course, heroically defend a few...OpenTelemetryTracingGrafanaRead more",
+    "url": "https://grafana.com/blog/2025/08/11/learn-opentelemetry-tracing-through-a-grand-strategy-game-introducing-game-of-traces/"
+  },
+  {
     "title": "Wilfried Roset   ·   8 Aug 2025   ·   6 min readHow to use SQL to learn more about your Grafana usageThe database you use to store all your Grafana objects can be a gold mine of information. See how you can use SQL to get more insights and build...GrafanaRead more",
     "url": "https://grafana.com/blog/2025/08/08/how-to-use-slq-to-learn-more-about-your-grafana-usage/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Kristian Bremberg   ·   17 Jul 2025   ·   5 min readGrafana security release: Medium and high severity fixes for CVE-2025-6197 and CVE-2025-6023Today we are releasing security patches for Grafana 12.0.x, 11.6.x, 11.5.x, 11.4.x, and 11.3.x, which include fixes for CVE-2025-6023 and...SecurityRead more",
     "url": "https://grafana.com/blog/2025/07/17/grafana-security-release-medium-and-high-severity-fixes-for-cve-2025-6197-and-cve-2025-6023/"
-  },
-  {
-    "title": "Kristin Knapp   ·   16 Jul 2025   ·   5 min readSnowflake data visualization: all the latest features to monitor metrics, enhance security, and moreFrom pre-built dashboards to more robust security options, here’s how we’ve been enhancing the user experience when visualizing and managing Snowflake...PluginsVisualizationRead more",
-    "url": "https://grafana.com/blog/2025/07/16/snowflake-data-visualization-all-the-latest-features-to-monitor-metrics-enhance-security-and-more/"
   }
 ]
