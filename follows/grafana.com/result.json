@@ -1,5 +1,9 @@
 [
   {
+    "title": "Trevor Jones   ·   12 Aug 2025   ·   9 min readObservability trends in Brazil: insights from our localized surveyCheck out the highlights from our first survey about observability practices in Brazil, including analysis on adoption, maturity, challenges, and...ObservabilityRead more",
+    "url": "https://grafana.com/blog/2025/08/12/observability-trends-in-brazil-insights-from-our-localized-survey/"
+  },
+  {
     "title": "Jay Clifford   ·   11 Aug 2025   ·   11 min readLearn OpenTelemetry tracing through a grand strategy game: introducing Game of TracesGame of Traces is a grand strategy game you can play to learn the key concepts of OpenTelemetry tracing — and, of course, heroically defend a few...OpenTelemetryTracingGrafanaRead more",
     "url": "https://grafana.com/blog/2025/08/11/learn-opentelemetry-tracing-through-a-grand-strategy-game-introducing-game-of-traces/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Trevor Jones   ·   18 Jul 2025   ·   3 min readReaching for the stars: How a Golden Grot Awards winner monitors the International Space Station...Learn about the Grafana dashboard Ruben Fernandez built to monitor the International Space Station. Ruben is this year's winner of the Golden Grot...Golden Grot winnersGolden GrotsRead more",
     "url": "https://grafana.com/blog/2025/07/18/reaching-for-the-stars-how-a-golden-grot-awards-winner-monitors-the-international-space-station-with-grafana/"
-  },
-  {
-    "title": "Kristian Bremberg   ·   17 Jul 2025   ·   5 min readGrafana security release: Medium and high severity fixes for CVE-2025-6197 and CVE-2025-6023Today we are releasing security patches for Grafana 12.0.x, 11.6.x, 11.5.x, 11.4.x, and 11.3.x, which include fixes for CVE-2025-6023 and...SecurityRead more",
-    "url": "https://grafana.com/blog/2025/07/17/grafana-security-release-medium-and-high-severity-fixes-for-cve-2025-6197-and-cve-2025-6023/"
   }
 ]
