@@ -1,5 +1,9 @@
 [
   {
+    "title": "DeNA・令和トラベル・スマートバンク・カウシェでの開発における生成AIフル活用事例Event2025/08/13",
+    "url": "https://engineering.reiwatravel.co.jp/blog/event-ai-20250730"
+  },
+  {
     "title": "4年ぶりのAndroider復帰、複雑なドメイン。そして、AIと走ったオンボーディングAndroid2025/08/12",
     "url": "https://engineering.reiwatravel.co.jp/blog/joining-entry-yagi2"
   },
@@ -34,9 +38,5 @@
   {
     "title": "【イベントレポート】開発生産性 Conference 2025に参加しました！Event2025/07/10",
     "url": "https://engineering.reiwatravel.co.jp/blog/dev-productivity-con-2025"
-  },
-  {
-    "title": "【イベントレポート】「QA Career Talk vol.5」を開催しました！EventQA2025/07/04",
-    "url": "https://engineering.reiwatravel.co.jp/blog/qa_event_5"
   }
 ]
