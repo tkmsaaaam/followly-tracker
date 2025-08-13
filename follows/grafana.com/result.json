@@ -1,5 +1,9 @@
 [
   {
+    "title": "Joe Elliott   ·   13 Aug 2025   ·   6 min readLLM-powered insights into your tracing data: introducing MCP support in Grafana Cloud TracesWith support for the Model Context Protocol (MCP) within Grafana Cloud Traces, you can leverage LLM-powered tools like Claude Code to analyze and...AI/MLRead more",
+    "url": "https://grafana.com/blog/2025/08/13/llm-powered-insights-into-your-tracing-data-introducing-mcp-support-in-grafana-cloud-traces/"
+  },
+  {
     "title": "Trevor Jones   ·   12 Aug 2025   ·   9 min readObservability trends in Brazil: insights from our localized surveyCheck out the highlights from our first survey about observability practices in Brazil, including analysis on adoption, maturity, challenges, and...ObservabilityRead more",
     "url": "https://grafana.com/blog/2025/08/12/observability-trends-in-brazil-insights-from-our-localized-survey/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Grafana Labs Team   ·   21 Jul 2025   ·   7 min readOpenTelemetry at Grafana Labs: the latest on how we're investing in the emerging industry standardCheck out the highlights from some of our recent OpenTelemetry discussions, and get an update on what we're doing to increase our engagement in the...OpenTelemetryRead more",
     "url": "https://grafana.com/blog/2025/07/21/opentelemetry-at-grafana-labs-the-latest-on-how-were-investing-in-the-emerging-industry-standard/"
-  },
-  {
-    "title": "Trevor Jones   ·   18 Jul 2025   ·   3 min readReaching for the stars: How a Golden Grot Awards winner monitors the International Space Station...Learn about the Grafana dashboard Ruben Fernandez built to monitor the International Space Station. Ruben is this year's winner of the Golden Grot...Golden Grot winnersGolden GrotsRead more",
-    "url": "https://grafana.com/blog/2025/07/18/reaching-for-the-stars-how-a-golden-grot-awards-winner-monitors-the-international-space-station-with-grafana/"
   }
 ]
