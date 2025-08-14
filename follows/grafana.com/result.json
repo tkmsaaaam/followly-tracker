@@ -1,5 +1,13 @@
 [
   {
+    "title": "Maurice Rochau   ·   14 Aug 2025   ·   9 min readAI for Grafana onboarding: Get your teams started quicker with Grafana AssistantGrafana Assistant is now available in public preview! Learn how it can help you get onboarded with Grafana, regardless of your level of expertise.AI/MLRead more",
+    "url": "https://grafana.com/blog/2025/08/14/ai-for-grafana-onboarding-get-your-teams-started-quicker-with-grafana-assistant/"
+  },
+  {
+    "title": "Mat Ryer   ·   14 Aug 2025   ·   9 min readAI in observability at Grafana Labs: Making observability easy and accessible for everyoneAI will likely be integral to observability in the future. Here's our perspective on the role of AI and how that's influencing the tools we're...AI/MLRead more",
+    "url": "https://grafana.com/blog/2025/08/14/ai-in-observability-at-grafana-labs-making-observability-easy-and-accessible-for-everyone/"
+  },
+  {
     "title": "Joe Elliott   ·   13 Aug 2025   ·   6 min readLLM-powered insights into your tracing data: introducing MCP support in Grafana Cloud TracesWith support for the Model Context Protocol (MCP) within Grafana Cloud Traces, you can leverage LLM-powered tools like Claude Code to analyze and...AI/MLRead more",
     "url": "https://grafana.com/blog/2025/08/13/llm-powered-insights-into-your-tracing-data-introducing-mcp-support-in-grafana-cloud-traces/"
   },
@@ -50,13 +58,5 @@
   {
     "title": "Fabrizia Rossano   ·   24 Jul 2025   ·   4 min readSecurely query data sources on your Tailscale network using Private Data Source Connect in Grafana...Grafana Labs and Tailscale have partnered on a new integration that lets you effortlessly query data sources on your tailnet directly from your...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/07/24/securely-query-data-sources-on-your-tailscale-network-using-private-data-source-connect-in-grafana-cloud/"
-  },
-  {
-    "title": "Kristin Knapp   ·   23 Jul 2025   ·   5 min readGrafana Cloud updates: deeper insights in Kubernetes Monitoring, Adaptive Metrics updates, and moreWe have a number of big Grafana Cloud updates to share this month related to Kubernetes Monitoring, Fleet Management, Adaptive Metrics, and more.Grafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/07/23/grafana-cloud-updates-deeper-insights-in-kubernetes-monitoring-adaptive-metrics-updates-and-more/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   21 Jul 2025   ·   7 min readOpenTelemetry at Grafana Labs: the latest on how we're investing in the emerging industry standardCheck out the highlights from some of our recent OpenTelemetry discussions, and get an update on what we're doing to increase our engagement in the...OpenTelemetryRead more",
-    "url": "https://grafana.com/blog/2025/07/21/opentelemetry-at-grafana-labs-the-latest-on-how-were-investing-in-the-emerging-industry-standard/"
   }
 ]
