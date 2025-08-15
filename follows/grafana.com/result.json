@@ -1,5 +1,9 @@
 [
   {
+    "title": "Andy Jiang   ·   15 Aug 2025   ·   8 min readIntegrating Deno and Grafana Cloud: How to observe your JavaScript project with zero added codeWith Deno and Grafana Cloud, you can achieve deep insights into your JavaScript project without having to manually instrument code or deploy a...Grafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/08/15/integrating-deno-and-grafana-cloud-how-to-observe-your-javascript-project-with-zero-added-code/"
+  },
+  {
     "title": "Maurice Rochau   ·   14 Aug 2025   ·   9 min readAI for Grafana onboarding: Get your teams started quicker with Grafana AssistantGrafana Assistant is now available in public preview! Learn how it can help you get onboarded with Grafana, regardless of your level of expertise.AI/MLRead more",
     "url": "https://grafana.com/blog/2025/08/14/ai-for-grafana-onboarding-get-your-teams-started-quicker-with-grafana-assistant/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Grafana Labs Team   ·   24 Jul 2025   ·   4 min readObservabilityCON 2025: Registration and agenda are officially live!It’s time to reserve your spot at ObservabilityCON 2025, our flagship observability event, taking place 7-9 October in London.ObservabilityCONEventsCommunityRead more",
     "url": "https://grafana.com/blog/2025/07/24/observabilitycon-2025-registration-and-agenda-are-officially-live/"
-  },
-  {
-    "title": "Fabrizia Rossano   ·   24 Jul 2025   ·   4 min readSecurely query data sources on your Tailscale network using Private Data Source Connect in Grafana...Grafana Labs and Tailscale have partnered on a new integration that lets you effortlessly query data sources on your tailnet directly from your...Grafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/07/24/securely-query-data-sources-on-your-tailscale-network-using-private-data-source-connect-in-grafana-cloud/"
   }
 ]
