@@ -1,5 +1,9 @@
 [
   {
+    "title": "Ishan Jain   ·   19 Aug 2025   ·   5 min readHow to monitor Claude usage and costs: introducing the Anthropic integration for Grafana CloudWith the Anthropic integration for Grafana Cloud, you get real-time insights into the cost and performance of your Claude LLMs via pre-built...Grafana CloudAI/MLRead more",
+    "url": "https://grafana.com/blog/2025/08/19/how-to-monitor-claude-usage-and-costs-introducing-the-anthropic-integration-for-grafana-cloud/"
+  },
+  {
     "title": "Andy Jiang   ·   15 Aug 2025   ·   8 min readIntegrating Deno and Grafana Cloud: How to observe your JavaScript project with zero added codeWith Deno and Grafana Cloud, you can achieve deep insights into your JavaScript project without having to manually instrument code or deploy a...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/08/15/integrating-deno-and-grafana-cloud-how-to-observe-your-javascript-project-with-zero-added-code/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Alex Burnett   ·   25 Jul 2025   ·   8 min readTracking planes with Grafana in real time: How to visualize the aircraft overhead with your own...Learn how to build a Grafana dashboard that can show nearby aircraft in real time, powered by data from an ADS-B receiver and ingested into Grafana...Grafana CloudLoggingRead more",
     "url": "https://grafana.com/blog/2025/07/25/tracking-planes-with-grafana-in-real-time-how-to-visualize-the-aircraft-overhead-with-your-own-dashboard/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   24 Jul 2025   ·   4 min readObservabilityCON 2025: Registration and agenda are officially live!It’s time to reserve your spot at ObservabilityCON 2025, our flagship observability event, taking place 7-9 October in London.ObservabilityCONEventsCommunityRead more",
-    "url": "https://grafana.com/blog/2025/07/24/observabilitycon-2025-registration-and-agenda-are-officially-live/"
   }
 ]
