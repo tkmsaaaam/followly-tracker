@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kristin Knapp   ·   20 Aug 2025   ·   9 min readGrafana Cloud updates: onboard teams with new AI-powered tooling, secrets management for enhanced...From the public preview of Grafana Assistant to a new secrets manager in Synthetic Monitoring, we have a lot of Grafana Cloud updates to share this...Grafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/08/20/grafana-cloud-updates-onboard-teams-with-new-ai-powered-tooling-secrets-management-for-enhanced-security-and-more/"
+  },
+  {
     "title": "Michael Mandrus   ·   20 Aug 2025   ·   6 min readSecure credential storage for your observability stack: Introducing secrets management in Grafana...Secrets management, now in public preview in Grafana Cloud, centralizes credential storage with enterprise-grade encryption, reference-based secrets...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/08/20/secure-credential-storage-for-your-observability-stack-introducing-secrets-management-in-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Joe McManus   ·   3 Aug 2025   ·   7 min readGrafana Cloud security update: Grafana Cloud Metrics memory corruption issue resolvedA bug introduced in a recent release of the Mimir distributor, which is part of the open source Mimir project that powers Grafana Cloud Metrics,...Read more",
     "url": "https://grafana.com/blog/2025/08/03/grafana-cloud-metrics-memory-corruption-issue-resolved/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   28 Jul 2025   ·   8 min readGrafana 12.1 release: automated health checks for your Grafana instance, streamlined views in...Grafana 12.1 includes a public preview of Grafana Advisor for automated health checks on data sources, a number of new visualization and alerting...GrafanaRead more",
-    "url": "https://grafana.com/blog/2025/07/28/grafana-12.1-release-all-the-latest-features/"
   }
 ]
