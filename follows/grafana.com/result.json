@@ -1,5 +1,9 @@
 [
   {
+    "title": "Michael Mandrus   ·   20 Aug 2025   ·   6 min readSecure credential storage for your observability stack: Introducing secrets management in Grafana...Secrets management, now in public preview in Grafana Cloud, centralizes credential storage with enterprise-grade encryption, reference-based secrets...Grafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/08/20/secure-credential-storage-for-your-observability-stack-introducing-secrets-management-in-grafana-cloud/"
+  },
+  {
     "title": "Ishan Jain   ·   19 Aug 2025   ·   5 min readHow to monitor Claude usage and costs: introducing the Anthropic integration for Grafana CloudWith the Anthropic integration for Grafana Cloud, you get real-time insights into the cost and performance of your Claude LLMs via pre-built...Grafana CloudAI/MLRead more",
     "url": "https://grafana.com/blog/2025/08/19/how-to-monitor-claude-usage-and-costs-introducing-the-anthropic-integration-for-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Grafana Labs Team   ·   28 Jul 2025   ·   8 min readGrafana 12.1 release: automated health checks for your Grafana instance, streamlined views in...Grafana 12.1 includes a public preview of Grafana Advisor for automated health checks on data sources, a number of new visualization and alerting...GrafanaRead more",
     "url": "https://grafana.com/blog/2025/07/28/grafana-12.1-release-all-the-latest-features/"
-  },
-  {
-    "title": "Alex Burnett   ·   25 Jul 2025   ·   8 min readTracking planes with Grafana in real time: How to visualize the aircraft overhead with your own...Learn how to build a Grafana dashboard that can show nearby aircraft in real time, powered by data from an ADS-B receiver and ingested into Grafana...Grafana CloudLoggingRead more",
-    "url": "https://grafana.com/blog/2025/07/25/tracking-planes-with-grafana-in-real-time-how-to-visualize-the-aircraft-overhead-with-your-own-dashboard/"
   }
 ]
