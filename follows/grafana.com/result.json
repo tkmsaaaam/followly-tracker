@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kristin Knapp   ·   21 Aug 2025   ·   5 min readVisualize Salesforce data in Grafana: flexible query options, powerful data correlations, and moreWith our Salesforce Enterprise data source, you can directly query and visualize your Salesforce data within Grafana.PluginsRead more",
+    "url": "https://grafana.com/blog/2025/08/21/visualize-salesforce-data-in-grafana-flexible-query-options-powerful-data-correlations-and-more/"
+  },
+  {
     "title": "Kristin Knapp   ·   20 Aug 2025   ·   9 min readGrafana Cloud updates: onboard teams with new AI-powered tooling, secrets management for enhanced...From the public preview of Grafana Assistant to a new secrets manager in Synthetic Monitoring, we have a lot of Grafana Cloud updates to share this...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/08/20/grafana-cloud-updates-onboard-teams-with-new-ai-powered-tooling-secrets-management-for-enhanced-security-and-more/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Marc Tuduri   ·   4 Aug 2025   ·   4 min readBuilding on the foundation of OpenTelemetry eBPF Instrumentation: what’s new in Grafana Beyla 2.5With Beyla 2.5, we're directly vendoring most of the code from the upstream OpenTelemetry eBPF Instrumentation repository, which Grafana Labs proudly...OpenTelemetryeBPFRead more",
     "url": "https://grafana.com/blog/2025/08/04/building-on-the-foundation-of-opentelemetry-ebpf-instrumentation-what-s-new-in-grafana-beyla-2-5/"
-  },
-  {
-    "title": "Joe McManus   ·   3 Aug 2025   ·   7 min readGrafana Cloud security update: Grafana Cloud Metrics memory corruption issue resolvedA bug introduced in a recent release of the Mimir distributor, which is part of the open source Mimir project that powers Grafana Cloud Metrics,...Read more",
-    "url": "https://grafana.com/blog/2025/08/03/grafana-cloud-metrics-memory-corruption-issue-resolved/"
   }
 ]
