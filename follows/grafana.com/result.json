@@ -4,6 +4,10 @@
     "url": "https://grafana.com/blog/2025/08/22/grafana-mimir-3-reasons-to-run-the-tsdb-for-prometheus-on-bare-metal/"
   },
   {
+    "title": "Colin Steele   ·   22 Aug 2025   ·   5 min readHow to monitor your homelab with Beyla, eBPF, and OpenTelemetryLearn how Beyla, eBPF, and OpenTelemetry combine to make homelab observability easy with this recap of a recent GrafanaCON 2025 session.eBPFOpenTelemetryRead more",
+    "url": "https://grafana.com/blog/2025/08/22/how-to-monitor-your-homelab-with-beyla-ebpf-and-opentelemetry/"
+  },
+  {
     "title": "Kristin Knapp   ·   21 Aug 2025   ·   5 min readVisualize Salesforce data in Grafana: flexible query options, powerful data correlations, and moreWith our Salesforce Enterprise data source, you can directly query and visualize your Salesforce data within Grafana.PluginsRead more",
     "url": "https://grafana.com/blog/2025/08/21/visualize-salesforce-data-in-grafana-flexible-query-options-powerful-data-correlations-and-more/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Grafana Labs Team   ·   6 Aug 2025   ·   2 min readObservabilityCON on the Road: Registration is now live!Register today for ObservabilityCON on the Road, a one-day version of our flagship observability event that we’re bringing to a city near you.ObservabilityCONEventsRead more",
     "url": "https://grafana.com/blog/2025/08/06/observabilitycon-on-the-road-registration-is-now-live/"
-  },
-  {
-    "title": "Alejandro Fraenkel   ·   5 Aug 2025   ·   9 min readNew in Grafana Alerting: a faster, more scalable way to manage your alerts in GrafanaWe built a brand new alert rules list page. Find out how this new design will make your on-call life a little easier and get insights into how we...AlertingRead more",
-    "url": "https://grafana.com/blog/2025/08/05/new-in-grafana-alerting-a-faster-more-scalable-way-to-manage-your-alerts-in-grafana/"
   }
 ]
