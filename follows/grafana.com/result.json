@@ -1,5 +1,9 @@
 [
   {
+    "title": "Wilfried Roset   ·   22 Aug 2025   ·   4 min readGrafana Mimir: 3 reasons to run the TSDB for Prometheus on bare metalRunning Mimir on Kubernetes makes a lot of sense—but it's not the only way. Find out why you may want to run it on virtual machines and/or bare metal...Read more",
+    "url": "https://grafana.com/blog/2025/08/22/grafana-mimir-3-reasons-to-run-the-tsdb-for-prometheus-on-bare-metal/"
+  },
+  {
     "title": "Kristin Knapp   ·   21 Aug 2025   ·   5 min readVisualize Salesforce data in Grafana: flexible query options, powerful data correlations, and moreWith our Salesforce Enterprise data source, you can directly query and visualize your Salesforce data within Grafana.PluginsRead more",
     "url": "https://grafana.com/blog/2025/08/21/visualize-salesforce-data-in-grafana-flexible-query-options-powerful-data-correlations-and-more/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Alejandro Fraenkel   ·   5 Aug 2025   ·   9 min readNew in Grafana Alerting: a faster, more scalable way to manage your alerts in GrafanaWe built a brand new alert rules list page. Find out how this new design will make your on-call life a little easier and get insights into how we...AlertingRead more",
     "url": "https://grafana.com/blog/2025/08/05/new-in-grafana-alerting-a-faster-more-scalable-way-to-manage-your-alerts-in-grafana/"
-  },
-  {
-    "title": "Marc Tuduri   ·   4 Aug 2025   ·   4 min readBuilding on the foundation of OpenTelemetry eBPF Instrumentation: what’s new in Grafana Beyla 2.5With Beyla 2.5, we're directly vendoring most of the code from the upstream OpenTelemetry eBPF Instrumentation repository, which Grafana Labs proudly...OpenTelemetryeBPFRead more",
-    "url": "https://grafana.com/blog/2025/08/04/building-on-the-foundation-of-opentelemetry-ebpf-instrumentation-what-s-new-in-grafana-beyla-2-5/"
   }
 ]
