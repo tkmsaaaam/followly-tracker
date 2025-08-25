@@ -1,5 +1,9 @@
 [
   {
+    "title": "Mostafa Moradian   ·   25 Aug 2025   ·   11 min readCanary tokens: Learn all about the unsung heroes of security at Grafana LabsLearn why the use of canary tokens let us spot a recent intrusion and swarm quickly in response, and find out why you should be using canary tokens to...SecurityRead more",
+    "url": "https://grafana.com/blog/2025/08/25/canary-tokens-learn-all-about-the-unsung-heroes-of-security-at-grafana-labs/"
+  },
+  {
     "title": "Wilfried Roset   ·   22 Aug 2025   ·   4 min readGrafana Mimir: 3 reasons to run the TSDB for Prometheus on bare metalRunning Mimir on Kubernetes makes a lot of sense—but it's not the only way. Find out why you may want to run it on virtual machines and/or bare metal...Read more",
     "url": "https://grafana.com/blog/2025/08/22/grafana-mimir-3-reasons-to-run-the-tsdb-for-prometheus-on-bare-metal/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Jose Ignacio Gil Jaldo   ·   7 Aug 2025   ·   4 min readDeletion protection in Grafana Cloud: a simple way to safeguard your observability stackWith the new deletion protection feature in Grafana Cloud, you’re fully protected against the accidental deletion of critical resources in your...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/08/07/deletion-protection-in-grafana-cloud-a-simple-way-to-safeguard-your-observability-stack/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   6 Aug 2025   ·   2 min readObservabilityCON on the Road: Registration is now live!Register today for ObservabilityCON on the Road, a one-day version of our flagship observability event that we’re bringing to a city near you.ObservabilityCONEventsRead more",
-    "url": "https://grafana.com/blog/2025/08/06/observabilitycon-on-the-road-registration-is-now-live/"
   }
 ]
