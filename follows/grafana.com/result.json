@@ -1,5 +1,9 @@
 [
   {
+    "title": "Elizabeth Burkly   ·   26 Aug 2025   ·   9 min readInside Grafana Labs’ Voice of Customer program: what’s new and what’s nextWith our Voice of Customer program, we can tighten the loop between what our users ask for and what we prioritize in R\u0026D. Here’s a look at some recent...Grafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/08/26/inside-grafana-labs-voice-of-customer-program-whats-new-and-whats-next/"
+  },
+  {
     "title": "Mostafa Moradian   ·   25 Aug 2025   ·   11 min readCanary tokens: Learn all about the unsung heroes of security at Grafana LabsLearn why the use of canary tokens let us spot a recent intrusion and swarm quickly in response, and find out why you should be using canary tokens to...SecurityRead more",
     "url": "https://grafana.com/blog/2025/08/25/canary-tokens-learn-all-about-the-unsung-heroes-of-security-at-grafana-labs/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Wilfried Roset   ·   8 Aug 2025   ·   6 min readHow to use SQL to learn more about your Grafana usageThe database you use to store all your Grafana objects can be a gold mine of information. See how you can use SQL to get more insights and build...GrafanaRead more",
     "url": "https://grafana.com/blog/2025/08/08/how-to-use-slq-to-learn-more-about-your-grafana-usage/"
-  },
-  {
-    "title": "Jose Ignacio Gil Jaldo   ·   7 Aug 2025   ·   4 min readDeletion protection in Grafana Cloud: a simple way to safeguard your observability stackWith the new deletion protection feature in Grafana Cloud, you’re fully protected against the accidental deletion of critical resources in your...Grafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/08/07/deletion-protection-in-grafana-cloud-a-simple-way-to-safeguard-your-observability-stack/"
   }
 ]
