@@ -1,5 +1,9 @@
 [
   {
+    "title": "Cedric Ziel   ·   27 Aug 2025   ·   4 min readOptimize application performance at the network layer: introducing HTTP Performance Insights in...With HTTP Performance Insights in Grafana Cloud Frontend Observability, you can monitor your application’s HTTP requests and error rates to detect...Read more",
+    "url": "https://grafana.com/blog/2025/08/27/optimize-application-performance-at-the-network-layer-introducing-http-performance-insights-in-frontend-observability/"
+  },
+  {
     "title": "Elizabeth Burkly   ·   26 Aug 2025   ·   9 min readInside Grafana Labs’ Voice of Customer program: what’s new and what’s nextWith our Voice of Customer program, we can tighten the loop between what our users ask for and what we prioritize in R\u0026D. Here’s a look at some recent...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/08/26/inside-grafana-labs-voice-of-customer-program-whats-new-and-whats-next/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Jay Clifford   ·   11 Aug 2025   ·   11 min readLearn OpenTelemetry tracing through a grand strategy game: introducing Game of TracesGame of Traces is a grand strategy game you can play to learn the key concepts of OpenTelemetry tracing — and, of course, heroically defend a few...OpenTelemetryTracingGrafanaRead more",
     "url": "https://grafana.com/blog/2025/08/11/learn-opentelemetry-tracing-through-a-grand-strategy-game-introducing-game-of-traces/"
-  },
-  {
-    "title": "Wilfried Roset   ·   8 Aug 2025   ·   6 min readHow to use SQL to learn more about your Grafana usageThe database you use to store all your Grafana objects can be a gold mine of information. See how you can use SQL to get more insights and build...GrafanaRead more",
-    "url": "https://grafana.com/blog/2025/08/08/how-to-use-slq-to-learn-more-about-your-grafana-usage/"
   }
 ]
