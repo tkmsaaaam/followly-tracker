@@ -1,5 +1,9 @@
 [
   {
+    "title": "Victoria Nduka   ·   28 Aug 2025   ·   10 min readHow should Prometheus handle OpenTelemetry resource attributes?Check out the results of a Prometheus mentorship project focused on understanding how Prometheus handles OpenTelemetry resource attributes and how...PrometheusOpenTelemetryRead more",
+    "url": "https://grafana.com/blog/2025/08/28/how-should-prometheus-handle-opentelemetry-resource-attributes-a-ux-research-report/"
+  },
+  {
     "title": "Cedric Ziel   ·   27 Aug 2025   ·   4 min readOptimize application performance at the network layer: introducing HTTP Performance Insights in...With HTTP Performance Insights in Grafana Cloud Frontend Observability, you can monitor your application’s HTTP requests and error rates to detect...Read more",
     "url": "https://grafana.com/blog/2025/08/27/optimize-application-performance-at-the-network-layer-introducing-http-performance-insights-in-frontend-observability/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Andy Jiang   ·   15 Aug 2025   ·   8 min readIntegrating Deno and Grafana Cloud: How to observe your JavaScript project with zero added codeWith Deno and Grafana Cloud, you can achieve deep insights into your JavaScript project without having to manually instrument code or deploy a...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/08/15/integrating-deno-and-grafana-cloud-how-to-observe-your-javascript-project-with-zero-added-code/"
-  },
-  {
-    "title": "Maurice Rochau   ·   14 Aug 2025   ·   9 min readAI for Grafana onboarding: Get your teams started quicker with Grafana AssistantGrafana Assistant is now available in public preview! Learn how it can help you get onboarded with Grafana, regardless of your level of expertise.AI/MLRead more",
-    "url": "https://grafana.com/blog/2025/08/14/ai-for-grafana-onboarding-get-your-teams-started-quicker-with-grafana-assistant/"
   }
 ]
