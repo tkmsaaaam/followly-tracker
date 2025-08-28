@@ -4,6 +4,14 @@
     "url": "https://grafana.com/blog/2025/08/27/optimize-application-performance-at-the-network-layer-introducing-http-performance-insights-in-frontend-observability/"
   },
   {
+    "title": "Cedric Ziel   ·   27 Aug 2025   ·   4 min readOptimize application performance at the network layer: introducing HTTP Performance Insights in...With HTTP Performance Insights in Grafana Cloud Frontend Observability, you can monitor your application’s HTTP requests and error rates to detect...Read more",
+    "url": "https://grafana.com/blog/2025/08/27/optimize-application-performance-at-the-network-layer-introducing-http-performance-insights-in-frontend-observability/"
+  },
+  {
+    "title": "Elizabeth Burkly   ·   26 Aug 2025   ·   9 min readInside Grafana Labs’ Voice of Customer program: what’s new and what’s nextWith our Voice of Customer program, we can tighten the loop between what our users ask for and what we prioritize in R\u0026D. Here’s a look at some recent...Grafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/08/26/inside-grafana-labs-voice-of-customer-program-whats-new-and-whats-next/"
+  },
+  {
     "title": "Elizabeth Burkly   ·   26 Aug 2025   ·   9 min readInside Grafana Labs’ Voice of Customer program: what’s new and what’s nextWith our Voice of Customer program, we can tighten the loop between what our users ask for and what we prioritize in R\u0026D. Here’s a look at some recent...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/08/26/inside-grafana-labs-voice-of-customer-program-whats-new-and-whats-next/"
   },
@@ -12,8 +20,16 @@
     "url": "https://grafana.com/blog/2025/08/25/canary-tokens-learn-all-about-the-unsung-heroes-of-security-at-grafana-labs/"
   },
   {
+    "title": "Mostafa Moradian   ·   25 Aug 2025   ·   11 min readCanary tokens: Learn all about the unsung heroes of security at Grafana LabsLearn why the use of canary tokens let us spot a recent intrusion and swarm quickly in response, and find out why you should be using canary tokens to...SecurityRead more",
+    "url": "https://grafana.com/blog/2025/08/25/canary-tokens-learn-all-about-the-unsung-heroes-of-security-at-grafana-labs/"
+  },
+  {
     "title": "Wilfried Roset   ·   22 Aug 2025   ·   4 min readGrafana Mimir: 3 reasons to run the TSDB for Prometheus on bare metalRunning Mimir on Kubernetes makes a lot of sense—but it's not the only way. Find out why you may want to run it on virtual machines and/or bare metal...Read more",
     "url": "https://grafana.com/blog/2025/08/22/grafana-mimir-3-reasons-to-run-the-tsdb-for-prometheus-on-bare-metal/"
+  },
+  {
+    "title": "Colin Steele   ·   22 Aug 2025   ·   5 min readHow to monitor your homelab with Beyla, eBPF, and OpenTelemetryLearn how Beyla, eBPF, and OpenTelemetry combine to make homelab observability easy with this recap of a recent GrafanaCON 2025 session.eBPFOpenTelemetryRead more",
+    "url": "https://grafana.com/blog/2025/08/22/how-to-monitor-your-homelab-with-beyla-ebpf-and-opentelemetry/"
   },
   {
     "title": "Colin Steele   ·   22 Aug 2025   ·   5 min readHow to monitor your homelab with Beyla, eBPF, and OpenTelemetryLearn how Beyla, eBPF, and OpenTelemetry combine to make homelab observability easy with this recap of a recent GrafanaCON 2025 session.eBPFOpenTelemetryRead more",
@@ -42,21 +58,5 @@
   {
     "title": "Maurice Rochau   ·   14 Aug 2025   ·   9 min readAI for Grafana onboarding: Get your teams started quicker with Grafana AssistantGrafana Assistant is now available in public preview! Learn how it can help you get onboarded with Grafana, regardless of your level of expertise.AI/MLRead more",
     "url": "https://grafana.com/blog/2025/08/14/ai-for-grafana-onboarding-get-your-teams-started-quicker-with-grafana-assistant/"
-  },
-  {
-    "title": "Mat Ryer   ·   14 Aug 2025   ·   9 min readAI in observability at Grafana Labs: Making observability easy and accessible for everyoneAI will likely be integral to observability in the future. Here's our perspective on the role of AI and how that's influencing the tools we're...AI/MLRead more",
-    "url": "https://grafana.com/blog/2025/08/14/ai-in-observability-at-grafana-labs-making-observability-easy-and-accessible-for-everyone/"
-  },
-  {
-    "title": "Joe Elliott   ·   13 Aug 2025   ·   6 min readLLM-powered insights into your tracing data: introducing MCP support in Grafana Cloud TracesWith support for the Model Context Protocol (MCP) within Grafana Cloud Traces, you can leverage LLM-powered tools like Claude Code to analyze and...AI/MLRead more",
-    "url": "https://grafana.com/blog/2025/08/13/llm-powered-insights-into-your-tracing-data-introducing-mcp-support-in-grafana-cloud-traces/"
-  },
-  {
-    "title": "Trevor Jones   ·   12 Aug 2025   ·   9 min readObservability trends in Brazil: insights from our localized surveyCheck out the highlights from our first survey about observability practices in Brazil, including analysis on adoption, maturity, challenges, and...ObservabilityRead more",
-    "url": "https://grafana.com/blog/2025/08/12/observability-trends-in-brazil-insights-from-our-localized-survey/"
-  },
-  {
-    "title": "Jay Clifford   ·   11 Aug 2025   ·   11 min readLearn OpenTelemetry tracing through a grand strategy game: introducing Game of TracesGame of Traces is a grand strategy game you can play to learn the key concepts of OpenTelemetry tracing — and, of course, heroically defend a few...OpenTelemetryTracingGrafanaRead more",
-    "url": "https://grafana.com/blog/2025/08/11/learn-opentelemetry-tracing-through-a-grand-strategy-game-introducing-game-of-traces/"
   }
 ]
