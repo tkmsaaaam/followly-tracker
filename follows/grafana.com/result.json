@@ -1,5 +1,9 @@
 [
   {
+    "title": "Colin Steele   ·   29 Aug 2025   ·   5 min readProject Bob: The autonomous boat attempting to circle the globe with open source and GrafanaMeet Project Bob, which aims to be the first autonomous boat to circumnavigate the globe, thanks, in part, to Grafana.IoTRead more",
+    "url": "https://grafana.com/blog/2025/08/29/project-bob-the-open-source-boat-attempting-to-circle-the-globe/"
+  },
+  {
     "title": "Victoria Nduka   ·   28 Aug 2025   ·   10 min readHow should Prometheus handle OpenTelemetry resource attributes?Check out the results of a Prometheus mentorship project focused on understanding how Prometheus handles OpenTelemetry resource attributes and how...PrometheusOpenTelemetryRead more",
     "url": "https://grafana.com/blog/2025/08/28/how-should-prometheus-handle-opentelemetry-resource-attributes-a-ux-research-report/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Joe Elliott   ·   13 Aug 2025   ·   6 min readLLM-powered insights into your tracing data: introducing MCP support in Grafana Cloud TracesWith support for the Model Context Protocol (MCP) within Grafana Cloud Traces, you can leverage LLM-powered tools like Claude Code to analyze and...AI/MLRead more",
     "url": "https://grafana.com/blog/2025/08/13/llm-powered-insights-into-your-tracing-data-introducing-mcp-support-in-grafana-cloud-traces/"
-  },
-  {
-    "title": "Trevor Jones   ·   12 Aug 2025   ·   9 min readObservability trends in Brazil: insights from our localized surveyCheck out the highlights from our first survey about observability practices in Brazil, including analysis on adoption, maturity, challenges, and...ObservabilityRead more",
-    "url": "https://grafana.com/blog/2025/08/12/observability-trends-in-brazil-insights-from-our-localized-survey/"
   }
 ]
