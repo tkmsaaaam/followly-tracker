@@ -1,5 +1,9 @@
 [
   {
+    "title": "Bukola Ayodele   ·   2 Sep 2025   ·   4 min readActionable insights into the end-user experience: an overview of Grafana Cloud Frontend...Getting started with Grafana Cloud Frontend Observability? Here’s a breakdown of the key metrics and visualizations you’ll find on our pre-built...Frontend observabilityRead more",
+    "url": "https://grafana.com/blog/2025/09/02/actionable-insights-into-the-end-user-experience-an-overview-of-grafana-cloud-frontend-observability-dashboards/"
+  },
+  {
     "title": "Colin Steele   ·   29 Aug 2025   ·   5 min readProject Bob: The autonomous boat attempting to circle the globe with open source and GrafanaMeet Project Bob, which aims to be the first autonomous boat to circumnavigate the globe, thanks, in part, to Grafana.IoTRead more",
     "url": "https://grafana.com/blog/2025/08/29/project-bob-the-open-source-boat-attempting-to-circle-the-globe/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Mat Ryer   ·   14 Aug 2025   ·   9 min readAI in observability at Grafana Labs: Making observability easy and accessible for everyoneAI will likely be integral to observability in the future. Here's our perspective on the role of AI and how that's influencing the tools we're...AI/MLRead more",
     "url": "https://grafana.com/blog/2025/08/14/ai-in-observability-at-grafana-labs-making-observability-easy-and-accessible-for-everyone/"
-  },
-  {
-    "title": "Joe Elliott   ·   13 Aug 2025   ·   6 min readLLM-powered insights into your tracing data: introducing MCP support in Grafana Cloud TracesWith support for the Model Context Protocol (MCP) within Grafana Cloud Traces, you can leverage LLM-powered tools like Claude Code to analyze and...AI/MLRead more",
-    "url": "https://grafana.com/blog/2025/08/13/llm-powered-insights-into-your-tracing-data-introducing-mcp-support-in-grafana-cloud-traces/"
   }
 ]
