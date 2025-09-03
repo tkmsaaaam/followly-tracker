@@ -1,5 +1,9 @@
 [
   {
+    "title": "Karsten Jeschkies   ·   3 Sep 2025   ·   4 min readAWS metric ingestion for less: Save money and get near real-time stream into Grafana CloudYou can now stream metrics into the AWS Observability app in Grafana Cloud in near-real-time thanks to our new integration with Amazon CloudWatch and...Grafana CloudAWSCloud Provider ObservabilityRead more",
+    "url": "https://grafana.com/blog/2025/09/03/aws-metric-ingestion-for-less-save-money-and-get-near-real-time-stream-into-grafana-cloud/"
+  },
+  {
     "title": "Bukola Ayodele   ·   2 Sep 2025   ·   4 min readActionable insights into the end-user experience: an overview of Grafana Cloud Frontend...Getting started with Grafana Cloud Frontend Observability? Here’s a breakdown of the key metrics and visualizations you’ll find on our pre-built...Frontend observabilityRead more",
     "url": "https://grafana.com/blog/2025/09/02/actionable-insights-into-the-end-user-experience-an-overview-of-grafana-cloud-frontend-observability-dashboards/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Maurice Rochau   ·   14 Aug 2025   ·   9 min readAI for Grafana onboarding: Get your teams started quicker with Grafana AssistantGrafana Assistant is now available in public preview! Learn how it can help you get onboarded with Grafana, regardless of your level of expertise.AI/MLRead more",
     "url": "https://grafana.com/blog/2025/08/14/ai-for-grafana-onboarding-get-your-teams-started-quicker-with-grafana-assistant/"
-  },
-  {
-    "title": "Mat Ryer   ·   14 Aug 2025   ·   9 min readAI in observability at Grafana Labs: Making observability easy and accessible for everyoneAI will likely be integral to observability in the future. Here's our perspective on the role of AI and how that's influencing the tools we're...AI/MLRead more",
-    "url": "https://grafana.com/blog/2025/08/14/ai-in-observability-at-grafana-labs-making-observability-easy-and-accessible-for-everyone/"
   }
 ]
