@@ -1,5 +1,9 @@
 [
   {
+    "title": "Ivana Huckova   ·   4 Sep 2025   ·   5 min readWhat’s new in the Infinity data source for Grafana: support for JQ parser, additional HTTP methods,...The latest updates to the Infinity data source for Grafana enhance its flexibility, performance, and compatibility with Grafana’s backend features.PluginsRead more",
+    "url": "https://grafana.com/blog/2025/09/04/whats-new-in-the-infinity-data-source-for-grafana-support-for-jq-parser-additional-http-methods-and-more/"
+  },
+  {
     "title": "Karsten Jeschkies   ·   3 Sep 2025   ·   4 min readAWS metric ingestion for less: Save money and get near real-time stream into Grafana CloudYou can now stream metrics into the AWS Observability app in Grafana Cloud in near-real-time thanks to our new integration with Amazon CloudWatch and...Grafana CloudAWSCloud Provider ObservabilityRead more",
     "url": "https://grafana.com/blog/2025/09/03/aws-metric-ingestion-for-less-save-money-and-get-near-real-time-stream-into-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Andy Jiang   ·   15 Aug 2025   ·   8 min readIntegrating Deno and Grafana Cloud: How to observe your JavaScript project with zero added codeWith Deno and Grafana Cloud, you can achieve deep insights into your JavaScript project without having to manually instrument code or deploy a...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/08/15/integrating-deno-and-grafana-cloud-how-to-observe-your-javascript-project-with-zero-added-code/"
-  },
-  {
-    "title": "Maurice Rochau   ·   14 Aug 2025   ·   9 min readAI for Grafana onboarding: Get your teams started quicker with Grafana AssistantGrafana Assistant is now available in public preview! Learn how it can help you get onboarded with Grafana, regardless of your level of expertise.AI/MLRead more",
-    "url": "https://grafana.com/blog/2025/08/14/ai-for-grafana-onboarding-get-your-teams-started-quicker-with-grafana-assistant/"
   }
 ]
