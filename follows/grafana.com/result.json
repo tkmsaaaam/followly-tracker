@@ -1,5 +1,9 @@
 [
   {
+    "title": "Summer Wollin   ·   5 Sep 2025   ·   7 min readTiger teams: How we tackle urgent, cross-functional challenges at Grafana LabsSee why tiger teams have become our go-to model for tackling urgent, high-impact issues that don't fit neatly into a single team's backlog, and get...Read more",
+    "url": "https://grafana.com/blog/2025/09/05/tiger-teams-how-we-tackle-urgent-cross-functional-challenges-at-grafana-labs/"
+  },
+  {
     "title": "Ivana Huckova   ·   4 Sep 2025   ·   5 min readWhat’s new in the Infinity data source for Grafana: support for JQ parser, additional HTTP methods,...The latest updates to the Infinity data source for Grafana enhance its flexibility, performance, and compatibility with Grafana’s backend features.PluginsRead more",
     "url": "https://grafana.com/blog/2025/09/04/whats-new-in-the-infinity-data-source-for-grafana-support-for-jq-parser-additional-http-methods-and-more/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Ishan Jain   ·   19 Aug 2025   ·   5 min readHow to monitor Claude usage and costs: introducing the Anthropic integration for Grafana CloudWith the Anthropic integration for Grafana Cloud, you get real-time insights into the cost and performance of your Claude LLMs via pre-built...Grafana CloudAI/MLRead more",
     "url": "https://grafana.com/blog/2025/08/19/how-to-monitor-claude-usage-and-costs-introducing-the-anthropic-integration-for-grafana-cloud/"
-  },
-  {
-    "title": "Andy Jiang   ·   15 Aug 2025   ·   8 min readIntegrating Deno and Grafana Cloud: How to observe your JavaScript project with zero added codeWith Deno and Grafana Cloud, you can achieve deep insights into your JavaScript project without having to manually instrument code or deploy a...Grafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/08/15/integrating-deno-and-grafana-cloud-how-to-observe-your-javascript-project-with-zero-added-code/"
   }
 ]
