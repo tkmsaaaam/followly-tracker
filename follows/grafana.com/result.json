@@ -1,6 +1,10 @@
 [
   {
-    "title": "Summer Wollin   ·   5 Sep 2025   ·   7 min readTiger teams: How we tackle urgent, cross-functional challenges at Grafana LabsSee why tiger teams have become our go-to model for tackling urgent, high-impact issues that don't fit neatly into a single team's backlog, and get...Read more",
+    "title": "Sarah Constant   ·   8 Sep 2025   ·   6 min readManaging access in Grafana: a single stack journey with teams, roles, and real-world patternsLearn how putting all users in a single Grafana Cloud stack and managing access with teams, roles, and folders can help you and your organization stay...SecurityRead more",
+    "url": "https://grafana.com/blog/2025/09/08/managing-access-in-grafana-a-single-stack-journey-with-teams-roles-and-real-world-patterns/"
+  },
+  {
+    "title": "Summer Wollin   ·   5 Sep 2025   ·   7 min readTiger teams: How we tackle urgent, cross-functional challenges at Grafana LabsSee why tiger teams have become our go-to model for tackling urgent, high-impact issues that don't fit neatly into a single team's backlog, and get...Grafana LabsRead more",
     "url": "https://grafana.com/blog/2025/09/05/tiger-teams-how-we-tackle-urgent-cross-functional-challenges-at-grafana-labs/"
   },
   {
@@ -54,9 +58,5 @@
   {
     "title": "Michael Mandrus   ·   20 Aug 2025   ·   6 min readSecure credential storage for your observability stack: Introducing secrets management in Grafana...Secrets management, now in public preview in Grafana Cloud, centralizes credential storage with enterprise-grade encryption, reference-based secrets...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/08/20/secure-credential-storage-for-your-observability-stack-introducing-secrets-management-in-grafana-cloud/"
-  },
-  {
-    "title": "Ishan Jain   ·   19 Aug 2025   ·   5 min readHow to monitor Claude usage and costs: introducing the Anthropic integration for Grafana CloudWith the Anthropic integration for Grafana Cloud, you get real-time insights into the cost and performance of your Claude LLMs via pre-built...Grafana CloudAI/MLRead more",
-    "url": "https://grafana.com/blog/2025/08/19/how-to-monitor-claude-usage-and-costs-introducing-the-anthropic-integration-for-grafana-cloud/"
   }
 ]
