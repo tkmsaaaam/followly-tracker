@@ -1,5 +1,9 @@
 [
   {
+    "title": "Lauren Armstrong   ·   10 Sep 2025   ·   4 min readA smarter filter for Grafana Alerting: Introducing a new way to find your alertsQuickly and easily find the alert rules you need with the new filtering experience in Grafana Alerting that provides a cleaner UI and more filtering...AlertingRead more",
+    "url": "https://grafana.com/blog/2025/09/10/a-smarter-filter-for-grafana-alerting-introducing-a-new-way-to-find-your-alerts/"
+  },
+  {
     "title": "Bukola Ayodele   ·   9 Sep 2025   ·   5 min readMeasuring service response time and latency: How to perform a TCP check in Grafana Cloud Synthetic...TCP checks in Grafana Cloud Synthetic Monitoring can be your first line of defense against service failures and network connectivity issues. Here’s...Grafana CloudSynthetic monitoringRead more",
     "url": "https://grafana.com/blog/2025/09/09/measuring-service-response-time-and-latency-how-to-perform-a-tcp-check-in-grafana-cloud-synthetic-monitoring/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Kristin Knapp   ·   21 Aug 2025   ·   5 min readVisualize Salesforce data in Grafana: flexible query options, powerful data correlations, and moreWith our Salesforce Enterprise data source, you can directly query and visualize your Salesforce data within Grafana.PluginsRead more",
     "url": "https://grafana.com/blog/2025/08/21/visualize-salesforce-data-in-grafana-flexible-query-options-powerful-data-correlations-and-more/"
-  },
-  {
-    "title": "Kristin Knapp   ·   20 Aug 2025   ·   9 min readGrafana Cloud updates: onboard teams with new AI-powered tooling, secrets management for enhanced...From the public preview of Grafana Assistant to a new secrets manager in Synthetic Monitoring, we have a lot of Grafana Cloud updates to share this...Grafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/08/20/grafana-cloud-updates-onboard-teams-with-new-ai-powered-tooling-secrets-management-for-enhanced-security-and-more/"
   }
 ]
