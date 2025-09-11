@@ -1,5 +1,9 @@
 [
   {
+    "title": "Ivana Huckova   ·   11 Sep 2025   ·   10 min readDebug, query, and build faster with AI: How we use Grafana Assistant at Grafana LabsSee how Grafana Labs uses Grafana Assistant internally to find data, simplify queries, explain logs, accelerate onboarding, and improve dashboarding.AI/MLRead more",
+    "url": "https://grafana.com/blog/2025/09/11/debug-query-and-build-faster-with-grafana-assistant/"
+  },
+  {
     "title": "Lauren Armstrong   ·   10 Sep 2025   ·   4 min readA smarter filter for Grafana Alerting: Introducing a new way to find your alertsQuickly and easily find the alert rules you need with the new filtering experience in Grafana Alerting that provides a cleaner UI and more filtering...AlertingRead more",
     "url": "https://grafana.com/blog/2025/09/10/a-smarter-filter-for-grafana-alerting-introducing-a-new-way-to-find-your-alerts/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Colin Steele   ·   22 Aug 2025   ·   5 min readHow to monitor your homelab with Beyla, eBPF, and OpenTelemetryLearn how Beyla, eBPF, and OpenTelemetry combine to make homelab observability easy with this recap of a recent GrafanaCON 2025 session.eBPFOpenTelemetryRead more",
     "url": "https://grafana.com/blog/2025/08/22/how-to-monitor-your-homelab-with-beyla-ebpf-and-opentelemetry/"
-  },
-  {
-    "title": "Kristin Knapp   ·   21 Aug 2025   ·   5 min readVisualize Salesforce data in Grafana: flexible query options, powerful data correlations, and moreWith our Salesforce Enterprise data source, you can directly query and visualize your Salesforce data within Grafana.PluginsRead more",
-    "url": "https://grafana.com/blog/2025/08/21/visualize-salesforce-data-in-grafana-flexible-query-options-powerful-data-correlations-and-more/"
   }
 ]
