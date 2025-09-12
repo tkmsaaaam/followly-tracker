@@ -1,5 +1,9 @@
 [
   {
+    "title": "Imma Valls   ·   12 Sep 2025   ·   6 min readData storytelling at HackUPC 2025: Celebrating 3 student hackathon projects powered by GrafanaGrafana Labs was a proud sponsor of the HackUPC event, where students from around the world built some innovative, Grafana-powered dashboards to track...GrafanaRead more",
+    "url": "https://grafana.com/blog/2025/09/12/data-storytelling-at-hackupc-2025-celebrating-3-student-hackathon-projects-powered-by-grafana/"
+  },
+  {
     "title": "Ivana Huckova   ·   11 Sep 2025   ·   10 min readDebug, query, and build faster with AI: How we use Grafana Assistant at Grafana LabsSee how Grafana Labs uses Grafana Assistant internally to find data, simplify queries, explain logs, accelerate onboarding, and improve dashboarding.AI/MLRead more",
     "url": "https://grafana.com/blog/2025/09/11/debug-query-and-build-faster-with-grafana-assistant/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Wilfried Roset   ·   22 Aug 2025   ·   4 min readGrafana Mimir: 3 reasons to run the TSDB for Prometheus on bare metalRunning Mimir on Kubernetes makes a lot of sense—but it's not the only way. Find out why you may want to run it on virtual machines and/or bare metal...Read more",
     "url": "https://grafana.com/blog/2025/08/22/grafana-mimir-3-reasons-to-run-the-tsdb-for-prometheus-on-bare-metal/"
-  },
-  {
-    "title": "Colin Steele   ·   22 Aug 2025   ·   5 min readHow to monitor your homelab with Beyla, eBPF, and OpenTelemetryLearn how Beyla, eBPF, and OpenTelemetry combine to make homelab observability easy with this recap of a recent GrafanaCON 2025 session.eBPFOpenTelemetryRead more",
-    "url": "https://grafana.com/blog/2025/08/22/how-to-monitor-your-homelab-with-beyla-ebpf-and-opentelemetry/"
   }
 ]
