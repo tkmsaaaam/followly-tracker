@@ -1,5 +1,9 @@
 [
   {
+    "title": "Matías Bordese   ·   15 Sep 2025   ·   5 min readHow to connect ServiceNow to Grafana Cloud IRM incidentsLearn the new way to set up webhooks based on Grafana Cloud IRM incident events so you can template URLs, headers, and data, as well as chain...Read more",
+    "url": "https://grafana.com/blog/2025/09/15/how-to-connect-servicenow-to-grafana-cloud-irm-incidents/"
+  },
+  {
     "title": "Imma Valls   ·   12 Sep 2025   ·   6 min readData storytelling at HackUPC 2025: Celebrating 3 student hackathon projects powered by GrafanaGrafana Labs was a proud sponsor of the HackUPC event, where students from around the world built some innovative, Grafana-powered dashboards to track...GrafanaRead more",
     "url": "https://grafana.com/blog/2025/09/12/data-storytelling-at-hackupc-2025-celebrating-3-student-hackathon-projects-powered-by-grafana/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Mostafa Moradian   ·   25 Aug 2025   ·   11 min readCanary tokens: Learn all about the unsung heroes of security at Grafana LabsLearn why the use of canary tokens let us spot a recent intrusion and swarm quickly in response, and find out why you should be using canary tokens to...SecurityRead more",
     "url": "https://grafana.com/blog/2025/08/25/canary-tokens-learn-all-about-the-unsung-heroes-of-security-at-grafana-labs/"
-  },
-  {
-    "title": "Wilfried Roset   ·   22 Aug 2025   ·   4 min readGrafana Mimir: 3 reasons to run the TSDB for Prometheus on bare metalRunning Mimir on Kubernetes makes a lot of sense—but it's not the only way. Find out why you may want to run it on virtual machines and/or bare metal...Read more",
-    "url": "https://grafana.com/blog/2025/08/22/grafana-mimir-3-reasons-to-run-the-tsdb-for-prometheus-on-bare-metal/"
   }
 ]
