@@ -1,10 +1,10 @@
 [
   {
-    "title": "Olha Yevtushenko   ·   16 Sep 2025   ·   7 min readDistributed performance testing for Kubernetes environments: Grafana k6 Operator 1.0 is hereStarting as an experiment back in 2020, k6 Operator has grown into a powerful open source project that makes it easier to run and manage distributed...Performance testingKubernetesLoad testingRead more",
+    "title": "Olha Yevtushenko   ·   16 Sep 2025   ·   7 min readDistributed performance testing for Kubernetes environments: Grafana k6 Operator 1.0 is hereStarting as an experiment back in 2020, k6 Operator has grown into a powerful open source project that makes it easier to run and manage distributed...k6Performance testingKubernetesLoad testingRead more",
     "url": "https://grafana.com/blog/2025/09/16/distributed-performance-testing-for-kubernetes-environments-grafana-k6-operator-1-0-is-here/"
   },
   {
-    "title": "Matías Bordese   ·   15 Sep 2025   ·   5 min readHow to connect ServiceNow to Grafana Cloud IRM incidentsLearn the new way to set up webhooks based on Grafana Cloud IRM incident events so you can template URLs, headers, and data, as well as chain...Read more",
+    "title": "Matías Bordese   ·   15 Sep 2025   ·   5 min readHow to connect ServiceNow to Grafana Cloud IRM incidentsLearn the new way to set up webhooks based on Grafana Cloud IRM incident events so you can template URLs, headers, and data, as well as chain...Grafana Cloud IRMRead more",
     "url": "https://grafana.com/blog/2025/09/15/how-to-connect-servicenow-to-grafana-cloud-irm-incidents/"
   },
   {
