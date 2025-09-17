@@ -1,5 +1,9 @@
 [
   {
+    "title": "Jon Kartago Lamida   ·   17 Sep 2025   ·   8 min readFaster, more memory-efficient performance in Grafana Mimir: a closer look at Mimir Query EngineBy processing queries in a streaming manner without loading all samples at once, Mimir Query Engine boosts performance and memory-efficiency within...MimirRead more",
+    "url": "https://grafana.com/blog/2025/09/17/faster-more-memory-efficient-performance-in-grafana-mimir-a-closer-look-at-mimir-query-engine/"
+  },
+  {
     "title": "Olha Yevtushenko   ·   16 Sep 2025   ·   7 min readDistributed performance testing for Kubernetes environments: Grafana k6 Operator 1.0 is hereStarting as an experiment back in 2020, k6 Operator has grown into a powerful open source project that makes it easier to run and manage distributed...k6Performance testingKubernetesLoad testingRead more",
     "url": "https://grafana.com/blog/2025/09/16/distributed-performance-testing-for-kubernetes-environments-grafana-k6-operator-1-0-is-here/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Cedric Ziel   ·   27 Aug 2025   ·   4 min readOptimize application performance at the network layer: introducing HTTP Performance Insights in...With HTTP Performance Insights in Grafana Cloud Frontend Observability, you can monitor your application’s HTTP requests and error rates to detect...Read more",
     "url": "https://grafana.com/blog/2025/08/27/optimize-application-performance-at-the-network-layer-introducing-http-performance-insights-in-frontend-observability/"
-  },
-  {
-    "title": "Elizabeth Burkly   ·   26 Aug 2025   ·   9 min readInside Grafana Labs’ Voice of Customer program: what’s new and what’s nextWith our Voice of Customer program, we can tighten the loop between what our users ask for and what we prioritize in R\u0026D. Here’s a look at some recent...Grafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/08/26/inside-grafana-labs-voice-of-customer-program-whats-new-and-whats-next/"
   }
 ]
