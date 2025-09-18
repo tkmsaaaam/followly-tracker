@@ -1,5 +1,9 @@
 [
   {
+    "title": "Naima Alexander   ·   18 Sep 2025   ·   5 min readSingle-tenant vs. multi-tenant architecture with Grafana Cloud: A guide to choosing the right...Learn the pros and cons of each approach so you and your organization come to an informed decision about the architectural approach that best fits...SecurityRead more",
+    "url": "https://grafana.com/blog/2025/09/18/single-tenant-vs-multi-tenant-architecture-with-grafana-cloud-how-to-choose-the-right-approach/"
+  },
+  {
     "title": "Jon Kartago Lamida   ·   17 Sep 2025   ·   8 min readFaster, more memory-efficient performance in Grafana Mimir: a closer look at Mimir Query EngineBy processing queries in a streaming manner without loading all samples at once, Mimir Query Engine boosts performance and memory-efficiency within...MimirRead more",
     "url": "https://grafana.com/blog/2025/09/17/faster-more-memory-efficient-performance-in-grafana-mimir-a-closer-look-at-mimir-query-engine/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Victoria Nduka   ·   28 Aug 2025   ·   10 min readHow should Prometheus handle OpenTelemetry resource attributes?Check out the results of a Prometheus mentorship project focused on understanding how Prometheus handles OpenTelemetry resource attributes and how...PrometheusOpenTelemetryRead more",
     "url": "https://grafana.com/blog/2025/08/28/how-should-prometheus-handle-opentelemetry-resource-attributes-a-ux-research-report/"
-  },
-  {
-    "title": "Cedric Ziel   ·   27 Aug 2025   ·   4 min readOptimize application performance at the network layer: introducing HTTP Performance Insights in...With HTTP Performance Insights in Grafana Cloud Frontend Observability, you can monitor your application’s HTTP requests and error rates to detect...Read more",
-    "url": "https://grafana.com/blog/2025/08/27/optimize-application-performance-at-the-network-layer-introducing-http-performance-insights-in-frontend-observability/"
   }
 ]
