@@ -1,5 +1,9 @@
 [
   {
+    "title": "AI時代だからこそ忘れたくない一次情報の大切さPM2025/09/19",
+    "url": "https://engineering.reiwatravel.co.jp/blog/context-before-ai"
+  },
+  {
     "title": "iOSエンジニアからバックエンドへ転向して見えた、AI時代のキャリアの可能性Backend2025/09/16",
     "url": "https://engineering.reiwatravel.co.jp/blog/rick-ios-to-backend"
   },
@@ -34,9 +38,5 @@
   {
     "title": "エンジニアリングカルチャーを共通言語として育てるための取り組みEM2025/07/29",
     "url": "https://engineering.reiwatravel.co.jp/blog/engineering-culture-guidelines"
-  },
-  {
-    "title": "【令和トラベル】イベントスペースを技術コミュニティにオープン化/会場提供しますNewsProductEvent2025/07/28",
-    "url": "https://engineering.reiwatravel.co.jp/blog/newt-community-space-open"
   }
 ]
