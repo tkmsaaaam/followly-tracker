@@ -1,7 +1,7 @@
 [
   {
-    "title": "Kristie Grebe   ·   24 Sep 2025   ·   4 min readMute timing vs. silences in Grafana Alerting: How to pick the best fit for your use caseUnsure whether to silence a notification or simply mute it temporarily? Use this guide for a high-level understanding of both options in Grafana...AlertingRead more",
-    "url": "https://grafana.com/blog/2025/09/24/mute-timing-vs-silences-in-grafana-alerting-how-to-pick-the-best-fit-for-your-use-case/"
+    "title": "Grafana Labs Team   ·   25 Sep 2025   ·   10 min readGrafana 12.2 release: LLM-powered SQL expressions, updates to canvas and table visualizations,...Grafana 12.2 includes a more intuitive, LLM-powered experience for SQL expressions, data visualization updates, and so much more. Here are the...GrafanaRead more",
+    "url": "https://grafana.com/blog/2025/09/25/grafana-12-2-release-all-the-latest-features/"
   },
   {
     "title": "Bukola Ayodele   ·   23 Sep 2025   ·   5 min readHow to perform real-time DNS monitoring in Grafana CloudLearn how to perform a DNS check in Grafana Cloud Synthetic Monitoring to continuously validate DNS resolution performance and ensure an optimal...Synthetic monitoringGrafana CloudRead more",
