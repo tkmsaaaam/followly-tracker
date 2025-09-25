@@ -4,6 +4,10 @@
     "url": "https://grafana.com/blog/2025/09/25/grafana-12-2-release-all-the-latest-features/"
   },
   {
+    "title": "Kristie Grebe   ·   24 Sep 2025   ·   4 min readMute timing vs. silences in Grafana Alerting: How to pick the best fit for your use caseUnsure whether to silence a notification or simply mute it temporarily? Use this guide for a high-level understanding of both options in Grafana...AlertingRead more",
+    "url": "https://grafana.com/blog/2025/09/24/mute-timing-vs-silences-in-grafana-alerting-how-to-pick-the-best-fit-for-your-use-case/"
+  },
+  {
     "title": "Bukola Ayodele   ·   23 Sep 2025   ·   5 min readHow to perform real-time DNS monitoring in Grafana CloudLearn how to perform a DNS check in Grafana Cloud Synthetic Monitoring to continuously validate DNS resolution performance and ensure an optimal...Synthetic monitoringGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/09/23/how-to-perform-real-time-dns-monitoring-in-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Karsten Jeschkies   ·   3 Sep 2025   ·   4 min readAWS metric ingestion for less: Save money and get near real-time stream into Grafana CloudYou can now stream metrics into the AWS Observability app in Grafana Cloud in near-real-time thanks to our new integration with Amazon CloudWatch and...Grafana CloudAWSCloud Provider ObservabilityRead more",
     "url": "https://grafana.com/blog/2025/09/03/aws-metric-ingestion-for-less-save-money-and-get-near-real-time-stream-into-grafana-cloud/"
-  },
-  {
-    "title": "Bukola Ayodele   ·   2 Sep 2025   ·   4 min readActionable insights into the end-user experience: an overview of Grafana Cloud Frontend...Getting started with Grafana Cloud Frontend Observability? Here’s a breakdown of the key metrics and visualizations you’ll find on our pre-built...Frontend observabilityRead more",
-    "url": "https://grafana.com/blog/2025/09/02/actionable-insights-into-the-end-user-experience-an-overview-of-grafana-cloud-frontend-observability-dashboards/"
   }
 ]
