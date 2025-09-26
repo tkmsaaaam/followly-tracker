@@ -4,6 +4,10 @@
     "url": "https://grafana.com/blog/2025/09/26/grafana-labs-co-founder-woods-market-maturity-opentelemetry-and-ai-are-reshaping-observability/"
   },
   {
+    "title": "Simon Prickett   ·   26 Sep 2025   ·   9 min readLighting up your dashboards: How to visualize the CheerLights IoT project in Grafana CloudLearn how to use Grafana Cloud and the Infinity data source to visualize live JSON data from the CheerLights IoT project.Grafana CloudIoTDashboardRead more",
+    "url": "https://grafana.com/blog/2025/09/26/lighting-up-your-dashboards-how-to-visualize-the-cheerlights-iot-project-in-grafana-cloud/"
+  },
+  {
     "title": "Grafana Labs Team   ·   25 Sep 2025   ·   10 min readGrafana 12.2 release: LLM-powered SQL expressions, updates to canvas and table visualizations,...Grafana 12.2 includes a more intuitive, LLM-powered experience for SQL expressions, data visualization updates, and so much more. Here are the...GrafanaRead more",
     "url": "https://grafana.com/blog/2025/09/25/grafana-12-2-release-all-the-latest-features/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Summer Wollin   ·   5 Sep 2025   ·   7 min readTiger teams: How we tackle urgent, cross-functional challenges at Grafana LabsSee why tiger teams have become our go-to model for tackling urgent, high-impact issues that don't fit neatly into a single team's backlog, and get...Grafana LabsRead more",
     "url": "https://grafana.com/blog/2025/09/05/tiger-teams-how-we-tackle-urgent-cross-functional-challenges-at-grafana-labs/"
-  },
-  {
-    "title": "Ivana Huckova   ·   4 Sep 2025   ·   5 min readWhat’s new in the Infinity data source for Grafana: support for JQ parser, additional HTTP methods,...The latest updates to the Infinity data source for Grafana enhance its flexibility, performance, and compatibility with Grafana’s backend features.PluginsRead more",
-    "url": "https://grafana.com/blog/2025/09/04/whats-new-in-the-infinity-data-source-for-grafana-support-for-jq-parser-additional-http-methods-and-more/"
   }
 ]
