@@ -1,5 +1,9 @@
 [
   {
+    "title": "Mikhail Kho   ·   26 Sep 2025   ·   9 min readGrafana Labs Co-founder Woods: Market maturity, OpenTelemetry, and AI are reshaping observabilityGrafana Labs Co-founder Anthony Woods recently appeared on \"Tech Keys by Mercari India\" to talk about the evolution of observability, the importance...OpenTelemetryAI/MLRead more",
+    "url": "https://grafana.com/blog/2025/09/26/grafana-labs-co-founder-woods-market-maturity-opentelemetry-and-ai-are-reshaping-observability/"
+  },
+  {
     "title": "Grafana Labs Team   ·   25 Sep 2025   ·   10 min readGrafana 12.2 release: LLM-powered SQL expressions, updates to canvas and table visualizations,...Grafana 12.2 includes a more intuitive, LLM-powered experience for SQL expressions, data visualization updates, and so much more. Here are the...GrafanaRead more",
     "url": "https://grafana.com/blog/2025/09/25/grafana-12-2-release-all-the-latest-features/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Ivana Huckova   ·   4 Sep 2025   ·   5 min readWhat’s new in the Infinity data source for Grafana: support for JQ parser, additional HTTP methods,...The latest updates to the Infinity data source for Grafana enhance its flexibility, performance, and compatibility with Grafana’s backend features.PluginsRead more",
     "url": "https://grafana.com/blog/2025/09/04/whats-new-in-the-infinity-data-source-for-grafana-support-for-jq-parser-additional-http-methods-and-more/"
-  },
-  {
-    "title": "Karsten Jeschkies   ·   3 Sep 2025   ·   4 min readAWS metric ingestion for less: Save money and get near real-time stream into Grafana CloudYou can now stream metrics into the AWS Observability app in Grafana Cloud in near-real-time thanks to our new integration with Amazon CloudWatch and...Grafana CloudAWSCloud Provider ObservabilityRead more",
-    "url": "https://grafana.com/blog/2025/09/03/aws-metric-ingestion-for-less-save-money-and-get-near-real-time-stream-into-grafana-cloud/"
   }
 ]
