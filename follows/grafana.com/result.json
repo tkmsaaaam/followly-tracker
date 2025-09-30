@@ -1,5 +1,9 @@
 [
   {
+    "title": "Joey Bartolomeo   ·   30 Sep 2025   ·   8 min readHow to boost observability ROI with continuous profiling and Grafana DrilldownFind out why companies such as Shopify and Uber are seeing the value of continuous profiling.Continuous profilingRead more",
+    "url": "https://grafana.com/blog/2025/09/30/how-to-boost-observability-roi-with-continuous-profiling-and-grafana-drilldown/"
+  },
+  {
     "title": "Mikhail Kho   ·   26 Sep 2025   ·   9 min readGrafana Labs Co-founder Woods: Market maturity, OpenTelemetry, and AI are reshaping observabilityGrafana Labs Co-founder Anthony Woods recently appeared on \"Tech Keys by Mercari India\" to talk about the evolution of observability, the importance...OpenTelemetryAI/MLRead more",
     "url": "https://grafana.com/blog/2025/09/26/grafana-labs-co-founder-woods-market-maturity-opentelemetry-and-ai-are-reshaping-observability/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Sarah Constant   ·   8 Sep 2025   ·   6 min readManaging access in Grafana: a single stack journey with teams, roles, and real-world patternsLearn how putting all users in a single Grafana Cloud stack and managing access with teams, roles, and folders can help you and your organization stay...SecurityRead more",
     "url": "https://grafana.com/blog/2025/09/08/managing-access-in-grafana-a-single-stack-journey-with-teams-roles-and-real-world-patterns/"
-  },
-  {
-    "title": "Summer Wollin   ·   5 Sep 2025   ·   7 min readTiger teams: How we tackle urgent, cross-functional challenges at Grafana LabsSee why tiger teams have become our go-to model for tackling urgent, high-impact issues that don't fit neatly into a single team's backlog, and get...Grafana LabsRead more",
-    "url": "https://grafana.com/blog/2025/09/05/tiger-teams-how-we-tackle-urgent-cross-functional-challenges-at-grafana-labs/"
   }
 ]
