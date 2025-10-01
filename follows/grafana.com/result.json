@@ -1,5 +1,9 @@
 [
   {
+    "title": "Trevor Jones   ·   1 Oct 2025   ·   3 min readTake Grafana Labs' 4th annual Observability SurveyShare your thoughts on the state of the industry—now and into the future. And enter for a chance to win some special Grafana swag.Grafana LabsRead more",
+    "url": "https://grafana.com/blog/2025/10/01/take-grafana-labs-4th-annual-observability-survey/"
+  },
+  {
     "title": "Joey Bartolomeo   ·   30 Sep 2025   ·   8 min readHow to boost observability ROI with continuous profiling and Grafana DrilldownFind out why companies such as Shopify and Uber are seeing the value of continuous profiling.Continuous profilingRead more",
     "url": "https://grafana.com/blog/2025/09/30/how-to-boost-observability-roi-with-continuous-profiling-and-grafana-drilldown/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Bukola Ayodele   ·   9 Sep 2025   ·   5 min readMeasuring service response time and latency: How to perform a TCP check in Grafana Cloud Synthetic...TCP checks in Grafana Cloud Synthetic Monitoring can be your first line of defense against service failures and network connectivity issues. Here’s...Grafana CloudSynthetic monitoringRead more",
     "url": "https://grafana.com/blog/2025/09/09/measuring-service-response-time-and-latency-how-to-perform-a-tcp-check-in-grafana-cloud-synthetic-monitoring/"
-  },
-  {
-    "title": "Sarah Constant   ·   8 Sep 2025   ·   6 min readManaging access in Grafana: a single stack journey with teams, roles, and real-world patternsLearn how putting all users in a single Grafana Cloud stack and managing access with teams, roles, and folders can help you and your organization stay...SecurityRead more",
-    "url": "https://grafana.com/blog/2025/09/08/managing-access-in-grafana-a-single-stack-journey-with-teams-roles-and-real-world-patterns/"
   }
 ]
