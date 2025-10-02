@@ -1,5 +1,9 @@
 [
   {
+    "title": "Ankur Agarwal   ·   2 Oct 2025   ·   7 min readA closer look at Grafana k6 browser: alignment with Playwright, modern features for frontend...By helping you collect frontend web vitals, capture custom metrics, and simulate user actions, k6 browser offers a deeper understanding of performance...k6Read more",
+    "url": "https://grafana.com/blog/2025/10/02/a-closer-look-at-grafana-k6-browser-alignment-with-playwright-modern-features-for-frontend-testing-and-what-s-next/"
+  },
+  {
     "title": "Trevor Jones   ·   1 Oct 2025   ·   3 min readTake Grafana Labs' 4th annual Observability SurveyShare your thoughts on the state of the industry—now and into the future. And enter for a chance to win some special Grafana swag.Grafana LabsRead more",
     "url": "https://grafana.com/blog/2025/10/01/take-grafana-labs-4th-annual-observability-survey/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Lauren Armstrong   ·   10 Sep 2025   ·   4 min readA smarter filter for Grafana Alerting: Introducing a new way to find your alertsQuickly and easily find the alert rules you need with the new filtering experience in Grafana Alerting that provides a cleaner UI and more filtering...AlertingRead more",
     "url": "https://grafana.com/blog/2025/09/10/a-smarter-filter-for-grafana-alerting-introducing-a-new-way-to-find-your-alerts/"
-  },
-  {
-    "title": "Bukola Ayodele   ·   9 Sep 2025   ·   5 min readMeasuring service response time and latency: How to perform a TCP check in Grafana Cloud Synthetic...TCP checks in Grafana Cloud Synthetic Monitoring can be your first line of defense against service failures and network connectivity issues. Here’s...Grafana CloudSynthetic monitoringRead more",
-    "url": "https://grafana.com/blog/2025/09/09/measuring-service-response-time-and-latency-how-to-perform-a-tcp-check-in-grafana-cloud-synthetic-monitoring/"
   }
 ]
