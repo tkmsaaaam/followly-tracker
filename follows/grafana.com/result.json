@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kristin Knapp   ·   3 Oct 2025   ·   5 min readTaylor Swift (Grafana’s Version): How to track and visualize data related to pop’s biggest superstarIn celebration of The Life of a Showgirl, a team of Grafanistas used Grafana Assistant to build a dazzling dashboard that lets you visualize the eras...Grafana CloudAI/MLRead more",
+    "url": "https://grafana.com/blog/2025/10/03/taylor-swift-grafanas-version-how-to-track-and-visualize-data-related-to-pop-s-biggest-superstar/"
+  },
+  {
     "title": "Ankur Agarwal   ·   2 Oct 2025   ·   7 min readA closer look at Grafana k6 browser: alignment with Playwright, modern features for frontend...By helping you collect frontend web vitals, capture custom metrics, and simulate user actions, k6 browser offers a deeper understanding of performance...k6Read more",
     "url": "https://grafana.com/blog/2025/10/02/a-closer-look-at-grafana-k6-browser-alignment-with-playwright-modern-features-for-frontend-testing-and-what-s-next/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Ivana Huckova   ·   11 Sep 2025   ·   10 min readDebug, query, and build faster with AI: How we use Grafana Assistant at Grafana LabsSee how Grafana Labs uses Grafana Assistant internally to find data, simplify queries, explain logs, accelerate onboarding, and improve dashboarding.AI/MLRead more",
     "url": "https://grafana.com/blog/2025/09/11/debug-query-and-build-faster-with-grafana-assistant/"
-  },
-  {
-    "title": "Lauren Armstrong   ·   10 Sep 2025   ·   4 min readA smarter filter for Grafana Alerting: Introducing a new way to find your alertsQuickly and easily find the alert rules you need with the new filtering experience in Grafana Alerting that provides a cleaner UI and more filtering...AlertingRead more",
-    "url": "https://grafana.com/blog/2025/09/10/a-smarter-filter-for-grafana-alerting-introducing-a-new-way-to-find-your-alerts/"
   }
 ]
