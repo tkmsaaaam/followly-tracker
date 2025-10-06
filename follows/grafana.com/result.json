@@ -1,5 +1,9 @@
 [
   {
+    "title": "Dave Russell   ·   6 Oct 2025   ·   6 min readThe observability maturity curve: How IT leaders are shifting from tools to outcomesGrafana Labs recently surveyed 150 IT leaders to get their insights on unified platforms, tool consolidation, SLOs, AI, and tying observability to...",
+    "url": "https://grafana.com/blog/2025/10/06/the-observability-maturity-curve-how-it-leaders-are-shifting-from-tools-to-outcomes/"
+  },
+  {
     "title": "Kristin Knapp   ·   3 Oct 2025   ·   5 min readTaylor Swift (Grafana’s Version): How to track and visualize data related to pop’s biggest superstarIn celebration of The Life of a Showgirl, a team of Grafanistas used Grafana Assistant to build a dazzling dashboard that lets you visualize the eras...Grafana CloudAI/MLRead more",
     "url": "https://grafana.com/blog/2025/10/03/taylor-swift-grafanas-version-how-to-track-and-visualize-data-related-to-pop-s-biggest-superstar/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Imma Valls   ·   12 Sep 2025   ·   6 min readData storytelling at HackUPC 2025: Celebrating 3 student hackathon projects powered by GrafanaGrafana Labs was a proud sponsor of the HackUPC event, where students from around the world built some innovative, Grafana-powered dashboards to track...GrafanaRead more",
     "url": "https://grafana.com/blog/2025/09/12/data-storytelling-at-hackupc-2025-celebrating-3-student-hackathon-projects-powered-by-grafana/"
-  },
-  {
-    "title": "Ivana Huckova   ·   11 Sep 2025   ·   10 min readDebug, query, and build faster with AI: How we use Grafana Assistant at Grafana LabsSee how Grafana Labs uses Grafana Assistant internally to find data, simplify queries, explain logs, accelerate onboarding, and improve dashboarding.AI/MLRead more",
-    "url": "https://grafana.com/blog/2025/09/11/debug-query-and-build-faster-with-grafana-assistant/"
   }
 ]
