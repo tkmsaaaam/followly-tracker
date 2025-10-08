@@ -1,5 +1,17 @@
 [
   {
+    "title": "Ben Sully   ·   8 Oct 2025   ·   9 min readAI-powered observability: Resolve incidents faster, reduce alert fatigue, and expand accessGrafana Assistant, our context-aware AI agent is now GA, and Assistant Investigations, a new feature that accelerates multi-step incident...AI/MLRead more",
+    "url": "https://grafana.com/blog/2025/10/08/grafana-assistant-ga-assistant-investigations-preview/"
+  },
+  {
+    "title": "Steven Dungan   ·   8 Oct 2025   ·   7 min readMaximize data value and cut costs: Adaptive Telemetry for metrics, logs, traces, and profiles in...With Adaptive Traces now generally available and Adaptive Profiles in private preview, the Adaptive Telemetry suite in Grafana Cloud extends across...Grafana CloudCost managementAdaptive TelemetryRead more",
+    "url": "https://grafana.com/blog/2025/10/08/adaptive-telemetry-suite-in-grafana-cloud/"
+  },
+  {
+    "title": "Grafana Labs Team   ·   8 Oct 2025   ·   8 min readObservabilityCON 2025: A guide to all the announcements from Grafana LabsNew in Grafana Cloud: AI-powered incident response, Adaptive Telemetry for cost control, Database Observability, and enterprise-ready security and...ObservabilityCONRead more",
+    "url": "https://grafana.com/blog/2025/10/08/observabilitycon-2025-announcements/"
+  },
+  {
     "title": "Dave Russell   ·   6 Oct 2025   ·   6 min readThe observability maturity curve: How IT leaders are shifting from tools to outcomesGrafana Labs recently surveyed 150 IT leaders to get their insights on unified platforms, tool consolidation, SLOs, AI, and tying observability to...",
     "url": "https://grafana.com/blog/2025/10/06/the-observability-maturity-curve-how-it-leaders-are-shifting-from-tools-to-outcomes/"
   },
@@ -46,17 +58,5 @@
   {
     "title": "Jon Kartago Lamida   ·   17 Sep 2025   ·   8 min readFaster, more memory-efficient performance in Grafana Mimir: a closer look at Mimir Query EngineBy processing queries in a streaming manner without loading all samples at once, Mimir Query Engine boosts performance and memory-efficiency within...MimirRead more",
     "url": "https://grafana.com/blog/2025/09/17/faster-more-memory-efficient-performance-in-grafana-mimir-a-closer-look-at-mimir-query-engine/"
-  },
-  {
-    "title": "Olha Yevtushenko   ·   16 Sep 2025   ·   7 min readDistributed performance testing for Kubernetes environments: Grafana k6 Operator 1.0 is hereStarting as an experiment back in 2020, k6 Operator has grown into a powerful open source project that makes it easier to run and manage distributed...k6Performance testingKubernetesLoad testingRead more",
-    "url": "https://grafana.com/blog/2025/09/16/distributed-performance-testing-for-kubernetes-environments-grafana-k6-operator-1-0-is-here/"
-  },
-  {
-    "title": "Matías Bordese   ·   15 Sep 2025   ·   5 min readHow to connect ServiceNow to Grafana Cloud IRM incidentsLearn the new way to set up webhooks based on Grafana Cloud IRM incident events so you can template URLs, headers, and data, as well as chain...Grafana Cloud IRMRead more",
-    "url": "https://grafana.com/blog/2025/09/15/how-to-connect-servicenow-to-grafana-cloud-irm-incidents/"
-  },
-  {
-    "title": "Imma Valls   ·   12 Sep 2025   ·   6 min readData storytelling at HackUPC 2025: Celebrating 3 student hackathon projects powered by GrafanaGrafana Labs was a proud sponsor of the HackUPC event, where students from around the world built some innovative, Grafana-powered dashboards to track...GrafanaRead more",
-    "url": "https://grafana.com/blog/2025/09/12/data-storytelling-at-hackupc-2025-celebrating-3-student-hackathon-projects-powered-by-grafana/"
   }
 ]
