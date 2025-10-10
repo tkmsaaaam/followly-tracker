@@ -1,5 +1,9 @@
 [
   {
+    "title": "Daniel Fitzgerald   ·   10 Oct 2025   ·   6 min readA serverless approach to CI/CD observability with GitLab and GrafanaHow a simple AWS Lambda function transforms GitLab pipeline visibility using Grafana Cloud Logs.Read more",
+    "url": "https://grafana.com/blog/2025/10/10/a-serverless-approach-to-ci-cd-observability-with-gitlab-and-grafana/"
+  },
+  {
     "title": "Ben Sully   ·   8 Oct 2025   ·   9 min readAI-powered observability: Resolve incidents faster, reduce alert fatigue, and expand accessGrafana Assistant, our context-aware AI agent is now GA, and Assistant Investigations, a new feature that accelerates multi-step incident...AI/MLRead more",
     "url": "https://grafana.com/blog/2025/10/08/grafana-assistant-ga-assistant-investigations-preview/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Naima Alexander   ·   18 Sep 2025   ·   5 min readSingle-tenant vs. multi-tenant architecture with Grafana Cloud: A guide to choosing the right...Learn the pros and cons of each approach so you and your organization come to an informed decision about the architectural approach that best fits...SecurityRead more",
     "url": "https://grafana.com/blog/2025/09/18/single-tenant-vs-multi-tenant-architecture-with-grafana-cloud-how-to-choose-the-right-approach/"
-  },
-  {
-    "title": "Jon Kartago Lamida   ·   17 Sep 2025   ·   8 min readFaster, more memory-efficient performance in Grafana Mimir: a closer look at Mimir Query EngineBy processing queries in a streaming manner without loading all samples at once, Mimir Query Engine boosts performance and memory-efficiency within...MimirRead more",
-    "url": "https://grafana.com/blog/2025/09/17/faster-more-memory-efficient-performance-in-grafana-mimir-a-closer-look-at-mimir-query-engine/"
   }
 ]
