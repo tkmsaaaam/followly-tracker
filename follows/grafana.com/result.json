@@ -1,5 +1,9 @@
 [
   {
+    "title": "Kristin Knapp   ·   14 Oct 2025   ·   7 min readManaging observability costs at scale: A look at the latest cost management features in Grafana...As your observability strategy scales, it becomes difficult to keep costs in check. Here are some new Grafana Cloud features to help you optimize and...Grafana CloudCost managementRead more",
+    "url": "https://grafana.com/blog/2025/10/14/managing-observability-costs-at-scale-a-look-at-the-latest-cost-management-features-in-grafana-cloud/"
+  },
+  {
     "title": "Daniel Fitzgerald   ·   10 Oct 2025   ·   6 min readA serverless approach to CI/CD observability with GitLab and GrafanaHow a simple AWS Lambda function transforms GitLab pipeline visibility using Grafana Cloud Logs.Read more",
     "url": "https://grafana.com/blog/2025/10/10/a-serverless-approach-to-ci-cd-observability-with-gitlab-and-grafana/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Bukola Ayodele   ·   23 Sep 2025   ·   5 min readHow to perform real-time DNS monitoring in Grafana CloudLearn how to perform a DNS check in Grafana Cloud Synthetic Monitoring to continuously validate DNS resolution performance and ensure an optimal...Synthetic monitoringGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/09/23/how-to-perform-real-time-dns-monitoring-in-grafana-cloud/"
-  },
-  {
-    "title": "Naima Alexander   ·   18 Sep 2025   ·   5 min readSingle-tenant vs. multi-tenant architecture with Grafana Cloud: A guide to choosing the right...Learn the pros and cons of each approach so you and your organization come to an informed decision about the architectural approach that best fits...SecurityRead more",
-    "url": "https://grafana.com/blog/2025/09/18/single-tenant-vs-multi-tenant-architecture-with-grafana-cloud-how-to-choose-the-right-approach/"
   }
 ]
