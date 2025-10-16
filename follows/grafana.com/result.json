@@ -1,5 +1,9 @@
 [
   {
+    "title": "Vasil Kaftandzhiev   ·   16 Oct 2025   ·   7 min readFrom pillars to rings: How interconnected observability in Grafana Cloud optimizes performance and...The opinionated solutions in Grafana Cloud combine telemetry signals to optimize performance, minimize waste, and help you focus on the data that...Grafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/10/16/from-pillars-to-rings-how-interconnected-observability-in-grafana-cloud-optimizes-performance-and-reduces-telemetry-waste/"
+  },
+  {
     "title": "Trevor Jones   ·   15 Oct 2025   ·   8 min readBaking in site reliability with observability and AI: How SpotOn uses Grafana Assistant to keep...See how SpotOn is using Grafana Labs' context-aware AI agent for faster onboarding, better adoption, and simpler troubleshooting.AI/MLRead more",
     "url": "https://grafana.com/blog/2025/10/15/baking-in-site-reliability-with-observability-and-ai-how-spoton-uses-grafana-assistant-to-keep-restaurants-running/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Grafana Labs Team   ·   25 Sep 2025   ·   10 min readGrafana 12.2 release: LLM-powered SQL expressions, updates to canvas and table visualizations,...Grafana 12.2 includes a more intuitive, LLM-powered experience for SQL expressions, data visualization updates, and so much more. Here are the...GrafanaRead more",
     "url": "https://grafana.com/blog/2025/09/25/grafana-12-2-release-all-the-latest-features/"
-  },
-  {
-    "title": "Kristie Grebe   ·   24 Sep 2025   ·   4 min readMute timing vs. silences in Grafana Alerting: How to pick the best fit for your use caseUnsure whether to silence a notification or simply mute it temporarily? Use this guide for a high-level understanding of both options in Grafana...AlertingRead more",
-    "url": "https://grafana.com/blog/2025/09/24/mute-timing-vs-silences-in-grafana-alerting-how-to-pick-the-best-fit-for-your-use-case/"
   }
 ]
