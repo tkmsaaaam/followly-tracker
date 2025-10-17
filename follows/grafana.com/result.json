@@ -1,5 +1,9 @@
 [
   {
+    "title": "David Allen   ·   17 Oct 2025   ·   5 min readShow me the (meeting) money: How to monitor the real-time costs of a meeting in GrafanaWant an easy way to calculate the real-time financial costs of a meeting, one second (and one buzzword) at a time? There’s a Grafana dashboard for...GrafanaDashboardRead more",
+    "url": "https://grafana.com/blog/2025/10/17/show-me-the-meeting-money-how-to-monitor-the-real-time-costs-of-a-meeting-in-grafana/"
+  },
+  {
     "title": "Vasil Kaftandzhiev   ·   16 Oct 2025   ·   7 min readFrom pillars to rings: How interconnected observability in Grafana Cloud optimizes performance and...The opinionated solutions in Grafana Cloud combine telemetry signals to optimize performance, minimize waste, and help you focus on the data that...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/10/16/from-pillars-to-rings-how-interconnected-observability-in-grafana-cloud-optimizes-performance-and-reduces-telemetry-waste/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Simon Prickett   ·   26 Sep 2025   ·   9 min readLighting up your dashboards: How to visualize the CheerLights IoT project in Grafana CloudLearn how to use Grafana Cloud and the Infinity data source to visualize live JSON data from the CheerLights IoT project.Grafana CloudIoTDashboardRead more",
     "url": "https://grafana.com/blog/2025/09/26/lighting-up-your-dashboards-how-to-visualize-the-cheerlights-iot-project-in-grafana-cloud/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   25 Sep 2025   ·   10 min readGrafana 12.2 release: LLM-powered SQL expressions, updates to canvas and table visualizations,...Grafana 12.2 includes a more intuitive, LLM-powered experience for SQL expressions, data visualization updates, and so much more. Here are the...GrafanaRead more",
-    "url": "https://grafana.com/blog/2025/09/25/grafana-12-2-release-all-the-latest-features/"
   }
 ]
