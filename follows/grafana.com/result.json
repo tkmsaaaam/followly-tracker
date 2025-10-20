@@ -1,5 +1,9 @@
 [
   {
+    "title": "Matt Wimpelberg   ·   20 Oct 2025   ·   4 min readMaking logs work smarter: Evolving your observability strategyThere are some challenges that come with a logs-first approach in Grafana Cloud. See how you can optimize your stack to avoid the typical gotchas.Read more",
+    "url": "https://grafana.com/blog/2025/10/20/making-logs-work-smarter-evolving-your-observability-strategy/"
+  },
+  {
     "title": "David Allen   ·   17 Oct 2025   ·   5 min readShow me the (meeting) money: How to monitor the real-time costs of a meeting in GrafanaWant an easy way to calculate the real-time financial costs of a meeting, one second (and one buzzword) at a time? There’s a Grafana dashboard for...GrafanaDashboardRead more",
     "url": "https://grafana.com/blog/2025/10/17/show-me-the-meeting-money-how-to-monitor-the-real-time-costs-of-a-meeting-in-grafana/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Mikhail Kho   ·   26 Sep 2025   ·   9 min readGrafana Labs Co-founder Woods: Market maturity, OpenTelemetry, and AI are reshaping observabilityGrafana Labs Co-founder Anthony Woods recently appeared on \"Tech Keys by Mercari India\" to talk about the evolution of observability, the importance...OpenTelemetryAI/MLRead more",
     "url": "https://grafana.com/blog/2025/09/26/grafana-labs-co-founder-woods-market-maturity-opentelemetry-and-ai-are-reshaping-observability/"
-  },
-  {
-    "title": "Simon Prickett   ·   26 Sep 2025   ·   9 min readLighting up your dashboards: How to visualize the CheerLights IoT project in Grafana CloudLearn how to use Grafana Cloud and the Infinity data source to visualize live JSON data from the CheerLights IoT project.Grafana CloudIoTDashboardRead more",
-    "url": "https://grafana.com/blog/2025/09/26/lighting-up-your-dashboards-how-to-visualize-the-cheerlights-iot-project-in-grafana-cloud/"
   }
 ]
