@@ -1,5 +1,9 @@
 [
   {
+    "title": "Tiffany Jernigan   ·   22 Oct 2025   ·   6 min readGrafana Tempo 2.9 release: MCP server support, TraceQL metrics sampling, and moreThe latest release of Grafana Tempo brings a number of exciting updates, including MCP server support, which lets you leverage LLMs to access and...TracingRead more",
+    "url": "https://grafana.com/blog/2025/10/22/grafana-tempo-2-9-release-mcp-server-support-traceql-metrics-sampling-and-more/"
+  },
+  {
     "title": "Matt Wimpelberg   ·   20 Oct 2025   ·   4 min readMaking logs work smarter: Evolving your observability strategyThere are some challenges that come with a logs-first approach in Grafana Cloud. See how you can optimize your stack to avoid the typical gotchas.Read more",
     "url": "https://grafana.com/blog/2025/10/20/making-logs-work-smarter-evolving-your-observability-strategy/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Joey Bartolomeo   ·   30 Sep 2025   ·   8 min readHow to boost observability ROI with continuous profiling and Grafana DrilldownFind out why companies such as Shopify and Uber are seeing the value of continuous profiling.Continuous profilingRead more",
     "url": "https://grafana.com/blog/2025/09/30/how-to-boost-observability-roi-with-continuous-profiling-and-grafana-drilldown/"
-  },
-  {
-    "title": "Mikhail Kho   ·   26 Sep 2025   ·   9 min readGrafana Labs Co-founder Woods: Market maturity, OpenTelemetry, and AI are reshaping observabilityGrafana Labs Co-founder Anthony Woods recently appeared on \"Tech Keys by Mercari India\" to talk about the evolution of observability, the importance...OpenTelemetryAI/MLRead more",
-    "url": "https://grafana.com/blog/2025/09/26/grafana-labs-co-founder-woods-market-maturity-opentelemetry-and-ai-are-reshaping-observability/"
   }
 ]
