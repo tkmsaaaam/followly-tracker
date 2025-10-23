@@ -1,5 +1,9 @@
 [
   {
+    "title": "Bruno Abrantes   ·   23 Oct 2025   ·   3 min readGrafana and Grafana Cloud release cycle: An end-of-year updateGrafana Labs will implement two separate release cycle freezes between November 2025 and January 2026 to help ensure stability for everyone during the...GrafanaGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/10/23/grafana-and-grafana-cloud-release-cycle-an-end-of-year-update/"
+  },
+  {
     "title": "Tiffany Jernigan   ·   22 Oct 2025   ·   6 min readGrafana Tempo 2.9 release: MCP server support, TraceQL metrics sampling, and moreThe latest release of Grafana Tempo brings a number of exciting updates, including MCP server support, which lets you leverage LLMs to access and...TracingRead more",
     "url": "https://grafana.com/blog/2025/10/22/grafana-tempo-2-9-release-mcp-server-support-traceql-metrics-sampling-and-more/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Trevor Jones   ·   1 Oct 2025   ·   3 min readTake Grafana Labs' 4th annual Observability SurveyShare your thoughts on the state of the industry—now and into the future. And enter for a chance to win some special Grafana swag.Grafana LabsRead more",
     "url": "https://grafana.com/blog/2025/10/01/take-grafana-labs-4th-annual-observability-survey/"
-  },
-  {
-    "title": "Joey Bartolomeo   ·   30 Sep 2025   ·   8 min readHow to boost observability ROI with continuous profiling and Grafana DrilldownFind out why companies such as Shopify and Uber are seeing the value of continuous profiling.Continuous profilingRead more",
-    "url": "https://grafana.com/blog/2025/09/30/how-to-boost-observability-roi-with-continuous-profiling-and-grafana-drilldown/"
   }
 ]
