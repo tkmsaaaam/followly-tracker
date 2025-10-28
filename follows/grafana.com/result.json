@@ -1,5 +1,9 @@
 [
   {
+    "title": "Daniel Moosdeen Mui   ·   28 Oct 2025   ·   6 min readFaster, more collaborative data exploration: Introducing saved queries in Grafana CloudBy saving and reusing queries in Grafana Cloud, you help new team members get up to speed faster and ensure your entire organization benefits from...Grafana CloudDashboardRead more",
+    "url": "https://grafana.com/blog/2025/10/28/faster-more-collaborative-data-exploration-introducing-saved-queries-in-grafana-cloud/"
+  },
+  {
     "title": "Bruno Abrantes   ·   23 Oct 2025   ·   3 min readGrafana and Grafana Cloud release cycle: An end-of-year updateGrafana Labs will implement two separate release cycle freezes between November 2025 and January 2026 to help ensure stability for everyone during the...GrafanaGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/10/23/grafana-and-grafana-cloud-release-cycle-an-end-of-year-update/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Ankur Agarwal   ·   2 Oct 2025   ·   7 min readA closer look at Grafana k6 browser: alignment with Playwright, modern features for frontend...By helping you collect frontend web vitals, capture custom metrics, and simulate user actions, k6 browser offers a deeper understanding of performance...k6Read more",
     "url": "https://grafana.com/blog/2025/10/02/a-closer-look-at-grafana-k6-browser-alignment-with-playwright-modern-features-for-frontend-testing-and-what-s-next/"
-  },
-  {
-    "title": "Trevor Jones   ·   1 Oct 2025   ·   3 min readTake Grafana Labs' 4th annual Observability SurveyShare your thoughts on the state of the industry—now and into the future. And enter for a chance to win some special Grafana swag.Grafana LabsRead more",
-    "url": "https://grafana.com/blog/2025/10/01/take-grafana-labs-4th-annual-observability-survey/"
   }
 ]
