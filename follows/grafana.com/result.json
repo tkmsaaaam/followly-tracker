@@ -1,5 +1,9 @@
 [
   {
+    "title": "Grafana Labs Team   ·   29 Oct 2025   ·   6 min readGrafana Labs at KubeCon: OpenTelemetry eBPF Instrumentation, Prometheus deep dives, and moreMeet us at KubeCon North America 2025! Our observability experts are participating in multiple sessions throughout the week, and you can find us at...KubeConEventsRead more",
+    "url": "https://grafana.com/blog/2025/10/29/grafana-labs-at-kubecon-opentelemetry-ebpf-instrumentation-prometheus-deep-dives-and-more/"
+  },
+  {
     "title": "Daniel Moosdeen Mui   ·   28 Oct 2025   ·   6 min readFaster, more collaborative data exploration: Introducing saved queries in Grafana CloudBy saving and reusing queries in Grafana Cloud, you help new team members get up to speed faster and ensure your entire organization benefits from...Grafana CloudDashboardRead more",
     "url": "https://grafana.com/blog/2025/10/28/faster-more-collaborative-data-exploration-introducing-saved-queries-in-grafana-cloud/"
   },
@@ -48,15 +52,11 @@
     "url": "https://grafana.com/blog/2025/10/08/observabilitycon-2025-announcements/"
   },
   {
-    "title": "Dave Russell   ·   6 Oct 2025   ·   6 min readThe observability maturity curve: How IT leaders are shifting from tools to outcomesGrafana Labs recently surveyed 150 IT leaders to get their insights on unified platforms, tool consolidation, SLOs, AI, and tying observability to...",
+    "title": "Dave Russell   ·   6 Oct 2025   ·   6 min readThe observability maturity curve: How IT leaders are shifting from tools to outcomesGrafana Labs recently surveyed 150 IT leaders to get their insights on unified platforms, tool consolidation, SLOs, AI, and tying observability to...Grafana CloudSLOsAI/MLRead more",
     "url": "https://grafana.com/blog/2025/10/06/the-observability-maturity-curve-how-it-leaders-are-shifting-from-tools-to-outcomes/"
   },
   {
     "title": "Kristin Knapp   ·   3 Oct 2025   ·   5 min readTaylor Swift (Grafana’s Version): How to track and visualize data related to pop’s biggest superstarIn celebration of The Life of a Showgirl, a team of Grafanistas used Grafana Assistant to build a dazzling dashboard that lets you visualize the eras...Grafana CloudAI/MLRead more",
     "url": "https://grafana.com/blog/2025/10/03/taylor-swift-grafanas-version-how-to-track-and-visualize-data-related-to-pop-s-biggest-superstar/"
-  },
-  {
-    "title": "Ankur Agarwal   ·   2 Oct 2025   ·   7 min readA closer look at Grafana k6 browser: alignment with Playwright, modern features for frontend...By helping you collect frontend web vitals, capture custom metrics, and simulate user actions, k6 browser offers a deeper understanding of performance...k6Read more",
-    "url": "https://grafana.com/blog/2025/10/02/a-closer-look-at-grafana-k6-browser-alignment-with-playwright-modern-features-for-frontend-testing-and-what-s-next/"
   }
 ]
