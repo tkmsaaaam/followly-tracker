@@ -1,5 +1,9 @@
 [
   {
+    "title": "Sam Jewell   ·   30 Oct 2025   ·   5 min readSQL expressions in Grafana: Combine and manipulate data from multiple sourcesSQL expressions are a versatile and powerful feature that opens up all sorts of creative possibilities by manipulating and combining data from...GrafanaGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/10/30/sql-expressions-in-grafana-combine-and-manipulate-data-from-multiple-sources/"
+  },
+  {
     "title": "Grafana Labs Team   ·   29 Oct 2025   ·   6 min readGrafana Labs at KubeCon: OpenTelemetry eBPF Instrumentation, Prometheus deep dives, and moreMeet us at KubeCon North America 2025! Our observability experts are participating in multiple sessions throughout the week, and you can find us at...KubeConEventsRead more",
     "url": "https://grafana.com/blog/2025/10/29/grafana-labs-at-kubecon-opentelemetry-ebpf-instrumentation-prometheus-deep-dives-and-more/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Dave Russell   ·   6 Oct 2025   ·   6 min readThe observability maturity curve: How IT leaders are shifting from tools to outcomesGrafana Labs recently surveyed 150 IT leaders to get their insights on unified platforms, tool consolidation, SLOs, AI, and tying observability to...Grafana CloudSLOsAI/MLRead more",
     "url": "https://grafana.com/blog/2025/10/06/the-observability-maturity-curve-how-it-leaders-are-shifting-from-tools-to-outcomes/"
-  },
-  {
-    "title": "Kristin Knapp   ·   3 Oct 2025   ·   5 min readTaylor Swift (Grafana’s Version): How to track and visualize data related to pop’s biggest superstarIn celebration of The Life of a Showgirl, a team of Grafanistas used Grafana Assistant to build a dazzling dashboard that lets you visualize the eras...Grafana CloudAI/MLRead more",
-    "url": "https://grafana.com/blog/2025/10/03/taylor-swift-grafanas-version-how-to-track-and-visualize-data-related-to-pop-s-biggest-superstar/"
   }
 ]
