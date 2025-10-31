@@ -1,5 +1,9 @@
 [
   {
+    "title": "Ronald McCollam   ·   31 Oct 2025   ·   5 min readHacking for better observability at scale: How Geotab quickly improved their monitoring with GrafanaSee how a Grafana-focused hackathon helped Geotab's engineers build the newest iteration of their observability platform, and get some tips you can...HackathonRead more",
+    "url": "https://grafana.com/blog/2025/10/31/hacking-observability-for-vehicle-fleets/"
+  },
+  {
     "title": "Gyorgy Krajcsovits   ·   30 Oct 2025   ·   4 min readPrometheus native histograms in Grafana Cloud: Get more precision from your Grafana visualizationsPrometheus native histograms are now generally available, giving you greater precision, ease of use, and compatibility for analyzing latency,...Grafana CloudPrometheusMimirRead more",
     "url": "https://grafana.com/blog/2025/10/30/get-more-precision-from-your-grafana-visualizations-with-prometheus-native-histograms-in-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Steven Dungan   ·   8 Oct 2025   ·   7 min readMaximize data value and cut costs: Adaptive Telemetry for metrics, logs, traces, and profiles in...With Adaptive Traces now generally available and Adaptive Profiles in private preview, the Adaptive Telemetry suite in Grafana Cloud extends across...Grafana CloudCost managementAdaptive TelemetryRead more",
     "url": "https://grafana.com/blog/2025/10/08/adaptive-telemetry-suite-in-grafana-cloud/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   8 Oct 2025   ·   8 min readObservabilityCON 2025: A guide to all the announcements from Grafana LabsNew in Grafana Cloud: AI-powered incident response, Adaptive Telemetry for cost control, Database Observability, and enterprise-ready security and...ObservabilityCONRead more",
-    "url": "https://grafana.com/blog/2025/10/08/observabilitycon-2025-announcements/"
   }
 ]
