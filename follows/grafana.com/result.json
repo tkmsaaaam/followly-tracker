@@ -1,5 +1,9 @@
 [
   {
+    "title": "Dimitar Dimitrov   ·   3 Nov 2025   ·   5 min readGrafana Mimir 3.0 release: performance improvements, a new query engine, and moreGrafana Mimir 3.0 marks a new era for the open source time series database, delivering dramatic improvements in both reliability and performance.MimirReleaseRead more",
+    "url": "https://grafana.com/blog/2025/11/03/grafana-mimir-3-0-release-all-the-latest-updates/"
+  },
+  {
     "title": "Ronald McCollam   ·   31 Oct 2025   ·   5 min readHacking for better observability at scale: How Geotab quickly improved their monitoring with GrafanaSee how a Grafana-focused hackathon helped Geotab's engineers build the newest iteration of their observability platform, and get some tips you can...HackathonRead more",
     "url": "https://grafana.com/blog/2025/10/31/hacking-observability-for-vehicle-fleets/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Ben Sully   ·   8 Oct 2025   ·   9 min readAI-powered observability: Resolve incidents faster, reduce alert fatigue, and expand accessGrafana Assistant, our context-aware AI agent is now GA, and Assistant Investigations, a new feature that accelerates multi-step incident...AI/MLRead more",
     "url": "https://grafana.com/blog/2025/10/08/grafana-assistant-ga-assistant-investigations-preview/"
-  },
-  {
-    "title": "Steven Dungan   ·   8 Oct 2025   ·   7 min readMaximize data value and cut costs: Adaptive Telemetry for metrics, logs, traces, and profiles in...With Adaptive Traces now generally available and Adaptive Profiles in private preview, the Adaptive Telemetry suite in Grafana Cloud extends across...Grafana CloudCost managementAdaptive TelemetryRead more",
-    "url": "https://grafana.com/blog/2025/10/08/adaptive-telemetry-suite-in-grafana-cloud/"
   }
 ]
