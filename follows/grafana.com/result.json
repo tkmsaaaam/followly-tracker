@@ -1,5 +1,13 @@
 [
   {
+    "title": "Ronald McCollam   ·   14 Nov 2025   ·   7 min readA Star Wars dashboard deep dive: How to build your next visualization in less than 12 parsecsNerd out with our Star Wars-themed dashboard and all its nods to a galaxy far, far away. Plus, get some tips to make your next dashboard is the chosen...DashboardRead more",
+    "url": "https://grafana.com/blog/2025/11/14/a-star-wars-dashboard-deep-dive-how-to-build-your-next-visualization-in-less-than-12-parsecs/"
+  },
+  {
+    "title": "  ·   14 Nov 2025   ·   10 min readContinuous profiling for native code: Understanding the what, why, and howLearn how continuous profiling can offer deep visibility into the performance of a highly optimized codebase, as well as provide clear targets for...Continuous profilingGrafana Cloud ProfilesRead more",
+    "url": "https://grafana.com/blog/2025/11/14/continuous-profiling-for-native-code-understanding-the-what-why-and-how/"
+  },
+  {
     "title": "Matthew Nolf   ·   13 Nov 2025   ·   6 min readUnderstand, diagnose, and optimize SQL queries: Introducing Grafana Cloud Database ObservabilityHelp your developers, SREs, and DBAs quickly assess how SQL queries are contributing to your system's performance.Infrastructure observabilityGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/11/13/understand-diagnose-and-optimize-sql-queries-introducing-grafana-cloud-database-observability/"
   },
@@ -50,13 +58,5 @@
   {
     "title": "Vasil Kaftandzhiev   ·   16 Oct 2025   ·   7 min readFrom pillars to rings: How interconnected observability in Grafana Cloud optimizes performance and...The opinionated solutions in Grafana Cloud combine telemetry signals to optimize performance, minimize waste, and help you focus on the data that...Grafana CloudRead more",
     "url": "https://grafana.com/blog/2025/10/16/from-pillars-to-rings-how-interconnected-observability-in-grafana-cloud-optimizes-performance-and-reduces-telemetry-waste/"
-  },
-  {
-    "title": "Trevor Jones   ·   15 Oct 2025   ·   8 min readBaking in site reliability with observability and AI: How SpotOn uses Grafana Assistant to keep...See how SpotOn is using Grafana Labs' context-aware AI agent for faster onboarding, better adoption, and simpler troubleshooting.AI/MLRead more",
-    "url": "https://grafana.com/blog/2025/10/15/baking-in-site-reliability-with-observability-and-ai-how-spoton-uses-grafana-assistant-to-keep-restaurants-running/"
-  },
-  {
-    "title": "Kristin Knapp   ·   14 Oct 2025   ·   7 min readManaging observability costs at scale: A look at the latest cost management features in Grafana...As your observability strategy scales, it becomes difficult to keep costs in check. Here are some new Grafana Cloud features to help you optimize and...Grafana CloudCost managementRead more",
-    "url": "https://grafana.com/blog/2025/10/14/managing-observability-costs-at-scale-a-look-at-the-latest-cost-management-features-in-grafana-cloud/"
   }
 ]
