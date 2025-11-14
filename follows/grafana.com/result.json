@@ -1,5 +1,13 @@
 [
   {
+    "title": "Matthew Nolf   ·   13 Nov 2025   ·   6 min readUnderstand, diagnose, and optimize SQL queries: Introducing Grafana Cloud Database ObservabilityHelp your developers, SREs, and DBAs quickly assess how SQL queries are contributing to your system's performance.Infrastructure observabilityGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/11/13/understand-diagnose-and-optimize-sql-queries-introducing-grafana-cloud-database-observability/"
+  },
+  {
+    "title": "Tom Miseur   ·   12 Nov 2025   ·   9 min readPerformance testing best practices: How to prepare for peak demand with Grafana Cloud k6To ensure system reliability under peak load and traffic surges, consistent and early performance testing is key. Here’s how to do just that with...k6Grafana Cloud k6Performance testingRead more",
+    "url": "https://grafana.com/blog/2025/11/12/performance-testing-best-practices-how-to-prepare-for-peak-demand-with-grafana-cloud-k6/"
+  },
+  {
     "title": "Dimitar Dimitrov   ·   3 Nov 2025   ·   5 min readGrafana Mimir 3.0 release: performance improvements, a new query engine, and moreGrafana Mimir 3.0 marks a new era for the open source time series database, delivering dramatic improvements in both reliability and performance.MimirReleaseRead more",
     "url": "https://grafana.com/blog/2025/11/03/grafana-mimir-3-0-release-all-the-latest-updates/"
   },
@@ -50,13 +58,5 @@
   {
     "title": "Kristin Knapp   ·   14 Oct 2025   ·   7 min readManaging observability costs at scale: A look at the latest cost management features in Grafana...As your observability strategy scales, it becomes difficult to keep costs in check. Here are some new Grafana Cloud features to help you optimize and...Grafana CloudCost managementRead more",
     "url": "https://grafana.com/blog/2025/10/14/managing-observability-costs-at-scale-a-look-at-the-latest-cost-management-features-in-grafana-cloud/"
-  },
-  {
-    "title": "Daniel Fitzgerald   ·   10 Oct 2025   ·   6 min readA serverless approach to CI/CD observability with GitLab and GrafanaHow a simple AWS Lambda function transforms GitLab pipeline visibility using Grafana Cloud Logs.Read more",
-    "url": "https://grafana.com/blog/2025/10/10/a-serverless-approach-to-ci-cd-observability-with-gitlab-and-grafana/"
-  },
-  {
-    "title": "Ben Sully   ·   8 Oct 2025   ·   9 min readAI-powered observability: Resolve incidents faster, reduce alert fatigue, and expand accessGrafana Assistant, our context-aware AI agent is now GA, and Assistant Investigations, a new feature that accelerates multi-step incident...AI/MLRead more",
-    "url": "https://grafana.com/blog/2025/10/08/grafana-assistant-ga-assistant-investigations-preview/"
   }
 ]
