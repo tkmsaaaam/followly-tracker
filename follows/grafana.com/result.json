@@ -1,5 +1,13 @@
 [
   {
+    "title": "Grafana Labs Team   ·   19 Nov 2025   ·   11 min readGrafana 12:3 release: Interactive learning experiences, new and improved logs visualizations, and...Grafana 12.3 delivers a new interactive learning experience, tons of data visualization updates, and more. Here are the highlights.ReleaseGrafanaRead more",
+    "url": "https://grafana.com/blog/2025/11/19/grafana-12-3-release-all-the-latest-features/"
+  },
+  {
+    "title": "Vardan Torosyan   ·   19 Nov 2025   ·   4 min readGrafana Enterprise security update: critical severity security fix for CVE-2025-41115Along with the release of Grafana Enterprise 12.3, we are releasing updated versions of Grafana Enterprise 12.2.1, 12.1.3 and 12.0.6, all of which...SecurityRead more",
+    "url": "https://grafana.com/blog/2025/11/19/grafana-enterprise-security-update-critical-severity-security-fix-for-cve-2025-41115/"
+  },
+  {
     "title": "Ash Mazhari   ·   18 Nov 2025   ·   3 min readAzure Monitor offers Grafana dashboards natively for immediate, real-time operational monitoringThe Azure Monitor dashboards with Grafana service, now generally available, enables Azure users to create and edit Grafana dashboards directly within...DashboardGrafanaRead more",
     "url": "https://grafana.com/blog/2025/11/18/azure-monitor-offers-grafana-dashboards-natively-for-immediate-real-time-operational-monitoring-now-ga/"
   },
@@ -50,13 +58,5 @@
   {
     "title": "Grafana Labs Team   ·   29 Oct 2025   ·   6 min readGrafana Labs at KubeCon: OpenTelemetry eBPF Instrumentation, Prometheus deep dives, and moreMeet us at KubeCon North America 2025! Our observability experts are participating in multiple sessions throughout the week, and you can find us at...KubeConEventsRead more",
     "url": "https://grafana.com/blog/2025/10/29/grafana-labs-at-kubecon-opentelemetry-ebpf-instrumentation-prometheus-deep-dives-and-more/"
-  },
-  {
-    "title": "Daniel Moosdeen Mui   ·   28 Oct 2025   ·   6 min readFaster, more collaborative data exploration: Introducing saved queries in Grafana CloudBy saving and reusing queries in Grafana Cloud, you help new team members get up to speed faster and ensure your entire organization benefits from...Grafana CloudDashboardRead more",
-    "url": "https://grafana.com/blog/2025/10/28/faster-more-collaborative-data-exploration-introducing-saved-queries-in-grafana-cloud/"
-  },
-  {
-    "title": "Bruno Abrantes   ·   23 Oct 2025   ·   3 min readGrafana and Grafana Cloud release cycle: An end-of-year updateGrafana Labs will implement two separate release cycle freezes between November 2025 and January 2026 to help ensure stability for everyone during the...GrafanaGrafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/10/23/grafana-and-grafana-cloud-release-cycle-an-end-of-year-update/"
   }
 ]
