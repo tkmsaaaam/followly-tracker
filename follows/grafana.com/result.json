@@ -1,5 +1,13 @@
 [
   {
+    "title": "Ash Mazhari   ·   18 Nov 2025   ·   3 min readAzure Monitor offers Grafana dashboards natively for immediate, real-time operational monitoringThe Azure Monitor dashboards with Grafana service, now generally available, enables Azure users to create and edit Grafana dashboards directly within...DashboardGrafanaRead more",
+    "url": "https://grafana.com/blog/2025/11/18/azure-monitor-offers-grafana-dashboards-natively-for-immediate-real-time-operational-monitoring-now-ga/"
+  },
+  {
+    "title": "Matias Wenceslao Chomicki   ·   18 Nov 2025   ·   7 min readHow to pair Grafana Drilldown with Loki for faster logging insightsWhether you're new to Loki or highly proficient in LogQL, see how Grafana Drilldown can help accelerate troubleshooting and reduce MTTR for your...DrilldownLoggingLokiRead more",
+    "url": "https://grafana.com/blog/2025/11/18/how-to-pair-grafana-drilldown-with-loki-for-faster-logging-insights/"
+  },
+  {
     "title": "Ryan Perry   ·   17 Nov 2025   ·   8 min readA tale of two incident responses: How our AI assistant found the root cause 3.5x fasterSee how Grafana Assistant Investigations was able to find the cause of an incident in eight minutes, compared to the 28 minutes it took our on-call...AI/MLRead more",
     "url": "https://grafana.com/blog/2025/11/17/a-tale-of-two-incident-responses-how-our-ai-assist-helped-us-find-the-cause-3-5x-faster/"
   },
@@ -50,13 +58,5 @@
   {
     "title": "Bruno Abrantes   ·   23 Oct 2025   ·   3 min readGrafana and Grafana Cloud release cycle: An end-of-year updateGrafana Labs will implement two separate release cycle freezes between November 2025 and January 2026 to help ensure stability for everyone during the...GrafanaGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/10/23/grafana-and-grafana-cloud-release-cycle-an-end-of-year-update/"
-  },
-  {
-    "title": "Tiffany Jernigan   ·   22 Oct 2025   ·   6 min readGrafana Tempo 2.9 release: MCP server support, TraceQL metrics sampling, and moreThe latest release of Grafana Tempo brings a number of exciting updates, including MCP server support, which lets you leverage LLMs to access and...TempoTracingRead more",
-    "url": "https://grafana.com/blog/2025/10/22/grafana-tempo-2-9-release-mcp-server-support-traceql-metrics-sampling-and-more/"
-  },
-  {
-    "title": "Matt Wimpelberg   ·   20 Oct 2025   ·   4 min readMaking logs work smarter: Evolving your observability strategyThere are some challenges that come with a logs-first approach in Grafana Cloud. See how you can optimize your stack to avoid the typical gotchas.Read more",
-    "url": "https://grafana.com/blog/2025/10/20/making-logs-work-smarter-evolving-your-observability-strategy/"
   }
 ]
