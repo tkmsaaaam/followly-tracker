@@ -1,5 +1,9 @@
 [
   {
+    "title": "Grafana Labs Team   ·   20 Nov 2025   ·   2 min readObservabilityCON on the Road: New cities, new sessions in 2026Register today for ObservabilityCON on the Road, a one-day version of our flagship observability event that we’re bringing to a city near you in 2026.ObservabilityCONEventsRead more",
+    "url": "https://grafana.com/blog/2025/11/20/observabilitycon-on-the-road-new-cities-new-sessions-in-2026/"
+  },
+  {
     "title": "Grafana Labs Team   ·   19 Nov 2025   ·   11 min readGrafana 12.3 release: Interactive learning experiences, new and improved logs visualizations, and...Grafana 12.3 delivers a new interactive learning experience, tons of data visualization updates, and more. Here are the highlights.ReleaseGrafanaRead more",
     "url": "https://grafana.com/blog/2025/11/19/grafana-12-3-release-all-the-latest-features/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Sam Jewell   ·   30 Oct 2025   ·   5 min readSQL expressions in Grafana: Combine and manipulate data from multiple sourcesSQL expressions are a versatile and powerful feature that opens up all sorts of creative possibilities by manipulating and combining data from...GrafanaGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/10/30/sql-expressions-in-grafana-combine-and-manipulate-data-from-multiple-sources/"
-  },
-  {
-    "title": "Grafana Labs Team   ·   29 Oct 2025   ·   6 min readGrafana Labs at KubeCon: OpenTelemetry eBPF Instrumentation, Prometheus deep dives, and moreMeet us at KubeCon North America 2025! Our observability experts are participating in multiple sessions throughout the week, and you can find us at...KubeConEventsRead more",
-    "url": "https://grafana.com/blog/2025/10/29/grafana-labs-at-kubecon-opentelemetry-ebpf-instrumentation-prometheus-deep-dives-and-more/"
   }
 ]
