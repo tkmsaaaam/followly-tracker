@@ -1,5 +1,9 @@
 [
   {
+    "title": "Anatolii Timoshuk   ·   21 Nov 2025   ·   4 min readBreaking siloes: How to use cross-store correlations with GrafanaLearn how easy it is to start using correlations with third-party data in Grafana. Jump from a chart to logs or traces with one click—no copying and...GrafanaGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/11/21/breaking-siloes-how-to-use-cross-store-correlations-with-grafana/"
+  },
+  {
     "title": "Grafana Labs Team   ·   20 Nov 2025   ·   2 min readObservabilityCON on the Road: New cities, new sessions in 2026Register today for ObservabilityCON on the Road, a one-day version of our flagship observability event that we’re bringing to a city near you in 2026.ObservabilityCONEventsRead more",
     "url": "https://grafana.com/blog/2025/11/20/observabilitycon-on-the-road-new-cities-new-sessions-in-2026/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Gyorgy Krajcsovits   ·   30 Oct 2025   ·   4 min readPrometheus native histograms in Grafana Cloud: Get more precision from your Grafana visualizationsPrometheus native histograms are now generally available, giving you greater precision, ease of use, and compatibility for analyzing latency,...Grafana CloudPrometheusMimirRead more",
     "url": "https://grafana.com/blog/2025/10/30/get-more-precision-from-your-grafana-visualizations-with-prometheus-native-histograms-in-grafana-cloud/"
-  },
-  {
-    "title": "Sam Jewell   ·   30 Oct 2025   ·   5 min readSQL expressions in Grafana: Combine and manipulate data from multiple sourcesSQL expressions are a versatile and powerful feature that opens up all sorts of creative possibilities by manipulating and combining data from...GrafanaGrafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/10/30/sql-expressions-in-grafana-combine-and-manipulate-data-from-multiple-sources/"
   }
 ]
