@@ -1,5 +1,9 @@
 [
   {
+    "title": "Grafana Labs Team   ·   25 Nov 2025   ·   2 min readSave the date: GrafanaCON 2026 is coming to Barcelona in April!It’s official: GrafanaCON, our biggest community event of the year, will take place 20-22 April, 2026 in Barcelona. Can’t wait to see you there!GrafanaConEventsRead more",
+    "url": "https://grafana.com/blog/2025/11/25/save-the-date-grafanacon-2026-is-coming-to-barcelona-in-april/"
+  },
+  {
     "title": "Nishad Krishnan   ·   24 Nov 2025   ·   3 min readMonitor Temporal Workflows seamlessly: Introducing the Temporal Cloud integration for Grafana CloudThe new Temporal Cloud integration for Grafana Cloud gives teams a simple way to visualize, monitor, and alert on the health of their Temporal...IntegrationsGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/11/24/monitor-temporal-workflows-seamlessly-introducing-the-temporal-cloud-integration-for-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Dimitar Dimitrov   ·   3 Nov 2025   ·   5 min readGrafana Mimir 3.0 release: performance improvements, a new query engine, and moreGrafana Mimir 3.0 marks a new era for the open source time series database, delivering dramatic improvements in both reliability and performance.MimirReleaseRead more",
     "url": "https://grafana.com/blog/2025/11/03/grafana-mimir-3-0-release-all-the-latest-updates/"
-  },
-  {
-    "title": "Ronald McCollam   ·   31 Oct 2025   ·   5 min readHacking for better observability at scale: How Geotab quickly improved their monitoring with GrafanaSee how a Grafana-focused hackathon helped Geotab's engineers build the newest iteration of their observability platform, and get some tips you can...HackathonRead more",
-    "url": "https://grafana.com/blog/2025/10/31/hacking-observability-for-vehicle-fleets/"
   }
 ]
