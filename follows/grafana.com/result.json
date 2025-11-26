@@ -1,5 +1,9 @@
 [
   {
+    "title": "Ishan Jain   ·   26 Nov 2025   ·   7 min readHow to monitor AI agent applications on Amazon Bedrock AgentCore with Grafana CloudLearn how to use OpenTelemetry and Grafana Cloud AI Observability to track your Amazon Bedrock AgentCore agents to debug production issues and...AWSIntegrationsAI/MLRead more",
+    "url": "https://grafana.com/blog/2025/11/26/how-to-monitor-ai-agent-applications-on-amazon-bedrock-agentcore-with-grafana-cloud/"
+  },
+  {
     "title": "Grafana Labs Team   ·   25 Nov 2025   ·   2 min readSave the date: GrafanaCON 2026 is coming to Barcelona in April!It’s official: GrafanaCON, our biggest community event of the year, will take place 20-22 April, 2026 in Barcelona. Can’t wait to see you there!GrafanaConEventsRead more",
     "url": "https://grafana.com/blog/2025/11/25/save-the-date-grafanacon-2026-is-coming-to-barcelona-in-april/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Tom Miseur   ·   12 Nov 2025   ·   9 min readPerformance testing best practices: How to prepare for peak demand with Grafana Cloud k6To ensure system reliability under peak load and traffic surges, consistent and early performance testing is key. Here’s how to do just that with...k6Grafana Cloud k6Performance testingRead more",
     "url": "https://grafana.com/blog/2025/11/12/performance-testing-best-practices-how-to-prepare-for-peak-demand-with-grafana-cloud-k6/"
-  },
-  {
-    "title": "Dimitar Dimitrov   ·   3 Nov 2025   ·   5 min readGrafana Mimir 3.0 release: performance improvements, a new query engine, and moreGrafana Mimir 3.0 marks a new era for the open source time series database, delivering dramatic improvements in both reliability and performance.MimirReleaseRead more",
-    "url": "https://grafana.com/blog/2025/11/03/grafana-mimir-3-0-release-all-the-latest-updates/"
   }
 ]
