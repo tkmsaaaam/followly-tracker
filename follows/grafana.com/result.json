@@ -1,5 +1,9 @@
 [
   {
+    "title": "Ana Ivanov   ·   28 Nov 2025   ·   5 min readHow to monitor Amazon Bedrock AgentCore AI agent infrastructure in Grafana CloudLearn how to use OpenTelemetry, Amazon CloudWatch, and Grafana Cloud to track essential performance and financial metrics for Amazon Bedrock...AWSCloud Provider ObservabilityIntegrationsRead more",
+    "url": "https://grafana.com/blog/2025/11/28/how-to-monitor-amazon-bedrock-agentcore-ai-agent-infrastructure-in-grafana-cloud/"
+  },
+  {
     "title": "Ishan Jain   ·   26 Nov 2025   ·   7 min readHow to monitor AI agent applications on Amazon Bedrock AgentCore with Grafana CloudLearn how to use OpenTelemetry and Grafana Cloud AI Observability to track your Amazon Bedrock AgentCore agents to debug production issues and...AWSIntegrationsAI/MLRead more",
     "url": "https://grafana.com/blog/2025/11/26/how-to-monitor-ai-agent-applications-on-amazon-bedrock-agentcore-with-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Matthew Nolf   ·   13 Nov 2025   ·   6 min readUnderstand, diagnose, and optimize SQL queries: Introducing Grafana Cloud Database ObservabilityHelp your developers, SREs, and DBAs quickly assess how SQL queries are contributing to your system's performance.Infrastructure observabilityGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/11/13/understand-diagnose-and-optimize-sql-queries-introducing-grafana-cloud-database-observability/"
-  },
-  {
-    "title": "Tom Miseur   ·   12 Nov 2025   ·   9 min readPerformance testing best practices: How to prepare for peak demand with Grafana Cloud k6To ensure system reliability under peak load and traffic surges, consistent and early performance testing is key. Here’s how to do just that with...k6Grafana Cloud k6Performance testingRead more",
-    "url": "https://grafana.com/blog/2025/11/12/performance-testing-best-practices-how-to-prepare-for-peak-demand-with-grafana-cloud-k6/"
   }
 ]
