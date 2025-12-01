@@ -1,5 +1,9 @@
 [
   {
+    "title": "Ryan Kehoe   ·   1 Dec 2025   ·   7 min readImprove service reliability and ops culture with Grafana Cloud Service CenterAlertingSLOsGrafana CloudGrafana Cloud IRMRead more",
+    "url": "https://grafana.com/blog/2025/12/01/improve-service-reliability-and-ops-culture-with-grafana-cloud-service-center/"
+  },
+  {
     "title": "Ana Ivanov   ·   28 Nov 2025   ·   5 min readHow to monitor Amazon Bedrock AgentCore AI agent infrastructure in Grafana CloudLearn how to use OpenTelemetry, Amazon CloudWatch, and Grafana Cloud to track essential performance and financial metrics for Amazon Bedrock...AWSCloud Provider ObservabilityIntegrationsRead more",
     "url": "https://grafana.com/blog/2025/11/28/how-to-monitor-amazon-bedrock-agentcore-ai-agent-infrastructure-in-grafana-cloud/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Oleg Kozliuk   ·   14 Nov 2025   ·   10 min readContinuous profiling for native code: Understanding the what, why, and howLearn how continuous profiling can offer deep visibility into the performance of a highly optimized codebase, as well as provide clear targets for...Continuous profilingGrafana Cloud ProfilesRead more",
     "url": "https://grafana.com/blog/2025/11/14/continuous-profiling-for-native-code-understanding-the-what-why-and-how/"
-  },
-  {
-    "title": "Matthew Nolf   ·   13 Nov 2025   ·   6 min readUnderstand, diagnose, and optimize SQL queries: Introducing Grafana Cloud Database ObservabilityHelp your developers, SREs, and DBAs quickly assess how SQL queries are contributing to your system's performance.Infrastructure observabilityGrafana CloudRead more",
-    "url": "https://grafana.com/blog/2025/11/13/understand-diagnose-and-optimize-sql-queries-introducing-grafana-cloud-database-observability/"
   }
 ]
