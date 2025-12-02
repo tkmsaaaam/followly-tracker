@@ -1,6 +1,10 @@
 [
   {
-    "title": "Ryan Kehoe   ·   1 Dec 2025   ·   7 min readImprove service reliability and ops culture with Grafana Cloud Service CenterAlertingSLOsGrafana CloudGrafana Cloud IRMRead more",
+    "title": "Tom Glenn   ·   2 Dec 2025   ·   5 min readContextual, in-product guidance for every Grafana user: A closer look at Interactive LearningWith Interactive Learning, we bring helpful and contextual learning resources into the Grafana platform, so you can find what you’re looking for...GrafanaGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/12/02/contextual-in-product-guidance-for-every-grafana-user-a-closer-look-at-interactive-learning/"
+  },
+  {
+    "title": "Ryan Kehoe   ·   1 Dec 2025   ·   7 min readImprove service reliability and ops culture with Grafana Cloud Service CenterWith Grafana Cloud Service Center, teams can quickly discern whether services are performing well, identify areas requiring attention, and set...AlertingSLOsGrafana CloudGrafana Cloud IRMRead more",
     "url": "https://grafana.com/blog/2025/12/01/improve-service-reliability-and-ops-culture-with-grafana-cloud-service-center/"
   },
   {
@@ -54,9 +58,5 @@
   {
     "title": "Ronald McCollam   ·   14 Nov 2025   ·   7 min readA Star Wars dashboard deep dive: How to build your next visualization in less than 12 parsecsNerd out with our Star Wars-themed dashboard and all its nods to a galaxy far, far away. Plus, get some tips to make your next dashboard is the chosen...DashboardRead more",
     "url": "https://grafana.com/blog/2025/11/14/a-star-wars-dashboard-deep-dive-how-to-build-your-next-visualization-in-less-than-12-parsecs/"
-  },
-  {
-    "title": "Oleg Kozliuk   ·   14 Nov 2025   ·   10 min readContinuous profiling for native code: Understanding the what, why, and howLearn how continuous profiling can offer deep visibility into the performance of a highly optimized codebase, as well as provide clear targets for...Continuous profilingGrafana Cloud ProfilesRead more",
-    "url": "https://grafana.com/blog/2025/11/14/continuous-profiling-for-native-code-understanding-the-what-why-and-how/"
   }
 ]
