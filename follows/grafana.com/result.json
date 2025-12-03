@@ -1,5 +1,9 @@
 [
   {
+    "title": "Mariell Hoversholm   ·   3 Dec 2025   ·   5 min readWhat's new in the Grafana Image Renderer: higher-quality results, security enhancements, and moreThe latest major release of the Grafana Image Renderer delivers a number of updates that make the backend service more performant and reliable. Here’s...GrafanaGrafana CloudDashboardRead more",
+    "url": "https://grafana.com/blog/2025/12/03/whats-new-in-the-grafana-image-renderer-higher-quality-results-security-enhancements-and-more/"
+  },
+  {
     "title": "Tom Glenn   ·   2 Dec 2025   ·   5 min readContextual, in-product guidance for every Grafana user: A closer look at Interactive LearningWith Interactive Learning, we bring helpful and contextual learning resources into the Grafana platform, so you can find what you’re looking for...GrafanaGrafana CloudRead more",
     "url": "https://grafana.com/blog/2025/12/02/contextual-in-product-guidance-for-every-grafana-user-a-closer-look-at-interactive-learning/"
   },
@@ -54,9 +58,5 @@
   {
     "title": "Marie Cruz   ·   17 Nov 2025   ·   4 min readGrafana Play updates: A redesigned homepage to celebrate our communityBy highlighting community contributions and making Grafana’s features easier to explore, the redesigned Grafana Play homepage invites everyone — from...GrafanaCommunityRead more",
     "url": "https://grafana.com/blog/2025/11/17/grafana-play-updates-a-redesigned-homepage-to-celebrate-our-community/"
-  },
-  {
-    "title": "Ronald McCollam   ·   14 Nov 2025   ·   7 min readA Star Wars dashboard deep dive: How to build your next visualization in less than 12 parsecsNerd out with our Star Wars-themed dashboard and all its nods to a galaxy far, far away. Plus, get some tips to make your next dashboard is the chosen...DashboardRead more",
-    "url": "https://grafana.com/blog/2025/11/14/a-star-wars-dashboard-deep-dive-how-to-build-your-next-visualization-in-less-than-12-parsecs/"
   }
 ]
