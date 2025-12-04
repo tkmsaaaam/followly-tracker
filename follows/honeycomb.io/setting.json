@@ -1,0 +1,4 @@
+{
+  "url": "https://www.honeycomb.io/blog",
+  "selector": "div.relative.flex.grow div.justify-between a.flex[href]"
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "AI Isn't Here to Replace Your Dashboard… YetNon-deterministic UIs are the future, but they’re not here yet. So until then, we’re stuck with conversational interfaces.",
+    "url": "https://www.honeycomb.io/blog/ai-isnt-here-to-replace-your-dashboard-yet"
+  },
+  {
+    "title": "Design as InfrastructureFor those not familiar with the term design system, at its core, it is a collection of reusable building blocks such as buttons, colors, text styles, icons. These blocks are also commonly referred to as components, which make everything look and feel cohesive, like it belongs to the same product.",
+    "url": "https://www.honeycomb.io/blog/design-as-infrastructure"
+  },
+  {
+    "title": "What’s Special About MCP?When MCPs don’t hog context, they still won’t often beat using the innate knowledge of the model. But when you are ready to curate the access that agents have to your SaaS or data, MCPs are fantastic.",
+    "url": "https://www.honeycomb.io/blog/what-s-special-about-mcp"
+  },
+  {
+    "title": "Introducing Honeycomb Private CloudWe’re excited to announce Honeycomb Private Cloud, an offering that combines powerful observability with deployment flexibility and enhanced governance controls.",
+    "url": "https://www.honeycomb.io/blog/introducing-honeycomb-private-cloud"
+  },
+  {
+    "title": "Enhancements to Honeycomb Telemetry Pipeline Deliver Greater Visibility, Smarter Control, and Lower CostsToday, we’re introducing the latest enhancements to Honeycomb Telemetry Pipeline, which give teams deeper visibility into pipeline health, more efficient access to archived telemetry data, and reduced operational complexity.",
+    "url": "https://www.honeycomb.io/blog/enhancements-honeycomb-telemetry-pipeline-deliver-greater-visibility"
+  },
+  {
+    "title": "The \"Meh-trics\" Reloaded: Why I Was 100% Wrong About Metrics (and Also 100% Right)Somewhere in here is the number that tells me why my checkout flow keeps breaking.",
+    "url": "https://www.honeycomb.io/blog/the-meh-trics-reloaded"
+  },
+  {
+    "title": "Canvas Is Now GA: AI-Guided Observability for Modern TeamsWe’re thrilled to announce that Canvas is now Generally Available (GA) for all Honeycomb users. ",
+    "url": "https://www.honeycomb.io/blog/canvas-is-now-ga-ai-guided-observability-for-modern-teams"
+  },
+  {
+    "title": "Expanding Access, Not Risk: Using the Read-Only Role in Honeycomb TeamsHoneycomb’s role-based access control system helps teams strike that balance with a selection of Owner, Member, and Read-Only member roles.",
+    "url": "https://www.honeycomb.io/blog/expanding-access-not-risk-using-read-only-role"
+  },
+  {
+    "title": "Fast and Close to Right: How Accurate Should AI Agents Be?In this blog, I’d like to discuss why hallucinations aren’t the biggest problem in observability agents, the tradeoffs around data fidelity and task accuracy inherent in agent and tool design, and how to evaluate agentic capabilities as they apply to observability.",
+    "url": "https://www.honeycomb.io/blog/fast-and-close-to-right-how-accurate-should-ai-agents-be"
+  },
+  {
+    "title": "If it Wanted to, it Would: The Bitter Lesson for LLM UsersSystems, like people, have things they \"want\" to do. Each model has patterns of reasoning and synthesis it performs naturally. Power users learn to align with these representational grooves to get the \"best\" results and the highest-signal reasoning per token.",
+    "url": "https://www.honeycomb.io/blog/if-it-wanted-to-it-would-bitter-lesson-llm-users"
+  },
+  {
+    "title": "What Is Observability? Key Components and Best PracticesSoftware systems are increasingly complex. Applications can no longer simply be understood by examining their source code or relying on traditional monitoring methods. The interplay of distributed architectures, microservices, cloud-native environments, and massive data flows requires an increasingly critical approach: observability.",
+    "url": "https://www.honeycomb.io/blog/what-is-observability-key-components-best-practices"
+  },
+  {
+    "title": "Coffee and Claude: How Honeycomb MCP Makes AI Work for YouHosted by Austin Parker, Morgante Pell, and James Bland from AWS, the conversation explored how Honeycomb’s new Model Context Protocol (MCP) is changing the way developers and AI agents interact with data.",
+    "url": "https://www.honeycomb.io/blog/coffee-claude-how-honeycomb-mcp-makes-ai-work-for-you"
+  },
+  {
+    "title": "Trust at First Prompt: The New Design Challenge of AI InterfacesI work on enterprise products. For decades, these tools have followed the same pattern: invest time and money in learning our complex interface, and we'll reward you with mastery, granularity, and capability. Users would spend weeks, months, and sometimes years building mental models of how enterprise software works. And those steep learning curves weren't a bug, they were a feature: the vehicle for trust formation. ",
+    "url": "https://www.honeycomb.io/blog/trust-at-first-prompt-new-design-challenge-ai-interfaces"
+  },
+  {
+    "title": "5 Best Practices for Incorporating AI Into Your TeamHoneycomb’s Jessica Kerr and Fred Hebert recently hosted a webinar with Courtney Nash of The VOID where they dug into one of the biggest questions in tech right now.",
+    "url": "https://www.honeycomb.io/blog/5-best-practices-for-incorporating-ai-into-your-team"
+  },
+  {
+    "title": "How to Replace Synthetics with the httpcheck ReceiverYou've probably seen it: your health check endpoint returns success, but your users are staring at an error page. This is the reality of monitoring HTTP endpoints in production—status codes alone don't tell the whole story. ",
+    "url": "https://www.honeycomb.io/blog/how-to-replace-synthetics-httpcheck-receiver"
+  },
+  {
+    "title": "How We Saved 70% of CPU and 60% of Memory in Refinery’s Go Code, No Rust RequiredWe've just released Refinery 3.0, a performance-focused update which significantly improves Refinery's CPU and memory efficiency. ",
+    "url": "https://www.honeycomb.io/blog/how-we-saved-70-cpu-60-memory-refinery"
+  },
+  {
+    "title": "Announcing Honeycomb for Frontend Observability React Native BetaThe new Honeycomb-maintained React Native SDK built on OpenTelemetry gives you the best of both worlds: modern, open standards to avoid lock-in and a more streamlined setup. Spans from your React Native app also automatically propagate for seamless end-to-end tracing. ",
+    "url": "https://www.honeycomb.io/blog/announcing-honeycomb-for-frontend-observability-react-native-beta"
+  },
+  {
+    "title": "What the 2025 DORA Report Teaches Us About Observability and Platform QualityThe 2025 DORA State of AI-Assisted Software Development Report delivers a critical insight for technology leaders: AI is fundamentally an amplifier, not a solution. It magnifies the strengths of high-performing organizations with robust observability while exposing the dysfunctions of struggling ones.",
+    "url": "https://www.honeycomb.io/blog/what-2025-dora-report-teaches-us-about-observability-platform-quality"
+  },
+  {
+    "title": "How to Responsibly and Effectively Contribute to Open Source Using AIWith the influx of AI tooling, it’s never been easier to contribute to open source communities. These tools are capable of gathering context quickly, “understanding” repositories faster than ever before. They provide instant summaries about repositories that, previously, would have meant reading lines and lines of code.",
+    "url": "https://www.honeycomb.io/blog/responsibly-effectively-contribute-open-source-using-ai"
+  },
+  {
+    "title": "Integrating JMX and OpenTelemetryThe OpenTelemetry community and the contributors to the Java Special Interest Group (SIG) have spent a great deal of time integrating core Java technologies into the project. An integration that is particularly useful is Java Management Extensions (JMX). ",
+    "url": "https://www.honeycomb.io/blog/integrating-jmx-opentelemetry"
+  }
+]
