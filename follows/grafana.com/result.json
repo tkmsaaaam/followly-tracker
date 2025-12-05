@@ -1,5 +1,13 @@
 [
   {
+    "title": "Andrew Stucky   ·   4 Dec 2025   ·   4 min readRemoval of Drilldown Investigations in Grafana: What you need to knowDrilldown Investigations will be deprecated from Grafana OSS and removed from Grafana Cloud in January. Get the details and see what alternatives are...DrilldownRead more",
+    "url": "https://grafana.com/blog/2025/12/04/removal-of-drilldown-investigations-in-grafana-what-you-need-to-know/"
+  },
+  {
+    "title": "Ishan Jain   ·   4 Dec 2025   ·   6 min readSend OpenTelemetry traces and logs from Cloudflare Workers to Grafana CloudEasily export OpenTelemetry traces and logs from Cloudflare Workers to Grafana Cloud for deeper application observability, no code changes required.IntegrationsGrafana CloudRead more",
+    "url": "https://grafana.com/blog/2025/12/04/send-opentelemetry-traces-and-logs-from-cloudflare-workers-to-grafana-cloud/"
+  },
+  {
     "title": "Mariell Hoversholm   ·   3 Dec 2025   ·   5 min readWhat's new in the Grafana Image Renderer: higher-quality results, security enhancements, and moreThe latest major release of the Grafana Image Renderer delivers a number of updates that make the backend service more performant and reliable. Here’s...GrafanaGrafana CloudDashboardRead more",
     "url": "https://grafana.com/blog/2025/12/03/whats-new-in-the-grafana-image-renderer-higher-quality-results-security-enhancements-and-more/"
   },
@@ -50,13 +58,5 @@
   {
     "title": "Matias Wenceslao Chomicki   ·   18 Nov 2025   ·   7 min readHow to pair Grafana Drilldown with Loki for faster logging insightsWhether you're new to Loki or highly proficient in LogQL, see how Grafana Drilldown can help accelerate troubleshooting and reduce MTTR for your...DrilldownLoggingLokiRead more",
     "url": "https://grafana.com/blog/2025/11/18/how-to-pair-grafana-drilldown-with-loki-for-faster-logging-insights/"
-  },
-  {
-    "title": "Ryan Perry   ·   17 Nov 2025   ·   8 min readA tale of two incident responses: How our AI assistant found the root cause 3.5x fasterSee how Grafana Assistant Investigations was able to find the cause of an incident in eight minutes, compared to the 28 minutes it took our on-call...AI/MLRead more",
-    "url": "https://grafana.com/blog/2025/11/17/a-tale-of-two-incident-responses-how-our-ai-assist-helped-us-find-the-cause-3-5x-faster/"
-  },
-  {
-    "title": "Marie Cruz   ·   17 Nov 2025   ·   4 min readGrafana Play updates: A redesigned homepage to celebrate our communityBy highlighting community contributions and making Grafana’s features easier to explore, the redesigned Grafana Play homepage invites everyone — from...GrafanaCommunityRead more",
-    "url": "https://grafana.com/blog/2025/11/17/grafana-play-updates-a-redesigned-homepage-to-celebrate-our-community/"
   }
 ]
