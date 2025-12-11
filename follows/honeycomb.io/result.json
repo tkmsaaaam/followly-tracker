@@ -1,5 +1,9 @@
 [
   {
+    "title": "AI-Powered Observability: From Reactive to PredictiveIf there’s one thing clear from our AI-powered observability webinar, it’s that observability has officially graduated from a “nice-to-have” to a business-critical discipline, and AI is helping lead that charge.",
+    "url": "https://www.honeycomb.io/blog/ai-powered-observability-from-reactive-to-predictive"
+  },
+  {
     "title": "Using Traces, Metrics, and Logs All in One Place, as Demonstrated by Pipeline BuilderWe’ll walk through a real scenario my team experienced when our own telemetry pipeline experienced issues, which showcases the power of having all your telemetry available all at once in one place.",
     "url": "https://www.honeycomb.io/blog/using-traces-metrics-and-logs-all-in-one-place-pipeline-builder"
   },
@@ -74,9 +78,5 @@
   {
     "title": "What the 2025 DORA Report Teaches Us About Observability and Platform QualityThe 2025 DORA State of AI-Assisted Software Development Report delivers a critical insight for technology leaders: AI is fundamentally an amplifier, not a solution. It magnifies the strengths of high-performing organizations with robust observability while exposing the dysfunctions of struggling ones.",
     "url": "https://www.honeycomb.io/blog/what-2025-dora-report-teaches-us-about-observability-platform-quality"
-  },
-  {
-    "title": "How to Responsibly and Effectively Contribute to Open Source Using AIWith the influx of AI tooling, it’s never been easier to contribute to open source communities. These tools are capable of gathering context quickly, “understanding” repositories faster than ever before. They provide instant summaries about repositories that, previously, would have meant reading lines and lines of code.",
-    "url": "https://www.honeycomb.io/blog/responsibly-effectively-contribute-open-source-using-ai"
   }
 ]
