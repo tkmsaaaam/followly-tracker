@@ -1,9 +1,5 @@
 [
   {
-    "title": "TAIRAYA幸手店（PDF：446KB）",
-    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-2tairayasatteten.pdf"
-  },
-  {
     "title": "セキチュー東松山高坂店（PDF：454KB）",
     "url": "https://www.pref.saitama.lg.jp/documents/248557/6-2sekichuhigashimatsuyamatakasakaten.pdf"
   },
@@ -28,6 +24,10 @@
     "url": "https://www.pref.saitama.lg.jp/documents/248557/6-2ravinyu.pdf"
   },
   {
+    "title": "新座市意見（PDF：103KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/8-1ravi-nyu.pdf"
+  },
+  {
     "title": "丸広百貨店入間店（PDF：401KB）",
     "url": "https://www.pref.saitama.lg.jp/documents/248557/6-2maruhirohyakkatenirumaten.pdf"
   },
@@ -46,5 +46,13 @@
   {
     "title": "コジマ×ビックカメラ熊谷店（PDF：350KB）",
     "url": "https://www.pref.saitama.lg.jp/documents/248557/6-2kojimabikkukamerakumagayaten.pdf"
+  },
+  {
+    "title": "イオンタウン蕨（PDF：543KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-2aeontownwarabi.pdf"
+  },
+  {
+    "title": "カインズホーム東松山高坂店（PDF：331KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-2kainzuhomuhigashimatsuyamatakasakaten.pdf"
   }
 ]
