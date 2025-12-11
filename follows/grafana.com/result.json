@@ -1,5 +1,13 @@
 [
   {
+    "title": "Grafana Labs Team   ·   11 Dec 2025   ·   7 min read‘Grafana’s Big Tent’ podcast: Welcome to season 3!We’re excited to kick off season 3 of “Grafana’s Big Tent,” our award-winning podcast about the people, community, technology, and tools shaping...PodcastsObservabilityRead more",
+    "url": "https://grafana.com/blog/2025/12/11/grafanas-big-tent-podcast-welcome-to-season-3/"
+  },
+  {
+    "title": "Kristin Knapp   ·   11 Dec 2025   ·   12 min readGrafana Labs: Top 10 moments of 2025From the launch of Grafana Assistant to the first-ever GrafanaCON Science Fair, there were a lot of big moments for Grafana Labs and our open source...Company newsRead more",
+    "url": "https://grafana.com/blog/2025/12/11/grafana-labs-top-10-moments-of-2025/"
+  },
+  {
     "title": "Andrew Stucky   ·   4 Dec 2025   ·   4 min readRemoval of Drilldown Investigations in Grafana: What you need to knowDrilldown Investigations will be deprecated from Grafana OSS and removed from Grafana Cloud in January. Get the details and see what alternatives are...DrilldownRead more",
     "url": "https://grafana.com/blog/2025/12/04/removal-of-drilldown-investigations-in-grafana-what-you-need-to-know/"
   },
@@ -50,13 +58,5 @@
   {
     "title": "Vardan Torosyan   ·   19 Nov 2025   ·   4 min readGrafana Enterprise security update: critical severity security fix for CVE-2025-41115Along with the release of Grafana Enterprise 12.3, we are releasing updated versions of Grafana Enterprise 12.2.1, 12.1.3 and 12.0.6, all of which...SecurityRead more",
     "url": "https://grafana.com/blog/2025/11/19/grafana-enterprise-security-update-critical-severity-security-fix-for-cve-2025-41115/"
-  },
-  {
-    "title": "Ash Mazhari   ·   18 Nov 2025   ·   3 min readAzure Monitor offers Grafana dashboards natively for immediate, real-time operational monitoringThe Azure Monitor dashboards with Grafana service, now generally available, enables Azure users to create and edit Grafana dashboards directly within...DashboardGrafanaRead more",
-    "url": "https://grafana.com/blog/2025/11/18/azure-monitor-offers-grafana-dashboards-natively-for-immediate-real-time-operational-monitoring-now-ga/"
-  },
-  {
-    "title": "Matias Wenceslao Chomicki   ·   18 Nov 2025   ·   7 min readHow to pair Grafana Drilldown with Loki for faster logging insightsWhether you're new to Loki or highly proficient in LogQL, see how Grafana Drilldown can help accelerate troubleshooting and reduce MTTR for your...DrilldownLoggingLokiRead more",
-    "url": "https://grafana.com/blog/2025/11/18/how-to-pair-grafana-drilldown-with-loki-for-faster-logging-insights/"
   }
 ]
