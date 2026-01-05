@@ -1,5 +1,9 @@
 [
   {
+    "title": "Why Does Observability Feel so Expensive? (Because it Is)In Charity's recent webinar with James Governor of RedMonk, she shared that most companies now spend somewhere between 20 and 25% of their entire infrastructure budget on their observability tools.",
+    "url": "https://www.honeycomb.io/blog/why-does-observability-feel-so-expensive-because-it-is"
+  },
+  {
     "title": "Reporting Exceptions to Honeycomb with Frontend ObservabilityThere are at least two ways to report error details in OpenTelemetry. Web applications generally place exceptions in trace spans as span events, and mobile applications send exceptions as log messages instead. This article will help you understand which approaches you can use, and how the errors will appear in Honeycomb.",
     "url": "https://www.honeycomb.io/blog/reporting-exceptions-honeycomb-frontend-observability"
   },
@@ -74,9 +78,5 @@
   {
     "title": "How We Saved 70% of CPU and 60% of Memory in Refinery’s Go Code, No Rust RequiredWe've just released Refinery 3.0, a performance-focused update which significantly improves Refinery's CPU and memory efficiency. ",
     "url": "https://www.honeycomb.io/blog/how-we-saved-70-cpu-60-memory-refinery"
-  },
-  {
-    "title": "Announcing Honeycomb for Frontend Observability React Native BetaThe new Honeycomb-maintained React Native SDK built on OpenTelemetry gives you the best of both worlds: modern, open standards to avoid lock-in and a more streamlined setup. Spans from your React Native app also automatically propagate for seamless end-to-end tracing. ",
-    "url": "https://www.honeycomb.io/blog/announcing-honeycomb-for-frontend-observability-react-native-beta"
   }
 ]
