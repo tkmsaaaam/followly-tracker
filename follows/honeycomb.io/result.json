@@ -1,5 +1,9 @@
 [
   {
+    "title": "OpAMP Explained: Why OpenTelemetry Needed an Agent Management Protocol (and How We Use It)In this post, I’ll explain what OpAMP is and why OpenTelemetry created it, then dive into how we use it to power Honeycomb Telemetry Pipeline.",
+    "url": "https://www.honeycomb.io/blog/opamp-explained-why-opentelemetry-needed-agent-management-protocol"
+  },
+  {
     "title": "Why Does Observability Feel so Expensive? (Because it Is)In Charity's recent webinar with James Governor of RedMonk, she shared that most companies now spend somewhere between 20 and 25% of their entire infrastructure budget on their observability tools.",
     "url": "https://www.honeycomb.io/blog/why-does-observability-feel-so-expensive-because-it-is"
   },
@@ -74,9 +78,5 @@
   {
     "title": "How to Replace Synthetics with the httpcheck ReceiverYou've probably seen it: your health check endpoint returns success, but your users are staring at an error page. This is the reality of monitoring HTTP endpoints in production—status codes alone don't tell the whole story. ",
     "url": "https://www.honeycomb.io/blog/how-to-replace-synthetics-httpcheck-receiver"
-  },
-  {
-    "title": "How We Saved 70% of CPU and 60% of Memory in Refinery’s Go Code, No Rust RequiredWe've just released Refinery 3.0, a performance-focused update which significantly improves Refinery's CPU and memory efficiency. ",
-    "url": "https://www.honeycomb.io/blog/how-we-saved-70-cpu-60-memory-refinery"
   }
 ]
