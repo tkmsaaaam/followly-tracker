@@ -1,5 +1,9 @@
 [
   {
+    "title": "“You Had One Job”: Why Twenty Years of DevOps Has Failed to Do itI think the entire DevOps movement was a mighty, twenty year battle to achieve one thing: a single feedback loop connecting devs with prod. On those grounds, it failed. ",
+    "url": "https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it"
+  },
+  {
     "title": "OpAMP Explained: Why OpenTelemetry Needed an Agent Management Protocol (and How We Use It)In this post, I’ll explain what OpAMP is and why OpenTelemetry created it, then dive into how we use it to power Honeycomb Telemetry Pipeline.",
     "url": "https://www.honeycomb.io/blog/opamp-explained-why-opentelemetry-needed-agent-management-protocol"
   },
@@ -74,9 +78,5 @@
   {
     "title": "5 Best Practices for Incorporating AI Into Your TeamHoneycomb’s Jessica Kerr and Fred Hebert recently hosted a webinar with Courtney Nash of The VOID where they dug into one of the biggest questions in tech right now.",
     "url": "https://www.honeycomb.io/blog/5-best-practices-for-incorporating-ai-into-your-team"
-  },
-  {
-    "title": "How to Replace Synthetics with the httpcheck ReceiverYou've probably seen it: your health check endpoint returns success, but your users are staring at an error page. This is the reality of monitoring HTTP endpoints in production—status codes alone don't tell the whole story. ",
-    "url": "https://www.honeycomb.io/blog/how-to-replace-synthetics-httpcheck-receiver"
   }
 ]
