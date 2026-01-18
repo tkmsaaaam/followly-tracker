@@ -2,12 +2,6 @@
 
 current_dir=$(cd $(dirname $0); pwd)
 
-jq --version
-if [ $? -gt 0 ]; then
-    echo "jq is not installed."
-    exit 1
-fi
-
 git --version
 if [ $? -gt 0 ]; then
     echo "git is not installed."
@@ -43,9 +37,9 @@ find $current_dir/follows | grep "/setting.json" | while read line; do
   fi
   cat $target_dir/result.json > $target_dir/result_old.json
   TARGET_PATH=$target_dir go run main.go
-  added=`diff $target_dir/result.json $target_dir/result_old.json | $grep_command '^<[^<]' | $grep_command -e url -e title | $sed_command 's/^< \+//'`
+  added=`diff $target_dir/result.json $target_dir/result_old.json | $grep_command '^<[^<]' | $grep_command url | $sed_command 's/^< \+//'`
   if [ -n "$added" ]; then
-    summary="auto: `cat $target_dir/setting.json | jq .url` is updated `date "+%y/%m/%d %H:%M:%S"`"
+    summary="auto: `echo $target_dir` is updated `date "+%y/%m/%d %H:%M:%S"`"
     echo $summary > $target_dir/message.txt
     echo -e "\n" >> $target_dir/message.txt
     echo -e "$added" >> $target_dir/message.txt
