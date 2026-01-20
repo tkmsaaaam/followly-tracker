@@ -1,5 +1,9 @@
 [
   {
+    "title": "Observability with AI? Honeycomb with AI!Honeycomb exists to help people understand custom software. It doesn’t pretend to know what matters in your application. That’s an interpretive task, not programmatic.",
+    "url": "https://www.honeycomb.io/blog/observability-with-ai-honeycomb-with-ai"
+  },
+  {
     "title": "“You Had One Job”: Why Twenty Years of DevOps Has Failed to Do itI think the entire DevOps movement was a mighty, twenty year battle to achieve one thing: a single feedback loop connecting devs with prod. On those grounds, it failed. ",
     "url": "https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Trust at First Prompt: The New Design Challenge of AI InterfacesI work on enterprise products. For decades, these tools have followed the same pattern: invest time and money in learning our complex interface, and we'll reward you with mastery, granularity, and capability. Users would spend weeks, months, and sometimes years building mental models of how enterprise software works. And those steep learning curves weren't a bug, they were a feature: the vehicle for trust formation. ",
     "url": "https://www.honeycomb.io/blog/trust-at-first-prompt-new-design-challenge-ai-interfaces"
-  },
-  {
-    "title": "5 Best Practices for Incorporating AI Into Your TeamHoneycomb’s Jessica Kerr and Fred Hebert recently hosted a webinar with Courtney Nash of The VOID where they dug into one of the biggest questions in tech right now.",
-    "url": "https://www.honeycomb.io/blog/5-best-practices-for-incorporating-ai-into-your-team"
   }
 ]
