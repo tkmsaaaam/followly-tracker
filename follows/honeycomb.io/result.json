@@ -1,5 +1,9 @@
 [
   {
+    "title": "Measuring Claude Code ROI and Adoption in HoneycombClaude Code supports OpenTelemetry out of the box, which means sending telemetry to Honeycomb takes just a few minutes of configuration. In this post, I’ll walk you through exactly how I set this up for one of our monorepos and the insights we gained.",
+    "url": "https://www.honeycomb.io/blog/measuring-claude-code-roi-adoption-honeycomb"
+  },
+  {
     "title": "Observability with AI? Honeycomb with AI!Honeycomb exists to help people understand custom software. It doesn’t pretend to know what matters in your application. That’s an interpretive task, not programmatic.",
     "url": "https://www.honeycomb.io/blog/observability-with-ai-honeycomb-with-ai"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Coffee and Claude: How Honeycomb MCP Makes AI Work for YouHosted by Austin Parker, Morgante Pell, and James Bland from AWS, the conversation explored how Honeycomb’s new Model Context Protocol (MCP) is changing the way developers and AI agents interact with data.",
     "url": "https://www.honeycomb.io/blog/coffee-claude-how-honeycomb-mcp-makes-ai-work-for-you"
-  },
-  {
-    "title": "Trust at First Prompt: The New Design Challenge of AI InterfacesI work on enterprise products. For decades, these tools have followed the same pattern: invest time and money in learning our complex interface, and we'll reward you with mastery, granularity, and capability. Users would spend weeks, months, and sometimes years building mental models of how enterprise software works. And those steep learning curves weren't a bug, they were a feature: the vehicle for trust formation. ",
-    "url": "https://www.honeycomb.io/blog/trust-at-first-prompt-new-design-challenge-ai-interfaces"
   }
 ]
