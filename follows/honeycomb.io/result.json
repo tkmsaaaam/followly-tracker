@@ -1,5 +1,9 @@
 [
   {
+    "title": "AI in Production Is Growing Faster Than We Can Trust itAI reliability and trust is naturally becoming a top-of-mind concern. By 2028, Gartner predicts 40% of organizations will have implemented some form of dedicated AI observability.",
+    "url": "https://www.honeycomb.io/blog/ai-in-production-is-growing-faster-than-we-can-trust-it"
+  },
+  {
     "title": "Measuring Claude Code ROI and Adoption in HoneycombClaude Code supports OpenTelemetry out of the box, which means sending telemetry to Honeycomb takes just a few minutes of configuration. In this post, I’ll walk you through exactly how I set this up for one of our monorepos and the insights we gained.",
     "url": "https://www.honeycomb.io/blog/measuring-claude-code-roi-adoption-honeycomb"
   },
@@ -74,9 +78,5 @@
   {
     "title": "What Is Observability? Key Components and Best PracticesSoftware systems are increasingly complex. Applications can no longer simply be understood by examining their source code or relying on traditional monitoring methods. The interplay of distributed architectures, microservices, cloud-native environments, and massive data flows requires an increasingly critical approach: observability.",
     "url": "https://www.honeycomb.io/blog/what-is-observability-key-components-best-practices"
-  },
-  {
-    "title": "Coffee and Claude: How Honeycomb MCP Makes AI Work for YouHosted by Austin Parker, Morgante Pell, and James Bland from AWS, the conversation explored how Honeycomb’s new Model Context Protocol (MCP) is changing the way developers and AI agents interact with data.",
-    "url": "https://www.honeycomb.io/blog/coffee-claude-how-honeycomb-mcp-makes-ai-work-for-you"
   }
 ]
