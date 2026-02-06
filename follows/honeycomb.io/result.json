@@ -1,5 +1,9 @@
 [
   {
+    "title": "How Honeycomb Supercharges OpenTelemetry for AIThe nature of software development has changed as AI-code generation and agent-based features gain adoption. In perhaps a more subtle shift, the fundamentals of software instrumentation are changing too. ",
+    "url": "https://www.honeycomb.io/blog/how-honeycomb-supercharges-opentelemetry-for-ai"
+  },
+  {
     "title": "AI in Production Is Growing Faster Than We Can Trust itAI reliability and trust is naturally becoming a top-of-mind concern. By 2028, Gartner predicts 40% of organizations will have implemented some form of dedicated AI observability.",
     "url": "https://www.honeycomb.io/blog/ai-in-production-is-growing-faster-than-we-can-trust-it"
   },
@@ -74,9 +78,5 @@
   {
     "title": "If it Wanted to, it Would: The Bitter Lesson for LLM UsersSystems, like people, have things they \"want\" to do. Each model has patterns of reasoning and synthesis it performs naturally. Power users learn to align with these representational grooves to get the \"best\" results and the highest-signal reasoning per token.",
     "url": "https://www.honeycomb.io/blog/if-it-wanted-to-it-would-bitter-lesson-llm-users"
-  },
-  {
-    "title": "What Is Observability? Key Components and Best PracticesSoftware systems are increasingly complex. Applications can no longer simply be understood by examining their source code or relying on traditional monitoring methods. The interplay of distributed architectures, microservices, cloud-native environments, and massive data flows requires an increasingly critical approach: observability.",
-    "url": "https://www.honeycomb.io/blog/what-is-observability-key-components-best-practices"
   }
 ]
