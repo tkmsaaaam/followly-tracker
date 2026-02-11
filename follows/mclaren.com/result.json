@@ -1,35 +1,43 @@
 [
   {
-    "title": "McLaren Plus",
-    "url": "https://www.mclaren.com/racing/mclaren-plus/"
+    "title": "Skip to content",
+    "url": "https://www.mclaren.com/#main"
+  },
+  {
+    "title": "You are withRacing @media (max-width: 767px) { [data-image-id=\"_R_14p5aivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_14p5aivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_14p5aivb_\"] { object-position: 50% 50%; } } arrow top rightpatternpattern",
+    "url": "https://www.mclaren.com/racing/formula-1/"
+  },
+  {
+    "title": "Discover more aboutAutomotive @media (max-width: 767px) { [data-image-id=\"_R_1595aivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_1595aivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_1595aivb_\"] { object-position: 50% 50%; } } arrow top rightpattern",
+    "url": "https://cars.mclaren.com/"
+  },
+  {
+    "title": "Browse the latest jobsRacing Careers @media (max-width: 767px) { [data-image-id=\"_R_15p5aivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_15p5aivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_15p5aivb_\"] { object-position: 50% 50%; } } arrow top rightpattern",
+    "url": "https://racingcareers.mclaren.com/"
+  },
+  {
+    "title": "StoreGo to the store @media (max-width: 767px) { [data-image-id=\"_R_1695aivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_1695aivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_1695aivb_\"] { object-position: 50% 50%; } } arrow top rightpattern",
+    "url": "https://store.mclaren.com/gb/en/home/"
+  },
+  {
+    "title": "",
+    "url": "https://www.mclaren.com/racing/"
+  },
+  {
+    "title": "News",
+    "url": "https://www.mclaren.com/racing/news/"
   },
   {
     "title": "Formula 1",
     "url": "https://www.mclaren.com/racing/formula-1/"
   },
   {
-    "title": "IndyCar",
-    "url": "https://www.mclaren.com/racing/indycar/"
+    "title": "Articles",
+    "url": "https://www.mclaren.com/racing/formula-1/articles/"
   },
   {
-    "title": "Endurance",
-    "url": "https://www.mclaren.com/racing/endurance/"
-  },
-  {
-    "title": "Gaming",
-    "url": "https://www.mclaren.com/racing/gaming/"
-  },
-  {
-    "title": "Heritage",
-    "url": "https://www.mclaren.com/racing/heritage/"
-  },
-  {
-    "title": "Store",
-    "url": "https://store.mclaren.com/"
-  },
-  {
-    "title": "",
-    "url": "https://www.mclaren.com/racing/"
+    "title": "Standings",
+    "url": "https://www.mclaren.com/racing/formula-1/standings/"
   },
   {
     "title": "Schedule",
@@ -40,28 +48,56 @@
     "url": "https://www.mclaren.com/racing/formula-1/team/"
   },
   {
-    "title": "Standings",
-    "url": "https://www.mclaren.com/racing/formula-1/standings/"
-  },
-  {
     "title": "F1 Academy",
     "url": "https://www.mclaren.com/racing/formula-1/f1-academy/"
   },
   {
-    "title": "Sustainability",
-    "url": "https://www.mclaren.com/racing/sustainability/"
+    "title": "IndyCar",
+    "url": "https://www.mclaren.com/racing/indycar/"
   },
   {
-    "title": "Discover more aboutAutomotive",
-    "url": "https://cars.mclaren.com/"
+    "title": "Articles",
+    "url": "https://www.mclaren.com/racing/indycar/articles/"
   },
   {
-    "title": "Browse the latest jobsRacing Careers",
-    "url": "https://racingcareers.mclaren.com/"
+    "title": "Schedule",
+    "url": "https://www.mclaren.com/racing/indycar/2026/schedule/"
   },
   {
-    "title": "Careers",
-    "url": "https://racingcareers.mclaren.com/"
+    "title": "Team",
+    "url": "https://www.mclaren.com/racing/indycar/team/"
+  },
+  {
+    "title": "Endurance",
+    "url": "https://www.mclaren.com/racing/endurance/"
+  },
+  {
+    "title": "Articles",
+    "url": "https://www.mclaren.com/racing/endurance/articles/"
+  },
+  {
+    "title": "Team",
+    "url": "https://www.mclaren.com/racing/endurance/team/"
+  },
+  {
+    "title": "Heritage",
+    "url": "https://www.mclaren.com/racing/heritage/"
+  },
+  {
+    "title": "Articles",
+    "url": "https://www.mclaren.com/racing/heritage/articles/"
+  },
+  {
+    "title": "Formula 1",
+    "url": "https://www.mclaren.com/racing/heritage/formula-1/"
+  },
+  {
+    "title": "Bruce McLaren",
+    "url": "https://www.mclaren.com/racing/heritage/bruce-mclaren/"
+  },
+  {
+    "title": "Gaming",
+    "url": "https://www.mclaren.com/racing/gaming/"
   },
   {
     "title": "Sustainability",
@@ -72,20 +108,484 @@
     "url": "https://www.mclaren.com/racing/downloads/"
   },
   {
-    "title": "Investors",
-    "url": "https://investors.mclaren.com/"
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_eld5laivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_eld5laivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_eld5laivb_\"] { object-position: 50% 50%; } } McLaren StoreShop nowarrow top right",
+    "url": "https://store.mclaren.com/gb/en/collections/fanwear/"
+  },
+  {
+    "title": "",
+    "url": "https://www.mclaren.com/racing/"
+  },
+  {
+    "title": "News",
+    "url": "https://www.mclaren.com/racing/news/"
+  },
+  {
+    "title": "Home",
+    "url": "https://www.mclaren.com/racing/formula-1/"
+  },
+  {
+    "title": "Articles",
+    "url": "https://www.mclaren.com/racing/formula-1/articles/"
+  },
+  {
+    "title": "Standings",
+    "url": "https://www.mclaren.com/racing/formula-1/standings/"
+  },
+  {
+    "title": "Schedule",
+    "url": "https://www.mclaren.com/racing/formula-1/2026/schedule/"
+  },
+  {
+    "title": "Team",
+    "url": "https://www.mclaren.com/racing/formula-1/team/"
+  },
+  {
+    "title": "F1 Academy",
+    "url": "https://www.mclaren.com/racing/formula-1/f1-academy/"
+  },
+  {
+    "title": "Home",
+    "url": "https://www.mclaren.com/racing/indycar/"
+  },
+  {
+    "title": "Articles",
+    "url": "https://www.mclaren.com/racing/indycar/articles/"
+  },
+  {
+    "title": "Schedule",
+    "url": "https://www.mclaren.com/racing/indycar/2026/schedule/"
+  },
+  {
+    "title": "Team",
+    "url": "https://www.mclaren.com/racing/indycar/team/"
+  },
+  {
+    "title": "Home",
+    "url": "https://www.mclaren.com/racing/endurance/"
+  },
+  {
+    "title": "Articles",
+    "url": "https://www.mclaren.com/racing/endurance/articles/"
+  },
+  {
+    "title": "Team",
+    "url": "https://www.mclaren.com/racing/endurance/team/"
+  },
+  {
+    "title": "Home",
+    "url": "https://www.mclaren.com/racing/heritage/"
+  },
+  {
+    "title": "Articles",
+    "url": "https://www.mclaren.com/racing/heritage/articles/"
+  },
+  {
+    "title": "Formula 1",
+    "url": "https://www.mclaren.com/racing/heritage/formula-1/"
+  },
+  {
+    "title": "Bruce McLaren",
+    "url": "https://www.mclaren.com/racing/heritage/bruce-mclaren/"
+  },
+  {
+    "title": "Gaming",
+    "url": "https://www.mclaren.com/racing/gaming/"
+  },
+  {
+    "title": "Sustainability",
+    "url": "https://www.mclaren.com/racing/sustainability/"
+  },
+  {
+    "title": "Wallpapers",
+    "url": "https://www.mclaren.com/racing/downloads/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_1qpja5aivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_1qpja5aivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_1qpja5aivb_\"] { object-position: 50% 50%; } } McLaren StoreShop nowarrow top right",
+    "url": "https://store.mclaren.com/gb/en/collections/fanwear/"
+  },
+  {
+    "title": "Storearrow top right",
+    "url": "https://store.mclaren.com/gb/en/home/"
+  },
+  {
+    "title": "Navbar badgeRacing clubarrow top right",
+    "url": "https://www.mclaren.com/racing/mclaren-racing-club"
+  },
+  {
+    "title": "News",
+    "url": "https://www.mclaren.com/racing/news/"
+  },
+  {
+    "title": "Home",
+    "url": "https://www.mclaren.com/racing/formula-1/"
+  },
+  {
+    "title": "Articles",
+    "url": "https://www.mclaren.com/racing/formula-1/articles/"
+  },
+  {
+    "title": "Standings",
+    "url": "https://www.mclaren.com/racing/formula-1/standings/"
+  },
+  {
+    "title": "Schedule",
+    "url": "https://www.mclaren.com/racing/formula-1/2026/schedule/"
+  },
+  {
+    "title": "Team",
+    "url": "https://www.mclaren.com/racing/formula-1/team/"
+  },
+  {
+    "title": "F1 Academy",
+    "url": "https://www.mclaren.com/racing/formula-1/f1-academy/"
+  },
+  {
+    "title": "Home",
+    "url": "https://www.mclaren.com/racing/indycar/"
+  },
+  {
+    "title": "Articles",
+    "url": "https://www.mclaren.com/racing/indycar/articles/"
+  },
+  {
+    "title": "Schedule",
+    "url": "https://www.mclaren.com/racing/indycar/2026/schedule/"
+  },
+  {
+    "title": "Team",
+    "url": "https://www.mclaren.com/racing/indycar/team/"
+  },
+  {
+    "title": "Home",
+    "url": "https://www.mclaren.com/racing/endurance/"
+  },
+  {
+    "title": "Articles",
+    "url": "https://www.mclaren.com/racing/endurance/articles/"
+  },
+  {
+    "title": "Team",
+    "url": "https://www.mclaren.com/racing/endurance/team/"
+  },
+  {
+    "title": "Home",
+    "url": "https://www.mclaren.com/racing/heritage/"
+  },
+  {
+    "title": "Articles",
+    "url": "https://www.mclaren.com/racing/heritage/articles/"
+  },
+  {
+    "title": "Formula 1",
+    "url": "https://www.mclaren.com/racing/heritage/formula-1/"
+  },
+  {
+    "title": "Bruce McLaren",
+    "url": "https://www.mclaren.com/racing/heritage/bruce-mclaren/"
+  },
+  {
+    "title": "Gaming",
+    "url": "https://www.mclaren.com/racing/gaming/"
+  },
+  {
+    "title": "Sustainability",
+    "url": "https://www.mclaren.com/racing/sustainability/"
+  },
+  {
+    "title": "Wallpapers",
+    "url": "https://www.mclaren.com/racing/downloads/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_1qpla5aivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_1qpla5aivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_1qpla5aivb_\"] { object-position: 50% 50%; } } McLaren StoreShop nowarrow top right",
+    "url": "https://store.mclaren.com/gb/en/collections/fanwear/"
+  },
+  {
+    "title": "Storearrow top right",
+    "url": "https://store.mclaren.com/gb/en/home/"
+  },
+  {
+    "title": "Navbar badgeRacing clubarrow top right",
+    "url": "https://www.mclaren.com/racing/mclaren-racing-club"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_25l9hbsnnaivb_\"] { object-position: 52.864583333333336% 44.84375%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_25l9hbsnnaivb_\"] { object-position: 49.427083333333336% 41.40625%; } } @media (min-width: 1025px) { [data-image-id=\"_R_25l9hbsnnaivb_\"] { object-position: 50% 50%; } } McLaren Racing unveil their 2026 McLaren F1 Academy liveriesarrow top right",
+    "url": "https://www.mclaren.com/racing/formula-1/2026/mclaren-racing-unveil-their-2026-mclaren-f1-academy-liveries/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_29l9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_29l9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_29l9hbsnnaivb_\"] { object-position: 50% 50%; } } McLaren Racing reveal livery for the McLaren Mastercard Formula 1 Team’s 2026 challengerarrow top right",
+    "url": "https://www.mclaren.com/racing/formula-1/2026/mclaren-racing-reveal-livery-for-the-mclaren-mastercard-formula-1-teams-2026-challenger/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_2dl9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_2dl9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_2dl9hbsnnaivb_\"] { object-position: 50% 50%; } } Why does Formula 1 change its regulations?arrow top right",
+    "url": "https://www.mclaren.com/racing/formula-1/2026/why-does-formula-1-change-its-regulations/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_2hl9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_2hl9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_2hl9hbsnnaivb_\"] { object-position: 50% 50%; } } Andrea Stella: What we learnt from the Barcelona Shakedown ahead of Pre-Season Testingarrow top right",
+    "url": "https://www.mclaren.com/racing/formula-1/2026/andrea-stella-what-we-learned-from-the-barcelona-shakedown/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_2ll9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_2ll9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_2ll9hbsnnaivb_\"] { object-position: 50% 50%; } } A beginner's guide to pre-season testingarrow top right",
+    "url": "https://www.mclaren.com/racing/formula-1/guide-to-pre-season-testing/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_2pl9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_2pl9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_2pl9hbsnnaivb_\"] { object-position: 50% 50%; } } 2026 Barcelona Pre-Season Shakedown - Day 3arrow top right",
+    "url": "https://www.mclaren.com/racing/formula-1/2026/barcelona-pre-season-shakedown-day-3/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_2tl9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_2tl9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_2tl9hbsnnaivb_\"] { object-position: 50% 50%; } } 2026 Barcelona Pre-Season Shakedown - Day 2arrow top right",
+    "url": "https://www.mclaren.com/racing/formula-1/2026/barcelona-pre-season-shakedown-day-2/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_31l9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_31l9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_31l9hbsnnaivb_\"] { object-position: 50% 50%; } } 2026 Barcelona Pre-Season Shakedown - Day 1arrow top right",
+    "url": "https://www.mclaren.com/racing/formula-1/2026/2026-barcelona-pre-season-shakedown/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_35l9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_35l9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_35l9hbsnnaivb_\"] { object-position: 50% 50%; } } The MCL40 is here: Behind the design and what to expect from McLaren Mastercard’s 2026 challengerarrow top right",
+    "url": "https://www.mclaren.com/racing/formula-1/2026/behind-the-design-of-the-mcl40/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_39l9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_39l9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_39l9hbsnnaivb_\"] { object-position: 50% 50%; } } McLaren Mastercard F1 Team prepares for Barcelona Shakedownarrow top right",
+    "url": "https://www.mclaren.com/racing/formula-1/2026/mclaren-mastercard-prepares-for-barcelona-shakedown/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_3dl9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_3dl9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_3dl9hbsnnaivb_\"] { object-position: 50% 50%; } } What is this week’s F1 Shakedown in Spain, and why are McLaren Mastercard running a one-off livery?arrow top right",
+    "url": "https://www.mclaren.com/racing/formula-1/2026/explaining-this-weeks-f1-shakedown-in-spain/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_3hl9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_3hl9hbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_3hl9hbsnnaivb_\"] { object-position: 50% 50%; } } ONEflight International named Official Private Aviation Partner of the McLaren Mastercard Formula 1 Teamarrow top right",
+    "url": "https://www.mclaren.com/racing/partners/oneflight/oneflight-international-named-official-private-aviation-partner-of-the-mclaren-mastercard-formula-1-team/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_addhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_addhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_addhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/okx/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_iddhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_iddhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_iddhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/mastercard/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_2ldhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_2ldhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_2ldhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/british-american-tobacco/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_4ldhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_4ldhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_4ldhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/dp-world/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_6ldhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_6ldhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_6ldhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/allwyn/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_8ldhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_8ldhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_8ldhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/cisco/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_aldhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_aldhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_aldhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/dell-technologies/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_2tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_2tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_2tdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/android/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_6tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_6tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_6tdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/puma/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_8tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_8tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_8tdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/monster-energy/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_atdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_atdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_atdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/arrow-electronics/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_ctdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_ctdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_ctdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/deloitte/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_etdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_etdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_etdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/ecolab/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_gtdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_gtdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_gtdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/okta/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_itdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_itdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_itdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/jack-daniels/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_ktdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_ktdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_ktdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/dropbox/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_mtdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_mtdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_mtdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/chrome/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_otdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_otdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_otdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/google-cloud/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_qtdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_qtdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_qtdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/stanley-black-decker/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_stdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_stdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_stdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/goldman-sachs/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_utdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_utdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_utdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/workday/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_10tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_10tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_10tdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/iron-mountain/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_12tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_12tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_12tdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/richard-mille/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_14tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_14tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_14tdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/hilton/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_16tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_16tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_16tdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/schneider-electric/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_18tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_18tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_18tdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/groq/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_1atdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_1atdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_1atdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/fxpro/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_1ctdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_1ctdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_1ctdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/hedera/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_1etdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_1etdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_1etdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/oneflight/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_1gtdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_1gtdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_1gtdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/splunk/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_1itdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_1itdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_1itdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/optimum-nutrition/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_1ktdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_1ktdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_1ktdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/greene-tweed/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_1mtdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_1mtdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_1mtdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/t-mobile/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_1otdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_1otdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_1otdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/freshworks/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_1qtdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_1qtdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_1qtdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/motul/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_1stdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_1stdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_1stdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/udemy/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_1utdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_1utdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_1utdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/rubrik/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_20tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_20tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_20tdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/medallia/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_22tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_22tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_22tdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/alteryx/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_24tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_24tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_24tdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/smartsheet/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_26tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_26tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_26tdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/airwallex/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_35dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_35dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_35dhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/lego/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_55dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_55dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_55dhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/tumi/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_75dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_75dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_75dhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/reiss/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_95dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_95dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_95dhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/cnbc/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_b5dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_b5dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_b5dhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/akzonobel-sikkens/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_d5dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_d5dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_d5dhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/alpinestars/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_f5dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_f5dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_f5dhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/pirelli/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_h5dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_h5dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_h5dhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/kaust/"
+  },
+  {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_j5dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_j5dhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_j5dhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/ashurst/"
+  },
+  {
+    "title": "",
+    "url": "https://www.mclaren.com/racing/"
+  },
+  {
+    "title": "Racing Careersarrow top right",
+    "url": "https://racingcareers.mclaren.com/"
+  },
+  {
+    "title": "Sustainabilityarrow top right",
+    "url": "https://www.mclaren.com/racing/sustainability/"
+  },
+  {
+    "title": "Wallpapersarrow top right",
+    "url": "https://www.mclaren.com/racing/downloads/"
+  },
+  {
+    "title": "Corporate",
+    "url": "https://cars.mclaren.com/gl_en/corporate"
   },
   {
     "title": "Media Centre",
     "url": "https://brandfolder.com/portals/mclaren-racing-media"
   },
   {
-    "title": "Community Code",
-    "url": "https://www.mclaren.com/racing/mclaren-racing-social-media-community-code/"
+    "title": "Anti-slavery Statement",
+    "url": "https://images.ctfassets.net/gy95mqeyjg28/78QvxcNiD3yTTfscbxpJFb/335607da8d905f157823e5a7f25b208f/mclaren-group-modern-slavery-and-human-trafficking-statement-ye-2024-signed-by-psw-230325.pdf"
   },
   {
-    "title": "Anti-slavery Statement",
-    "url": "https://mclaren.bloomreach.io/delivery/resources/content/assets/mclaren-assets/legal/mclaren-group-modern-slavery-and-human-trafficking-statement-ye-2024-signed-by-psw-230325.pdf"
+    "title": "Tax Strategy",
+    "url": "https://www.mclaren.com/racing/tax-strategy/"
   },
   {
     "title": "Cookie Policy",
@@ -96,8 +596,8 @@
     "url": "https://www.mclaren.com/racing/privacy-policy/"
   },
   {
-    "title": "Tax Strategy",
-    "url": "https://www.mclaren.com/racing/tax-strategy/"
+    "title": "Terms of Use",
+    "url": "https://www.mclaren.com/racing/terms-of-use/"
   },
   {
     "title": "Contact Us",
