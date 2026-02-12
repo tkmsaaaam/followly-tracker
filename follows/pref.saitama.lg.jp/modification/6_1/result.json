@@ -1,17 +1,5 @@
 [
   {
-    "title": "イオン入間ショッピングセンター（PDF：732KB）",
-    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-1aeonirumashoppingcenter.pdf"
-  },
-  {
-    "title": "マルヤ八幡店（PDF：260KB）",
-    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-1maruyayahataten.pdf"
-  },
-  {
-    "title": "ドン・キホーテ行田持田インター店（PDF：210KB）",
-    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-1donkihotegyoudamotidaintaten.pdf"
-  },
-  {
     "title": "ヨークフーズ所沢花園店（PDF：103KB）",
     "url": "https://www.pref.saitama.lg.jp/documents/248557/6-1yokufoodstokorozawahanazonoten.pdf"
   },
@@ -226,5 +214,45 @@
   {
     "title": "クッキープラザ（PDF：281KB）",
     "url": "https://www.pref.saitama.lg.jp/documents/248557/6-1kukki-plaza_2.pdf"
+  },
+  {
+    "title": "ベイシアゲート本庄早稲田（PDF：340KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-1beisiagatehonjouwaseda.pdf"
+  },
+  {
+    "title": "ベイシア深谷国済寺店（PDF：226KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-1beisiafukayakokusaiziten.pdf"
+  },
+  {
+    "title": "カインズモール深谷川本（PDF：269KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-1cainzmallfukayakawamoto.pdf"
+  },
+  {
+    "title": "ベイシアふかや花園（PDF：291KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-1beisiafukayahanazonoten.pdf"
+  },
+  {
+    "title": "ベイシア寄居北店（PDF：310KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-1beisiayoriikitaten.pdf"
+  },
+  {
+    "title": "ベイシア羽生店（PDF：224KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-1beisiahanyuten.pdf"
+  },
+  {
+    "title": "ベイシア栗橋店（PDF：281KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-1besiakurihashiten.pdf"
+  },
+  {
+    "title": "ベイシアモールひだか（A街区）（PDF：335KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-1beisiamallhidaka_agaiku.pdf"
+  },
+  {
+    "title": "ベイシアモールひだか（B街区）（PDF：263KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-1beisiamallhidaka_bgaiku.pdf"
+  },
+  {
+    "title": "アトレ（PDF：191KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-1atre_2.pdf"
   }
 ]
