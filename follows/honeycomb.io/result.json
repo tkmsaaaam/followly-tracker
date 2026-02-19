@@ -1,10 +1,14 @@
 [
   {
+    "title": "The Next Era of Observability: Founders’ Reflections - Additional Q\u0026ACharity took the time to answer a few additional audience questions we didn’t get to. Dive in below!",
+    "url": "https://www.honeycomb.io/blog/next-era-of-observability-founders-reflections-additional-q-and-a"
+  },
+  {
     "title": "Teaching AI How to RefineryWe released a new tool for our MCP server which helps your AIs understand Refinery, and how Honeycomb handles sampling. In this blog, I’ll walk you through the new feature and show how it can help you run Refinery.",
     "url": "https://www.honeycomb.io/blog/teaching-ai-how-to-refinery"
   },
   {
-    "title": "Happy Birthday to Us: Honeycomb 10 Year Manifesto, Part 1When we left Facebook, we were determined to build a tool that would help solve the hardest problems in software. Not by copying everyone else’s architectural hand-me-downs and making incremental improvements, but by borrowing from powerful BI and product tools, and reasoning from first principles about what software engineers need to understand their code in production.",
+    "title": "Honeycomb 10 Year Manifesto: Observability in a World of AI-Generated CodeWhen we left Facebook, we were determined to build a tool that would help solve the hardest problems in software. Not by copying everyone else’s architectural hand-me-downs and making incremental improvements, but by borrowing from powerful BI and product tools, and reasoning from first principles about what software engineers need to understand their code in production.",
     "url": "https://www.honeycomb.io/blog/honeycomb-10-year-manifesto-part-1"
   },
   {
@@ -74,9 +78,5 @@
   {
     "title": "Canvas Is Now GA: AI-Guided Observability for Modern TeamsWe’re thrilled to announce that Canvas is now Generally Available (GA) for all Honeycomb users. ",
     "url": "https://www.honeycomb.io/blog/canvas-is-now-ga-ai-guided-observability-for-modern-teams"
-  },
-  {
-    "title": "Expanding Access, Not Risk: Using the Read-Only Role in Honeycomb TeamsHoneycomb’s role-based access control system helps teams strike that balance with a selection of Owner, Member, and Read-Only member roles.",
-    "url": "https://www.honeycomb.io/blog/expanding-access-not-risk-using-read-only-role"
   }
 ]
