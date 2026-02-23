@@ -1,5 +1,9 @@
 [
   {
+    "title": "Using Core Web Vitals in Honeycomb Frontend TelemetryIn this blog post, I'll discuss some behaviors encountered using Core Web Vitals telemetry, enabled via the Honeycomb Frontend Web SDK. This telemetry is generated from events from Google's Web Vitals script.",
+    "url": "https://www.honeycomb.io/blog/using-core-web-vitals-in-honeycomb-frontend-telemetry"
+  },
+  {
     "title": "The Next Era of Observability: Founders’ Reflections - Additional Q\u0026ACharity took the time to answer a few additional audience questions we didn’t get to. Dive in below!",
     "url": "https://www.honeycomb.io/blog/next-era-of-observability-founders-reflections-additional-q-and-a"
   },
@@ -74,9 +78,5 @@
   {
     "title": "The \"Meh-trics\" Reloaded: Why I Was 100% Wrong About Metrics (and Also 100% Right)Somewhere in here is the number that tells me why my checkout flow keeps breaking.",
     "url": "https://www.honeycomb.io/blog/the-meh-trics-reloaded"
-  },
-  {
-    "title": "Canvas Is Now GA: AI-Guided Observability for Modern TeamsWe’re thrilled to announce that Canvas is now Generally Available (GA) for all Honeycomb users. ",
-    "url": "https://www.honeycomb.io/blog/canvas-is-now-ga-ai-guided-observability-for-modern-teams"
   }
 ]
