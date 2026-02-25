@@ -1,5 +1,9 @@
 [
   {
+    "title": "Incident Report: Exercises, Cleanups, and EvacuationsOn December 5th, 2025, we suffered a major outage in our EU region, with the last recovery steps for it extending until December 17th, 2025. For multiple hours, all of Honeycomb’s event ingestion endpoints were down. Most of the duration was spent in a degraded mode where only Activity Log data was impacted. A general timeline is available on our status page, but in this report, we’ll look at a broader analysis of what happened.",
+    "url": "https://www.honeycomb.io/blog/incident-report-exercises-cleanups-and-evacuations"
+  },
+  {
     "title": "Using Core Web Vitals in Honeycomb Frontend TelemetryIn this blog post, I'll discuss some behaviors encountered using Core Web Vitals telemetry, enabled via the Honeycomb Frontend Web SDK. This telemetry is generated from events from Google's Web Vitals script.",
     "url": "https://www.honeycomb.io/blog/using-core-web-vitals-in-honeycomb-frontend-telemetry"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Enhancements to Honeycomb Telemetry Pipeline Deliver Greater Visibility, Smarter Control, and Lower CostsToday, we’re introducing the latest enhancements to Honeycomb Telemetry Pipeline, which give teams deeper visibility into pipeline health, more efficient access to archived telemetry data, and reduced operational complexity.",
     "url": "https://www.honeycomb.io/blog/enhancements-honeycomb-telemetry-pipeline-deliver-greater-visibility"
-  },
-  {
-    "title": "The \"Meh-trics\" Reloaded: Why I Was 100% Wrong About Metrics (and Also 100% Right)Somewhere in here is the number that tells me why my checkout flow keeps breaking.",
-    "url": "https://www.honeycomb.io/blog/the-meh-trics-reloaded"
   }
 ]
