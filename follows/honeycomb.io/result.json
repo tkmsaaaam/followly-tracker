@@ -44,6 +44,10 @@
     "url": "https://www.honeycomb.io/blog/opamp-explained-why-opentelemetry-needed-agent-management-protocol"
   },
   {
+    "title": "How Time Series Databases Work—and Where They Don’tIn my previous post, we explored why Honeycomb is implemented as a distributed column store. Just as interesting to consider, though, is why Honeycomb is not implemented in other ways. So in this post, we’re going to dive into the topic of time series databases (TSDBs) and why Honeycomb couldn’t be limited to a TSDB implementation.",
+    "url": "https://www.honeycomb.io/blog/time-series-database"
+  },
+  {
     "title": "Why Does Observability Feel so Expensive? (Because it Is)In Charity's recent webinar with James Governor of RedMonk, she shared that most companies now spend somewhere between 20 and 25% of their entire infrastructure budget on their observability tools.",
     "url": "https://www.honeycomb.io/blog/why-does-observability-feel-so-expensive-because-it-is"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Introducing Honeycomb Private CloudWe’re excited to announce Honeycomb Private Cloud, an offering that combines powerful observability with deployment flexibility and enhanced governance controls.",
     "url": "https://www.honeycomb.io/blog/introducing-honeycomb-private-cloud"
-  },
-  {
-    "title": "Enhancements to Honeycomb Telemetry Pipeline Deliver Greater Visibility, Smarter Control, and Lower CostsToday, we’re introducing the latest enhancements to Honeycomb Telemetry Pipeline, which give teams deeper visibility into pipeline health, more efficient access to archived telemetry data, and reduced operational complexity.",
-    "url": "https://www.honeycomb.io/blog/enhancements-honeycomb-telemetry-pipeline-deliver-greater-visibility"
   }
 ]
