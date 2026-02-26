@@ -1,13 +1,5 @@
 [
   {
-    "title": "ラ・ヴィーニュ（PDF：107KB）",
-    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-2ravinyu.pdf"
-  },
-  {
-    "title": "丸広百貨店入間店（PDF：401KB）",
-    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-2maruhirohyakkatenirumaten.pdf"
-  },
-  {
     "title": "ウエルシア新座野火止店（PDF：237KB）",
     "url": "https://www.pref.saitama.lg.jp/documents/248557/6-2welcianiizanobidometen-2.pdf"
   },
@@ -18,10 +10,6 @@
   {
     "title": "カインズ吉川美南店（PDF：351KB）",
     "url": "https://www.pref.saitama.lg.jp/documents/248557/6-2cainzyoshikawaminamiten.pdf"
-  },
-  {
-    "title": "吉川市意見（PDF：82KB）",
-    "url": "https://www.pref.saitama.lg.jp/documents/248557/8-1cainzyoshikawaminamiten.pdf"
   },
   {
     "title": "ニトリ春日部店（PDF：505KB）",
@@ -50,5 +38,9 @@
   {
     "title": "ヤオコー久喜吉羽店（PDF：654KB）",
     "url": "https://www.pref.saitama.lg.jp/documents/248557/6-2yaokokukiyoshibaten.pdf"
+  },
+  {
+    "title": "越谷花田複合店舗（PDF：373KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/6-2koshigayahanadahukugoutenpo.pdf"
   }
 ]
