@@ -1,5 +1,9 @@
 [
   {
+    "title": "Your Questions About AI-Assisted Development AnsweredWe recently hosted a webinar on AI-assisted development with DORA, and the audience had a lot of questions—far more than we could get to in an hour. I picked out six that get at the stuff people are wrestling with day to day.",
+    "url": "https://www.honeycomb.io/blog/your-questions-about-ai-assisted-development-answered"
+  },
+  {
     "title": "Incident Report: Exercises, Cleanups, and EvacuationsOn December 5th, 2025, we suffered a major outage in our EU region, with the last recovery steps for it extending until December 17th, 2025. For multiple hours, all of Honeycomb’s event ingestion endpoints were down. Most of the duration was spent in a degraded mode where only Activity Log data was impacted. A general timeline is available on our status page, but in this report, we’ll look at a broader analysis of what happened.",
     "url": "https://www.honeycomb.io/blog/incident-report-exercises-cleanups-and-evacuations"
   },
@@ -74,9 +78,5 @@
   {
     "title": "What’s Special About MCP?When MCPs don’t hog context, they still won’t often beat using the innate knowledge of the model. But when you are ready to curate the access that agents have to your SaaS or data, MCPs are fantastic.",
     "url": "https://www.honeycomb.io/blog/what-s-special-about-mcp"
-  },
-  {
-    "title": "Introducing Honeycomb Private CloudWe’re excited to announce Honeycomb Private Cloud, an offering that combines powerful observability with deployment flexibility and enhanced governance controls.",
-    "url": "https://www.honeycomb.io/blog/introducing-honeycomb-private-cloud"
   }
 ]
