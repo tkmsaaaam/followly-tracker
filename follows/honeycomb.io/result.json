@@ -64,10 +64,6 @@
     "url": "https://www.honeycomb.io/blog/ai-powered-observability-from-reactive-to-predictive"
   },
   {
-    "title": "Using Traces, Metrics, and Logs All in One Place, as Demonstrated by Pipeline BuilderWe’ll walk through a real scenario my team experienced when our own telemetry pipeline experienced issues, which showcases the power of having all your telemetry available all at once in one place.",
-    "url": "https://www.honeycomb.io/blog/using-traces-metrics-and-logs-all-in-one-place-pipeline-builder"
-  },
-  {
     "title": "AI Isn't Here to Replace Your Dashboard… YetNon-deterministic UIs are the future, but they’re not here yet. So until then, we’re stuck with conversational interfaces.",
     "url": "https://www.honeycomb.io/blog/ai-isnt-here-to-replace-your-dashboard-yet"
   },
@@ -78,5 +74,9 @@
   {
     "title": "What’s Special About MCP?When MCPs don’t hog context, they still won’t often beat using the innate knowledge of the model. But when you are ready to curate the access that agents have to your SaaS or data, MCPs are fantastic.",
     "url": "https://www.honeycomb.io/blog/what-s-special-about-mcp"
+  },
+  {
+    "title": "Introducing Honeycomb Private CloudWe’re excited to announce Honeycomb Private Cloud, an offering that combines powerful observability with deployment flexibility and enhanced governance controls.",
+    "url": "https://www.honeycomb.io/blog/introducing-honeycomb-private-cloud"
   }
 ]
