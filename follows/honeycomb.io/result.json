@@ -1,5 +1,9 @@
 [
   {
+    "title": "Create a Custom Service Health Board With the Honeycomb MCPThe best dashboard is one created just for your application, or your service, or your team. You can get that in minutes with the Honeycomb MCP.",
+    "url": "https://www.honeycomb.io/blog/create-a-custom-service-health-board-honeycomb-mcp"
+  },
+  {
     "title": "Your Questions About AI-Assisted Development AnsweredWe recently hosted a webinar on AI-assisted development with DORA, and the audience had a lot of questions—far more than we could get to in an hour. I picked out six that get at the stuff people are wrestling with day to day.",
     "url": "https://www.honeycomb.io/blog/your-questions-about-ai-assisted-development-answered"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Design as InfrastructureFor those not familiar with the term design system, at its core, it is a collection of reusable building blocks such as buttons, colors, text styles, icons. These blocks are also commonly referred to as components, which make everything look and feel cohesive, like it belongs to the same product.",
     "url": "https://www.honeycomb.io/blog/design-as-infrastructure"
-  },
-  {
-    "title": "What’s Special About MCP?When MCPs don’t hog context, they still won’t often beat using the innate knowledge of the model. But when you are ready to curate the access that agents have to your SaaS or data, MCPs are fantastic.",
-    "url": "https://www.honeycomb.io/blog/what-s-special-about-mcp"
   }
 ]
