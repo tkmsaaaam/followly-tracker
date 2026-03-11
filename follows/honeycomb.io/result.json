@@ -1,5 +1,13 @@
 [
   {
+    "title": "Honeycomb Metrics Is Now Generally AvailableThe tradeoff between data completeness and cost has been a feature of metrics platforms for as long as they’ve been around. And as AI becomes central to how engineering teams build and operate software, it is about to become a much more expensive problem.",
+    "url": "https://www.honeycomb.io/blog/honeycomb-metrics-generally-available"
+  },
+  {
+    "title": "Observability Where You Work: Introducing the Honeycomb Slackbot in BetaThe Honeycomb Slackbot is available now in beta for Enterprise customers. Reach out to your customer success team to learn more and get set up!",
+    "url": "https://www.honeycomb.io/blog/introducing-honeycomb-slackbot-beta"
+  },
+  {
     "title": "Create a Custom Service Health Board With the Honeycomb MCPThe best dashboard is one created just for your application, or your service, or your team. You can get that in minutes with the Honeycomb MCP.",
     "url": "https://www.honeycomb.io/blog/create-a-custom-service-health-board-honeycomb-mcp"
   },
@@ -70,13 +78,5 @@
   {
     "title": "AI-Powered Observability: From Reactive to PredictiveIf there’s one thing clear from our AI-powered observability webinar, it’s that observability has officially graduated from a “nice-to-have” to a business-critical discipline, and AI is helping lead that charge.",
     "url": "https://www.honeycomb.io/blog/ai-powered-observability-from-reactive-to-predictive"
-  },
-  {
-    "title": "AI Isn't Here to Replace Your Dashboard… YetNon-deterministic UIs are the future, but they’re not here yet. So until then, we’re stuck with conversational interfaces.",
-    "url": "https://www.honeycomb.io/blog/ai-isnt-here-to-replace-your-dashboard-yet"
-  },
-  {
-    "title": "Design as InfrastructureFor those not familiar with the term design system, at its core, it is a collection of reusable building blocks such as buttons, colors, text styles, icons. These blocks are also commonly referred to as components, which make everything look and feel cohesive, like it belongs to the same product.",
-    "url": "https://www.honeycomb.io/blog/design-as-infrastructure"
   }
 ]
