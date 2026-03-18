@@ -1,5 +1,9 @@
 [
   {
+    "title": "Production Is Where the Rigor GoesIn early February, Martin Fowler and the good folks at Thoughtworks sponsored a small, invite-only unconference in Deer Valley, Utah—birthplace of the Agile Manifesto—to talk about how software engineering is changing in the AI-native era. The longer I sit with this recap, the more troubled I am by what it doesn't say. I worry that the most respected minds in software are unintentionally replicating a serious blind spot that has haunted software engineering for decades: relegating production to the realm of bugs and incidents.",
+    "url": "https://www.honeycomb.io/blog/production-is-where-the-rigor-goes"
+  },
+  {
     "title": "Shifting Metrics RightThe idea behind shifting things to the left, meaning to move certain actions to the start of the process rather than the end or the middle, is around increasing development efficiency by reducing rework or changes. We remove waste from the process by getting it right the first time.",
     "url": "https://www.honeycomb.io/blog/shifting-metrics-right"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Why Does Observability Feel so Expensive? (Because it Is)In Charity's recent webinar with James Governor of RedMonk, she shared that most companies now spend somewhere between 20 and 25% of their entire infrastructure budget on their observability tools.",
     "url": "https://www.honeycomb.io/blog/why-does-observability-feel-so-expensive-because-it-is"
-  },
-  {
-    "title": "What Is Application Performance Monitoring?Application performance monitoring, also known as APM, represents the difference between code and running software. You need the measurements in order to manage performance.",
-    "url": "https://www.honeycomb.io/blog/what-is-application-performance-monitoring"
   }
 ]
