@@ -1,5 +1,9 @@
 [
   {
+    "title": "Leveraging Cognitive Diversity to Tackle System ComplexityWhen we compose teams or staff an incident review, we almost always use identity as a proxy for perspective. We include someone from platform, someone from the application layer, someone from the team that owns the affected service. We assume that different roles and tenures will produce different mental models of the problem, and sometimes that assumption holds. But research on how people actually build mental models of complex systems suggests it fails more often than we'd expect.",
+    "url": "https://www.honeycomb.io/blog/leveraging-cognitive-diversity-tackle-system-complexity"
+  },
+  {
     "title": "Production Is Where the Rigor GoesIn early February, Martin Fowler and the good folks at Thoughtworks sponsored a small, invite-only unconference in Deer Valley, Utah—birthplace of the Agile Manifesto—to talk about how software engineering is changing in the AI-native era. The longer I sit with this recap, the more troubled I am by what it doesn't say. I worry that the most respected minds in software are unintentionally replicating a serious blind spot that has haunted software engineering for decades: relegating production to the realm of bugs and incidents.",
     "url": "https://www.honeycomb.io/blog/production-is-where-the-rigor-goes"
   },
@@ -74,9 +78,5 @@
   {
     "title": "How Time Series Databases Work—and Where They Don’tIn my previous post, we explored why Honeycomb is implemented as a distributed column store. Just as interesting to consider, though, is why Honeycomb is not implemented in other ways. So in this post, we’re going to dive into the topic of time series databases (TSDBs) and why Honeycomb couldn’t be limited to a TSDB implementation.",
     "url": "https://www.honeycomb.io/blog/time-series-database"
-  },
-  {
-    "title": "Why Does Observability Feel so Expensive? (Because it Is)In Charity's recent webinar with James Governor of RedMonk, she shared that most companies now spend somewhere between 20 and 25% of their entire infrastructure budget on their observability tools.",
-    "url": "https://www.honeycomb.io/blog/why-does-observability-feel-so-expensive-because-it-is"
   }
 ]
