@@ -520,6 +520,10 @@
     "url": "https://www.mclaren.com/racing/partners/android/"
   },
   {
+    "title": " @media (max-width: 767px) { [data-image-id=\"_R_4tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_4tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_4tdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
+    "url": "https://www.mclaren.com/racing/partners/gemini/"
+  },
+  {
     "title": " @media (max-width: 767px) { [data-image-id=\"_R_6tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 768px) and (max-width: 1024px) { [data-image-id=\"_R_6tdhbsnnaivb_\"] { object-position: 50% 50%; } } @media (min-width: 1025px) { [data-image-id=\"_R_6tdhbsnnaivb_\"] { object-position: 50% 50%; } } ",
     "url": "https://www.mclaren.com/racing/partners/puma/"
   },
