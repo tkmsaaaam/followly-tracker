@@ -1,5 +1,9 @@
 [
   {
+    "title": "Accelerate Your OpenTelemetry Migrations With Honeycomb's Agent SkillsWith the release of our Agent Skills, we’ve used our domain knowledge to make your agents even more powerful. Instead of having to copy and paste blocks of markdown into Claude Code, we've distilled everything we know about using Honeycomb into a set of core skills, packaged it up, and are making it open source today!",
+    "url": "https://www.honeycomb.io/blog/accelerate-opentelemetry-migrations-honeycomb-agent-skills"
+  },
+  {
     "title": "Scary Things Happen in Production. Context Helps You Find Them.Your data doesn’t become linearly more powerful as you add more context, it becomes exponentially, combinatorially more powerful with each added attribute.",
     "url": "https://www.honeycomb.io/blog/scary-things-in-production-context-helps-find"
   },
@@ -74,9 +78,5 @@
   {
     "title": "“You Had One Job”: Why Twenty Years of DevOps Has Failed to Do itI think the entire DevOps movement was a mighty, twenty year battle to achieve one thing: a single feedback loop connecting devs with prod. On those grounds, it failed. ",
     "url": "https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it"
-  },
-  {
-    "title": "OpAMP Explained: Why OpenTelemetry Needed an Agent Management Protocol (and How We Use It)In this post, I’ll explain what OpAMP is and why OpenTelemetry created it, then dive into how we use it to power Honeycomb Telemetry Pipeline.",
-    "url": "https://www.honeycomb.io/blog/opamp-explained-why-opentelemetry-needed-agent-management-protocol"
   }
 ]
