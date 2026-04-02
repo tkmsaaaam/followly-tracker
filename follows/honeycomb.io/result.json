@@ -1,5 +1,9 @@
 [
   {
+    "title": "KubeCon + CloudNativeCon EU 2026: What We Learned About AI, Observability, and Fast Feedback LoopsHoneycomb's KubeCon + CloudNativeCon Europe recap: why observability and fast feedback loops are essential as AI reshapes how software is built and run.",
+    "url": "https://www.honeycomb.io/blog/kubecon-cloudnativecon-eu-2026"
+  },
+  {
     "title": "From Honeycomb Customer to Bee: An Observability Champion's JourneyIn early 2019, I was ramping up and wrapping my head around our areas of ownership, and that was also around the time when Liz Fong-Jones left Google and joined Honeycomb. Her arrival introduced me to the world of observability, which forever shifted my perspective on how my engineering colleagues and I could be empowered to deeply and collaboratively understand and manage the services and systems in our care.",
     "url": "https://www.honeycomb.io/blog/from-customer-to-bee-observability-champion-journey"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Measuring Claude Code ROI and Adoption in HoneycombClaude Code supports OpenTelemetry out of the box, which means sending telemetry to Honeycomb takes just a few minutes of configuration. In this post, I’ll walk you through exactly how I set this up for one of our monorepos and the insights we gained.",
     "url": "https://www.honeycomb.io/blog/measuring-claude-code-roi-adoption-honeycomb"
-  },
-  {
-    "title": "Observability with AI? Honeycomb with AI!Honeycomb exists to help people understand custom software. It doesn’t pretend to know what matters in your application. That’s an interpretive task, not programmatic.",
-    "url": "https://www.honeycomb.io/blog/observability-with-ai-honeycomb-with-ai"
   }
 ]
