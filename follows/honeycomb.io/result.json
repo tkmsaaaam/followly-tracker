@@ -1,5 +1,9 @@
 [
   {
+    "title": "Uncertainty and Change Are Everywhere in Software DevelopmentThe following is what I’ve come to as a set of theory and practice for adapting to what is, and continues to be, one of the most rapid changes to how work is done in arguably any career. It’s worth noting that none of this is predicated on whether you are an AI believer or a skeptic. Even if you believe that 90% of what people are claiming about AI is just hype, the remaining 10% still has the ability to radically change what it means to be a software developer.",
+    "url": "https://www.honeycomb.io/blog/uncertainty-and-change-are-everywhere-in-software-development"
+  },
+  {
     "title": "The Fundamentals: Fast, Deep, and Ready for What Comes Next - Part 3The previous posts in this series looked at some of the use cases Honeycomb customers are implementing to observe LLMs in production and power agentic observability workflows. In this final post, we’ll take it back to basics and look at how the fundamental capabilities and infrastructure of Honeycomb provide the comprehensive data and fast performance that makes these use cases work at scale.",
     "url": "https://www.honeycomb.io/blog/the-fundamentals-fast-deep-ready-what-comes-next-pt3"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Teaching AI How to RefineryWe released a new tool for our MCP server which helps your AIs understand Refinery, and how Honeycomb handles sampling. In this blog, I’ll walk you through the new feature and show how it can help you run Refinery.",
     "url": "https://www.honeycomb.io/blog/teaching-ai-how-to-refinery"
-  },
-  {
-    "title": "Honeycomb 10 Year Manifesto: Observability in a World of AI-Generated CodeWhen we left Facebook, we were determined to build a tool that would help solve the hardest problems in software. Not by copying everyone else’s architectural hand-me-downs and making incremental improvements, but by borrowing from powerful BI and product tools, and reasoning from first principles about what software engineers need to understand their code in production.",
-    "url": "https://www.honeycomb.io/blog/honeycomb-10-year-manifesto-part-1"
   }
 ]
