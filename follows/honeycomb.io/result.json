@@ -1,5 +1,9 @@
 [
   {
+    "title": "Managing OpenTelemetry Semantic Convention Migrations With the CollectorThis is what a semantic convention migration looks like in practice: not a clean cutover, but months of coexistence where old and new attribute names overlap. In this post, I'll explain why this happens, how the OpenTelemetry Collector's schema processor is designed to automate migrations in both directions, and what we're actively working on to get it into a state where everyone can use it.",
+    "url": "https://www.honeycomb.io/blog/managing-opentelemetry-semantic-convention-migrations-collector"
+  },
+  {
     "title": "Fast AI Feedback Loops with Honeycomb and OpenTelemetryObservability is the visibility you need to get the job done. Sending telemetry to Honeycomb explains what your agents are actually doing. OpenTelemetry provides semantic conventions for generative AI systems, a spec that defines how agents, LLMs, MCPs, and tools are properly observed. The primary telemetry is defined as trace spans and other events with specific naming patterns, mostly starting with gen_ai. ",
     "url": "https://www.honeycomb.io/blog/fast-ai-feedback-loops-honeycomb-opentelemetry"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Observability Where You Work: Introducing the Honeycomb Slackbot in BetaThe Honeycomb Slackbot is available now in beta for Enterprise customers. Reach out to your customer success team to learn more and get set up!",
     "url": "https://www.honeycomb.io/blog/introducing-honeycomb-slackbot-beta"
-  },
-  {
-    "title": "Create a Custom Service Health Board With the Honeycomb MCPThe best dashboard is one created just for your application, or your service, or your team. You can get that in minutes with the Honeycomb MCP.",
-    "url": "https://www.honeycomb.io/blog/create-a-custom-service-health-board-honeycomb-mcp"
   }
 ]
