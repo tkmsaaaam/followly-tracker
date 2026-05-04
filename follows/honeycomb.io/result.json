@@ -1,5 +1,9 @@
 [
   {
+    "title": "Taming Log Noise With the OpenTelemetry Collector's Drain ProcessorDo you receive 50 million log lines per day and struggle to see what actually matters? Health checks, heartbeat pings, connection pool messages—they all drown out the errors and anomalies you're trying to find. What if the Collector could figure out the patterns for you?",
+    "url": "https://www.honeycomb.io/blog/taming-log-noise-with-the-opentelemetry-collector-s-drain-processor"
+  },
+  {
     "title": "New in the Honeycomb Academy: Learn to Use the Honeycomb MCPThe new Honeycomb MCP course in the Honeycomb Academy gives you a starting point when you're not sure what to ask, and teaches you how to direct an investigation so you're getting evidence, not just answers.",
     "url": "https://www.honeycomb.io/blog/honeycomb-academy-learn-use-honeycomb-mcp"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Shifting Metrics RightThe idea behind shifting things to the left, meaning to move certain actions to the start of the process rather than the end or the middle, is around increasing development efficiency by reducing rework or changes. We remove waste from the process by getting it right the first time.",
     "url": "https://www.honeycomb.io/blog/shifting-metrics-right"
-  },
-  {
-    "title": "Evaluating Observability Tools for the AI EraThis guide gives you a more rigorous framework for evaluating observability tools in an era where your AI assistant depends on them as much as your engineers do. The criteria that matter most are not the ones that show up first in a sales cycle.",
-    "url": "https://www.honeycomb.io/blog/evaluating-observability-tools-for-the-ai-era"
   }
 ]
