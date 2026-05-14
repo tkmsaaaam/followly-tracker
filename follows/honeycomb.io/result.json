@@ -1,5 +1,9 @@
 [
   {
+    "title": "Honeycomb Achieves the AWS Financial Services CompetencyHoneycomb is proud to share that we have achieved the Amazon Web Services (AWS) Financial Services Competency.",
+    "url": "https://www.honeycomb.io/blog/honeycomb-achieves-aws-financial-services-competency"
+  },
+  {
     "title": "Innovation Week Day 2: Observability for AI, and Observability With AIAI is reshaping the SDLC in two directions at once. AI-generated code is shipping faster and with less human supervision than ever before, while agents and LLMs are running directly in production, where they behave very differently from traditional software: non-deterministic, with a wider blast radius than any single function or component, with no stack trace to catch when something goes wrong.",
     "url": "https://www.honeycomb.io/blog/innovation-week-day-2-observability-for-ai-observability-with-ai"
   },
@@ -74,9 +78,5 @@
   {
     "title": "From Honeycomb Customer to Bee: An Observability Champion's JourneyIn early 2019, I was ramping up and wrapping my head around our areas of ownership, and that was also around the time when Liz Fong-Jones left Google and joined Honeycomb. Her arrival introduced me to the world of observability, which forever shifted my perspective on how my engineering colleagues and I could be empowered to deeply and collaboratively understand and manage the services and systems in our care.",
     "url": "https://www.honeycomb.io/blog/from-customer-to-bee-observability-champion-journey"
-  },
-  {
-    "title": "Accelerate Your OpenTelemetry Migrations With Honeycomb's Agent SkillsWith the release of our Agent Skills, we’ve used our domain knowledge to make your agents even more powerful. Instead of having to copy and paste blocks of markdown into Claude Code, we've distilled everything we know about using Honeycomb into a set of core skills, packaged it up, and are making it open source today!",
-    "url": "https://www.honeycomb.io/blog/accelerate-opentelemetry-migrations-honeycomb-agent-skills"
   }
 ]
