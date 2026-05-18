@@ -1,5 +1,9 @@
 [
   {
+    "title": "How Honeycomb Is Embracing the Challenges of End-to-End Observability with EmbraceWhy hop between tools when you can have a single, unified view? By speaking the common language of OpenTelemetry, Honeycomb and Embrace are finally closing the gap between the frontend and the backend.",
+    "url": "https://www.honeycomb.io/blog/honeycomb-embracing-challenges-end-to-end-observability-embrace"
+  },
+  {
     "title": "Honeycomb Achieves the AWS Financial Services CompetencyHoneycomb is proud to share that we have achieved the Amazon Web Services (AWS) Financial Services Competency.",
     "url": "https://www.honeycomb.io/blog/honeycomb-achieves-aws-financial-services-competency"
   },
@@ -74,9 +78,5 @@
   {
     "title": "KubeCon + CloudNativeCon EU 2026: What We Learned About AI, Observability, and Fast Feedback LoopsHoneycomb's KubeCon + CloudNativeCon Europe recap: why observability and fast feedback loops are essential as AI reshapes how software is built and run.",
     "url": "https://www.honeycomb.io/blog/kubecon-cloudnativecon-eu-2026"
-  },
-  {
-    "title": "From Honeycomb Customer to Bee: An Observability Champion's JourneyIn early 2019, I was ramping up and wrapping my head around our areas of ownership, and that was also around the time when Liz Fong-Jones left Google and joined Honeycomb. Her arrival introduced me to the world of observability, which forever shifted my perspective on how my engineering colleagues and I could be empowered to deeply and collaboratively understand and manage the services and systems in our care.",
-    "url": "https://www.honeycomb.io/blog/from-customer-to-bee-observability-champion-journey"
   }
 ]
