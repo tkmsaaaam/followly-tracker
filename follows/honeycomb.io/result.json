@@ -1,5 +1,9 @@
 [
   {
+    "title": "Agent Timeline: The Flight Recorder for Your AI AgentsEvery LLM call, every tool invocation, every agent handoff, every downstream service span, in one conversation, in one view. Now in Early Access.",
+    "url": "https://www.honeycomb.io/blog/agent-timeline-flight-recorder-for-your-ai-agents"
+  },
+  {
     "title": "How Honeycomb Is Embracing the Challenges of End-to-End Observability with EmbraceWhy hop between tools when you can have a single, unified view? By speaking the common language of OpenTelemetry, Honeycomb and Embrace are finally closing the gap between the frontend and the backend.",
     "url": "https://www.honeycomb.io/blog/honeycomb-embracing-challenges-end-to-end-observability-embrace"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Honeycomb Is Built for the Agent Era. Here's the Proof - Part 1AI agents are rewriting how software is built and operated. In this series, you’ll learn about 12 use cases across LLM observability, agent debugging, MCP-powered coding agents, and automated AI investigations that prove Honeycomb is the observability platform built for what comes next.",
     "url": "https://www.honeycomb.io/blog/honeycomb-is-built-for-the-agent-era-pt1"
-  },
-  {
-    "title": "KubeCon + CloudNativeCon EU 2026: What We Learned About AI, Observability, and Fast Feedback LoopsHoneycomb's KubeCon + CloudNativeCon Europe recap: why observability and fast feedback loops are essential as AI reshapes how software is built and run.",
-    "url": "https://www.honeycomb.io/blog/kubecon-cloudnativecon-eu-2026"
   }
 ]
