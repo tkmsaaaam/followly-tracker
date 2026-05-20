@@ -1,5 +1,9 @@
 [
   {
+    "title": "Honeycomb Canvas: The Multiplayer Workspace for the Agentic EraAuto-investigations that start the moment a trigger fires. Custom skills that encode your team's runbooks. A live workspace where humans and agents investigate production together. Now available to all Honeycomb customers.",
+    "url": "https://www.honeycomb.io/blog/honeycomb-canvas-multiplayer-workspace-for-agentic-era"
+  },
+  {
     "title": "Agent Timeline: The Flight Recorder for Your AI AgentsEvery LLM call, every tool invocation, every agent handoff, every downstream service span, in one conversation, in one view. Now in Early Access.",
     "url": "https://www.honeycomb.io/blog/agent-timeline-flight-recorder-for-your-ai-agents"
   },
@@ -74,9 +78,5 @@
   {
     "title": "AI Working for You: MCP, Canvas, and Agentic Workflows - Part 2In our previous post, we looked at how Honeycomb provides unique visibility into LLMs operating in your production environment. Now, let’s explore how Honeycomb provides observability insights uniquely suited to helping your AI agents rapidly diagnose and fix production issues.",
     "url": "https://www.honeycomb.io/blog/ai-working-for-you-mcp-canvas-agentic-workflows-pt2"
-  },
-  {
-    "title": "Honeycomb Is Built for the Agent Era. Here's the Proof - Part 1AI agents are rewriting how software is built and operated. In this series, you’ll learn about 12 use cases across LLM observability, agent debugging, MCP-powered coding agents, and automated AI investigations that prove Honeycomb is the observability platform built for what comes next.",
-    "url": "https://www.honeycomb.io/blog/honeycomb-is-built-for-the-agent-era-pt1"
   }
 ]
