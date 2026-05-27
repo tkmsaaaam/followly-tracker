@@ -1,5 +1,9 @@
 [
   {
+    "title": "Everything We Talked About at O11yCon 2026We just wrapped O11yCon 2026, and this year's conversations hit differently. Agent-based software development is here, now. It's no longer an optional choice, and everybody is struggling to understand what their agents are doing and how to make them cost less and perform better. Over the course of fifteen talks, we saw clearly that the old assumptions on how and who (or what) writes our software has been upended. ",
+    "url": "https://www.honeycomb.io/blog/everything-we-talked-about-o11ycon-2026"
+  },
+  {
     "title": "Honeycomb Canvas: The Multiplayer Workspace for the Agentic EraAuto-investigations that start the moment a trigger fires. Custom skills that encode your team's runbooks. A live workspace where humans and agents investigate production together. Now available to all Honeycomb customers.",
     "url": "https://www.honeycomb.io/blog/honeycomb-canvas-multiplayer-workspace-for-agentic-era"
   },
@@ -74,9 +78,5 @@
   {
     "title": "The Fundamentals: Fast, Deep, and Ready for What Comes Next - Part 3The previous posts in this series looked at some of the use cases Honeycomb customers are implementing to observe LLMs in production and power agentic observability workflows. In this final post, we’ll take it back to basics and look at how the fundamental capabilities and infrastructure of Honeycomb provide the comprehensive data and fast performance that makes these use cases work at scale.",
     "url": "https://www.honeycomb.io/blog/the-fundamentals-fast-deep-ready-what-comes-next-pt3"
-  },
-  {
-    "title": "AI Working for You: MCP, Canvas, and Agentic Workflows - Part 2In our previous post, we looked at how Honeycomb provides unique visibility into LLMs operating in your production environment. Now, let’s explore how Honeycomb provides observability insights uniquely suited to helping your AI agents rapidly diagnose and fix production issues.",
-    "url": "https://www.honeycomb.io/blog/ai-working-for-you-mcp-canvas-agentic-workflows-pt2"
   }
 ]
