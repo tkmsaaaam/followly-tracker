@@ -1,6 +1,10 @@
 [
   {
-    "title": "Everything We Talked About at O11yCon 2026We just wrapped O11yCon 2026, and this year's conversations hit differently. Agent-based software development is here, now. It's no longer an optional choice, and everybody is struggling to understand what their agents are doing and how to make them cost less and perform better. Over the course of fifteen talks, we saw clearly that the old assumptions on how and who (or what) writes our software has been upended. ",
+    "title": "How Our Support Team Uses Honeycomb to Debug HoneycombOur support team leverages our own tools, Canvas and the Honeycomb MCP, to navigate vast and complex internal telemetry when debugging customer issues. This shift means we spend far less time on query mechanics and detective work, and customers get answers faster.",
+    "url": "https://www.honeycomb.io/blog/how-our-support-team-uses-honeycomb-debug-honeycomb"
+  },
+  {
+    "title": "Everything We Talked About at O11yCon 2026We just wrapped O11yCon 2026, and this year's conversations hit differently. Agent-based software development is here, now. It's no longer an optional choice, and everybody is struggling to understand what their agents are doing and how to make them cost less and perform better. Over the course of both days, we saw clearly that the old assumptions on how and who (or what) writes our software has been upended. ",
     "url": "https://www.honeycomb.io/blog/everything-we-talked-about-o11ycon-2026"
   },
   {
@@ -74,9 +78,5 @@
   {
     "title": "Uncertainty and Change Are Everywhere in Software DevelopmentThe following is what I’ve come to as a set of theory and practice for adapting to what is, and continues to be, one of the most rapid changes to how work is done in arguably any career. It’s worth noting that none of this is predicated on whether you are an AI believer or a skeptic. Even if you believe that 90% of what people are claiming about AI is just hype, the remaining 10% still has the ability to radically change what it means to be a software developer.",
     "url": "https://www.honeycomb.io/blog/uncertainty-and-change-are-everywhere-in-software-development"
-  },
-  {
-    "title": "The Fundamentals: Fast, Deep, and Ready for What Comes Next - Part 3The previous posts in this series looked at some of the use cases Honeycomb customers are implementing to observe LLMs in production and power agentic observability workflows. In this final post, we’ll take it back to basics and look at how the fundamental capabilities and infrastructure of Honeycomb provide the comprehensive data and fast performance that makes these use cases work at scale.",
-    "url": "https://www.honeycomb.io/blog/the-fundamentals-fast-deep-ready-what-comes-next-pt3"
   }
 ]
