@@ -1,6 +1,10 @@
 [
   {
-    "title": "How Our Support Team Uses Honeycomb to Debug HoneycombOur support team leverages our own tools, Canvas and the Honeycomb MCP, to navigate vast and complex internal telemetry when debugging customer issues. This shift means we spend far less time on query mechanics and detective work, and customers get answers faster.",
+    "title": "It Can Only Goodhart HappenIs the era of tokenmaxxing over before it even began? The rise of token leaderboards to the death of token leaderboards at companies like Amazon seem to have taken place in less than three months!",
+    "url": "https://www.honeycomb.io/blog/it-can-only-goodhart-happen"
+  },
+  {
+    "title": "How Support Uses Honeycomb to Debug HoneycombOur support team leverages our own tools, Canvas and the Honeycomb MCP, to navigate vast and complex internal telemetry when debugging customer issues. This shift means we spend far less time on query mechanics and detective work, and customers get answers faster.",
     "url": "https://www.honeycomb.io/blog/how-our-support-team-uses-honeycomb-debug-honeycomb"
   },
   {
@@ -74,9 +78,5 @@
   {
     "title": "Your Questions About AI Agents and Production Feedback AnsweredWe got a ton of great questions from attendees, and I didn't have time to answer all of them during the session. So, here are my answers to the ones I found most interesting, and most representative of what people are actually grappling with right now.",
     "url": "https://www.honeycomb.io/blog/your-questions-about-ai-agents-production-feedback-answered"
-  },
-  {
-    "title": "Uncertainty and Change Are Everywhere in Software DevelopmentThe following is what I’ve come to as a set of theory and practice for adapting to what is, and continues to be, one of the most rapid changes to how work is done in arguably any career. It’s worth noting that none of this is predicated on whether you are an AI believer or a skeptic. Even if you believe that 90% of what people are claiming about AI is just hype, the remaining 10% still has the ability to radically change what it means to be a software developer.",
-    "url": "https://www.honeycomb.io/blog/uncertainty-and-change-are-everywhere-in-software-development"
   }
 ]
