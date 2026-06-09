@@ -1,5 +1,9 @@
 [
   {
+    "title": "Running the OpenTelemetry Collector as a LambdaThe OpenTelemetry Collector is usually deployed as a long-running process, but when telemetry is rare, it makes sense to run it as a Lambda function instead. Here's how to do it.",
+    "url": "https://www.honeycomb.io/blog/running-opentelemetry-collector-lambda"
+  },
+  {
     "title": "It Can Only Goodhart HappenIs the era of tokenmaxxing over before it even began? The rise of token leaderboards to the death of token leaderboards at companies like Amazon seem to have taken place in less than three months!",
     "url": "https://www.honeycomb.io/blog/it-can-only-goodhart-happen"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Optimizing the OpenTelemetry Python SDK for LLM WorkloadsThe performance impact of instrumentation on running applications should be minimized wherever possible, and this is what led to the investigation described in this article.",
     "url": "https://www.honeycomb.io/blog/optimizing-opentelemetry-python-sdk-llm-workloads"
-  },
-  {
-    "title": "Your Questions About AI Agents and Production Feedback AnsweredWe got a ton of great questions from attendees, and I didn't have time to answer all of them during the session. So, here are my answers to the ones I found most interesting, and most representative of what people are actually grappling with right now.",
-    "url": "https://www.honeycomb.io/blog/your-questions-about-ai-agents-production-feedback-answered"
   }
 ]
