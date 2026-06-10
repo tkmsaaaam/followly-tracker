@@ -1,5 +1,9 @@
 [
   {
+    "title": "Graviton5 in Production at Honeycomb: Per-service Results From the m8g to m9g MigrationThis is the fourth installment in the Graviton retrospective series we've been writing since 2021. The methodology is the same one I always reach for: hold the workload constant, run both generations on the same Kubernetes namespace concurrently, and let the per-pod numbers speak.",
+    "url": "https://www.honeycomb.io/blog/graviton5-honeycomb-per-service-results-m8g-m9g-migration"
+  },
+  {
     "title": "Running the OpenTelemetry Collector as a LambdaThe OpenTelemetry Collector is usually deployed as a long-running process, but when telemetry is rare, it makes sense to run it as a Lambda function instead. Here's how to do it.",
     "url": "https://www.honeycomb.io/blog/running-opentelemetry-collector-lambda"
   },
@@ -74,9 +78,5 @@
   {
     "title": "ICYMI: Is This Code Worth Running? Here’s How to KnowOver the last three months, we’ve been exploring what about software development and observability changes with AI, and what doesn’t. Our conclusion: these five principles will still remain true, even when 90% of the code is AI-driven.",
     "url": "https://www.honeycomb.io/blog/icymi-is-this-code-worth-running-heres-how-know"
-  },
-  {
-    "title": "Optimizing the OpenTelemetry Python SDK for LLM WorkloadsThe performance impact of instrumentation on running applications should be minimized wherever possible, and this is what led to the investigation described in this article.",
-    "url": "https://www.honeycomb.io/blog/optimizing-opentelemetry-python-sdk-llm-workloads"
   }
 ]
