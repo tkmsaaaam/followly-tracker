@@ -1,5 +1,9 @@
 [
   {
+    "title": "Observability: Are You Measuring What Actually Matters?Old observability metrics like uptime and MTTR aren't enough anymore. Teams must connect technical signals to business outcomes, especially as AI raises the stakes.",
+    "url": "https://www.honeycomb.io/blog/observability-are-you-measuring-what-matters"
+  },
+  {
     "title": "Graviton5 in Production at Honeycomb: Per-service Results From the m8g to m9g MigrationThis is the fourth installment in the Graviton retrospective series we've been writing since 2021. The methodology is the same one I always reach for: hold the workload constant, run both generations on the same Kubernetes namespace concurrently, and let the per-pod numbers speak.",
     "url": "https://www.honeycomb.io/blog/graviton5-honeycomb-per-service-results-m8g-m9g-migration"
   },
@@ -74,9 +78,5 @@
   {
     "title": "You Don't Need Three Pillars, You Need Single ThreadsOne of the customers I’m currently working with is a large financial institution that has a robust three pillar implementation. Every critical application ships their telemetry to either or both their cloud-native tool and a central tool. This worked fine when they had relatively monolithic applications, but with their architecture moving towards a service-based one, it’s getting harder to manage.",
     "url": "https://www.honeycomb.io/blog/you-dont-need-three-pillars-you-need-single-threads"
-  },
-  {
-    "title": "ICYMI: Is This Code Worth Running? Here’s How to KnowOver the last three months, we’ve been exploring what about software development and observability changes with AI, and what doesn’t. Our conclusion: these five principles will still remain true, even when 90% of the code is AI-driven.",
-    "url": "https://www.honeycomb.io/blog/icymi-is-this-code-worth-running-heres-how-know"
   }
 ]
