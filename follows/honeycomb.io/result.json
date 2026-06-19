@@ -1,5 +1,9 @@
 [
   {
+    "title": "Honeycomb Incident Report: Kafka Maintenance on May 4 and 7, 2026On May 4th in the EU instance, and May 7th in the US instance, Honeycomb ran its only scheduled maintenance session with major planned downtime in the last five years. The maintenance aimed to replace the decade-old Kafka cluster at the core of event ingestion in all of Honeycomb with a newer, more reliable and scalable cluster. ",
+    "url": "https://www.honeycomb.io/blog/honeycomb-incident-report-kafka-maintenance-on-may-4-7-2026"
+  },
+  {
     "title": "Agent Timeline Is Now Generally AvailableHoneycomb’s Agent Timeline gives you a unified view of LLM behavior and multi-agent workflows, so you can investigate entire conversations and quickly see where prompts, tool calls, and failures happened, in the order they happened.",
     "url": "https://www.honeycomb.io/blog/agent-timeline-generally-available"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Approaching the ParhelionA parhelion is created when light refracts through hexagonal ice crystals in the atmosphere, forming bright spots that appear on the horizon, connected by a faint halo. You don’t have to squint very hard to appreciate how relevant this is to our current AI moment. ",
     "url": "https://www.honeycomb.io/blog/approaching-parhelion"
-  },
-  {
-    "title": "Managing OpenTelemetry Semantic Convention Migrations With the CollectorThis is what a semantic convention migration looks like in practice: not a clean cutover, but months of coexistence where old and new attribute names overlap. In this post, I'll explain why this happens, how the OpenTelemetry Collector's schema processor is designed to automate migrations in both directions, and what we're actively working on to get it into a state where everyone can use it.",
-    "url": "https://www.honeycomb.io/blog/managing-opentelemetry-semantic-convention-migrations-collector"
   }
 ]
