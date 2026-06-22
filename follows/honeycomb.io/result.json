@@ -68,15 +68,15 @@
     "url": "https://www.honeycomb.io/blog/span-or-attribute-opentelemetry-custom-instrumentation"
   },
   {
+    "title": "Top 7 Grafana Alternatives in 2026Exploring Grafana alternatives? Compare top observability platforms, including Honeycomb, Datadog, Dynatrace, and more, on features, pricing, and ease of use to find the right fit for your team.",
+    "url": "https://www.honeycomb.io/blog/grafana-alternatives"
+  },
+  {
     "title": "Taming Log Noise With the OpenTelemetry Collector's Drain ProcessorDo you receive 50 million log lines per day and struggle to see what actually matters? Health checks, heartbeat pings, connection pool messages—they all drown out the errors and anomalies you're trying to find. What if the Collector could figure out the patterns for you?",
     "url": "https://www.honeycomb.io/blog/taming-log-noise-with-the-opentelemetry-collector-s-drain-processor"
   },
   {
     "title": "New in the Honeycomb Academy: Learn to Use the Honeycomb MCPThe new Honeycomb MCP course in the Honeycomb Academy gives you a starting point when you're not sure what to ask, and teaches you how to direct an investigation so you're getting evidence, not just answers.",
     "url": "https://www.honeycomb.io/blog/honeycomb-academy-learn-use-honeycomb-mcp"
-  },
-  {
-    "title": "Approaching the ParhelionA parhelion is created when light refracts through hexagonal ice crystals in the atmosphere, forming bright spots that appear on the horizon, connected by a faint halo. You don’t have to squint very hard to appreciate how relevant this is to our current AI moment. ",
-    "url": "https://www.honeycomb.io/blog/approaching-parhelion"
   }
 ]
