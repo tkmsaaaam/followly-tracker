@@ -32,6 +32,10 @@
     "url": "https://www.honeycomb.io/blog/how-our-support-team-uses-honeycomb-debug-honeycomb"
   },
   {
+    "title": "Top 7 Dynatrace Alternatives in 2026Evaluating Dynatrace alternatives? Compare top observability platforms, including Honeycomb, Datadog, New Relic, Grafana, and more on features, pricing, and complexity to find the best fit for your team.",
+    "url": "https://www.honeycomb.io/blog/dynatrace-alternatives"
+  },
+  {
     "title": "Everything We Talked About at O11yCon 2026We just wrapped O11yCon 2026, and this year's conversations hit differently. Agent-based software development is here, now. It's no longer an optional choice, and everybody is struggling to understand what their agents are doing and how to make them cost less and perform better. Over the course of both days, we saw clearly that the old assumptions on how and who (or what) writes our software has been upended. ",
     "url": "https://www.honeycomb.io/blog/everything-we-talked-about-o11ycon-2026"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Taming Log Noise With the OpenTelemetry Collector's Drain ProcessorDo you receive 50 million log lines per day and struggle to see what actually matters? Health checks, heartbeat pings, connection pool messages—they all drown out the errors and anomalies you're trying to find. What if the Collector could figure out the patterns for you?",
     "url": "https://www.honeycomb.io/blog/taming-log-noise-with-the-opentelemetry-collector-s-drain-processor"
-  },
-  {
-    "title": "New in the Honeycomb Academy: Learn to Use the Honeycomb MCPThe new Honeycomb MCP course in the Honeycomb Academy gives you a starting point when you're not sure what to ask, and teaches you how to direct an investigation so you're getting evidence, not just answers.",
-    "url": "https://www.honeycomb.io/blog/honeycomb-academy-learn-use-honeycomb-mcp"
   }
 ]
