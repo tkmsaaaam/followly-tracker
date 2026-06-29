@@ -1,5 +1,9 @@
 [
   {
+    "title": "Instrumenting AI Agents for the Agent Timeline: A Practical OpenTelemetry GuideThe LLM is rarely the root cause of agent failures. This technical guide shows how to instrument AI agents using OpenTelemetry's GenAI semantic conventions so they appear in Honeycomb's Agent Timeline—including tool calls, multi-agent handoffs, and framework-specific SDKs—so you can debug what actually went wrong.",
+    "url": "https://www.honeycomb.io/blog/instrumenting-ai-agents-agent-timeline-opentelemetry-guide"
+  },
+  {
     "title": "Honeycomb Incident Report: Kafka Maintenance on May 4 and 7, 2026On May 4th in the EU instance, and May 7th in the US instance, Honeycomb ran its only scheduled maintenance session with major planned downtime in the last five years. The maintenance aimed to replace the decade-old Kafka cluster at the core of event ingestion in all of Honeycomb with a newer, more reliable and scalable cluster. ",
     "url": "https://www.honeycomb.io/blog/honeycomb-incident-report-kafka-maintenance-on-may-4-7-2026"
   },
@@ -24,7 +28,7 @@
     "url": "https://www.honeycomb.io/blog/running-opentelemetry-collector-lambda"
   },
   {
-    "title": "It Can Only Goodhart HappenIs the era of tokenmaxxing over before it even began? The rise of token leaderboards to the death of token leaderboards at companies like Amazon seem to have taken place in less than three months!",
+    "title": "It Can Only Goodhart HappenIs the era of tokenmaxxing over before it even began? The rise of token leaderboards and the death of token leaderboards at companies like Amazon seem to have taken place in less than three months!",
     "url": "https://www.honeycomb.io/blog/it-can-only-goodhart-happen"
   },
   {
@@ -74,9 +78,5 @@
   {
     "title": "Top 7 Grafana Alternatives in 2026Exploring Grafana alternatives? Compare top observability platforms, including Honeycomb, Datadog, Dynatrace, and more, on features, pricing, and ease of use to find the right fit for your team.",
     "url": "https://www.honeycomb.io/blog/grafana-alternatives"
-  },
-  {
-    "title": "Taming Log Noise With the OpenTelemetry Collector's Drain ProcessorDo you receive 50 million log lines per day and struggle to see what actually matters? Health checks, heartbeat pings, connection pool messages—they all drown out the errors and anomalies you're trying to find. What if the Collector could figure out the patterns for you?",
-    "url": "https://www.honeycomb.io/blog/taming-log-noise-with-the-opentelemetry-collector-s-drain-processor"
   }
 ]
