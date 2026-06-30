@@ -1,5 +1,9 @@
 [
   {
+    "title": "What Customers Are Doing With AI and HoneycombAt O11yCon, we talked to engineering teams across the industry, and the numbers are starting to get genuinely wild: Mixpanel DevOps Engineer Eddie Bracho told us their engineering team is generating 50% more PRs than before AI came into the mix (sorry).",
+    "url": "https://www.honeycomb.io/blog/what-customers-are-doing-ai-honeycomb"
+  },
+  {
     "title": "Instrumenting AI Agents for the Agent Timeline: A Practical OpenTelemetry GuideThe LLM is rarely the root cause of agent failures. This technical guide shows how to instrument AI agents using OpenTelemetry's GenAI semantic conventions so they appear in Honeycomb's Agent Timeline—including tool calls, multi-agent handoffs, and framework-specific SDKs—so you can debug what actually went wrong.",
     "url": "https://www.honeycomb.io/blog/instrumenting-ai-agents-agent-timeline-opentelemetry-guide"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Span or Attribute in OpenTelemetry Custom InstrumentationWhen you want to add some information to your tracing telemetry, you could emit a log, create a span, or add a piece of data to your current span. Adding a piece of data to your current span is the best! Usually.",
     "url": "https://www.honeycomb.io/blog/span-or-attribute-opentelemetry-custom-instrumentation"
-  },
-  {
-    "title": "Top 7 Grafana Alternatives in 2026Exploring Grafana alternatives? Compare top observability platforms, including Honeycomb, Datadog, Dynatrace, and more, on features, pricing, and ease of use to find the right fit for your team.",
-    "url": "https://www.honeycomb.io/blog/grafana-alternatives"
   }
 ]
