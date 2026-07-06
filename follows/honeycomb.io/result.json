@@ -1,5 +1,9 @@
 [
   {
+    "title": "From Prototype to Production With AWS AgentCoreCanvas runs on AWS Bedrock AgentCore. We picked AgentCore because it supports the ramp described in this post: it’s quick to get running, it’s modular, and it has production-grade underpinnings. But, like any platform, it has some traps to be aware of. In this post, we share some of the most important things we learned while building on AWS AgentCore.",
+    "url": "https://www.honeycomb.io/blog/prototype-production-aws-agentcore"
+  },
+  {
     "title": "Could vs. Should: The First Year Managing an SRE TeamA first-time engineering manager reflects on the first year leading Honeycomb's SRE team, from a chaotic first week through a year of lessons. Their advice for new managers: invest in relationships, seek feedback relentlessly, and never stop asking questions.",
     "url": "https://www.honeycomb.io/blog/could-should-first-year-managing-sre-team"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Innovation Week Day 1: The SDLC Is Collapsing, and Observability Has Never Mattered MoreDay 1 of Innovation Week was about how software gets validated, where observability fits, and the problems that have always been hard but are now genuinely urgent with AI part of the software development lifecycle.",
     "url": "https://www.honeycomb.io/blog/innovation-week-day-1-sdlc-is-collapsing"
-  },
-  {
-    "title": "Making Semantic Conventions Work for You With OpenTelemetry WeaverIn this post, I'll show how OpenTelemetry Weaver lets you define, layer, and validate semantic convention schemas so that both humans and agents have full context on every attribute in your telemetry.",
-    "url": "https://www.honeycomb.io/blog/making-semantic-conventions-work-opentelemetry-weaver"
   }
 ]
