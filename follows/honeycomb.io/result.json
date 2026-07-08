@@ -1,5 +1,9 @@
 [
   {
+    "title": "Multi-Agent Collaboration on a Shared CanvasThis is part 2 of a series on taking agentic applications from prototype to production with AWS AgentCore. Part 1 covers foundational design questions, like cardinality, session lifecycle, state management, and operational constraints. This post goes deeper on one of those topics: how we use the difference between an LLM session and an AgentCore Runtime session to build collaborative multi-agent investigations.",
+    "url": "https://www.honeycomb.io/blog/multi-agent-collaboration-on-shared-canvas"
+  },
+  {
     "title": "From Prototype to Production With AWS AgentCoreCanvas runs on AWS Bedrock AgentCore. We picked AgentCore because it supports the ramp described in this post: it’s quick to get running, it’s modular, and it has production-grade underpinnings. But, like any platform, it has some traps to be aware of. In this post, we share some of the most important things we learned while building on AWS AgentCore.",
     "url": "https://www.honeycomb.io/blog/prototype-production-aws-agentcore"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Innovation Week Day 2: Observability for AI, and Observability With AIAI is reshaping the SDLC in two directions at once. AI-generated code is shipping faster and with less human supervision than ever before, while agents and LLMs are running directly in production, where they behave very differently from traditional software: non-deterministic, with a wider blast radius than any single function or component, with no stack trace to catch when something goes wrong.",
     "url": "https://www.honeycomb.io/blog/innovation-week-day-2-observability-for-ai-observability-with-ai"
-  },
-  {
-    "title": "Innovation Week Day 1: The SDLC Is Collapsing, and Observability Has Never Mattered MoreDay 1 of Innovation Week was about how software gets validated, where observability fits, and the problems that have always been hard but are now genuinely urgent with AI part of the software development lifecycle.",
-    "url": "https://www.honeycomb.io/blog/innovation-week-day-1-sdlc-is-collapsing"
   }
 ]
