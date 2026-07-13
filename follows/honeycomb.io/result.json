@@ -1,5 +1,9 @@
 [
   {
+    "title": "Lattice Watch: Smarter Guardrails for Design System ObservabilityIn the past, I was part of a group of engineers responsible for doing random code reviews with an eye for design system adherence. The design system team had been tracking who used their system the most and invited those engineers to help them review PRs, with the hope that education would be the key to getting more product engineers to use the system. I wanted to create something like that here at Honeycomb for our design system, Lattice. ",
+    "url": "https://www.honeycomb.io/blog/lattice-watch-smarter-guardrails-design-system-observability"
+  },
+  {
     "title": "Multi-Agent Collaboration on a Shared CanvasThis is part 2 of a series on taking agentic applications from prototype to production with AWS AgentCore. Part 1 covers foundational design questions, like cardinality, session lifecycle, state management, and operational constraints. This post goes deeper on one of those topics: how we use the difference between an LLM session and an AgentCore Runtime session to build collaborative multi-agent investigations.",
     "url": "https://www.honeycomb.io/blog/multi-agent-collaboration-on-shared-canvas"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Honeycomb Achieves the AWS Financial Services CompetencyHoneycomb is proud to share that we have achieved the Amazon Web Services (AWS) Financial Services Competency.",
     "url": "https://www.honeycomb.io/blog/honeycomb-achieves-aws-financial-services-competency"
-  },
-  {
-    "title": "Innovation Week Day 2: Observability for AI, and Observability With AIAI is reshaping the SDLC in two directions at once. AI-generated code is shipping faster and with less human supervision than ever before, while agents and LLMs are running directly in production, where they behave very differently from traditional software: non-deterministic, with a wider blast radius than any single function or component, with no stack trace to catch when something goes wrong.",
-    "url": "https://www.honeycomb.io/blog/innovation-week-day-2-observability-for-ai-observability-with-ai"
   }
 ]
