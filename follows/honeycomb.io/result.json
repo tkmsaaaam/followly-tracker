@@ -1,5 +1,9 @@
 [
   {
+    "title": "Shipping Is Your Company's Heartbeat: A Letter from a CTOIn an open letter to engineering leaders everywhere, Fin CTO Darragh Curran explains that AI isn't a magic wand but rather an amplifier—of the good and the bad—of your engineering practices. And engineering rigor is more important than ever.",
+    "url": "https://www.honeycomb.io/blog/shipping-is-your-companys-heartbeat-letter-from-cto"
+  },
+  {
     "title": "Lattice Watch: Smarter Guardrails for Design System ObservabilityIn the past, I was part of a group of engineers responsible for doing random code reviews with an eye for design system adherence. The design system team had been tracking who used their system the most and invited those engineers to help them review PRs, with the hope that education would be the key to getting more product engineers to use the system. I wanted to create something like that here at Honeycomb for our design system, Lattice. ",
     "url": "https://www.honeycomb.io/blog/lattice-watch-smarter-guardrails-design-system-observability"
   },
@@ -74,9 +78,5 @@
   {
     "title": "How Honeycomb Is Embracing the Challenges of End-to-End Observability with EmbraceWhy hop between tools when you can have a single, unified view? By speaking the common language of OpenTelemetry, Honeycomb and Embrace are finally closing the gap between the frontend and the backend.",
     "url": "https://www.honeycomb.io/blog/honeycomb-embracing-challenges-end-to-end-observability-embrace"
-  },
-  {
-    "title": "Honeycomb Achieves the AWS Financial Services CompetencyHoneycomb is proud to share that we have achieved the Amazon Web Services (AWS) Financial Services Competency.",
-    "url": "https://www.honeycomb.io/blog/honeycomb-achieves-aws-financial-services-competency"
   }
 ]
