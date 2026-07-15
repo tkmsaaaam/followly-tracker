@@ -1,5 +1,9 @@
 [
   {
+    "title": "Transforming How We Run Kafka at HoneycombWe just completed a large-scale, multi-month Kafka migration project. We couldn't have done it without learning from past mistakes, prioritizing rollback safety, and building shared knowledge across the team through repeated migration practice.",
+    "url": "https://www.honeycomb.io/blog/transforming-how-we-run-kafka-honeycomb"
+  },
+  {
     "title": "Shipping Is Your Company's Heartbeat: A Letter from a CTOIn an open letter to engineering leaders everywhere, Fin CTO Darragh Curran explains that AI isn't a magic wand but rather an amplifier—of the good and the bad—of your engineering practices. And engineering rigor is more important than ever.",
     "url": "https://www.honeycomb.io/blog/shipping-is-your-companys-heartbeat-letter-from-cto"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Agent Timeline: The Flight Recorder for Your AI AgentsEvery LLM call, every tool invocation, every agent handoff, every downstream service span, in one conversation, in one view. Now in Early Access.",
     "url": "https://www.honeycomb.io/blog/agent-timeline-flight-recorder-for-your-ai-agents"
-  },
-  {
-    "title": "How Honeycomb Is Embracing the Challenges of End-to-End Observability with EmbraceWhy hop between tools when you can have a single, unified view? By speaking the common language of OpenTelemetry, Honeycomb and Embrace are finally closing the gap between the frontend and the backend.",
-    "url": "https://www.honeycomb.io/blog/honeycomb-embracing-challenges-end-to-end-observability-embrace"
   }
 ]
