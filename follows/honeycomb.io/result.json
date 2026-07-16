@@ -1,5 +1,13 @@
 [
   {
+    "title": "30 to 70 PRs a Day: How We Managed to Not Wreck Our SystemsThe Honeycomb engineering team set out to double our productivity in a year. This is how we did it, what we did to keep things stable, what it cost us, and what we’re still figuring out.",
+    "url": "https://www.honeycomb.io/blog/30-70-prs-day-how-we-managed-not-wreck-systems"
+  },
+  {
+    "title": "AI Amplifies Your Existing Practices: Lessons from Our Shift to an AI-First StrategyThe Honeycomb engineering team set out to double our productivity in a year. Our most important takeaway? Nothing anyone tells you about AI will land if your starting substrate is unhealthy.",
+    "url": "https://www.honeycomb.io/blog/ai-amplifies-existing-practices-lessons-ai-first-strategy"
+  },
+  {
     "title": "Transforming How We Run Kafka at HoneycombWe just completed a large-scale, multi-month Kafka migration project. We couldn't have done it without learning from past mistakes, prioritizing rollback safety, and building shared knowledge across the team through repeated migration practice.",
     "url": "https://www.honeycomb.io/blog/transforming-how-we-run-kafka-honeycomb"
   },
@@ -70,13 +78,5 @@
   {
     "title": "Everything We Talked About at O11yCon 2026We just wrapped O11yCon 2026, and this year's conversations hit differently. Agent-based software development is here, now. It's no longer an optional choice, and everybody is struggling to understand what their agents are doing and how to make them cost less and perform better. Over the course of both days, we saw clearly that the old assumptions on how and who (or what) writes our software has been upended. ",
     "url": "https://www.honeycomb.io/blog/everything-we-talked-about-o11ycon-2026"
-  },
-  {
-    "title": "Honeycomb Canvas: The Multiplayer Workspace for the Agentic EraAuto-investigations that start the moment a trigger fires. Custom skills that encode your team's runbooks. A live workspace where humans and agents investigate production together. Now available to all Honeycomb customers.",
-    "url": "https://www.honeycomb.io/blog/honeycomb-canvas-multiplayer-workspace-for-agentic-era"
-  },
-  {
-    "title": "Agent Timeline: The Flight Recorder for Your AI AgentsEvery LLM call, every tool invocation, every agent handoff, every downstream service span, in one conversation, in one view. Now in Early Access.",
-    "url": "https://www.honeycomb.io/blog/agent-timeline-flight-recorder-for-your-ai-agents"
   }
 ]
