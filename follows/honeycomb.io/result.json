@@ -1,10 +1,14 @@
 [
   {
+    "title": "What Comes After Observability?A year ago, I predicted ways in which AI was about to fundamentally change observability as we knew it. Here's what we've seen happen since—both at Honeycomb and with our customers—and what we're building for the future.",
+    "url": "https://www.honeycomb.io/blog/what-comes-after-observability"
+  },
+  {
     "title": "30 to 70 PRs a Day: How We Managed to Not Wreck Our SystemsThe Honeycomb engineering team set out to double our productivity in a year. This is how we did it, what we did to keep things stable, what it cost us, and what we’re still figuring out.",
     "url": "https://www.honeycomb.io/blog/30-70-prs-day-how-we-managed-not-wreck-systems"
   },
   {
-    "title": "AI Amplifies Your Existing Practices: Lessons from Our Shift to an AI-First StrategyThe Honeycomb engineering team set out to double our productivity in a year. Our most important takeaway? Nothing anyone tells you about AI will land if your starting substrate is unhealthy.",
+    "title": "AI Amplifies Your Existing Practices: Lessons from Our Shift to an AI-First StrategyAs the Honeycomb engineering team worked to double our productivity, we learned a lot. The most important takeaway? Nothing anyone tells you about AI will land if your starting substrate is unhealthy.",
     "url": "https://www.honeycomb.io/blog/ai-amplifies-existing-practices-lessons-ai-first-strategy"
   },
   {
@@ -74,9 +78,5 @@
   {
     "title": "Top 7 Dynatrace Alternatives in 2026Evaluating Dynatrace alternatives? Compare top observability platforms, including Honeycomb, Datadog, New Relic, Grafana, and more on features, pricing, and complexity to find the best fit for your team.",
     "url": "https://www.honeycomb.io/blog/dynatrace-alternatives"
-  },
-  {
-    "title": "Everything We Talked About at O11yCon 2026We just wrapped O11yCon 2026, and this year's conversations hit differently. Agent-based software development is here, now. It's no longer an optional choice, and everybody is struggling to understand what their agents are doing and how to make them cost less and perform better. Over the course of both days, we saw clearly that the old assumptions on how and who (or what) writes our software has been upended. ",
-    "url": "https://www.honeycomb.io/blog/everything-we-talked-about-o11ycon-2026"
   }
 ]
