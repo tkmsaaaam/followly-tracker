@@ -1,5 +1,9 @@
 [
   {
+    "title": "Embracing the Code Review BottleneckFaced with an endless stream of AI-generated code reviews, our team made the counterintuitive choice to lean into the bottleneck rather than reduce it. Surprisingly, velocity held up, knowledge sharing improved, and we developed a collective system ownership that stuck.",
+    "url": "https://www.honeycomb.io/blog/embracing-code-review-bottleneck"
+  },
+  {
     "title": "What Comes After Observability?A year ago, I predicted ways in which AI was about to fundamentally change observability as we knew it. Here's what we've seen happen since—both at Honeycomb and with our customers—and what we're building for the future.",
     "url": "https://www.honeycomb.io/blog/what-comes-after-observability"
   },
@@ -74,9 +78,5 @@
   {
     "title": "How Support Uses Honeycomb to Debug HoneycombOur support team leverages our own tools, Canvas and the Honeycomb MCP, to navigate vast and complex internal telemetry when debugging customer issues. This shift means we spend far less time on query mechanics and detective work, and customers get answers faster.",
     "url": "https://www.honeycomb.io/blog/how-our-support-team-uses-honeycomb-debug-honeycomb"
-  },
-  {
-    "title": "Top 7 Dynatrace Alternatives in 2026Evaluating Dynatrace alternatives? Compare top observability platforms, including Honeycomb, Datadog, New Relic, Grafana, and more on features, pricing, and complexity to find the best fit for your team.",
-    "url": "https://www.honeycomb.io/blog/dynatrace-alternatives"
   }
 ]
