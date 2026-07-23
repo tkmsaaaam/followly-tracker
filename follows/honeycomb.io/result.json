@@ -28,6 +28,10 @@
     "url": "https://www.honeycomb.io/blog/lattice-watch-smarter-guardrails-design-system-observability"
   },
   {
+    "title": "15 Best AI Observability Tools for Production Teams in 2026Compare the best AI observability tools for tracing, evals, token cost tracking, agent workflows, and production reliability in 2026.",
+    "url": "https://www.honeycomb.io/blog/best-ai-observability-tools"
+  },
+  {
     "title": "Multi-Agent Collaboration on a Shared CanvasThis is part 2 of a series on taking agentic applications from prototype to production with AWS AgentCore. Part 1 covers foundational design questions, like cardinality, session lifecycle, state management, and operational constraints. This post goes deeper on one of those topics: how we use the difference between an LLM session and an AgentCore Runtime session to build collaborative multi-agent investigations.",
     "url": "https://www.honeycomb.io/blog/multi-agent-collaboration-on-shared-canvas"
   },
@@ -74,9 +78,5 @@
   {
     "title": "It Can Only Goodhart HappenIs the era of tokenmaxxing over before it even began? The rise of token leaderboards and the death of token leaderboards at companies like Amazon seem to have taken place in less than three months!",
     "url": "https://www.honeycomb.io/blog/it-can-only-goodhart-happen"
-  },
-  {
-    "title": "How Support Uses Honeycomb to Debug HoneycombOur support team leverages our own tools, Canvas and the Honeycomb MCP, to navigate vast and complex internal telemetry when debugging customer issues. This shift means we spend far less time on query mechanics and detective work, and customers get answers faster.",
-    "url": "https://www.honeycomb.io/blog/how-our-support-team-uses-honeycomb-debug-honeycomb"
   }
 ]
