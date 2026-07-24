@@ -32,6 +32,10 @@
     "url": "https://www.honeycomb.io/blog/best-ai-observability-tools"
   },
   {
+    "title": "Observability vs. Monitoring for AI SystemsMonitoring catches the failures you predicted. AI systems fail in ways you didn't. This post breaks down why AI workloads demand observability—request-level context, distributed tracing, and learning from production—rather than another wall of dashboards.",
+    "url": "https://www.honeycomb.io/blog/observability-vs-monitoring-for-ai-systems"
+  },
+  {
     "title": "Multi-Agent Collaboration on a Shared CanvasThis is part 2 of a series on taking agentic applications from prototype to production with AWS AgentCore. Part 1 covers foundational design questions, like cardinality, session lifecycle, state management, and operational constraints. This post goes deeper on one of those topics: how we use the difference between an LLM session and an AgentCore Runtime session to build collaborative multi-agent investigations.",
     "url": "https://www.honeycomb.io/blog/multi-agent-collaboration-on-shared-canvas"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Running the OpenTelemetry Collector as a LambdaThe OpenTelemetry Collector is usually deployed as a long-running process, but when telemetry is rare, it makes sense to run it as a Lambda function instead. Here's how to do it.",
     "url": "https://www.honeycomb.io/blog/running-opentelemetry-collector-lambda"
-  },
-  {
-    "title": "It Can Only Goodhart HappenIs the era of tokenmaxxing over before it even began? The rise of token leaderboards and the death of token leaderboards at companies like Amazon seem to have taken place in less than three months!",
-    "url": "https://www.honeycomb.io/blog/it-can-only-goodhart-happen"
   }
 ]
