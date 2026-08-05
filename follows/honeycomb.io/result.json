@@ -1,5 +1,9 @@
 [
   {
+    "title": "Introducing AI BubbleUpEvery BubbleUp query now surfaces significant correlations based on relevance, not just statistical analysis. Available today to all Honeycomb customers who have enabled Honeycomb Intelligence.",
+    "url": "https://www.honeycomb.io/blog/introducing-ai-bubbleup"
+  },
+  {
     "title": "AMA Recap: More Answers From the Observability Engineering AuthorsWe couldn't get through every question during our live AMA with the authors of Observability Engineering, so Charity, Liz, George, and Austin stuck around to answer more on AI, telemetry, and what still needs a human in the loop.",
     "url": "https://www.honeycomb.io/blog/ama-recap-observability-engineering-authors-more-answers"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Agent Timeline Is Now Generally AvailableHoneycomb’s Agent Timeline gives you a unified view of LLM behavior and multi-agent workflows, so you can investigate entire conversations and quickly see where prompts, tool calls, and failures happened, in the order they happened.",
     "url": "https://www.honeycomb.io/blog/agent-timeline-generally-available"
-  },
-  {
-    "title": "The Second Edition of Observability Engineering Is HereThe second edition of Observability Engineering is available for download on our website.",
-    "url": "https://www.honeycomb.io/blog/the-second-edition-is-here"
   }
 ]
