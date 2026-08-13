@@ -36,10 +36,6 @@
     "url": "https://www.pref.saitama.lg.jp/documents/248557/03_6-2sekinebiru_souonsiryou.pdf"
   },
   {
-    "title": "草加市意見（PDF：104KB）",
-    "url": "https://www.pref.saitama.lg.jp/documents/248557/8-1sekinebiru.pdf"
-  },
-  {
     "title": "届出書等（PDF：3,467KB）",
     "url": "https://www.pref.saitama.lg.jp/documents/248557/01_6-2denkichikawajimaten_todokedesho.pdf"
   },
@@ -124,6 +120,10 @@
     "url": "https://www.pref.saitama.lg.jp/documents/248557/03_6-2itoyokadokukiten_souonsiryou.pdf"
   },
   {
+    "title": "久喜市意見（PDF：84KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/8-1itoyokadokukiten.pdf"
+  },
+  {
     "title": "届出書等（PDF：4,161KB）",
     "url": "https://www.pref.saitama.lg.jp/documents/248557/01_6-2bannersbill_todokedesho.pdf"
   },
@@ -150,5 +150,13 @@
   {
     "title": "図面（PDF：3,895KB）",
     "url": "https://www.pref.saitama.lg.jp/documents/248557/02_6-2yoshikawaekimaeshoppingplaza_zumen.pdf"
+  },
+  {
+    "title": "届出書等（PDF：1,629KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/01_6-2beisiamallnamegawa_todokedesho.pdf"
+  },
+  {
+    "title": "図面（PDF：2,104KB）",
+    "url": "https://www.pref.saitama.lg.jp/documents/248557/02_6-2beisiamallnamegawa_zumen.pdf"
   }
 ]
