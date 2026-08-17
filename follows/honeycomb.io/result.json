@@ -1,5 +1,9 @@
 [
   {
+    "title": "How I Support Humans in the AI EraA remote engineering manager on why she didn't write a new AI policy for her team. Instead, she created space: for connection, for collaboration, and for discussion.",
+    "url": "https://www.honeycomb.io/blog/how-i-support-humans-in-the-ai-era"
+  },
+  {
     "title": "AI Model Drift: How to Keep Models ReliableLearn what AI model drift is, why it happens, and how production teams detect changes in model quality, inputs, prompts, and behavior.",
     "url": "https://www.honeycomb.io/blog/ai-model-drift"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Instrumenting AI Agents for the Agent Timeline: A Practical OpenTelemetry GuideThe LLM is rarely the root cause of agent failures. This technical guide shows how to instrument AI agents using OpenTelemetry's GenAI semantic conventions so they appear in Honeycomb's Agent Timeline—including tool calls, multi-agent handoffs, and framework-specific SDKs—so you can debug what actually went wrong.",
     "url": "https://www.honeycomb.io/blog/instrumenting-ai-agents-agent-timeline-opentelemetry-guide"
-  },
-  {
-    "title": "Honeycomb Incident Report: Kafka Maintenance on May 4 and 7, 2026On May 4th in the EU instance, and May 7th in the US instance, Honeycomb ran its only scheduled maintenance session with major planned downtime in the last five years. The maintenance aimed to replace the decade-old Kafka cluster at the core of event ingestion in all of Honeycomb with a newer, more reliable and scalable cluster. ",
-    "url": "https://www.honeycomb.io/blog/honeycomb-incident-report-kafka-maintenance-on-may-4-7-2026"
   }
 ]
