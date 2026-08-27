@@ -1,5 +1,9 @@
 [
   {
+    "title": "7 Best Datadog Alternatives for AI and Agent ObservabilityComparing Datadog alternatives for AI and agent observability? See how Honeycomb, New Relic, Dynatrace, Grafana Cloud, Phoenix, Langfuse, and SigNoz stack up on cost, investigation, and OpenTelemetry support.",
+    "url": "https://www.honeycomb.io/blog/datadog-alternatives"
+  },
+  {
     "title": "AI Norms \u0026 Values, Part 1 of 3: How We Do Business at HoneycombIt's been a year since Honeycomb issued its AI mandate. Charity reflects on what that produced, why AI isn't special (it just amplifies what's already there), and shares the first of three new documents on Honeycomb's AI norms and values: how we do business.",
     "url": "https://www.honeycomb.io/blog/ai-norms-values-part-1-how-we-do-business-at-honeycomb"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Could vs. Should: The First Year Managing an SRE TeamA first-time engineering manager reflects on the first year leading Honeycomb's SRE team, from a chaotic first week through a year of lessons. Their advice for new managers: invest in relationships, seek feedback relentlessly, and never stop asking questions.",
     "url": "https://www.honeycomb.io/blog/could-should-first-year-managing-sre-team"
-  },
-  {
-    "title": "What Customers Are Doing With AI and HoneycombAt O11yCon, we talked to engineering teams across the industry, and the numbers are starting to get genuinely wild: Mixpanel DevOps Engineer Eddie Bracho told us their engineering team is generating 50% more PRs than before AI came into the mix (sorry).",
-    "url": "https://www.honeycomb.io/blog/what-customers-are-doing-ai-honeycomb"
   }
 ]
