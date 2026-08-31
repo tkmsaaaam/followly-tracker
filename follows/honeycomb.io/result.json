@@ -1,5 +1,9 @@
 [
   {
+    "title": "Fin's CTO on Building Great Engineering Organizations in the AI EraFin (formerly Intercom) CTO Darragh Curran set a public goal to double engineering productivity—and nearly tripled it. In the first episode of Leading With Observability, he talks with Charity Majors about AI-driven PR review, hands-on leadership through the transition, and why observability is the trust mechanism that makes it all work.",
+    "url": "https://www.honeycomb.io/blog/fin-cto-building-great-engineering-organizations-ai-era"
+  },
+  {
     "title": "7 Best Datadog Alternatives for AI and Agent ObservabilityComparing Datadog alternatives for AI and agent observability? See how Honeycomb, New Relic, Dynatrace, Grafana Cloud, Phoenix, Langfuse, and SigNoz stack up on cost, investigation, and OpenTelemetry support.",
     "url": "https://www.honeycomb.io/blog/datadog-alternatives"
   },
@@ -74,9 +78,5 @@
   {
     "title": "From Prototype to Production With AWS AgentCoreCanvas runs on AWS Bedrock AgentCore. We picked AgentCore because it supports the ramp described in this post: it’s quick to get running, it’s modular, and it has production-grade underpinnings. But, like any platform, it has some traps to be aware of. In this post, we share some of the most important things we learned while building on AWS AgentCore.",
     "url": "https://www.honeycomb.io/blog/prototype-production-aws-agentcore"
-  },
-  {
-    "title": "Could vs. Should: The First Year Managing an SRE TeamA first-time engineering manager reflects on the first year leading Honeycomb's SRE team, from a chaotic first week through a year of lessons. Their advice for new managers: invest in relationships, seek feedback relentlessly, and never stop asking questions.",
-    "url": "https://www.honeycomb.io/blog/could-should-first-year-managing-sre-team"
   }
 ]
