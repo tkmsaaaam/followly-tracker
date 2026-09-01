@@ -1,5 +1,9 @@
 [
   {
+    "title": "Bringing the Most Advanced Sampling to the OpenTelemetry CollectorHoneycomb is donating its adaptive tail sampling processor, built on years of Refinery experience, to the OpenTelemetry Collector. See how adaptive sampling, trace fingerprinting, and sample rate attribution work, and how to try it today with the Honeycomb Collector Distribution.",
+    "url": "https://www.honeycomb.io/blog/bringing-most-advanced-sampling-opentelemetry-collector"
+  },
+  {
     "title": "Fin's CTO on Building Great Engineering Organizations in the AI EraFin (formerly Intercom) CTO Darragh Curran set a public goal to double engineering productivity—and nearly tripled it. In the first episode of Leading With Observability, he talks with Charity Majors about AI-driven PR review, hands-on leadership through the transition, and why observability is the trust mechanism that makes it all work.",
     "url": "https://www.honeycomb.io/blog/fin-cto-building-great-engineering-organizations-ai-era"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Multi-Agent Collaboration on a Shared CanvasThis is part 2 of a series on taking agentic applications from prototype to production with AWS AgentCore. Part 1 covers foundational design questions, like cardinality, session lifecycle, state management, and operational constraints. This post goes deeper on one of those topics: how we use the difference between an LLM session and an AgentCore Runtime session to build collaborative multi-agent investigations.",
     "url": "https://www.honeycomb.io/blog/multi-agent-collaboration-on-shared-canvas"
-  },
-  {
-    "title": "From Prototype to Production With AWS AgentCoreCanvas runs on AWS Bedrock AgentCore. We picked AgentCore because it supports the ramp described in this post: it’s quick to get running, it’s modular, and it has production-grade underpinnings. But, like any platform, it has some traps to be aware of. In this post, we share some of the most important things we learned while building on AWS AgentCore.",
-    "url": "https://www.honeycomb.io/blog/prototype-production-aws-agentcore"
   }
 ]
