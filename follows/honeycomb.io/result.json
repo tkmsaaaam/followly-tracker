@@ -1,5 +1,9 @@
 [
   {
+    "title": "AI Norms \u0026 Values, Part 2 of 3: AI for Honeycomb EngineeringCharity Majors shares a note from Emily Nakashima, SVP of Engineering, on why Honeycomb's engineering org is going all in on AI, the north star it's aiming for, and an honest FAQ about what that means day to day.",
+    "url": "https://www.honeycomb.io/blog/ai-norms-values-part-2-ai-honeycomb-engineering"
+  },
+  {
     "title": "Bringing the Most Advanced Sampling to the OpenTelemetry CollectorHoneycomb is donating its adaptive tail sampling processor, built on years of Refinery experience, to the OpenTelemetry Collector. See how adaptive sampling, trace fingerprinting, and sample rate attribution work, and how to try it today with the Honeycomb Collector Distribution.",
     "url": "https://www.honeycomb.io/blog/bringing-most-advanced-sampling-opentelemetry-collector"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Observability vs. Monitoring for AI SystemsMonitoring catches the failures you predicted. AI systems fail in ways you didn't. This post breaks down why AI workloads demand observability—request-level context, distributed tracing, and learning from production—rather than another wall of dashboards.",
     "url": "https://www.honeycomb.io/blog/observability-vs-monitoring-for-ai-systems"
-  },
-  {
-    "title": "Multi-Agent Collaboration on a Shared CanvasThis is part 2 of a series on taking agentic applications from prototype to production with AWS AgentCore. Part 1 covers foundational design questions, like cardinality, session lifecycle, state management, and operational constraints. This post goes deeper on one of those topics: how we use the difference between an LLM session and an AgentCore Runtime session to build collaborative multi-agent investigations.",
-    "url": "https://www.honeycomb.io/blog/multi-agent-collaboration-on-shared-canvas"
   }
 ]
