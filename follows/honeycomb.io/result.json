@@ -1,5 +1,9 @@
 [
   {
+    "title": "Relational Query SuperpowersSee how Honeycomb's relational query keywords—root, parent, child, any, any2, any3, and none—let you pull attributes from anywhere in a single trace into one query, walked through with a real checkout-error investigation.",
+    "url": "https://www.honeycomb.io/blog/relational-query-superpowers"
+  },
+  {
     "title": "AI Norms \u0026 Values, Part 2 of 3: AI for Honeycomb EngineeringCharity Majors shares a note from Emily Nakashima, SVP of Engineering, on why Honeycomb's engineering org is going all in on AI, the north star it's aiming for, and an honest FAQ about what that means day to day.",
     "url": "https://www.honeycomb.io/blog/ai-norms-values-part-2-ai-honeycomb-engineering"
   },
@@ -74,9 +78,5 @@
   {
     "title": "15 Best AI Observability Tools for Production Teams in 2026Compare the best AI observability tools for tracing, evals, token cost tracking, agent workflows, and production reliability in 2026.",
     "url": "https://www.honeycomb.io/blog/best-ai-observability-tools"
-  },
-  {
-    "title": "Observability vs. Monitoring for AI SystemsMonitoring catches the failures you predicted. AI systems fail in ways you didn't. This post breaks down why AI workloads demand observability—request-level context, distributed tracing, and learning from production—rather than another wall of dashboards.",
-    "url": "https://www.honeycomb.io/blog/observability-vs-monitoring-for-ai-systems"
   }
 ]
