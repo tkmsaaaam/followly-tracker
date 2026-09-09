@@ -1,5 +1,9 @@
 [
   {
+    "title": "AI Norms \u0026 Values, Part 3 of 3: Things We Hold TrueThe final part of Honeycomb's AI Norms \u0026 Values series: the principles the company holds true about AI as a tool, ownership of work, and rising standards; how it actually uses AI day to day; usage patterns for respecting each other's time; and where it stands on AI's ethical externalities like energy use, IP, bias, and wages.",
+    "url": "https://www.honeycomb.io/blog/ai-norms-values-part-3-things-we-hold-true"
+  },
+  {
     "title": "Wide Events vs. Three Pillars: AI Observability CostsAI agents make telemetry costs harder to predict. This post compares the three pillars against the wide event model, and explains why wide events keep AI observability costs predictable without sacrificing the context engineers need.",
     "url": "https://www.honeycomb.io/blog/wide-events-vs-three-pillars-ai-observability-costs"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Shipping Is Your Company's Heartbeat: A Letter from a CTOIn an open letter to engineering leaders everywhere, Fin CTO Darragh Curran explains that AI isn't a magic wand but rather an amplifier—of the good and the bad—of your engineering practices. And engineering rigor is more important than ever.",
     "url": "https://www.honeycomb.io/blog/shipping-is-your-companys-heartbeat-letter-from-cto"
-  },
-  {
-    "title": "Lattice Watch: Smarter Guardrails for Design System ObservabilityIn the past, I was part of a group of engineers responsible for doing random code reviews with an eye for design system adherence. The design system team had been tracking who used their system the most and invited those engineers to help them review PRs, with the hope that education would be the key to getting more product engineers to use the system. I wanted to create something like that here at Honeycomb for our design system, Lattice. ",
-    "url": "https://www.honeycomb.io/blog/lattice-watch-smarter-guardrails-design-system-observability"
   }
 ]
