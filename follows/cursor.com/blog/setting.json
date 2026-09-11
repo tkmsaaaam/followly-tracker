@@ -1,0 +1,4 @@
+{
+  "url": "https://cursor.com/blog",
+  "selector": "div.blog-directory__item a.blog-directory__row"
+}
