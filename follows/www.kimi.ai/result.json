@@ -1,130 +1,58 @@
 [
   {
-    "title": "KimiオールインワンのエージェンティックAIワークスペース",
+    "title": "Kimi",
     "url": "https://www.kimi.ai/ja"
   },
   {
-    "title": "Kimi Workナレッジワーカー向けAIデスクトップAgent",
+    "title": "Kimi Work",
     "url": "https://www.kimi.ai/ja/products/kimi-work"
   },
   {
-    "title": "Kimi CodeターミナルおよびIDE向けAIコードAgent",
+    "title": "Kimi Code",
     "url": "https://www.kimi.ai/code/ja"
   },
   {
-    "title": "Kimi Browser ExtensionAI Agent向けブラウザ拡張機能",
+    "title": "Kimi Browser Extension",
     "url": "https://www.kimi.ai/ja/products/kimi-webbridge"
   },
   {
-    "title": "Kimi プラットフォーム最新のKimiモデルにアクセス",
-    "url": "https://platform.kimi.ai/"
+    "title": "Kimi プラットフォーム",
+    "url": "https://platform.kimi.ai/?from=header_nav"
   },
   {
-    "title": "スライドAIプレゼンテーションメーカー",
-    "url": "https://www.kimi.ai/ja/features/slides"
+    "title": "ダウンロード",
+    "url": "https://www.kimi.ai/ja/products/download"
+  },
+  {
+    "title": "製品一覧→",
+    "url": "https://www.kimi.ai/ja/products/"
   },
   {
     "title": "ウェブサイトAIウェブサイトビルダー",
     "url": "https://www.kimi.ai/ja/features/websites"
   },
   {
-    "title": "Deep Research徹底的で複数形式のレポートを入手",
-    "url": "https://www.kimi.ai/ja/features/deep-research"
+    "title": "スライドAIプレゼンテーションメーカー",
+    "url": "https://www.kimi.ai/ja/features/slides"
   },
   {
-    "title": "シートExcelの数式、ピボット、グラフを作成",
-    "url": "https://www.kimi.ai/ja/features/sheets"
-  },
-  {
-    "title": "ドキュメントドキュメントの作成、変換、レビュー",
+    "title": "ドキュメントAIドキュメントエージェント",
     "url": "https://www.kimi.ai/ja/features/docs"
   },
   {
-    "title": "Kimi Clawワンクリックで24時間365日稼働するAI Agentをデプロイ",
-    "url": "https://www.kimi.ai/ja/resources/kimi-claw-introduction"
+    "title": "シートAIスプレッドシートエージェント",
+    "url": "https://www.kimi.ai/ja/features/sheets"
   },
   {
-    "title": "Kimi K3",
-    "url": "https://www.kimi.ai/blog/kimi-k3"
+    "title": "徹底的な調査AIリサーチエージェント",
+    "url": "https://www.kimi.ai/ja/features/deep-research"
   },
   {
-    "title": "PerceptionBench",
-    "url": "https://www.kimi.ai/blog/perception-bench"
+    "title": "機能一覧→",
+    "url": "https://www.kimi.ai/ja/features/"
   },
   {
-    "title": "Kimi K2.6",
-    "url": "https://www.kimi.ai/blog/kimi-k2-6"
-  },
-  {
-    "title": "Agent Swarm",
-    "url": "https://www.kimi.ai/blog/agent-swarm"
-  },
-  {
-    "title": "WorldVQA",
-    "url": "https://www.kimi.ai/blog/worldvqa"
-  },
-  {
-    "title": "Kimi K2.5",
-    "url": "https://www.kimi.ai/blog/kimi-k2-5"
-  },
-  {
-    "title": "Kimi Vendor Verifier",
-    "url": "https://www.kimi.ai/blog/kimi-vendor-verifier"
-  },
-  {
-    "title": "Kimi K2 Thinking",
-    "url": "https://www.kimi.ai/blog/kimi-k2-thinking"
-  },
-  {
-    "title": "Kimi K2",
-    "url": "https://www.kimi.ai/blog/kimi-k2"
-  },
-  {
-    "title": "Kimi Code紹介",
-    "url": "https://www.kimi.ai/ja/resources/kimi-code-introduction"
-  },
-  {
-    "title": "並列Agent",
-    "url": "https://www.kimi.ai/ja/resources/parallel-agent"
-  },
-  {
-    "title": "マルチAgent",
-    "url": "https://www.kimi.ai/ja/resources/multi-agent"
-  },
-  {
-    "title": "Hermes Agentの概要",
-    "url": "https://www.kimi.ai/ja/resources/hermes-agent"
-  },
-  {
-    "title": "Hermes API統合",
-    "url": "https://www.kimi.ai/ja/resources/hermes-agent-api-integration"
-  },
-  {
-    "title": "OpenClaw SaaS",
-    "url": "https://www.kimi.ai/ja/resources/openclaw-saas"
-  },
-  {
-    "title": "MacへのOpenClawのインストール方法",
-    "url": "https://www.kimi.ai/ja/resources/how-to-install-openclaw-on-mac"
-  },
-  {
-    "title": "Excel用AI ツール",
-    "url": "https://www.kimi.ai/ja/resources/best-free-ai-tools-for-excel"
-  },
-  {
-    "title": "バイブコーディングガイド",
-    "url": "https://www.kimi.ai/ja/resources/what-is-vibe-coding"
-  },
-  {
-    "title": "バイブコーディング方法",
-    "url": "https://www.kimi.ai/ja/resources/how-to-vibe-code"
-  },
-  {
-    "title": "ゼロからウェブサイトを構築する方法",
-    "url": "https://www.kimi.ai/ja/resources/how-to-build-a-website-from-scratch"
-  },
-  {
-    "title": "Kimi K3",
+    "title": "Kimi K3新着",
     "url": "https://www.kimi.ai/ja/ai-models/kimi-k3"
   },
   {
@@ -140,7 +68,203 @@
     "url": "https://www.kimi.ai/ja/ai-models/kimi-k2-5"
   },
   {
-    "title": "Kimiを試す",
+    "title": "モデル一覧→",
+    "url": "https://www.kimi.ai/ja/ai-models/"
+  },
+  {
+    "title": "MVPサイトを構築",
+    "url": "https://www.kimi.ai/ja/use-cases/mvp-builder"
+  },
+  {
+    "title": "ポートフォリオサイトを作成",
+    "url": "https://www.kimi.ai/ja/use-cases/portfolio-site-builder"
+  },
+  {
+    "title": "ブログサイトを構築",
+    "url": "https://www.kimi.ai/ja/use-cases/blog-site-creator"
+  },
+  {
+    "title": "学術研究を行う",
+    "url": "https://www.kimi.ai/ja/use-cases/ai-for-academic-research"
+  },
+  {
+    "title": "市場調査を行う",
+    "url": "https://www.kimi.ai/ja/use-cases/ai-market-research"
+  },
+  {
+    "title": "履歴書を作成",
+    "url": "https://www.kimi.ai/ja/use-cases/resume-maker"
+  },
+  {
+    "title": "パンフレットを作成",
+    "url": "https://www.kimi.ai/ja/use-cases/brochure-creator"
+  },
+  {
+    "title": "すべてのユースケース→",
+    "url": "https://www.kimi.ai/ja/use-cases/"
+  },
+  {
+    "title": "AIランディングページジェネレーター",
+    "url": "https://www.kimi.ai/ja/capabilities/ai-landing-page-generator"
+  },
+  {
+    "title": "画像からウェブサイトへ",
+    "url": "https://www.kimi.ai/ja/capabilities/image-to-website"
+  },
+  {
+    "title": "AIドキュメントジェネレーター",
+    "url": "https://www.kimi.ai/ja/capabilities/ai-document-generator"
+  },
+  {
+    "title": "PDFからPPTへの変換ツール",
+    "url": "https://www.kimi.ai/ja/capabilities/pdf-to-ppt"
+  },
+  {
+    "title": "PDF翻訳ツール",
+    "url": "https://www.kimi.ai/ja/capabilities/translate-pdf"
+  },
+  {
+    "title": "AI Pythonコードジェネレーター",
+    "url": "https://www.kimi.ai/ja/capabilities/ai-python-code-generator"
+  },
+  {
+    "title": "AI C++コードジェネレーター",
+    "url": "https://www.kimi.ai/ja/capabilities/ai-cplusplus-code-generator"
+  },
+  {
+    "title": "すべての AI 機能→",
+    "url": "https://www.kimi.ai/ja/capabilities/"
+  },
+  {
+    "title": "ウェブサイト",
+    "url": "https://www.kimi.ai/ja/showcases/websites-agent"
+  },
+  {
+    "title": "Agent Swarm",
+    "url": "https://www.kimi.ai/ja/showcases/agent-swarm"
+  },
+  {
+    "title": "徹底的な調査",
+    "url": "https://www.kimi.ai/ja/showcases/deep-research"
+  },
+  {
+    "title": "スライド",
+    "url": "https://www.kimi.ai/ja/showcases/slides"
+  },
+  {
+    "title": "シート",
+    "url": "https://www.kimi.ai/ja/showcases/sheets"
+  },
+  {
+    "title": "ドキュメント",
+    "url": "https://www.kimi.ai/ja/showcases/docs"
+  },
+  {
+    "title": "デザイン",
+    "url": "https://www.kimi.ai/ja/showcases/design"
+  },
+  {
+    "title": "すべてのショーケース→",
+    "url": "https://www.kimi.ai/ja/showcases/"
+  },
+  {
+    "title": "Kimi Business",
+    "url": "https://www.kimi.ai/ja/business"
+  },
+  {
+    "title": "法人向けプラン",
+    "url": "https://www.kimi.ai/membership/pricing?from=header_nav\u0026tab=business"
+  },
+  {
+    "title": "営業に問い合わせる",
+    "url": "https://www.kimi.ai/membership/pricing?from=header_nav\u0026tab=business\u0026open=contact-sales"
+  },
+  {
+    "title": "Kimi K3",
+    "url": "https://www.kimi.ai/ja/blog/kimi-k3"
+  },
+  {
+    "title": "PerceptionBench",
+    "url": "https://www.kimi.ai/ja/blog/perception-bench"
+  },
+  {
+    "title": "Kimi K2.6",
+    "url": "https://www.kimi.ai/ja/blog/kimi-k2-6"
+  },
+  {
+    "title": "Agent Swarm",
+    "url": "https://www.kimi.ai/ja/blog/agent-swarm"
+  },
+  {
+    "title": "WorldVQA",
+    "url": "https://www.kimi.ai/ja/blog/worldvqa"
+  },
+  {
+    "title": "Kimi K2.5",
+    "url": "https://www.kimi.ai/ja/blog/kimi-k2-5"
+  },
+  {
+    "title": "Kimi Vendor Verifier",
+    "url": "https://www.kimi.ai/ja/blog/kimi-vendor-verifier"
+  },
+  {
+    "title": "Kimi K2 Thinking",
+    "url": "https://www.kimi.ai/ja/blog/kimi-k2-thinking"
+  },
+  {
+    "title": "Kimi K2",
+    "url": "https://www.kimi.ai/ja/blog/kimi-k2"
+  },
+  {
+    "title": "すべての研究→",
+    "url": "https://www.kimi.ai/ja/blog/"
+  },
+  {
+    "title": "AIエージェントの解説",
+    "url": "https://www.kimi.ai/ja/resources/ai-agent"
+  },
+  {
+    "title": "マルチエージェントシステム",
+    "url": "https://www.kimi.ai/ja/resources/multi-agent"
+  },
+  {
+    "title": "並列エージェント",
+    "url": "https://www.kimi.ai/ja/resources/parallel-agent"
+  },
+  {
+    "title": "Vibe Codingとは",
+    "url": "https://www.kimi.ai/ja/resources/what-is-vibe-coding"
+  },
+  {
+    "title": "Vibe Codingの方法",
+    "url": "https://www.kimi.ai/ja/resources/how-to-vibe-code"
+  },
+  {
+    "title": "ランディングページを作成",
+    "url": "https://www.kimi.ai/ja/resources/how-to-build-landing-pages"
+  },
+  {
+    "title": "ポスターを作成",
+    "url": "https://www.kimi.ai/ja/resources/create-your-poster"
+  },
+  {
+    "title": "PNGをPowerPointに変換",
+    "url": "https://www.kimi.ai/ja/resources/convert-png-to-powerpoint"
+  },
+  {
+    "title": "VLOOKUPの使い方",
+    "url": "https://www.kimi.ai/ja/resources/how-to-use-vlookup-in-excel"
+  },
+  {
+    "title": "ビジネス提案書を作成",
+    "url": "https://www.kimi.ai/ja/resources/how-to-write-a-business-proposal"
+  },
+  {
+    "title": "すべての記事→",
+    "url": "https://www.kimi.ai/ja/resources/"
+  },
+  {
+    "title": "Kimiをオンラインで試す",
     "url": "https://www.kimi.ai/ja"
   },
   {
