@@ -1,5 +1,9 @@
 [
   {
+    "title": "How Adaptive Tail Sampling Works in the OpenTelemetry CollectorA technical deep dive into Honeycomb's adaptive tail sampling processor for the OpenTelemetry Collector: how decisions get made, the samplers available, how thresholds compose with the rest of a sampling pipeline, performance benchmarks, deployment limitations, and how it compares to Refinery.",
+    "url": "https://www.honeycomb.io/blog/how-adaptive-tail-sampling-works"
+  },
+  {
     "title": "How Canvas Powers the AI Agent Development Feedback LoopAI agents need a real feedback loop, not just reactive debugging. This post walks through how Honeycomb's Canvas powers each stage—instrumenting agents with OpenTelemetry, understanding a single run, finding the problems worth fixing, shipping the fix, and proving it worked—plus tips for getting the most out of Canvas.",
     "url": "https://www.honeycomb.io/blog/how-canvas-powers-ai-agent-development-feedback-loop"
   },
@@ -74,9 +78,5 @@
   {
     "title": "AI Amplifies Your Existing Practices: Lessons from Our Shift to an AI-First StrategyAs the Honeycomb engineering team worked to double our productivity, we learned a lot. The most important takeaway? Nothing anyone tells you about AI will land if your starting substrate is unhealthy.",
     "url": "https://www.honeycomb.io/blog/ai-amplifies-existing-practices-lessons-ai-first-strategy"
-  },
-  {
-    "title": "Transforming How We Run Kafka at HoneycombWe just completed a large-scale, multi-month Kafka migration project. We couldn't have done it without learning from past mistakes, prioritizing rollback safety, and building shared knowledge across the team through repeated migration practice.",
-    "url": "https://www.honeycomb.io/blog/transforming-how-we-run-kafka-honeycomb"
   }
 ]
