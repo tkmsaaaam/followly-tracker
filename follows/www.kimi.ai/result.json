@@ -16,43 +16,39 @@
     "url": "https://www.kimi.ai/ja/products/kimi-browser-extension"
   },
   {
-    "title": "Kimi プラットフォーム",
-    "url": "https://platform.kimi.ai/ja?from=header_nav"
-  },
-  {
     "title": "ダウンロード",
     "url": "https://www.kimi.ai/ja/products/download"
   },
   {
-    "title": "製品一覧→",
+    "title": "製品一覧",
     "url": "https://www.kimi.ai/ja/products/"
   },
   {
-    "title": "ウェブサイトAIウェブサイトビルダー",
+    "title": "アプリを作る",
     "url": "https://www.kimi.ai/ja/features/websites"
   },
   {
-    "title": "スライドAIプレゼンテーションメーカー",
+    "title": "スライド",
     "url": "https://www.kimi.ai/ja/features/slides"
   },
   {
-    "title": "ドキュメントAIドキュメントエージェント",
+    "title": "ドキュメント",
     "url": "https://www.kimi.ai/ja/features/docs"
   },
   {
-    "title": "シートAIスプレッドシートエージェント",
+    "title": "シート",
     "url": "https://www.kimi.ai/ja/features/sheets"
   },
   {
-    "title": "徹底的な調査AIリサーチエージェント",
+    "title": "徹底的な調査",
     "url": "https://www.kimi.ai/ja/features/deep-research"
   },
   {
-    "title": "機能一覧→",
+    "title": "機能一覧",
     "url": "https://www.kimi.ai/ja/features/"
   },
   {
-    "title": "Kimi K3新着",
+    "title": "Kimi K3",
     "url": "https://www.kimi.ai/ja/ai-models/kimi-k3"
   },
   {
@@ -68,7 +64,7 @@
     "url": "https://www.kimi.ai/ja/ai-models/kimi-k2-5"
   },
   {
-    "title": "モデル一覧→",
+    "title": "モデル一覧",
     "url": "https://www.kimi.ai/ja/ai-models/"
   },
   {
@@ -100,7 +96,7 @@
     "url": "https://www.kimi.ai/ja/use-cases/brochure-creator"
   },
   {
-    "title": "すべてのユースケース→",
+    "title": "すべてのユースケース",
     "url": "https://www.kimi.ai/ja/use-cases/"
   },
   {
@@ -132,7 +128,7 @@
     "url": "https://www.kimi.ai/ja/capabilities/ai-cplusplus-code-generator"
   },
   {
-    "title": "すべての AI 機能→",
+    "title": "すべての AI 機能",
     "url": "https://www.kimi.ai/ja/capabilities/"
   },
   {
@@ -164,7 +160,7 @@
     "url": "https://www.kimi.ai/ja/showcases/design"
   },
   {
-    "title": "すべてのショーケース→",
+    "title": "すべてのショーケース",
     "url": "https://www.kimi.ai/ja/showcases/"
   },
   {
@@ -216,8 +212,16 @@
     "url": "https://www.kimi.ai/ja/blog/kimi-k2"
   },
   {
-    "title": "すべての研究→",
+    "title": "すべての研究",
     "url": "https://www.kimi.ai/ja/blog/"
+  },
+  {
+    "title": "ヘルプセンター",
+    "url": "https://www.kimi.ai/ja/help"
+  },
+  {
+    "title": "Kimi Code ドキュメント",
+    "url": "https://www.kimi.com/code/docs/en/"
   },
   {
     "title": "AIエージェントの解説",
@@ -236,10 +240,6 @@
     "url": "https://www.kimi.ai/ja/resources/what-is-vibe-coding"
   },
   {
-    "title": "Vibe Codingの方法",
-    "url": "https://www.kimi.ai/ja/resources/how-to-vibe-code"
-  },
-  {
     "title": "ランディングページを作成",
     "url": "https://www.kimi.ai/ja/resources/how-to-build-landing-pages"
   },
@@ -248,19 +248,11 @@
     "url": "https://www.kimi.ai/ja/resources/create-your-poster"
   },
   {
-    "title": "PNGをPowerPointに変換",
-    "url": "https://www.kimi.ai/ja/resources/convert-png-to-powerpoint"
-  },
-  {
-    "title": "VLOOKUPの使い方",
-    "url": "https://www.kimi.ai/ja/resources/how-to-use-vlookup-in-excel"
-  },
-  {
     "title": "ビジネス提案書を作成",
     "url": "https://www.kimi.ai/ja/resources/how-to-write-a-business-proposal"
   },
   {
-    "title": "すべての記事→",
+    "title": "すべての記事",
     "url": "https://www.kimi.ai/ja/resources/"
   },
   {
