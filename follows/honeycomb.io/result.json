@@ -1,5 +1,13 @@
 [
   {
+    "title": "Introducing AI Ecosystem: Zoom Out to See Your Whole AI Agent FleetHoneycomb is announcing early access to AI Ecosystem: an AI agent fleet-level analysis layer built on Honeycomb's context-rich data model. It covers AI Agent Fleet Performance, LLM Cost Tracking, and Agent Conversations, with one-click drilldown from any fleet-level signal into the exact conversation on Agent Timeline that explains it.",
+    "url": "https://www.honeycomb.io/blog/introducing-ai-ecosystem"
+  },
+  {
+    "title": "Agents Need Context: Introducing Canvas Connectors, Fleet-wide AI Agent Visibility, and MoreCanvas agents can now read your code, incidents, runbooks and tickets, to get to the right solution, first time. Also new: AI Ecosystem and LLM cost tracking in early access, Anomaly Detection GA, and onboarding from your coding agent.",
+    "url": "https://www.honeycomb.io/blog/agents-need-context-canvas-connectors-ai-agent-visibility"
+  },
+  {
     "title": "How Adaptive Tail Sampling Works in the OpenTelemetry CollectorA technical deep dive into Honeycomb's adaptive tail sampling processor for the OpenTelemetry Collector: how decisions get made, the samplers available, how thresholds compose with the rest of a sampling pipeline, performance benchmarks, deployment limitations, and how it compares to Refinery.",
     "url": "https://www.honeycomb.io/blog/how-adaptive-tail-sampling-works"
   },
@@ -70,13 +78,5 @@
   {
     "title": "What Comes After Observability?A year ago, I predicted ways in which AI was about to fundamentally change observability as we knew it. Here's what we've seen happen since—both at Honeycomb and with our customers—and what we're building for the future.",
     "url": "https://www.honeycomb.io/blog/what-comes-after-observability"
-  },
-  {
-    "title": "30 to 70 PRs a Day: How We Managed to Not Wreck Our SystemsThe Honeycomb engineering team set out to double our productivity in a year. This is how we did it, what we did to keep things stable, what it cost us, and what we’re still figuring out.",
-    "url": "https://www.honeycomb.io/blog/30-70-prs-day-how-we-managed-not-wreck-systems"
-  },
-  {
-    "title": "AI Amplifies Your Existing Practices: Lessons from Our Shift to an AI-First StrategyAs the Honeycomb engineering team worked to double our productivity, we learned a lot. The most important takeaway? Nothing anyone tells you about AI will land if your starting substrate is unhealthy.",
-    "url": "https://www.honeycomb.io/blog/ai-amplifies-existing-practices-lessons-ai-first-strategy"
   }
 ]
