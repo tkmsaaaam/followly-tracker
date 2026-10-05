@@ -1,5 +1,9 @@
 [
   {
+    "title": "How Honeycomb Private Cloud Drinks From the Fire HoseThis post walks through how the Honeycomb Private Cloud team built an automated drift report, refactored their own config to make diffing possible, and layered on an AI triage skill to keep pace with changes across the org—plus the guiding principles that made the automation trustworthy.",
+    "url": "https://www.honeycomb.io/blog/how-honeycomb-private-cloud-drinks-from-the-fire-hose"
+  },
+  {
     "title": "Dr. Cat Hicks on the Psychology of Software TeamsDr. Cat Hicks, author of The Psychology of Software Teams and founder of Catharsis, joins Charity Majors for episode two of Leading With Observability. They talk organizational trust in AI, identity threat among developers, and how leaders can create the structure that reduces anxiety in this new era.",
     "url": "https://www.honeycomb.io/blog/cat-hicks-psychology-of-software-teams"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Spend More Time Talking to HumansLLMs have reshaped the day-to-day work of software engineering, leaving senior engineers exhausted by context-switching and junior engineers unsure how to grow. The fix isn’t a better prompt — it’s spending more time talking to humans: reducing context churn, pairing across seniority levels, and communicating more across teams.",
     "url": "https://www.honeycomb.io/blog/spend-more-time-talking-to-humans"
-  },
-  {
-    "title": "Honeycomb Named a Visionary in the 2026 Gartner® Magic Quadrant™ for Observability PlatformsFor the third consecutive year, Honeycomb has been named a Visionary in the Gartner® Magic Quadrant™ for Observability Platforms. The recognition reflects Honeycomb's vision for fast, flexible, high-cardinality querying, agent-era observability with Agent Timeline and Canvas, and predictable event-based pricing at trillions of events.",
-    "url": "https://www.honeycomb.io/blog/honeycomb-named-visionary-2026-gartner-magic-quadrant-observability-platforms"
   }
 ]
