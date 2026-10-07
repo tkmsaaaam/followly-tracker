@@ -1,23 +1,7 @@
 [
   {
-    "title": "Rollouts and Security Review",
-    "url": "https://cursor.com/changelog/rollouts-and-security-reviewer"
-  },
-  {
-    "title": "Cursor Projects",
-    "url": "https://cursor.com/changelog/projects"
-  },
-  {
-    "title": "Self-hosted machines",
-    "url": "https://cursor.com/changelog/self-hosted-machines"
-  },
-  {
-    "title": "Start from scratch, without a repo",
-    "url": "https://cursor.com/changelog/start-from-scratch"
-  },
-  {
-    "title": "Cloud Agents and Cursor Harness Improvements",
-    "url": "https://cursor.com/changelog/08-19-26"
+    "title": "Remote control for local agents",
+    "url": "https://cursor.com/changelog/remote-control-local-agents"
   },
   {
     "title": "Rollouts and Security Review",
@@ -36,7 +20,23 @@
     "url": "https://cursor.com/changelog/start-from-scratch"
   },
   {
-    "title": "Cloud Agents and Cursor Harness Improvements",
-    "url": "https://cursor.com/changelog/08-19-26"
+    "title": "Remote control for local agents",
+    "url": "https://cursor.com/changelog/remote-control-local-agents"
+  },
+  {
+    "title": "Rollouts and Security Review",
+    "url": "https://cursor.com/changelog/rollouts-and-security-reviewer"
+  },
+  {
+    "title": "Cursor Projects",
+    "url": "https://cursor.com/changelog/projects"
+  },
+  {
+    "title": "Self-hosted machines",
+    "url": "https://cursor.com/changelog/self-hosted-machines"
+  },
+  {
+    "title": "Start from scratch, without a repo",
+    "url": "https://cursor.com/changelog/start-from-scratch"
   }
 ]
