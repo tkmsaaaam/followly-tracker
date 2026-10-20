@@ -1,5 +1,9 @@
 [
   {
+    "title": "Our Limits Are Not Our ImaginationAI doesn't just make coding faster—used well, it can make code more rigorous than anything we wrote unassisted: property-based testing, formal verification, strict architecture checks, and more review than ever. The ceiling isn't our imagination. It's the development system we build around the agent.",
+    "url": "https://www.honeycomb.io/blog/our-limits-are-not-our-imagination"
+  },
+  {
     "title": "Everything We Talked About at O11yDay London 2026A recap of every session at O11yDay London 2026, from Sam Newman's cobots and dark factories to Corey Quinn on AI cost observability, plus how Honeycomb debugs its own agents with Canvas, Agent Timeline, and AI Ecosystem.",
     "url": "https://www.honeycomb.io/blog/everything-we-talked-about-o11yday-london-2026"
   },
@@ -74,9 +78,5 @@
   {
     "title": "AI Norms \u0026 Values, Part 1 of 3: How We Do Business at HoneycombIt's been a year since Honeycomb issued its AI mandate. Charity reflects on what that produced, why AI isn't special (it just amplifies what's already there), and shares the first of three new documents on Honeycomb's AI norms and values: how we do business.",
     "url": "https://www.honeycomb.io/blog/ai-norms-values-part-1-how-we-do-business-at-honeycomb"
-  },
-  {
-    "title": "How I Support Humans in the AI EraA remote engineering manager on why she didn't write a new AI policy for her team. Instead, she created space: for connection, for collaboration, and for discussion.",
-    "url": "https://www.honeycomb.io/blog/how-i-support-humans-in-the-ai-era"
   }
 ]
