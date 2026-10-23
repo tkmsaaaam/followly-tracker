@@ -24,23 +24,23 @@
     "url": "https://www.kimi.ai/ja/products/"
   },
   {
-    "title": "アプリを作る",
+    "title": "アプリを作るAIアプリ・Webサイトビルダー",
     "url": "https://www.kimi.ai/ja/features/websites"
   },
   {
-    "title": "スライド",
+    "title": "スライドAIプレゼンテーションメーカー",
     "url": "https://www.kimi.ai/ja/features/slides"
   },
   {
-    "title": "ドキュメント",
+    "title": "ドキュメントAIドキュメントエージェント",
     "url": "https://www.kimi.ai/ja/features/docs"
   },
   {
-    "title": "シート",
+    "title": "シートAIスプレッドシートエージェント",
     "url": "https://www.kimi.ai/ja/features/sheets"
   },
   {
-    "title": "徹底的な調査",
+    "title": "徹底的な調査AIリサーチエージェント",
     "url": "https://www.kimi.ai/ja/features/deep-research"
   },
   {
@@ -48,7 +48,7 @@
     "url": "https://www.kimi.ai/ja/features/"
   },
   {
-    "title": "Kimi K3",
+    "title": "Kimi K3新着",
     "url": "https://www.kimi.ai/ja/ai-models/kimi-k3"
   },
   {
@@ -176,6 +176,10 @@
     "url": "https://www.kimi.ai/membership/pricing?from=header_nav\u0026tab=business\u0026open=contact-sales"
   },
   {
+    "title": "Kimi K3.1 Pro",
+    "url": "https://www.kimi.ai/ja/blog/kimi-k3-1-pro"
+  },
+  {
     "title": "Kimi K3",
     "url": "https://www.kimi.ai/ja/blog/kimi-k3"
   },
@@ -256,12 +260,12 @@
     "url": "https://www.kimi.ai/ja/resources/"
   },
   {
-    "title": "Kimiをオンラインで試す",
-    "url": "https://www.kimi.ai/ja"
+    "title": "",
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
   },
   {
     "title": "",
-    "url": "https://www.kimi.ai/blog/kimi-k3"
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro"
   },
   {
     "title": "",
