@@ -1,23 +1,7 @@
 [
   {
-    "title": "Agent SDK",
-    "url": "https://cursor.com/changelog/agent-sdk"
-  },
-  {
-    "title": "Cloud Agent Canvases and Environment Improvements",
-    "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments"
-  },
-  {
-    "title": "Origin App Marketplace",
-    "url": "https://cursor.com/changelog/origin-app-marketplace"
-  },
-  {
-    "title": "Remote control for local agents",
-    "url": "https://cursor.com/changelog/remote-control-local-agents"
-  },
-  {
-    "title": "Rollouts and Security Review",
-    "url": "https://cursor.com/changelog/rollouts-and-security-reviewer"
+    "title": "Build Live Apps in Cursor",
+    "url": "https://cursor.com/changelog/build-live-apps"
   },
   {
     "title": "Agent SDK",
@@ -36,7 +20,23 @@
     "url": "https://cursor.com/changelog/remote-control-local-agents"
   },
   {
-    "title": "Rollouts and Security Review",
-    "url": "https://cursor.com/changelog/rollouts-and-security-reviewer"
+    "title": "Build Live Apps in Cursor",
+    "url": "https://cursor.com/changelog/build-live-apps"
+  },
+  {
+    "title": "Agent SDK",
+    "url": "https://cursor.com/changelog/agent-sdk"
+  },
+  {
+    "title": "Cloud Agent Canvases and Environment Improvements",
+    "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments"
+  },
+  {
+    "title": "Origin App Marketplace",
+    "url": "https://cursor.com/changelog/origin-app-marketplace"
+  },
+  {
+    "title": "Remote control for local agents",
+    "url": "https://cursor.com/changelog/remote-control-local-agents"
   }
 ]
