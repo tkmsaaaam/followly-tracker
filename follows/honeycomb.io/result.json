@@ -4,6 +4,10 @@
     "url": "https://www.honeycomb.io/blog/rick-clark-o11ywashing"
   },
   {
+    "title": "Three LLM Cost Optimization Patterns That Cut Token Spend Without Degrading QualityLearn how observability reveals redundant context, retry storms, and overlong outputs so teams can cut LLM token spend without sacrificing quality.",
+    "url": "https://www.honeycomb.io/blog/llm-cost-optimization-patterns"
+  },
+  {
     "title": "Good Agents Need Good Managers: What We Heard at Innovation WeekRecapping the questions that came up at Innovation Week: what a good goal looks like, how an agent earns more autonomy, how to get a fleet-wide signal, and what stays human as agents take on more of the work.",
     "url": "https://www.honeycomb.io/blog/good-agents-need-good-managers-innovation-week"
   },
@@ -74,9 +78,5 @@
   {
     "title": "AI Norms \u0026 Values, Part 2 of 3: AI for Honeycomb EngineeringCharity Majors shares a note from Emily Nakashima, SVP of Engineering, on why Honeycomb's engineering org is going all in on AI, the north star it's aiming for, and an honest FAQ about what that means day to day.",
     "url": "https://www.honeycomb.io/blog/ai-norms-values-part-2-ai-honeycomb-engineering"
-  },
-  {
-    "title": "Bringing the Most Advanced Sampling to the OpenTelemetry CollectorHoneycomb is donating its adaptive tail sampling processor, built on years of Refinery experience, to the OpenTelemetry Collector. See how adaptive sampling, trace fingerprinting, and sample rate attribution work, and how to try it today with the Honeycomb Collector Distribution.",
-    "url": "https://www.honeycomb.io/blog/bringing-most-advanced-sampling-opentelemetry-collector"
   }
 ]
