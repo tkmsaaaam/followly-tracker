@@ -1,5 +1,9 @@
 [
   {
+    "title": "Is Your Observability Stack Just Monitoring in Disguise?Charity Majors sits down with Rick Clark for episode three of Leading With Observability to talk o11ywashing: when vendors rename monitoring tools as observability.",
+    "url": "https://www.honeycomb.io/blog/rick-clark-o11ywashing"
+  },
+  {
     "title": "Good Agents Need Good Managers: What We Heard at Innovation WeekRecapping the questions that came up at Innovation Week: what a good goal looks like, how an agent earns more autonomy, how to get a fleet-wide signal, and what stays human as agents take on more of the work.",
     "url": "https://www.honeycomb.io/blog/good-agents-need-good-managers-innovation-week"
   },
@@ -74,9 +78,5 @@
   {
     "title": "Bringing the Most Advanced Sampling to the OpenTelemetry CollectorHoneycomb is donating its adaptive tail sampling processor, built on years of Refinery experience, to the OpenTelemetry Collector. See how adaptive sampling, trace fingerprinting, and sample rate attribution work, and how to try it today with the Honeycomb Collector Distribution.",
     "url": "https://www.honeycomb.io/blog/bringing-most-advanced-sampling-opentelemetry-collector"
-  },
-  {
-    "title": "Fin's CTO on Building Great Engineering Organizations in the AI EraFin (formerly Intercom) CTO Darragh Curran set a public goal to double engineering productivity—and nearly tripled it. In the first episode of Leading With Observability, he talks with Charity Majors about AI-driven PR review, hands-on leadership through the transition, and why observability is the trust mechanism that makes it all work.",
-    "url": "https://www.honeycomb.io/blog/fin-cto-building-great-engineering-organizations-ai-era"
   }
 ]
