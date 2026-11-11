@@ -1,6 +1,10 @@
 [
   {
-    "title": "Oct 29, 2026·companySecurity notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension MarketplaceCursor Team5mCursor Team·5m",
+    "title": "Nov 10, 2026·productCursor Projects is now multiplayerAryaman Khandelwal4mAryaman Khandelwal·4m",
+    "url": "https://cursor.com/blog/projects-multiplayer"
+  },
+  {
+    "title": "Oct 29, 2026·companySecurity notice — malicious version of Anthropic.claude-code (2.1.312 and 2.1.313) identified in the Cursor VS Code Extension MarketplaceCursor Team5mCursor Team·5m",
     "url": "https://cursor.com/blog/claude-code-extension-security-notice"
   },
   {
@@ -44,11 +48,11 @@
     "url": "https://cursor.com/blog/aiuc-1"
   },
   {
-    "title": "Aug 13, 2026·productCloud agents start 3x faster with buildsCursor Team4mCursor Team·4m",
-    "url": "https://cursor.com/blog/builds"
+    "title": "Nov 10, 2026·productCursor Projects is now multiplayerAryaman Khandelwal4mAryaman Khandelwal·4m",
+    "url": "https://cursor.com/blog/projects-multiplayer"
   },
   {
-    "title": "Oct 29, 2026·companySecurity notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension MarketplaceCursor Team5mCursor Team·5m",
+    "title": "Oct 29, 2026·companySecurity notice — malicious version of Anthropic.claude-code (2.1.312 and 2.1.313) identified in the Cursor VS Code Extension MarketplaceCursor Team5mCursor Team·5m",
     "url": "https://cursor.com/blog/claude-code-extension-security-notice"
   },
   {
@@ -90,9 +94,5 @@
   {
     "title": "Aug 13, 2026·companyCursor earns AIUC-1 certification for agent security and reliabilityKenneth Moras4mKenneth Moras·4m",
     "url": "https://cursor.com/blog/aiuc-1"
-  },
-  {
-    "title": "Aug 13, 2026·productCloud agents start 3x faster with buildsCursor Team4mCursor Team·4m",
-    "url": "https://cursor.com/blog/builds"
   }
 ]
