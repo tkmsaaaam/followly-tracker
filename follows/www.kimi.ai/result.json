@@ -40,8 +40,24 @@
     "url": "https://www.kimi.ai/ja/features/sheets"
   },
   {
+    "title": "デザインAIデザインジェネレーター",
+    "url": "https://www.kimi.ai/ja/features/design"
+  },
+  {
     "title": "徹底的な調査AIリサーチエージェント",
     "url": "https://www.kimi.ai/ja/features/deep-research"
+  },
+  {
+    "title": "プラグインツールとデータを接続",
+    "url": "https://www.kimi.ai/ja/features/plugins"
+  },
+  {
+    "title": "スキル専門知識を再利用可能にする",
+    "url": "https://www.kimi.ai/ja/features/skills"
+  },
+  {
+    "title": "クラスターマルチエージェントタスクを実行",
+    "url": "https://www.kimi.ai/ja/features/agent-swarm"
   },
   {
     "title": "機能一覧",
