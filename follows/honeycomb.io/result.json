@@ -28,10 +28,6 @@
     "url": "https://www.honeycomb.io/blog/honeycomb-aws-resilience-technology-competency"
   },
   {
-    "title": "Honeycomb Is Hiring a New VP of EngineeringHoneycomb is hiring a new VP of Engineering as Emily Nakashima moves into an operational role after nine years leading engineering. We're looking for a partner to SVP Product Graham Siener.",
-    "url": "https://www.honeycomb.io/blog/honeycomb-hiring-vp-engineering"
-  },
-  {
     "title": "OpenTelemetry Collector Configuration for LLM ObservabilityA complete, annotated OpenTelemetry Collector configuration for LLM observability: receiving traces over OTLP, normalizing OpenInference/OpenLLMetry schemas onto GenAI semantic conventions, redacting sensitive prompt and completion content, managing volume without sampling away conversations, exporting to Honeycomb, plus validation steps and a troubleshooting table.",
     "url": "https://www.honeycomb.io/blog/otel-collector-llm-observability"
   },
@@ -78,5 +74,9 @@
   {
     "title": "AI Norms \u0026 Values, Part 2 of 3: AI for Honeycomb EngineeringCharity Majors shares a note from Emily Nakashima, SVP of Engineering, on why Honeycomb's engineering org is going all in on AI, the north star it's aiming for, and an honest FAQ about what that means day to day.",
     "url": "https://www.honeycomb.io/blog/ai-norms-values-part-2-ai-honeycomb-engineering"
+  },
+  {
+    "title": "Bringing the Most Advanced Sampling to the OpenTelemetry CollectorHoneycomb is donating its adaptive tail sampling processor, built on years of Refinery experience, to the OpenTelemetry Collector. See how adaptive sampling, trace fingerprinting, and sample rate attribution work, and how to try it today with the Honeycomb Collector Distribution.",
+    "url": "https://www.honeycomb.io/blog/bringing-most-advanced-sampling-opentelemetry-collector"
   }
 ]
